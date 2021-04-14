@@ -1,0 +1,29 @@
+# This workflow creates a branch from the translations/es folder
+env:
+  # **CHANGE THIS** for other languages
+  LANG_CODE: pt
+
+name: Portuguese [PT] Translations
+
+# Runs on push to master, only when files under `docs/es` are modified
+on:
+  push:
+    branches: [ master ]
+    paths:
+      # **CHANGE THIS** for other languages
+      - 'translations/pt/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    # Create branch from translations/es folder
+    - name: Create branch from language
+      run: |
+        git config --global user.email "developer@digital-democracy.org"
+        git config --global user.name "Dd Github Bot"
+        ./scripts/create-translated-branch.sh $LANG_CODE
+        git push -f origin translations-$LANG_CODE:translations-$LANG_CODE
