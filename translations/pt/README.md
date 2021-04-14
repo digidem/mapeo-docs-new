@@ -1,4 +1,4 @@
-# Initial page
+# Página inicial
 
 Test content.
 
