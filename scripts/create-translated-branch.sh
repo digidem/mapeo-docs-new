@@ -13,7 +13,7 @@ function onFailure() {
   exit 1
 }
 
-DEFAULT_BRANCH=main
+DEFAULT_BRANCH=master
 BRANCH=$(git rev-parse --abbrev-ref HEAD)
 LANG_CODE=${1:-}
 SHA=$(git rev-parse --short=7 HEAD)
@@ -71,7 +71,7 @@ else
   cat << 'EOF' > translated-branch/README.md
 # Auto-generated translation branch
 
-This branch contains translations of the `main` branch. To change the files
+This branch contains translations of the `master` branch. To change the files
 in this branch you must [add translations to the Crowdin project](https://crowdin.com/project/mapeo-docs).
 Once the translations are approved in Crowdin, Crowdin will generate a PR to
 this repo. Once that PR is merged, this branch will be updated. Any changes to

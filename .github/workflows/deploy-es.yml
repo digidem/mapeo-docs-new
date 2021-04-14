@@ -5,10 +5,10 @@ env:
 
 name: Spanish [ES] Translations
 
-# Runs on push to main, only when files under `docs/es` are modified
+# Runs on push to master, only when files under `docs/es` are modified
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths:
       # **CHANGE THIS** for other languages
       - 'translations/es/**'
