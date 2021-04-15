@@ -22,4 +22,4 @@ CrowdIn will generate a [Pull Request](https://github.com/digidem/mapeo-docs-new
 
 1. Copy the [Github Action Workflow](.github/workflows/deploy-es.yml) file and replace `es` in the file contents with the two-letter code of the language you want to add.
 2. Add the language in CrowdIn.
-3. After the first content has synced with Gitbook, you may rename the translated variant (it will be called `translations-TWO_LETTER_CODE` e.g. `translations-es` by default)
+3. After the first content has synced with Gitbook, you may rename the translated variant (it will be called `translations-TWO_LETTER_CODE` e.g. `translations-es` by default). **Do not edit the "slug"** for the translated variant, leave it as `translations-TWO_LETTER_CODE` - if you edit it it will break sync with Github & Crowdin.
