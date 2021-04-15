@@ -1,4 +1,4 @@
 # Página inicial
 
-Test content.
+Contenido de prueba.
 
