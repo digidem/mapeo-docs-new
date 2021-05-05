@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 
-## Introduction
+## Introducción
 
 * [What is Mapeo](introduction/what-is-mapeo.md)
 * [Tools](introduction/tools.md)
@@ -11,12 +11,12 @@
 
 ## Quick start guide <a id="getting-started"></a>
 
-* [Installation](getting-started/installation.md)
+* [Instalación](getting-started/installation.md)
 * [Collecting data](getting-started/use.md)
 * [Viewing data](getting-started/viewing-data.md)
 * [Syncing data](getting-started/syncing-data.md)
 
-## Complete Reference guide <a id="reference-guide"></a>
+## Guía de referencia completa <a id="reference-guide"></a>
 
 * [Planning](reference-guide/planning.md)
 * [Pre Launch/Deployment Preparation](reference-guide/pre-launch-deployment-preparation/README.md)
