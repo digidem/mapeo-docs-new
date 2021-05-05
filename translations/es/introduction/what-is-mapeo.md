@@ -1,6 +1,6 @@
 # What is Mapeo
 
-Sample gif:
+Exemplo de un gif:
 
 ![](../.gitbook/assets/network.gif)
 
