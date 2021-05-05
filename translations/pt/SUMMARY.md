@@ -6,15 +6,17 @@
 
 * [What is Mapeo](introduction/what-is-mapeo.md)
 * [Tools](introduction/tools.md)
+* [Is Mapeo right for me?](introduction/untitled.md)
 * [FAQs](introduction/faqs.md)
 
-## Getting started
+## Quick start guide <a id="getting-started"></a>
 
-* [Is Mapeo right for me?](getting-started/untitled.md)
 * [Installation](getting-started/installation.md)
-* [Use](getting-started/use.md)
+* [Collecting data](getting-started/use.md)
+* [Viewing data](getting-started/viewing-data.md)
+* [Syncing data](getting-started/syncing-data.md)
 
-## Reference guide
+## Complete Reference guide <a id="reference-guide"></a>
 
 * [Planning](reference-guide/planning.md)
 * [Pre Launch/Deployment Preparation](reference-guide/pre-launch-deployment-preparation/README.md)
