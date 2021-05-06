@@ -1,6 +1,6 @@
-# What is Mapeo
+# What is Mapeo now?
 
-Exemplo de un gif:
+Sample gif to see how you add:
 
 ![](../.gitbook/assets/network.gif)
 
@@ -10,5 +10,5 @@ Sample youtube via copied link:
 
 ![](../.gitbook/assets/import-config.gif)
 
-
+![](../.gitbook/assets/screen-shot-2021-04-19-at-4.10.26-pm.png)
 
