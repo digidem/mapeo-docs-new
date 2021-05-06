@@ -1,4 +1,4 @@
-# Is Mapeo right for me?
+# Is Mapeo right for me? Yes!
 
 Requirements and things to keep in mind
 
