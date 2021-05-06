@@ -6,7 +6,7 @@
 
 * [What is Mapeo](introduction/what-is-mapeo.md)
 * [Tools](introduction/tools.md)
-* [Is Mapeo right for me?](introduction/untitled.md)
+* [Is Mapeo right for me? Yes!](introduction/untitled.md)
 * [FAQs](introduction/faqs.md)
 
 ## Quick start guide <a id="getting-started"></a>
