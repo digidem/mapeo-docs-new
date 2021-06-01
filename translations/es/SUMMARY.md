@@ -5,11 +5,11 @@
 ## Introducción
 
 * [What is Mapeo now?](introduction/what-is-mapeo.md)
-* [Tools](introduction/tools.md)
+* [Herramientas](introduction/tools.md)
 * [Is Mapeo right for me? Yes!](introduction/untitled.md)
-* [FAQs](introduction/faqs.md)
+* [Preguntas frecuentes](introduction/faqs.md)
 
-## Quick start guide <a id="getting-started"></a>
+## Guía de inicio rápido <a id="getting-started"></a>
 
 * [Instalación](getting-started/installation.md)
 * [Collecting data](getting-started/use.md)
