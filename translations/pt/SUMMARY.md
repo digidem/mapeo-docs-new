@@ -1,24 +1,24 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Resumo](README.md)
 
-## Introduction
+## Introdução
 
-* [What is Mapeo now?](introduction/what-is-mapeo.md)
-* [Tools](introduction/tools.md)
+* [O que é o Mapeo agora?](introduction/what-is-mapeo.md)
+* [Ferramentas](introduction/tools.md)
 * [Is Mapeo right for me? Yes!](introduction/untitled.md)
 * [FAQs](introduction/faqs.md)
 
 ## Quick start guide <a id="getting-started"></a>
 
-* [Installation](getting-started/installation.md)
-* [Collecting data](getting-started/use.md)
-* [Viewing data](getting-started/viewing-data.md)
-* [Syncing data](getting-started/syncing-data.md)
+* [Instalação](getting-started/installation.md)
+* [Coletando dados](getting-started/use.md)
+* [Visualizando dados](getting-started/viewing-data.md)
+* [Sincronizando dados](getting-started/syncing-data.md)
 
-## Complete Reference guide <a id="reference-guide"></a>
+## Guia de referência completo <a id="reference-guide"></a>
 
-* [Planning](reference-guide/planning.md)
+* [Planejamento](reference-guide/planning.md)
 * [Pre Launch/Deployment Preparation](reference-guide/pre-launch-deployment-preparation/README.md)
   * [Will app defaults work?](reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md)
   * [Creating custom configurations](reference-guide/pre-launch-deployment-preparation/creating-custom-configurations.md)
