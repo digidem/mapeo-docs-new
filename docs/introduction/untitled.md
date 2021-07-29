@@ -1,9 +1,9 @@
-# Is Mapeo right for me? Yes!
+# Is Mapeo right for me?
 
 Requirements and things to keep in mind
 
 * Equipment
-* Architecture
+* Architecture \(p2p\)
 * Security concerns?
 
 
