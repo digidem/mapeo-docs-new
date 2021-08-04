@@ -1,2 +1,0 @@
-# Syncing mobile data
-

@@ -12,30 +12,21 @@
 ## Quick start guide <a id="getting-started"></a>
 
 * [Getting started](getting-started/getting-started.md)
-* [Mapeo Mobile](getting-started/mapeo-mobile.md)
 * [Mapeo Mobile](getting-started/mapeo-mobile-1/README.md)
-  * [Getting started](getting-started/mapeo-mobile-1/installation.md)
   * [Installation](getting-started/mapeo-mobile-1/installation-1.md)
   * [Collecting data](getting-started/mapeo-mobile-1/use.md)
   * [Viewing & editing data](getting-started/mapeo-mobile-1/viewing-data.md)
   * [Syncing data](getting-started/mapeo-mobile-1/syncing-data.md)
   * [Sharing data externally](getting-started/mapeo-mobile-1/sharing-data-externally.md)
-  * [Sharing data externally](getting-started/mapeo-mobile-1/sharing-data-externally-1.md)
 
 ---
 
-* [Mapeo Desktop](mapeo-desktop.md)
 * [Mapeo Desktop](mapeo-desktop-1/README.md)
-  * [Installation](mapeo-desktop-1/installation.md)
   * [Installation](mapeo-desktop-1/installation-1.md)
   * [Syncing data](mapeo-desktop-1/syncing-data.md)
-  * [Syncing mobile data](mapeo-desktop-1/syncing-mobile-data.md)
   * [Viewing & editing data](mapeo-desktop-1/viewing-and-editing-data.md)
-  * [Viewing & editing \(mobile\) data](mapeo-desktop-1/viewing-and-editing-data-1.md)
   * [Adding territory mapping data](mapeo-desktop-1/adding-territory-mapping-data.md)
-  * [Adding territory mapping data](mapeo-desktop-1/adding-territory-mapping-data-1.md)
   * [Exporting & sharing externally](mapeo-desktop-1/exporting-and-sharing-externally.md)
-  * [Exporting & sharing externally](mapeo-desktop-1/exporting-and-sharing-externally-1.md)
 
 ## Complete Reference guide <a id="reference-guide"></a>
 

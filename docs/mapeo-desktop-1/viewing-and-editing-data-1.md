@@ -1,2 +1,0 @@
-# Viewing & editing \(mobile\) data
-
