@@ -11,28 +11,41 @@
 
 ## Guía de inicio rápido <a id="getting-started"></a>
 
-* [Getting started](getting-started/installation.md)
-* [Mapeo Mobile](getting-started/mapeo-mobile/README.md)
-  * [Instalación](getting-started/mapeo-mobile/installation.md)
-  * [Collecting data](getting-started/mapeo-mobile/use.md)
-  * [Viewing & editing data](getting-started/mapeo-mobile/viewing-data.md)
-  * [Syncing data](getting-started/mapeo-mobile/syncing-data.md)
-  * [Sharing data externally](getting-started/mapeo-mobile/sharing-data-externally.md)
+* [Getting started](getting-started/getting-started.md)
+* [Mapeo Mobile](getting-started/mapeo-mobile-1/README.md)
+  * [Instalación](getting-started/mapeo-mobile-1/installation-1.md)
+  * [Collecting data](getting-started/mapeo-mobile-1/use.md)
+  * [Viewing & editing data](getting-started/mapeo-mobile-1/viewing-data.md)
+  * [Syncing data](getting-started/mapeo-mobile-1/syncing-data.md)
+  * [Sharing data externally](getting-started/mapeo-mobile-1/sharing-data-externally.md)
 
 ---
 
-* [Mapeo Desktop](mapeo-desktop/README.md)
-  * [Instalación](mapeo-desktop/installation.md)
-  * [Syncing mobile data](mapeo-desktop/syncing-mobile-data.md)
-  * [Viewing & editing \(mobile\) data](mapeo-desktop/viewing-and-editing-data.md)
-  * [Adding territory mapping data](mapeo-desktop/adding-territory-mapping-data.md)
-  * [Exporting & sharing externally](mapeo-desktop/exporting-and-sharing-externally.md)
+* [Mapeo Desktop](mapeo-desktop-1/README.md)
+  * [Instalación](mapeo-desktop-1/installation-1.md)
+  * [Syncing data](mapeo-desktop-1/syncing-data.md)
+  * [Viewing & editing data](mapeo-desktop-1/viewing-and-editing-data.md)
+  * [Adding territory mapping data](mapeo-desktop-1/adding-territory-mapping-data.md)
+  * [Exporting & sharing externally](mapeo-desktop-1/exporting-and-sharing-externally.md)
 
 ## Guía de referencia completa <a id="reference-guide"></a>
 
+* [Welcome – Introduction](reference-guide/welcome-introduction.md)
 * [Planning](reference-guide/planning/README.md)
   * [Territory mapping](reference-guide/planning/territory-mapping/README.md)
     * [Untitled](reference-guide/planning/territory-mapping/untitled.md)
+  * [Why - what is the project goal?](reference-guide/planning/why-what-is-the-project-goal.md)
+  * [What outputs do you want?](reference-guide/planning/what-outputs-do-you-want.md)
+  * [What information to collect?](reference-guide/planning/what-information-to-collect/README.md)
+    * [Data types within Mapeo](reference-guide/planning/what-information-to-collect/data-types-within-mapeo.md)
+  * [Who should be involved and how?](reference-guide/planning/what-are-your-parameters.md)
+  * [What are the parameters?](reference-guide/planning/who-is-involved.md)
+  * [Is Mapeo right for you?](reference-guide/planning/is-mapeo-right-for-you.md)
+  * [Examples](reference-guide/planning/examples.md)
+  * [Templates we could provide](reference-guide/planning/templates-we-could-provide.md)
+  * [Checklist of questions](reference-guide/planning/checklist-of-questions.md)
+* [Example Project Plans and Workflows](reference-guide/example-project-plans-and-workflows/README.md)
+  * [Mapping for a land claim](reference-guide/example-project-plans-and-workflows/mapping-for-a-land-claim.md)
 * [Pre Launch/Deployment Preparation](reference-guide/pre-launch-deployment-preparation/README.md)
   * [Will app defaults work?](reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md)
   * [Creating custom configurations](reference-guide/pre-launch-deployment-preparation/creating-custom-configurations.md)
@@ -83,5 +96,6 @@
 
 ---
 
+* [References](references.md)
 * [Dd website](http://google.com)
 
