@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome \(rename?\)](README.md)
+* [Introducción](README.md)
 
-## Introducción
+## Overview <a id="introduction"></a>
 
 * [What is Mapeo?](introduction/what-is-mapeo.md)
 * [Tools/ecosystem](introduction/tools.md)
