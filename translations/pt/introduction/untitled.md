@@ -2,7 +2,7 @@
 
 Requirements and things to keep in mind
 
-* Equipment
+* Equipment requirements
 * Architecture \(p2p\)
 * Security concerns?
 
