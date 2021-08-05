@@ -5,7 +5,7 @@ Tools below have basic out of the box features and can be customized for offline
 
 ### Mapeo Mobile
 
-Mapeo Mobile is a smartphone application \(currently for Android only\) that allows you to collection and map information in the field about places of interest. Using your phone's GPS, you can mark points on a map for your current location and add photos, notes and other details about what is happening. Information can be shared with collaborators who are using Mapeo, or with external contacts via email, SMS, or other messaging apps.
+Mapeo Mobile is a smartphone application \(currently for Android only\) that allows you to collect and map information in the field about places of interest. Using your phone's GPS, you can mark points on a map for your current location and add photos, notes and other details about what is happening. Information can be shared with collaborators who are using Mapeo, or with external contacts via email, SMS, or other messaging apps.
 
 Mapeo Mobile can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information. 
 
