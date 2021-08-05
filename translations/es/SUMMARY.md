@@ -4,7 +4,7 @@
 
 ## Overview <a id="introduction"></a>
 
-* [What is Mapeo?](introduction/what-is-mapeo.md)
+* [About Mapeo](introduction/what-is-mapeo.md)
 * [Tools/ecosystem](introduction/tools.md)
 * [Is Mapeo right for me?](introduction/untitled.md)
 * [Preguntas frecuentes](introduction/faqs.md)
