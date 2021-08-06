@@ -1,12 +1,12 @@
 # Coletando dados
 
-Users can collect data with Mapeo Mobile in the form of "Observations." An observation is based on a geographic location \(a point on the map\) and can have associated photos, notes and details.
+Users can collect data with Mapeo Mobile in the form of "observations." An observation is based on a geographic location \(a point on the map\) and can have associated photos, notes and details.
 
 ### Create a new observation
 
-With the Mapeo app open, you can create a new observation by tapping the round orange \(+\) button on the bottom of the screen.
+You can create a new observation by tapping the round orange \(+\) button on the bottom of the screen.
 
-Observations can be created from the Map home screen or directly from the Camera screen.
+Observations can be created from the Map home screen or directly from the Camera screen. To switch to the Camera screen, tap the camera icon at the bottom of the screen.
 
 \(guide graphic on benefits of each mode?\)
 
@@ -24,14 +24,14 @@ Tap in the white text area below your selected cateogory to add a description of
 
 ### Add photos
 
-Tap on "Add Photo" to take one or more photos to attach to the observation.  Photos must be taken in the moment with your phone's camera. Mapeo Mobile does not currently allow you to attach existing images from a gallery or other source.
+Tap on "Add Photo" to take one or more photos to attach to the observation.  Photos must be taken in the moment with your phone's camera; Mapeo Mobile does not currently allow you to attach existing images from a gallery or other source.
 
 ### Add details
 
 Depending on the category you have selected, you may see the option to "Add details" at the bottom of the screen. Observation details consist of specific questions that can be defined for each observation category. Mapeo Mobile comes with some basic detail fields for some categories.
 
 {% hint style="info" %}
-In order to set up your own custom questions or mini surveys, you must customize Mapeo. See [here](../../reference-guide/pre-launch-deployment-preparation/creating-custom-configurations.md) for more information.
+In order to set up your own custom questions or details, you must customize Mapeo. See [here](../../reference-guide/pre-launch-deployment-preparation/creating-custom-configurations.md) for more information.
 {% endhint %}
 
 ### Save observation
