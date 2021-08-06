@@ -14,7 +14,7 @@
 * [Getting started](getting-started/getting-started.md)
 * [Mapeo Mobile](getting-started/mapeo-mobile-1/README.md)
   * [Installation](getting-started/mapeo-mobile-1/installation-1.md)
-  * [\(Mapeo Mobile home screen?\)](getting-started/mapeo-mobile-1/mapeo-mobile-home-screen.md)
+  * [Verifying location](getting-started/mapeo-mobile-1/mapeo-mobile-home-screen.md)
   * [Collecting data](getting-started/mapeo-mobile-1/use.md)
   * [Viewing & editing data](getting-started/mapeo-mobile-1/viewing-data.md)
   * [Sharing data externally](getting-started/mapeo-mobile-1/sharing-data-externally.md)

@@ -1,8 +1,6 @@
-# \(Mapeo Mobile home screen?\)
+# Verifying location
 
-I prefer to absorb this tour into future practice steps.
+When you open Mapeo, the application will try to find the coordinates of your current position. The black bubble at the top of the screen will display whether GPS is active and the current precision.
 
-* GPS on, precsion
-* Blue dot for current location
-* Map/Camera is relevant for the next step
+The blue dot the map indicates your current position.
 
