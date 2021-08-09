@@ -2,7 +2,7 @@
 
 ## Mapeo is a free, easy-to-use set of tools for collecting and mapping information.
 
-It was built with and for earth defenders to easily document environmental & human rights information and to collect data about their land. Mapeo was designed to work in entriely offline environments, is highly customizable and built on a decentralized peer-to-peer database that allows communities to own their own data.
+It was built with and for earth defenders to easily document environmental & human rights information and to collect data about their land. Mapeo was designed to work in entirely offline environments, is highly customizable and built on a decentralized peer-to-peer database that allows communities to own their own data.
 
 ![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines](.gitbook/assets/ac-siona2-1024x683.jpg)
 
