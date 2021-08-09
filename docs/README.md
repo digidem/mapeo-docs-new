@@ -21,5 +21,5 @@ We strive to make our tools & resources accessible and available to communities 
 
 
 
-Mapeo is a project of Digital Democracy, a non-profit organization that works in solidarity with marginalized communities to use technology to defend their rights. For more information on Digital Democracy, visit [our website](https://www.digital-democracy.org/).
+_Mapeo is a project of Digital Democracy, a non-profit organization that works in solidarity with marginalized communities to use technology to defend their rights. For more information on Digital Democracy, visit_ [_our website_](https://www.digital-democracy.org/)_._
 

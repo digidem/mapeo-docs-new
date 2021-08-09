@@ -11,12 +11,12 @@ Mapeo Mobile can be translated into local languages, customized to use offline m
 
 ### Mapeo Desktop
 
-Mapeo Desktop is a computer application that allows you to aggregate, view and manage data collected with Mapeo Mobile, and to add or create territory information for making maps. 
+Mapeo Desktop is a computer application that allows you to aggregate, view and manage data collected with Mapeo Mobile. Mapeo Desktop also offers a simple interface for adding or creating territory information for making maps. 
 
 * Exporting maps requires knowledge of other software/tools
   * GIS specialist needed to help translate data into outputs in final stage
 
-Mapeo Mobile can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information. 
+Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information. 
 
 ### Mapeo Core \(link to dev pages\)
 
