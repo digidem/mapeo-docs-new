@@ -1,6 +1,6 @@
 # About Mapeo
 
-## Mapeo is a free, easy-to-use set of tools for collecting and mapping information. It is:
+## Mapeo is a free, easy-to-use set of tools for collecting and mapping information. Mapeo is:
 
 * **simple to use and learn**
 * **capable of working offline, without internet or special hardware**
