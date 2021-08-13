@@ -4,7 +4,7 @@ Users can collect data with Mapeo Mobile in the form of "observations." An obser
 
 ### Create a new observation
 
-You can create a new observation by tapping the round orange \(+\) button on the bottom of the screen.
+Create a new observation by tapping the round orange \(+\) button on the bottom of the screen.
 
 Observations can be created from the Map home screen or directly from the Camera screen. To switch to the Camera screen, tap the camera icon at the bottom of the screen.
 
