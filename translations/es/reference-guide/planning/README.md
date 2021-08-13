@@ -7,7 +7,7 @@ You may be keen to jump in and get started with data collection, however spendin
    * Roles
    * Decision making
 2. Where - geographic parameters[ 0.2.M](https://www.notion.so/0-2-M-175b053b94ad4180b231ab988ac27fbd)
-   * Area conditions,infrastructure
+   * Area conditions, infrastructure
    * What can be mapped
    * What can be monitored
 3. How - technical parameters[ 0.3.M](https://www.notion.so/0-3-M-5d1f0e57650b43ccb492386a2d25514f)
@@ -17,7 +17,7 @@ You may be keen to jump in and get started with data collection, however spendin
    * Deciding to start using Mapeo
    * Benefits and vulnerabilities
 
-This guide does not aim to give you a blueprint template of how to run your project. There are so many different uses of Mapeo, some of these we \(Digital Democracy\) can imagine, some of them we can't, and each one has its own particular needs, priorities and local contexts. What works in one place might need to be very differently set up for another place, even if the desired outcome is very similar. And likewise what works somewhere at one time, might have to be adjusted for another time as local situations, politics, etc. change.
+This guide does not aim to give you a blueprint template of how to run your project. There are so many different uses of Mapeo, some of these we \(Digital Democracy\) can imagine, some of them we can't, and each one has its own particular needs, priorities and local contexts. What works in one place might need to be set up very differently for another place, even if the desired outcome is very similar. And likewise what works somewhere at one time, might have to be adjusted for another time as local situations, politics, etc. change.
 
 Hopefully spending time thinking through the questions below will enable you to create a process tailored to your needs and project, and give it the best possible chance of success.
 
