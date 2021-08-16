@@ -57,6 +57,7 @@
 * [Deployment/Launch Implementation Overview](reference-guide/deployment-launch-implementation-overview/README.md)
   * [Introducing customizations](reference-guide/deployment-launch-implementation-overview/introducing-customizations.md)
   * [Training and information sessions](reference-guide/deployment-launch-implementation-overview/training-and-information-sessions.md)
+  * [Updating apps and Assets](reference-guide/deployment-launch-implementation-overview/updating-apps-and-assets.md)
 * [Mapeo Mobile implementation](reference-guide/mapeo-mobile-implementation/README.md)
   * [Preparing smartphones](reference-guide/mapeo-mobile-implementation/preparing-smartphones.md)
   * [Installing Mapeo Mobile](reference-guide/mapeo-mobile-implementation/installing-mapeo-mobile.md)
