@@ -1,14 +1,17 @@
 # Preguntas frecuentes
 
-Merge exsiting content including:
+* Is Mapeo free to use?
+* How secure is Mapeo?
+* Who will have access to my data? Does Mapeo collect information on users?
+* Who made Mapeo?
+* How does Mapeo work offline?
+* What languages is Mapeo availble in?
+* Can you help me deploy Mapeo?
+* How can I report bugs or problems using Mapeo?
 
-* current docs faq
-* Luandro initial text
-* Mar draft \(technical/non-technical\)
 
 
-
-## Existing FAQ content from docs.mapeo.app
+## Existing FAQ content from docs.mapeo.app:
 
 ## What happens if Mapeo loses financial support? **Will my data be inaccessible?** <a id="what-happens-if-mapeo-loses-financial-support-will-my-data-be-inaccessible"></a>
 
