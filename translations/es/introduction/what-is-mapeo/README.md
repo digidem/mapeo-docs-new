@@ -20,6 +20,7 @@ Mapeo is an open source software that benefits from continued feedback from our 
   * Translating the app into your local language
   * Creating your own list of things you want to collect information about, and designing your own associated questionnaires and icons for them
   * Designing an offline map, or maps, with the right type of information or detail to support your documentation. For example you might want a detailed satellite map, a map with the boundaries of mining concessions and land titles, or a map with elevation data to help you plan field trips.
+* Secure, unfalsifiable data
 
 
 
