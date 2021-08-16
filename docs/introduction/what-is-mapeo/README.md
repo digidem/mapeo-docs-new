@@ -19,7 +19,8 @@ Mapeo is an open source software that benefits from continued feedback from our 
 * **Customizable** Much of the Mapeo app is customizable in terms of language, maps and information you collect. When you download Mapeo, it comes with an offline map of the world, and a default configuration which you can use immediately to collect information about threats to land or rights. Mapeo has been translated into a number of languages already \(including English, Spanish, Portuguese, Thai, Khmer and more\) and can be translated into other languages.   Mapeo can be customized by:
   * Translating the app into your local language
   * Creating your own list of things you want to collect information about, and designing your own associated questionnaires and icons for them
-  * Designing an offline map, or maps, with the right type of information or detail to support your documentation. For example you might want a detailed satellite map, a map with the boundaries of mining concessions and land titles, or a map with elevation data to help you plan field trips.
+  * Designing an offline map, or maps, with the right type of information or detail to support your documentation. For example you might want a detailed satellite map, a map with the boundaries of mining concessions and land titles, or a map with elevation data to help you plan field trips. 
+* Secure, unfalsifiable data
 
 
 
