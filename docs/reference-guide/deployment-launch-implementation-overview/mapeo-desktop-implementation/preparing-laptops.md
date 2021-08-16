@@ -1,2 +1,2 @@
-# Preparing laptops
+# Preparing laptop
 
