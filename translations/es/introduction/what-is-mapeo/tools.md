@@ -23,7 +23,9 @@ Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customi
 
 ### Mapeo Core
 
-Mapeo Mobile and Mapeo Desktop are both built on top of Mapeo Core to securely store the geographic data and media created by users. Mapeo Core is an offline-first, peer-to-peer embedded database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server. To read more about Mapeo Core, see [here](https://mapeo-core-docs-git-first-draft-digidem.vercel.app/). 
+Mapeo Mobile and Mapeo Desktop are both built on top of Mapeo Core to securely store the geographic data and media created by users. Mapeo Core is an offline-first, peer-to-peer embedded database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server. To read more about Mapeo Core, see [here](https://mapeo-core-docs-git-first-draft-digidem.vercel.app/).
+
+Mapeo Core is built upon [**Hypercore**](https://hypercore-protocol.org/), which is an append-only log of actions \(create, edit, delete data\). Data is secured by cryptographic proofs -- every record written has a signature that also references the signature of every previous record/row in the log -- so you can never change or edit anything already written to the log. For more on Mapeo Core and data integrity, see here.
 
 
 
