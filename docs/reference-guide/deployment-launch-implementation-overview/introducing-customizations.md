@@ -10,5 +10,5 @@
       * If participant later gets custom configs they can go back and edit observations with appropriate categories and details. Notes remain
   * Map - no, why? It's aesthetic and doesn't in any way affect the data. However from the user experience side, not having a familiar map with local geospacial details may be disorienting or too abstract.
 
-Md and Mm have different steps to adding customizations.  See following pages as needed
+Md and Mm have different steps to adding customizations.  See following sections as needed
 
