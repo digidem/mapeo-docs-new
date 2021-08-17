@@ -6,7 +6,7 @@ description: >-
 
 # Who should be involved and how?
 
-The answer to this question of who should be involved could very wildly. Perhaps it is just you and your mobile phone, or perhaps it is going to involve thousands of people across multiple countries working together to compile a mass of data. Most of the partners we have worked with directly are somewhere in between, often a community or group of communities with a dedicated team of collaborating to collect data. 
+The answer to this question of who should be involved could vary wildly. Perhaps it is just you and your mobile phone, or perhaps it is going to involve thousands of people across multiple countries working together to compile a mass of data. Most of the partners we have worked with directly are somewhere in between, often a community or group of communities with a dedicated team of collaborating to collect data. 
 
 However even the projects we have partnered on directly, which might look superficially very similar, have set up their project structures in very different ways, sometimes out of need and sometimes out of preference. So here are some things to consider.
 
