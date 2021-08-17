@@ -9,25 +9,29 @@ To install Mapeo Mobile on your Android device, ​[Download the latest version 
 Users can collect data with Mapeo Mobile in the form of "observations." An observation is based on a geographic location \(a point on the map\) and can have associated photos, notes and details.
 
 
-![](../.gitbook/assets/mm-create-observation.png)
+![Creating a new observation](../.gitbook/assets/mm-homescreen-and-categories.png)
 
 Create a new observation by tapping the round orange \(+\) button on the bottom of the screen, then choose a category.
 
-![](../.gitbook/assets/mm-observation-add-details.png)
+![Adding information to a new observation](../.gitbook/assets/mm-observation-add-details.png)
 
 Add a description, photos and details. Tap the orange checkmark on the top right of the screen to save your observation.
 
 ## Viewing and editing data
 
+![Observations in map view and list view](../.gitbook/assets/mm-view-obs-map-list.png)
+
 Each observation will be marked on the map with an orange dot. Observations can also be viewed in a list by tapping the cards icon on the top right of the map screen.
 
 Tap on an observation from the map or list to view. Tap the pencil icon on the top right to edit.
+
+![](../.gitbook/assets/mm-edit-obs-icon.png)
 
 ## Sharing data externally
 
 ![](../.gitbook/assets/mm-observation-view.png)
 
-Tap on the **Share** icon to send the details of a single observation to a contact outside of Mapeo using one of the communications apps installed on your phone \(SMS, WhatsApp, Signal, etc.\)
+Tap on the **Share** icon at the bottom of the screen to send the details of a single observation to a contact outside of Mapeo using one of the communications apps installed on your phone \(SMS, WhatsApp, Signal, etc.\).
 
 ## Deleting data
 
