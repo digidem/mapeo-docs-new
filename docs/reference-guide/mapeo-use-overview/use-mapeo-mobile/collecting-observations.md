@@ -4,6 +4,8 @@ Users can collect data with Mapeo Mobile in the form of "observations." An obser
 
 ### Create a new observation
 
+![](../../../.gitbook/assets/mm-homescreen%20%281%29.png)
+
 Create a new observation by tapping the round orange \(+\) button on the bottom of the screen. 
 
 Observations can be created from the Map home screen or directly from the Camera screen. To switch to the Camera screen, tap the camera icon at the bottom of the screen.
@@ -11,6 +13,8 @@ Observations can be created from the Map home screen or directly from the Camera
 \(guide graphic on benefits of each mode?\)
 
 ### Select a category
+
+![](../../../.gitbook/assets/mm-categories.png)
 
 Select the category that best represents what you are documenting in the observation. Mapeo comes with a default set of categories and associated icons that can be used for collecting and classifying data. 
 
@@ -20,13 +24,15 @@ It is possible to create custom categories and icons to tailor Mapeo to specific
 
 ### Add a description
 
-Tap in the white text area below your selected cateogory to add a description of what you are documenting.
+![](../../../.gitbook/assets/mm-new-observation.png)
 
-### Add photos
+Tap in the white text area below your selected category to add a description of what you are documenting.
+
+### Add photos & details
+
+![](../../../.gitbook/assets/mm-observation-add-details.png)
 
 Tap on "Add Photo" to take one or more photos to attach to the observation.  Photos must be taken in the moment with your phone's camera; Mapeo Mobile does not currently allow you to attach existing images from a gallery or other source.
-
-### Add details
 
 Depending on the category you have selected, you may see the option to "Add details" at the bottom of the screen. Observation details consist of specific questions that can be defined for each observation category. Mapeo Mobile comes with some basic detail fields for some categories. 
 
