@@ -19,7 +19,9 @@ Add a description, photos and details. Tap the orange checkmark on the top right
 
 ## Viewing and editing data
 
-![Observations](../.gitbook/assets/mm-view-obs-map-list-2.png)
+![Observations in map and list view](../.gitbook/assets/mm-view-obs-map-list.png)
+
+![No crayon for Jen :\)](../.gitbook/assets/mm-view-obs-map-list-2.png)
 
 Each observation will be marked on the map with an orange dot. Observations can also be viewed in a list by tapping the cards icon on the top right of the map screen.
 
