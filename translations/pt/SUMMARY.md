@@ -14,15 +14,7 @@
 
 * [Getting started](getting-started/getting-started.md)
 * [Mapeo Mobile](getting-started/mapeo-mobile-1.md)
-
----
-
-* [Mapeo Desktop](mapeo-desktop-1/README.md)
-  * [Installation](mapeo-desktop-1/installation-1.md)
-  * [Syncing data](mapeo-desktop-1/syncing-data.md)
-  * [Viewing & editing data](mapeo-desktop-1/viewing-and-editing-data.md)
-  * [Adding territory mapping data](mapeo-desktop-1/adding-territory-mapping-data.md)
-  * [Exporting & sharing externally](mapeo-desktop-1/exporting-and-sharing-externally.md)
+* [Mapeo Desktop](getting-started/mapeo-desktop.md)
 
 ## Guia de referência completo <a id="reference-guide"></a>
 
@@ -42,7 +34,7 @@
   * [You've decided to use Mapeo!](reference-guide/planning/is-mapeo-right-for-you/README.md)
     * [Checklist of questions](reference-guide/planning/is-mapeo-right-for-you/checklist-of-questions.md)
     * [Templates we could provide](reference-guide/planning/is-mapeo-right-for-you/templates-we-could-provide.md)
-* [Pre Launch/Deployment Preparation](reference-guide/pre-launch-deployment-preparation/README.md)
+* [Pre Launch/Deployment Preparation Overview](reference-guide/pre-launch-deployment-preparation/README.md)
   * [Will app defaults work?](reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md)
   * [Creating custom configurations](reference-guide/pre-launch-deployment-preparation/creating-custom-configurations.md)
   * [Creating offline maps](reference-guide/pre-launch-deployment-preparation/creating-offline-maps.md)
@@ -50,7 +42,7 @@
   * [Creating user protocols](reference-guide/pre-launch-deployment-preparation/creating-user-protocols.md)
   * [Preparing training](reference-guide/pre-launch-deployment-preparation/preparing-training.md)
 * [Deployment/Launch Implementation Overview](reference-guide/deployment-launch-implementation-overview/README.md)
-  * [Introducing customizations](reference-guide/deployment-launch-implementation-overview/introducing-customizations.md)
+  * [Adding customizations to devices](reference-guide/deployment-launch-implementation-overview/introducing-customizations.md)
   * [Training and information sessions](reference-guide/deployment-launch-implementation-overview/training-and-information-sessions.md)
   * [Updating apps and Assets](reference-guide/deployment-launch-implementation-overview/updating-apps-and-assets.md)
   * [Mapeo Mobile implementation](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/README.md)
@@ -58,7 +50,7 @@
     * [Installing Mapeo Mobile](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/installing-mapeo-mobile.md)
     * [App settings](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/app-settings.md)
     * [Importing configurations](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/importing-configurations.md)
-    * [Installing offline maps](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/installing-offline-maps.md)
+    * [Adding offline maps](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/installing-offline-maps.md)
     * [Mapeo Mobile training](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/mapeo-mobile-training.md)
     * [Updating Mapeo Mobile](reference-guide/deployment-launch-implementation-overview/mapeo-mobile-implementation/updating-mapeo-mobile.md)
   * [Mapeo Desktop Implementation](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/README.md)
@@ -66,7 +58,7 @@
     * [Installing Mapeo Desktop](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/installing-mapeo-desktop.md)
     * [App settings](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/app-settings.md)
     * [Importing configurations](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/importing-configurations.md)
-    * [Installing offline maps](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/installing-offline-maps.md)
+    * [Adding offline maps](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/installing-offline-maps.md)
     * [Mapeo Desktop training](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/mapeo-desktop-training.md)
     * [Updating Mapeo Desktop](reference-guide/deployment-launch-implementation-overview/mapeo-desktop-implementation/updating-mapeo-desktop.md)
 * [Mapeo Use Overview](reference-guide/mapeo-use-overview/README.md)
@@ -74,14 +66,24 @@
   * [Storing Data](reference-guide/mapeo-use-overview/storing-data.md)
   * [Sync Overview](reference-guide/mapeo-use-overview/sync-overview.md)
   * [Editing and deletion overview](reference-guide/mapeo-use-overview/editing-and-deletion-overview.md)
-  * [Use Mapeo Desktop](reference-guide/mapeo-use-overview/use-mapeo-desktop.md)
-  * [Use Mapeo Mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/README.md)
-    * [Mobile navigation features](reference-guide/mapeo-use-overview/use-mapeo-mobile/mobile-navigation-features.md)
-    * [Coletando dados](reference-guide/mapeo-use-overview/use-mapeo-mobile/collecting-observations.md)
-    * [Viewing data on mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/view-data-on-mobile.md)
-    * [Editing and deleting on mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/editing-and-deleting-on-mobile.md)
-    * [Wifi sync](reference-guide/mapeo-use-overview/use-mapeo-mobile/wifi-sync.md)
-    * [Sharing data externally](reference-guide/mapeo-use-overview/use-mapeo-mobile/sharing-data-externally.md)
+* [Use Mapeo Mobile](reference-guide/use-mapeo-mobile/README.md)
+  * [Mobile navigation features](reference-guide/use-mapeo-mobile/mobile-navigation-features.md)
+  * [Creating observations](reference-guide/use-mapeo-mobile/collecting-observations.md)
+  * [Viewing observations](reference-guide/use-mapeo-mobile/view-data-on-mobile.md)
+  * [Editing and deleting observations](reference-guide/use-mapeo-mobile/editing-and-deleting-on-mobile.md)
+  * [Sharing data externally](reference-guide/use-mapeo-mobile/sharing-data-externally.md)
+  * [Syncing data via WiFi](reference-guide/use-mapeo-mobile/wifi-sync.md)
+* [Use Mapeo Desktop](reference-guide/mapeo-desktop-1/README.md)
+  * [Installation](reference-guide/mapeo-desktop-1/installation-1.md)
+  * [Using Mapeo Desktop to manage Mapeo Mobile data](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-manage-mapeo-mobile-data/README.md)
+    * [Syncing data](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data.md)
+    * [Viewing & editing observations](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-manage-mapeo-mobile-data/viewing-and-editing-data.md)
+    * [Exporting & sharing externally](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md)
+  * [Using Mapeo Desktop to create territory information](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/README.md)
+    * [Adding territory mapping data](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/adding-territory-mapping-data.md)
+    * [Changing basemaps](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/changing-basemaps.md)
+    * [Importing external territory information](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/importing-external-territory-information.md)
+    * [Exporting data](reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/exporting-data.md)
 * [Generating Outputs](reference-guide/generating-outputs/README.md)
   * [Purpose driven outputs](reference-guide/generating-outputs/purpose-driven-outputs.md)
   * [Sharing Mobile Alerts](reference-guide/generating-outputs/sharing-mobile-alerts.md)
@@ -93,6 +95,10 @@
   * [User issues](reference-guide/assess-use-and-impact/user-issues.md)
   * [Technical Issues](reference-guide/assess-use-and-impact/technical-issues.md)
   * [Making impact](reference-guide/assess-use-and-impact/making-impact.md)
+
+## For developers
+
+* [Untitled](for-developers/untitled.md)
 
 ---
 
