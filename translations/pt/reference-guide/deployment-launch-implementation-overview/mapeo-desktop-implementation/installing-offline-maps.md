@@ -1,2 +1,2 @@
-# Installing offline maps
+# Adding offline maps
 
