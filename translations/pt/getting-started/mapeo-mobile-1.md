@@ -21,15 +21,17 @@ Add a description, photos and details. Tap the orange checkmark on the top right
 
 Each observation will be marked on the map with an orange dot. Observations can also be viewed in a list by tapping the cards icon on the top right of the map screen.
 
-Tap on an observation to open and edit details.
+Tap on an observation from the map or list to view. Tap the pencil icon on the top right to edit.
 
 ## Sharing data externally
 
-Tap on the share icon to send the details of a single observation to a contact outside of Mapeo using one of the communications apps installed on your phone \(SMS, WhatsApp, Signal, etc.\)
+![](../.gitbook/assets/mm-observation-view.png)
+
+Tap on the **Share** icon to send the details of a single observation to a contact outside of Mapeo using one of the communications apps installed on your phone \(SMS, WhatsApp, Signal, etc.\)
 
 ## Deleting data
 
-Tap the delete icon to delete an observation and its associated media. Note: this action cannot be undone.
+Tap the **Delete** icon to delete an observation and its associated media. Note: this action cannot be undone.
 
 ## Syncing data
 
