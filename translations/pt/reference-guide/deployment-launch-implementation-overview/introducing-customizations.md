@@ -1,4 +1,4 @@
-# Introducing customizations
+# Adding customizations to devices
 
 
 
