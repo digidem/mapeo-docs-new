@@ -13,12 +13,7 @@
 ## Guía de inicio rápido <a id="getting-started"></a>
 
 * [Getting started](getting-started/getting-started.md)
-* [Mapeo Mobile](getting-started/mapeo-mobile-1/README.md)
-  * [Instalación](getting-started/mapeo-mobile-1/installation-1.md)
-  * [Collecting data](getting-started/mapeo-mobile-1/use.md)
-  * [Viewing & editing data](getting-started/mapeo-mobile-1/viewing-data.md)
-  * [Sharing data externally](getting-started/mapeo-mobile-1/sharing-data-externally.md)
-  * [Syncing data](getting-started/mapeo-mobile-1/syncing-data.md)
+* [Mapeo Mobile](getting-started/mapeo-mobile-1.md)
 
 ---
 
@@ -82,10 +77,11 @@
   * [Use Mapeo Desktop](reference-guide/mapeo-use-overview/use-mapeo-desktop.md)
   * [Use Mapeo Mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/README.md)
     * [Mobile navigation features](reference-guide/mapeo-use-overview/use-mapeo-mobile/mobile-navigation-features.md)
-    * [Collecting Observations](reference-guide/mapeo-use-overview/use-mapeo-mobile/collecting-observations.md)
-    * [Wifi sync](reference-guide/mapeo-use-overview/use-mapeo-mobile/wifi-sync.md)
-    * [View data on mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/view-data-on-mobile.md)
+    * [Collecting data](reference-guide/mapeo-use-overview/use-mapeo-mobile/collecting-observations.md)
+    * [Viewing data on mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/view-data-on-mobile.md)
     * [Editing and deleting on mobile](reference-guide/mapeo-use-overview/use-mapeo-mobile/editing-and-deleting-on-mobile.md)
+    * [Wifi sync](reference-guide/mapeo-use-overview/use-mapeo-mobile/wifi-sync.md)
+    * [Sharing data externally](reference-guide/mapeo-use-overview/use-mapeo-mobile/sharing-data-externally.md)
 * [Generating Outputs](reference-guide/generating-outputs/README.md)
   * [Purpose driven outputs](reference-guide/generating-outputs/purpose-driven-outputs.md)
   * [Sharing Mobile Alerts](reference-guide/generating-outputs/sharing-mobile-alerts.md)
