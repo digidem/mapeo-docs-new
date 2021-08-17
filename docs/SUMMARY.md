@@ -14,6 +14,7 @@
 
 * [Getting started](getting-started/getting-started.md)
 * [Mapeo Mobile](getting-started/mapeo-mobile-1.md)
+* [Mapeo Desktop](getting-started/mapeo-desktop.md)
 
 ## Complete Reference guide <a id="reference-guide"></a>
 
