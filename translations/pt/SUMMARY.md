@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 
-## Overview <a id="introduction"></a>
+## Overview <a href="introduction" id="introduction"></a>
 
 * [About Mapeo](introduction/what-is-mapeo/README.md)
   * [Tools/ecosystem](introduction/what-is-mapeo/tools.md)
@@ -10,13 +10,13 @@
 * [Is Mapeo right for me?](introduction/untitled.md)
 * [FAQs](introduction/faqs.md)
 
-## Quick start guide <a id="getting-started"></a>
+## Quick start guide <a href="getting-started" id="getting-started"></a>
 
 * [Getting started](getting-started/getting-started.md)
 * [Mapeo Mobile](getting-started/mapeo-mobile-1.md)
 * [Mapeo Desktop](getting-started/mapeo-desktop.md)
 
-## Guia de referência completo <a id="reference-guide"></a>
+## Guia de referência completo <a href="reference-guide" id="reference-guide"></a>
 
 * [Welcome – Introduction](reference-guide/welcome-introduction.md)
 * [Planning](reference-guide/planning/README.md)
@@ -35,7 +35,8 @@
     * [Checklist of questions](reference-guide/planning/is-mapeo-right-for-you/checklist-of-questions.md)
     * [Templates we could provide](reference-guide/planning/is-mapeo-right-for-you/templates-we-could-provide.md)
 * [Pre Launch/Deployment Preparation Overview](reference-guide/pre-launch-deployment-preparation/README.md)
-  * [Will app defaults work?](reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md)
+  * [Will Mapeo work out-of-the-box for me?](reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md)
+  * [About custom configurations](reference-guide/pre-launch-deployment-preparation/about-custom-configurations.md)
   * [Creating custom configurations](reference-guide/pre-launch-deployment-preparation/creating-custom-configurations.md)
   * [Creating offline maps](reference-guide/pre-launch-deployment-preparation/creating-offline-maps.md)
   * [Selecting equipment](reference-guide/pre-launch-deployment-preparation/selecting-equipment.md)
@@ -100,8 +101,7 @@
 
 * [Untitled](for-developers/untitled.md)
 
----
+***
 
 * [References](references.md)
 * [Dd website](http://google.com)
-
