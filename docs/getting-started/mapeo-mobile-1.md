@@ -1,52 +1,53 @@
 # Mapeo Mobile
 
-## Installation
+## Install
 
-To install Mapeo Mobile on your Android device, ​[Download the latest version on Google Play.](https://play.google.com/store/apps/details?id=com.mapeo&hl=en_US)​ ​[You can also download the app as an APK](https://digital-democracy.org/mapeo/latest/android) and install manually on your phone. ​
+To install Mapeo Mobile on your Android device,[ download the latest version on Google Play​](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_US). ​You can also [download the app as an APK ](https://apk.mapeo.app/latest/)and install it manually on your phone. ​
 
-## Collecting data
+## Collect data
 
-Users can collect data with Mapeo Mobile in the form of "observations." An observation is based on a geographic location \(a point on the map\) and can have associated photos, notes and details.   
+Users collect data with Mapeo Mobile in the form of _observations_. An observation is based on a geographic location (a point on the map) and can have associated photos, notes and details. \
 
 
-![Creating a new observation](../.gitbook/assets/mm-homescreen-and-categories.png)
+![Creating a new observation](../../.gitbook/assets/mm-homescreen-and-categories.png)
 
-Create a new observation by tapping the round orange \(+\) button on the bottom of the screen, then choose a category.
+To create a new observation, tap the** **![](<../.gitbook/assets/cópia de add-button-30px.png>) ![](<../.gitbook/assets/app icons\_Capture.png>) **Create observation **button, then select a category.
 
-![Adding information to a new observation](../.gitbook/assets/mm-observation-add-details.png)
+![Adding information to a new observation](../../.gitbook/assets/mm-observation-add-details.png)
 
-Add a description, photos and details. Tap the orange checkmark on the top right of the screen to save your observation.
+Add a description, photos and details, then tap the** **![](<../.gitbook/assets/app icons\_Save-check.png>) **Save **button.
 
-## Viewing observations
+## View observations
 
-![Observations in map and list view](../.gitbook/assets/mm-view-obs-map-list.png)
+![Observations in map and list view](../../.gitbook/assets/mm-view-obs-map-list.png)
 
-Each observation will be marked on the map with an orange dot. Observations can also be viewed in a list by tapping the cards icon on the top right of the map screen.
+Each observation will be marked on the map with a dot. Observations can also be viewed in list form by tapping the ![](<../.gitbook/assets/app icons\_Observation-list\_BLACK.png>) **Observations list **button.
 
-Tap on an observation from the map or list to view. 
+Tap on an observation from the map or list to view its details.&#x20;
 
-## Editing observation
+## Edit an observation
 
-Tap the pencil icon on the top right to edit.
+With the details of an observation open, tap the ![](<../.gitbook/assets/app icons\_Edit-pencil.png>) **Edit** button to make changes.
 
-![](../.gitbook/assets/mm-edit-obs-icon.png)
+![](../../.gitbook/assets/mm-edit-obs-icon.png)
 
-## Sharing data externally
+## Share data externally
 
-![](../.gitbook/assets/mm-observation-view.png)
+![](../../.gitbook/assets/mm-observation-view.png)
 
-Tap on the **Share** icon at the bottom of the screen to send the details of a single observation to a contact outside of Mapeo using one of the communications apps installed on your phone \(SMS, WhatsApp, Signal, etc.\).
+Tap on the ![](<../.gitbook/assets/app icons\_Share.png>) **Share **button to send the details of a single observation to a contact outside of Mapeo using one of the communications apps installed on your phone (WhatsApp, Signal, Email, etc.).
 
-## Deleting data
+## Delete data
 
-Tap the **Delete** icon to delete an observation and its associated media. Note: this action cannot be undone.
+Tap the ![](<../.gitbook/assets/app icons\_Delete-trash.png>) **Delete** button to delete an observation and its associated media.
 
-## Syncing data
+## Sync data
 
-Mapeo Mobile allows you to synchronize the data you have collected with other Mapeo users that members of the same project. To synchronize data between 2 devices,
+Mapeo Mobile allows you to synchronize data with other Mapeo users that are participants of the same project. During synchronization, all data from one device will be sent to the other device and vice versa.
 
-* Connect both devices to the same WiFi network
-* Enter Sync mode on both devices by tapping the lightning icon in the top left of the home screen
-* Select the desired device in the list and tap the "Sync" button beside its name
-* Keep the Sync screen open on both devices until the synchronization has completed.
+To synchronize data between 2 devices,
 
+1. Connect both devices to the same WiFi network (you do not need to have an internet connection).
+2. Tap the ![](<../.gitbook/assets/app icons\_Sync.png>) **Sync** button on both devices.
+3. On the **Sync** screen, identify the device you wish to synchronize with in the list and tap the **Sync **button beside its name.
+4. Keep the **Sync** screen open on both devices until the synchronization has completed.
