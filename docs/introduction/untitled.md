@@ -26,8 +26,11 @@ Mapeo may not be the right tool for all projects. When evaluating whether Mapeo 
   ****\
   ****(Users collaborating remotely may find more convenience in a centralized tool?)\
 
-* **Security**\
-  ****
-* ...\
+*   **Customization/Technical skills**
 
+    [will-app-defaults-work.md](../reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md "mention")
+
+
+* **Security**\
+  **...**
 

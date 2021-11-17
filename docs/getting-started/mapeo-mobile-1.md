@@ -11,9 +11,7 @@ Users collect data with Mapeo Mobile in the form of _observations_. An observati
 
 ![Creating a new observation](../../.gitbook/assets/mm-homescreen-and-categories.png)
 
-To create a new observation, tap the** **![](<../.gitbook/assets/cópia de add-button-30px.png>) ![](<../.gitbook/assets/app icons\_Capture.png>) **Create observation **button, then select a category.
-
-![Adding information to a new observation](../../.gitbook/assets/mm-observation-add-details.png)
+To create a new observation, tap the** **![](../.gitbook/assets/create\_observation.png) **Create observation **button, then select a category.![](../../.gitbook/assets/mm-observation-add-details.png)
 
 Add a description, photos and details, then tap the** **![](<../.gitbook/assets/app icons\_Save-check.png>) **Save **button.
 
@@ -27,9 +25,7 @@ Tap on an observation from the map or list to view its details.&#x20;
 
 ## Edit an observation
 
-With the details of an observation open, tap the ![](<../.gitbook/assets/app icons\_Edit-pencil.png>) **Edit** button to make changes.
-
-![](../../.gitbook/assets/mm-edit-obs-icon.png)
+With the details of an observation open, tap the ![](<../.gitbook/assets/app icons\_Edit-pencil.png>) **Edit** button to make changes. ![](../../.gitbook/assets/mm-edit-obs-icon.png)
 
 ## Share data externally
 
@@ -41,13 +37,13 @@ Tap on the ![](<../.gitbook/assets/app icons\_Share.png>) **Share **button to se
 
 Tap the ![](<../.gitbook/assets/app icons\_Delete-trash.png>) **Delete** button to delete an observation and its associated media.
 
-## Sync data
+## Synchronize data
 
 Mapeo Mobile allows you to synchronize data with other Mapeo users that are participants of the same project. During synchronization, all data from one device will be sent to the other device and vice versa.
 
-To synchronize data between 2 devices,
+To synchronize data between 2 Mapeo Mobile devices,
 
 1. Connect both devices to the same WiFi network (you do not need to have an internet connection).
-2. Tap the ![](<../.gitbook/assets/app icons\_Sync.png>) **Sync** button on both devices.
-3. On the **Sync** screen, identify the device you wish to synchronize with in the list and tap the **Sync **button beside its name.
-4. Keep the **Sync** screen open on both devices until the synchronization has completed.
+2. Tap the ![](<../.gitbook/assets/app icons\_Sync.png>) **Synchronize** button on both devices.
+3. On the **Synchronize** screen, identify the device you wish to synchronize with in the list and tap the **Sync **button beside its name.
+4. Keep the **Synchronize** screen open on both devices until the synchronization has completed.
