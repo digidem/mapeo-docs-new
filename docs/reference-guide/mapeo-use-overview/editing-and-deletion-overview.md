@@ -1,2 +1,0 @@
-# Editing and deletion overview
-
