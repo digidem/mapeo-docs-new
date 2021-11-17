@@ -15,9 +15,8 @@ Mapeo may not be the right tool for all projects. When evaluating whether Mapeo 
 
 * **Peer-to-peer architecture**\ ****The Mapeo tools are based on a peer-to-peer database, which means there is no centralized server aggregating information collected by users. Two devices that are participating in the same Mapeo project can synchronize or exchange their data at a time.\ \ Sychronized devices have identical copies of the Mapeo database and can serve as backups if a device is lost or damaged. **Please note that data that has not been synchronized will not have a backup. **\ \ It is important to think through in advance how the participating users or devices in  your project will share information, as there are a variety of possible synchronizing patterns.\ **\[Graphic]**\ ****\ ****(Users collaborating remotely may find more convenience in a centralized tool?)\
 
-*   **Customization/Technical skills**
-
-    [will-app-defaults-work.md](../reference-guide/pre-launch-deployment-preparation/will-app-defaults-work.md "mention")
+* **Customization/Technical skills**
+*   ****[pre-launch-deployment-preparation](../reference-guide/pre-launch-deployment-preparation/ "mention")****
 
 
 * **Security**\ **...**
