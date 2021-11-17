@@ -13,5 +13,7 @@
   * scripts
   * troubleshooting build issues
 
+Once you have built your `.mapeosettings` file, see the links below for instructions on how to import your configuration file into Mapeo Mobile and Mapeo Desktop:
 
-
+* [importing-configurations.md](../deployment-launch-implementation-overview/mapeo-mobile-implementation/importing-configurations.md "mention")
+* [importing-configurations.md](../deployment-launch-implementation-overview/mapeo-desktop-implementation/importing-configurations.md "mention")
