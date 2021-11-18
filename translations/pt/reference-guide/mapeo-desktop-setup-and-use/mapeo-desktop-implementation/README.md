@@ -1,4 +1,4 @@
-# Preparing equipment for Mapeo Desktop
+# Preparando o equipamento para o Mapeo Desktop
 
 
 
