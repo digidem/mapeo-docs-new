@@ -7,7 +7,7 @@
 * [About Mapeo](introduction/what-is-mapeo/README.md)
   * [Tools/ecosystem](introduction/what-is-mapeo/tools.md)
   * [How Mapeo is being used](introduction/what-is-mapeo/how-mapeo-is-being-used.md)
-* [Is Mapeo right for me?](introduction/untitled.md)
+* [Mapeo é a ferramenta certa para mim?](introduction/untitled.md)
 * [FAQs](introduction/faqs.md)
 
 ## Quick start guide <a href="getting-started" id="getting-started"></a>
@@ -57,7 +57,7 @@
     * [Sharing data externally](reference-guide/mapeo-mobile-setup-and-use/use-mapeo-mobile/sharing-data-externally.md)
     * [Syncing data via WiFi](reference-guide/mapeo-mobile-setup-and-use/use-mapeo-mobile/wifi-sync.md)
 * [Mapeo Desktop setup & use](reference-guide/mapeo-desktop-setup-and-use/README.md)
-  * [Preparing equipment for Mapeo Desktop](reference-guide/mapeo-desktop-setup-and-use/mapeo-desktop-implementation/README.md)
+  * [Preparando o equipamento para o Mapeo Desktop](reference-guide/mapeo-desktop-setup-and-use/mapeo-desktop-implementation/README.md)
     * [Installing Mapeo Desktop](reference-guide/mapeo-desktop-setup-and-use/mapeo-desktop-implementation/installing-mapeo-desktop.md)
     * [App settings](reference-guide/mapeo-desktop-setup-and-use/mapeo-desktop-implementation/app-settings.md)
     * [Importing configurations to Mapeo Desktop](reference-guide/mapeo-desktop-setup-and-use/mapeo-desktop-implementation/importing-configurations.md)
@@ -78,7 +78,7 @@
 * [Evaluating impact](reference-guide/evaluating-impact.md)
 * [Troubleshooting](reference-guide/troubleshooting.md)
 
-## For developers
+## Para desenvolvedores
 
 * [Untitled](for-developers/untitled.md)
 
