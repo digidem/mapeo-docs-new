@@ -1,4 +1,4 @@
-# About Mapeo
+# Acerca de Mapeo
 
 Mapeo was built with and for earth defenders to easily document environmental and human rights information and to collect data about their land.
 
