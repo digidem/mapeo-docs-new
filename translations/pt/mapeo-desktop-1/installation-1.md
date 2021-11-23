@@ -1,4 +1,4 @@
-# Installation
+# Instalação
 
 See detailed instructions below for installing Mapeo Desktop on your operating system.
 
