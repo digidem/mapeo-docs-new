@@ -1,4 +1,4 @@
-# Getting started
+# Começando
 
 The Quick Start Guide is intended to help you install and test out the basic, out-of-the-box functionality of Mapeo in order to evaluate whether it will be a good fit. This section will not touch on all features or customization of the tools.
 
