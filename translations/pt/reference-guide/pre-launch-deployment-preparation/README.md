@@ -1,4 +1,4 @@
-# Mapeo defaults & customization options
+# Opções padrão do Mapeo & possibilidades para personalização
 
 ### Will Mapeo work out-of-the-box for me?
 
