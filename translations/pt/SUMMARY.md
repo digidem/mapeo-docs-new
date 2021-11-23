@@ -2,25 +2,25 @@
 
 * [Introdução](README.md)
 
-## Overview <a href="introduction" id="introduction"></a>
+## Resumo <a href="introduction" id="introduction"></a>
 
-* [About Mapeo](introduction/what-is-mapeo/README.md)
-  * [Tools/ecosystem](introduction/what-is-mapeo/tools.md)
-  * [How Mapeo is being used](introduction/what-is-mapeo/how-mapeo-is-being-used.md)
+* [Sobre o Mapeo](introduction/what-is-mapeo/README.md)
+  * [Ferramentas/ecossistema](introduction/what-is-mapeo/tools.md)
+  * [Como o Mapeo está sendo usado](introduction/what-is-mapeo/how-mapeo-is-being-used.md)
 * [Mapeo é a ferramenta certa para mim?](introduction/untitled.md)
-* [FAQs](introduction/faqs.md)
+* [Perguntas frequentes](introduction/faqs.md)
 
-## Quick start guide <a href="getting-started" id="getting-started"></a>
+## Guia de início rápido<a href="getting-started" id="getting-started"></a>
 
-* [Getting started](getting-started/getting-started.md)
-* [Mapeo Mobile](getting-started/mapeo-mobile-1.md)
-* [Mapeo Desktop](getting-started/mapeo-desktop.md)
+* [Começando](getting-started/getting-started.md)
+* [Mapeo Móvel](getting-started/mapeo-mobile-1.md)
+* [Mapeo Dektop](getting-started/mapeo-desktop.md)
 
 ## Guia de referência completo <a href="reference-guide" id="reference-guide"></a>
 
-* [Welcome – Introduction](reference-guide/welcome-introduction.md)
+* [Bem-vindo – Introdução](reference-guide/welcome-introduction.md)
 * [Essentials for a successful Mapeo project](reference-guide/essentials-for-a-successful-mapeo-project/README.md)
-  * [Planning](reference-guide/essentials-for-a-successful-mapeo-project/planning/README.md)
+  * [Planejamento](reference-guide/essentials-for-a-successful-mapeo-project/planning/README.md)
     * [Why - what is the project goal?](reference-guide/essentials-for-a-successful-mapeo-project/planning/why-what-is-the-project-goal.md)
     * [What outputs do you want?](reference-guide/essentials-for-a-successful-mapeo-project/planning/what-outputs-do-you-want.md)
     * [What information to collect?](reference-guide/essentials-for-a-successful-mapeo-project/planning/what-information-to-collect/README.md)
@@ -36,9 +36,9 @@
   * [Training and information sessions](reference-guide/essentials-for-a-successful-mapeo-project/training-and-information-sessions/README.md)
     * [Preparing training](reference-guide/essentials-for-a-successful-mapeo-project/training-and-information-sessions/preparing-training.md)
   * [Creating user protocols](reference-guide/essentials-for-a-successful-mapeo-project/creating-user-protocols.md)
-* [Choosing equipment](reference-guide/selecting-equipment.md)
-* [Mapeo defaults & customization options](reference-guide/pre-launch-deployment-preparation/README.md)
-  * [Custom configurations](reference-guide/pre-launch-deployment-preparation/custom-configurations/README.md)
+* [Escolhendo equipamentos](reference-guide/selecting-equipment.md)
+* [Opções padrão do Mapeo & possibilidades para personalização](reference-guide/pre-launch-deployment-preparation/README.md)
+  * [Configurações personalizadas](reference-guide/pre-launch-deployment-preparation/custom-configurations/README.md)
     * [Creating custom configurations](reference-guide/pre-launch-deployment-preparation/custom-configurations/creating-custom-configurations.md)
   * [Custom base maps](reference-guide/pre-launch-deployment-preparation/custom-base-maps/README.md)
     * [Creating offline maps](reference-guide/pre-launch-deployment-preparation/custom-base-maps/creating-offline-maps.md)
