@@ -1,5 +1,16 @@
 # Creating custom configurations
 
+* To import an existing custom configuration, see:
+  * Mm
+  * Md
+* To create a new custom configuration, see: [Broken link](broken-reference "mention")
+
+{% hint style="danger" %}
+Creating custom configurations currently requires significant technical knowledge.
+{% endhint %}
+
+
+
 
 
 * What is in custom configs
