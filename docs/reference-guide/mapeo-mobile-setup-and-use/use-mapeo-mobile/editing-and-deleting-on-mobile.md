@@ -2,31 +2,27 @@
 
 ### Edit details
 
-Once you have the details of an observation open, you can edit the information collected by tapping on the pencil icon at the top right of the screen.
+Once you are on the **View observation** screen, you can edit the information collected. To do so, tap ![](<../../../.gitbook/assets/app icons\_Edit-pencil.png>) **Edit observation**.
 
-In Edit view, you can change the category of the point, edit the description and details, or add additional photos. You cannot change the geographic location saved with the observation, or the date and time of the original observation.&#x20;
+In the **Edit observation **screen, you can change the category of the point, edit the description and details, or add additional photos. You cannot change the geographic location saved with the observation, or the date and time of the original observation.&#x20;
 
-_On Mapeo Mobile, you cannot remove photos from observations once they have been added. _
+{% hint style="info" %}
+On Mapeo Mobile, you cannot remove photos from observations once they have been added.&#x20;
+{% endhint %}
 
 ### Save changes
 
-Save changes you have made by tapping the orange checkmark at the top right of the screen. Tap on the back arrow at the top right of the screen to return the the Map home screen.
+Tap ![](<../../../.gitbook/assets/app icons\_Save-check.png>) **Save **to save the changes you have made. Tap ![](<../../../.gitbook/assets/app icons\_back arrow.png>) **Back **to return the **Map **view.
 
-To exit without saving your changes, tap on the back arrow at the top left of the screen and confirm you want to discard changes.
-
-### View observations list
-
-You can also view observations collected in a list by tapping on the cards icon at the top right of the Map home screen.
-
-Here you will see a list of the observations you have collected with the most recent at the top. Identify observations by their category and the time they were saved.&#x20;
-
-To view and edit the details of a specific observation, tap on the desired observation in the list.
+To exit without saving your changes, tap  ![](<../../../.gitbook/assets/app icons\_back arrow.png>) **Back **and confirm you want to discard changes.
 
 ### Delete observations
 
-To delete an observation you have collected, open the observation detail view, scroll to the bottom and tap the delete icon. **Deleting observations cannot be undone, so exercise caution when using delete.**
+To delete an observation you have collected, on the **View observation **screen, scroll to the bottom and tap ![](<../../../.gitbook/assets/app icons\_Delete-trash.png>) **Delete**. You can only delete observations that you have created on Mapeo Mobile.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
+**Deleting observations cannot be undone, so exercise caution when using delete.**
+
 As Mapeo uses a peer-to-peer database, all data is stored directly on your device and there is no back-up on a centralized server. By deleting observations, you will permanently remove them from your device and all devices you synchronize data with in the future.\
 \
 For more on synchronization, see [here](broken-reference).

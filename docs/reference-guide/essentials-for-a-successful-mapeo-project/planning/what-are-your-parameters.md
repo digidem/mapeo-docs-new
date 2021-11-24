@@ -10,7 +10,7 @@ The answer to this question of who should be involved could vary wildly. Perhaps
 
 However even the projects we have partnered on directly, which might look superficially very similar, have set up their project structures in very different ways, sometimes out of need and sometimes out of preference. So here are some things to consider.
 
-**Are there any traditional or other authorities that should be consulted before you start, or who should be involved in some role.** This is particularly relevant if you are collecting data from indigenous lands (your own or belonging to others) and/or might be collecting potentially sensitive data.&#x20;
+**Are there any traditional or other authorities that should be consulted before you start, or who should be involved in some role?** This is particularly relevant if you are collecting data from indigenous lands (your own or belonging to others) and/or might be collecting potentially sensitive data.&#x20;
 
 **Who is your project accountable to and how can you ensure you meet their needs?** The answer to this might be the traditional authorities mentioned above, or it could be particular sectors of your community, funders, the future generations or others. Consider how to keep them up to date with project progress if relevant and how to produce materials they will find accessible and useful.&#x20;
 
