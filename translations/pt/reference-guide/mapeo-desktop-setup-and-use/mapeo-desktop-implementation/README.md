@@ -1,6 +1,14 @@
-# Preparando o equipamento para o Mapeo Desktop
+# Preparando seu equipamento para o Mapeo Desktop
 
+This section will cover all the needed steps to prepare your device for the use of Mapeo Desktop:
 
+* Installation of Mapeo Desktop
+* App settings
+  * Language
+  * GPS coordinate format
+* Importing configurations&#x20;
+* Adding custom base maps
+* Updating Mapeo Desktop
 
 Before you start, make sure that:&#x20;
 
@@ -10,6 +18,3 @@ Before you start, make sure that:&#x20;
 
 
 
-This section will cover:
-
-*
