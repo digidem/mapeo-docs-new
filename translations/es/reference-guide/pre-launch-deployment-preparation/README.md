@@ -1,14 +1,10 @@
-# Mapeo defaults & customization options
+# Customization options
 
-This section is designed to help you assess whether Mapeo's default options will work for your project, and learn more about possibilities for customization.
+Mapeo was built to be highly customizable and allow users to adapt its interface to meet the needs of specific projects. This section covers both translation of the application and the development of custom configurations and base maps in the pages below:
 
-Pages here include:
+* [translating-mapeo-and-default-configurations.md](translating-mapeo-and-default-configurations.md "mention") (novice, intermediate)
+* [custom-configurations.md](custom-configurations.md "mention")(advanced)
+* [custom-base-maps.md](custom-base-maps.md "mention") (advanced)
 
-* [will-mapeo-work-out-of-the-box-for-me](will-mapeo-work-out-of-the-box-for-me/ "mention")
-  * [default-configuration.md](will-mapeo-work-out-of-the-box-for-me/default-configuration.md "mention") (categories, icons, and questions)
-  * [default-base-map.md](will-mapeo-work-out-of-the-box-for-me/default-base-map.md "mention")
-* [custom-configurations](custom-configurations/ "mention")
-* [custom-base-maps](custom-base-maps/ "mention")
-
-****
+Please note that the customization process for configurations and base maps currently requires significant technical knowledge and will not be accessible to all users.
 
