@@ -12,12 +12,11 @@ get specific
 
 * What gets data is created captured?
 * How does verification work?
-* When are editing and deletion appropriate
-* Who has decision-making authority about access and distribution of the community data.
+* When are editing and deletion appropriate?
+* Who has decision-making authority about access and distribution of the community data?
 * What can be shared publicly? With state authorities? with local authorities,  with external allies?
-* Include protocols for outputs \(i.e formats, information included, verification process, filename structure, where to save, where to send\)
+* Include protocols for outputs (i.e formats, information included, verification process, filename structure, where to save, where to send)
 * How do participants learn about and uphold these protocols?
 * What steps need to be taken to update them in the future?
 
 Template samples
-

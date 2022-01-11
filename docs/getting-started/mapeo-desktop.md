@@ -6,7 +6,7 @@ Download Mapeo Desktop from the [**Mapeo page**](https://docs.mapeo.app) and dou
 
 ## Mapeo Desktop for managing Mapeo Mobile data
 
-**Observations **mode in Mapeo Desktop is designed for viewing, managing and exporting data collected with Mapeo Mobile.&#x20;
+**Observations** mode in Mapeo Desktop is designed for viewing, managing and exporting data collected with Mapeo Mobile.&#x20;
 
 ### Synchronize mobile data
 
@@ -20,7 +20,7 @@ To get started, synchronize data with a Mapeo Mobile device.
 
 ### View observations
 
-To view your synchronized data, click on **Observations** in the **Mapeo modes **panel.&#x20;
+To view your synchronized data, click on **Observations** in the **Mapeo modes** panel.&#x20;
 
 #### Map view
 
@@ -36,7 +36,11 @@ To view observations in the form of a report, click on **Report** in the **Toolb
 
 ### **Filter observations**
 
-To look at a subset of your observations in** Map**, **Media** or **Report** view
+To look at a subset of your observations in **Map**, **Media** or **Report** view
 
-## Mapeo Desktop for Territory mapping
+
+
+## Mapeo Desktop for creating territory information
+
+To use Mapeo Desktop for creating territory information, see[using-mapeo-desktop-to-create-territory-information](../reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/ "mention")
 
