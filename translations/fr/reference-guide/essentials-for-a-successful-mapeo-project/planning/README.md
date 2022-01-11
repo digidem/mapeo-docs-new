@@ -29,10 +29,10 @@ Hopefully spending time thinking through the questions below will enable you to 
 
 * **Why collect information?** What is the aim of your mapping, monitoring or data collection, what is your goal or desired end product or result?
 * **What outputs do you want?** If you already know that you want to build an interactive story map, or produce a quantitative report or file a legal case, this can help shape your project design.
-* **What information do you need to collect in order to meet this aim? **
-* **Who should should be involved? **What project structure will best meet your aims, who should be involved, what roles do you need, who is making decisions and who are you accountable to?&#x20;
-* **What are the parameters or limiting factors which you are working with? **This refers to your geographical context, infrastructure, accessibility to areas, budgets and equipment availability, time constraints, security risks etc.
-* **Is Mapeo the right tool for you? **We think Mapeo is great :) but we know that it has limits and it isn't the right tool for every job. We want to make sure that if you choose Mapeo you understand what it excels at doing and also its weaknesses, to make sure you are set up in the best possible way for success in your project. &#x20;
+* **What information do you need to collect in order to meet this aim?**&#x20;
+* **Who should should be involved?** What project structure will best meet your aims, who should be involved, what roles do you need, who is making decisions and who are you accountable to?&#x20;
+* **What are the parameters or limiting factors which you are working with?** This refers to your geographical context, infrastructure, accessibility to areas, budgets and equipment availability, time constraints, security risks etc.
+* **Is Mapeo the right tool for you?** We think Mapeo is great :) but we know that it has limits and it isn't the right tool for every job. We want to make sure that if you choose Mapeo you understand what it excels at doing and also its weaknesses, to make sure you are set up in the best possible way for success in your project. &#x20;
 
 ### Provisos
 
