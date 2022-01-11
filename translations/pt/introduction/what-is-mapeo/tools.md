@@ -7,8 +7,6 @@ There are two, highly-customizable Mapeo tools:
 
 Both of these tools are built on top of **Mapeo Core** - the underlying, peer-to-peer database that powers the Mapeo ecosystem.
 
-**Mapeo Web Maps**
-
 ### Mapeo Mobile
 
 Mapeo Mobile is a smartphone application (currently for Android only) that allows you to collect and map information in the field about places of interest. Using your phone's GPS, you can mark points on a map for your current location and add photos, notes and other details about what is happening. Information can be shared with collaborators who are using Mapeo, or with external contacts via email, SMS, or other messaging apps.
@@ -29,5 +27,5 @@ Mapeo Mobile and Mapeo Desktop are both built on top of Mapeo Core to securely s
 
 Mapeo Core is built upon [**Hypercore**](https://hypercore-protocol.org), which is an append-only log of actions (create, edit, delete data). Data is secured by cryptographic proofs -- every record written has a signature that also references the signature of every previous record/row in the log -- so you can never change or edit anything already written to the log. For more on Mapeo Core and data integrity, see here.
 
-
+### Mapeo Web maps
 
