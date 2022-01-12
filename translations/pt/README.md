@@ -1,8 +1,8 @@
 # Introdução
 
-## Mapeo is a free, easy-to-use, open source set of tools for collecting and mapping information.&#x20;
+## Mapeo é um conjunto de ferramentas digitais gratuito, fácil de usar, de código aberto para coletar e mapear informações.
 
-Mapeo was built by [Digital Democracy](https://www.digital-democracy.org) with and for earth defenders to easily document environmental & human rights information and to collect data about their land. It was designed to work in entirely offline environments, is highly customizable, and built on a decentralized peer-to-peer database that allows communities to own their own data.
+Mapeo foi desenvolido pela Democracia Digital com e para defensores da terra para que pudessem facilmente documentar informações ambientais e sobre direitos humanos e coletar dados sobre suas terras. It was designed to work in entirely offline environments, is highly customizable, and built on a decentralized peer-to-peer database that allows communities to own their own data.
 
 ![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines](.gitbook/assets/AC-Siona2-1024x683.jpg)
 
