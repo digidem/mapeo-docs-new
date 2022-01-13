@@ -27,7 +27,7 @@ Mapeo Desktop is a computer application that allows you to aggregate, view and m
 
 It also offers a simple interface for adding or creating territory information for making maps. Mapeo Desktop provides a basic set of mapping features that are more accessible to new tech users than other available geographic information tools, but exporting maps requires knowledge of other software.
 
-![On the left side, Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. On the right, Mapeo Desktop is being used to create and export territory information.](../../.gitbook/assets/Md\_usesTerritory.png)
+![On the left side, Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. On the right, Mapeo Desktop is being used to create and export territory information.](../../.gitbook/assets/image (8).png)
 
 Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information.&#x20;
 
