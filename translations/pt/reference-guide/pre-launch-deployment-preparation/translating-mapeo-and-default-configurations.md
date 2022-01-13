@@ -1,8 +1,8 @@
 # Translating Mapeo & default configurations
 
-Mapeo aims to be accessible to a wide range of communities in their native languages, and to faciltiate the process of translating the app and the [default configuration](../will-mapeo-work-out-of-the-box-for-me/default-configuration.md) into new languages as needed.
+Mapeo aims to be accessible to a wide range of communities in their native languages, and to facilitate the process of translating the app and the [default configuration](../will-mapeo-work-out-of-the-box-for-me/default-configuration.md) into new languages as needed.
 
-While [developing custom configurations](custom-configurations.md) currently requires significant technical knowledge, the process of translating Mapeo and the default configuration into a new local language may be an easier way to customize the tool for use in your project.
+While [developing custom configurations](custom-configurations/) currently requires significant technical knowledge, the process of translating Mapeo and the default configuration into a new local language can be an easier way to customize the tool for use in your project.
 
 ### Translation using Crowdin
 
@@ -27,6 +27,4 @@ If the language you wish to translate is not available on the project home page,
 #### Contributing translations
 
 To start translating, create an account with Crowdin, visit the relevant project home page, and select the target language. Click on **Translate All** to bring up all relevant text strings.
-
-> &#x20;**▶ Video available**&#x20;
 
