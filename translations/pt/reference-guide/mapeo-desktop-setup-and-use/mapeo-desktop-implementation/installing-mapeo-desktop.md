@@ -1,82 +1,85 @@
 # Installing Mapeo Desktop
 
+Mapeo Desktop is available for ![](../../../.gitbook/assets/Windows-logo.png)Windows, ![](../../../.gitbook/assets/mac.png) MacOS and ![](../../../.gitbook/assets/linux.png)Linux and can be downloaded for free from the [Mapeo website](https://www.digital-democracy.org/mapeo/).
+
+{% hint style="info" %}
+If you are planning to install the application on a computer that does not have an internet connection, make sure to download the installation file prior to going offline. \ \ For more details on offline installation, see [#installing-offline](installing-mapeo-desktop.md#installing-offline "mention") below.
+{% endhint %}
+
+## Download the installation file
+
 If you have an internet connection, you can download the Mapeo Desktop installation file for free from [http://mapeo.app](http://mapeo.app).&#x20;
 
 {% hint style="info" %}
-It is important to select and use the correct installation file (`.exe`, `.dmg`, `.zip` or `.AppImage`) depending on your operating system.
+It is important to select and use the correct installation file for your operating system:
+
+* ![](../../../.gitbook/assets/Windows-logo.png)Windows:`.exe`
+* ![](../../../.gitbook/assets/mac.png) macOS: `.dmg` or `.zip`&#x20;
+* ![](../../../.gitbook/assets/linux.png) Linux:`.AppImage`
 {% endhint %}
 
-Using the downloaded installation file, you can install Mapeo Desktop on other computers without the need for an internet connection. Check the steps [here](installing-mapeo-desktop.md#undefined).
-
-Follow the detailed steps to install Mapeo Desktop on your computer depending on its operative system.
-
-With internet connection:
-
-* [Windows computer](installing-mapeo-desktop.md#installation-steps-for-a-windows-computer)
-* [macOS computer](installing-mapeo-desktop.md#installation-steps-for-a-macos-computer)
-* [Linux computer](installing-mapeo-desktop.md#install-on-linux)
-
-Without internet connection:
-
-* [Installation using a file](installing-mapeo-desktop.md#undefined)
-
-### Install on Windows&#x20;
-
-1. Make sure you are connected to the internet.
-2. Go to the [mapeo.app](https://www.digital-democracy.org/mapeo/) website. Click on **Download. **If the download of the installation file does not start automatically, on the same page you can choose between several download options.
+Go to the [mapeo.app](https://www.digital-democracy.org/mapeo/) website and click on **Download.** A download of the installation file for your operating system should start automatically.\ \ ****If the download does not start automatically, or if you'd like to download installation files to use on another operating system, you can find download options at the bottom of the page.
 
 ![](https://lh3.googleusercontent.com/E\_z0p4l7yCsYHL4JCBHYKPTwexwyuZmUeCocPedWk4kAiP-fA5dHCBpNmQA6oMBuUd34X3-w8MbF\_Za6rUehwNBb3z-Stkr6FnXExz2YPkSW61MNpeME7Nt6xZdlPA)
 
-3\.  When the installation file has been downloaded, click on it to execute it. If you get a security message from your operating system, click on **Execute anyway**.
+Once you have the installation file downloaded, follow the detailed steps in the sections below to install Mapeo Desktop on the appropriate operating system for your computer:
+
+* ****![](../../../.gitbook/assets/Windows-logo.png) [**Install on Windows**](installing-mapeo-desktop.md#install-on-windows)****
+* ****![](../../../.gitbook/assets/mac.png) [**Install on macOS**](installing-mapeo-desktop.md#installation-on-macos)****
+* ****![](../../../.gitbook/assets/linux.png) [**Install on Linux**](installing-mapeo-desktop.md#install-on-linux)****
+
+## Install on Windows&#x20;
+
+1. If you don't yet have the installation file for Windows, [download it](installing-mapeo-desktop.md#download-the-installation-file).
+2. Find the Mapeo installation file (`.exe`) on your computer and double click on it to install. If you get a security message from your operating system, click on **Execute anyway**.\
+
 
 ![](https://lh3.googleusercontent.com/Tsq5jLMWd1wSHKbDzVT\_WFc-bUSBtbn3gj-6ta8YqJzQzXqoHDQ5Jw6ehXNz\_1ZopSYMZMN0O5ZZ6L4gM5Vuva08ZwHe1mzo0zPZCyK5r10qXb26CtMb1Twbf-l2CA)
 
-4\.  Mapeo Desktop will open automatically when the installation process finishes. If not, go to your computer's desktop and click the ![](../../../.gitbook/assets/image (3).png)**Mapeo Desktop** icon to open the program.
+Mapeo Desktop will open automatically when the installation process finishes. If not, go to your computer's desktop or **Apps** and click the ![](../../../.gitbook/assets/image (3) (1).png)**Mapeo Desktop** icon to open the application.
 
-### Installation on macOS&#x20;
+## Install on macOS ​
 
-1. ​[Download for Mac](https://www.digital-democracy.org/mapeo/latest/mac)​
-2. Find the downloaded Mapeo Installer and double click
-3. Drag the Mapeo icon into your **Applications** folder
-4. Find Mapeo in your **Applications** folder and right click to open
-5. Click **Open**—this verification only happens the first time you use Mapeo
+1. If you don't yet have the installation file for macOS, [download it](installing-mapeo-desktop.md#download-the-installation-file).
+2. Find the Mapeo installation file (`.dmg`) on your computer and double click on it to open.
+3. Drag the Mapeo icon into your **Applications** folder.\ \ ![](../../../.gitbook/assets/Screen Shot 2021-12-21 at 2.02.59 PM.png)\
 
-![](https://gblobscdn.gitbook.com/assets%2F-M-REE35cjP3yjPUt766%2F-M-RIliCEDWBeSE7PC57%2F-M-RJ-kxYLaIQeYd3\_yS%2Finstructions.png?alt=media\&token=61840a96-8787-45c8-a1a1-009f83f82a12)
+4. Once the install is complete, find ![](../../../.gitbook/assets/image (3) (1).png) **Mapeo** in your **Applications** folder and double click it to open.
 
-### Install on Linux&#x20;
+{% hint style="warning" %}
+If you receive a security message that Mapeo cannot be opened, go to **System Preferences**, then select **Security & Privacy.** \ ****\ ****![](../../../.gitbook/assets/Mac\_system\_settings\_security.png)\ \ ****On the bottom half of the window, you should see the message "Mapeo was blocked from use because it is not from an identified developer." Click on **Open anyway**, **** then on **Open** in the pop-up confirmation window. Mapeo Desktop will then open automatically.\ \ ![](../../../.gitbook/assets/Mac\_security\_open\_anyway.png)
+{% endhint %}
 
-1. ​[Download for Linux](https://www.github.com/digidem/mapeo-desktop/releases)​
-2. Pick the release that works for you. We recommend using the `.deb` package for most systems.
-3. Double-click the `.deb` installer.
+## Install on Linux&#x20;
 
-### Installation from a file
+### Download installation file
 
-If you have access to an installation file, you can copy-paste it into any computer and install Mapeo Desktop without the need for an internet connection.&#x20;
+If you don't have the installation file for Linux, [download it](installing-mapeo-desktop.md#download-the-installation-file).
 
-In this example, we will use a USB stick to transfer the installation file from your computer to another one.&#x20;
+### Enable executable permissions
 
-![](../../../.gitbook/assets/image (8).png)
+In order to install from the  `.AppImage` file, you'll need to ensure that the file has permissions to run as a program. Find where the installation file was saved on your computer and right-click the file. Select **Properties** from the menu.
 
-To do so, follow these steps:
+![](../../../.gitbook/assets/Linux\_right\_click\_appImage.jpg)
 
-1. Make sure that the format of the ![](../../../.gitbook/assets/image.png)**installation file** that you have on ![](../../../.gitbook/assets/image (6).png)your computer matches the operative system of the ![](../../../.gitbook/assets/image (1).png)computer in which you want to install Mapeo Desktop:
-   * For Windows, `.exe` format&#x20;
-   * For macOS, `.dmg` or `.zip` formats
-   * For Linux, `.AppImage` format
-2. Connect a ![](../../../.gitbook/assets/image (11).png)USB stick to ![](../../../.gitbook/assets/image (6).png)your computer and open it.&#x20;
-3. Localize the ![](../../../.gitbook/assets/image.png)installation file on ![](../../../.gitbook/assets/image (6).png)your computer, click on it with the right button of the mouse, select **Copy**.
-4. Use the right button of the mouse to **Paste **the previously copied installation file into your ![](../../../.gitbook/assets/image (11).png)USB stick folder.
-5. Disconnect the ![](../../../.gitbook/assets/image (11).png)USB stick from ![](../../../.gitbook/assets/image (6).png)your computer and connect it to the ![](../../../.gitbook/assets/image (1).png)computer in which you want to install Mapeo Desktop.&#x20;
-6. Open the USB stick folder and localize the previously pasted ![](../../../.gitbook/assets/image.png)installation file. Click on it with the right button of the mouse and select **Copy**.
-7. On the desktop screen of the ![](../../../.gitbook/assets/image (1).png)computer in which you want to install Mapeo Desktop, click on an empty space with the right button of the mouse and select **Paste**.
+Click on the Permissions tab at the top of the Properties window, then click the checkbox to **Allow this file to run as a program**.
 
-Now that you have copy-pasted the installation file into another computer, follow these steps to install Mapeo:
+![](../../../.gitbook/assets/Linux\_allow\_executable\_permissions.jpg)
 
-#### in a Windows computer:
+### Install
 
-1. Localize the ![](../../../.gitbook/assets/image.png)installation file on ![](../../../.gitbook/assets/image (1).png)the computer, and click on it to execute it. If you get a security message from your operating system, click on **Execute anyway**.
-2. Mapeo Desktop will open automatically when the installation process finishes. If not, go to your computer's desktop and click the ![](../../../.gitbook/assets/image (3).png)**Mapeo Desktop** icon to open the program.
+Double click the `.AppImage` file and Mapeo Desktop should open automatically.
 
-#### in a macOS computer:
+## Installing offline <a href="#installing-offline" id="installing-offline"></a>
 
-#### in a Linux computer:
+If you [previously downloaded](installing-mapeo-desktop.md#download-the-installation-file) or have access to an installation file, you can use it install Mapeo Desktop on other computers ![](../../../.gitbook/assets/NO internet in a computer) without an internet connection.&#x20;
+
+{% hint style="info" %}
+You can copy the installation file to another computer using a ![](../../../.gitbook/assets/USB stick memory)USB drive or send it via ![](../../../.gitbook/assets/Bluetooth) Bluetooth. This does not require an internet connection. For more on these methods, see [sharing-files-between-devices](../../troubleshooting/sharing-files-between-devices/ "mention").
+{% endhint %}
+
+Now that you have pasted the installation file onto another computer, follow these steps to install Mapeo:
+
+* ![](../../../.gitbook/assets/Windows-logo.png) [**Install on Windows**](installing-mapeo-desktop.md#install-on-windows)****
+* ****![](../../../.gitbook/assets/mac.png) [**Install on macOS**](installing-mapeo-desktop.md#installation-on-macos)****
+* ****![](../../../.gitbook/assets/linux.png) [**Install on Linux**](installing-mapeo-desktop.md#install-on-linux)****
