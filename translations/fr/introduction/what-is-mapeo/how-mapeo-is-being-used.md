@@ -4,13 +4,13 @@ Mapeo is currently being used by a variety of communities around the globe to su
 
 ### **Environmental Monitoring in Peru**
 
-![](../../.gitbook/assets/image (6).png)
+![Community monitors from Puerto Luz, Madre de Dios learn to use Mapeo to document unregulated gold mining encroaching on their community. June 2019](../../.gitbook/assets/image (6).png)
 
 > Indigenous Community monitors working within [ECA Amarakaeri in South East Peru are using Mapeo Mobile and Desktop](https://www.earthdefenderstoolkit.com/community/monitoring-the-amarakaeri-communal-reserve-in-peru/) as part of a co-management program of a Reserved area. Together with park rangers, they collect data on illegal gold mining and other impacts to the Reserve and use these for internal decision making and action as well as sharing with the authorities for any illegalities to be addressed.&#x20;
 
 ### **Territory Mapping in Kenya**
 
-![](../../.gitbook/assets/image (3).png)
+![Ogiek Indigenous People of Mount Elgon learning to use Mapeo to map their land. Credits: Chepkitale Indigenous Peoples Development Project](../../.gitbook/assets/image (3).png)
 
 > The [Ogiek Indigenous People of Mount Elgon are using Mapeo Mobile and Desktop to map important sites](https://www.digital-democracy.org/blog/mapping-ogiek-ancestral-lands-in-kenya-using-mapeo-during-a-pandemic/) on their lands as part of a historical land claim.
 
