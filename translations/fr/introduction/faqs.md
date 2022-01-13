@@ -16,7 +16,7 @@ description: >- Frequently asked questions about Mapeo. See the Troubleshooting 
 * How can I report bugs or problems using Mapeo?
 * [What happens if Mapeo loses financial support? Will my data be inaccessible?](faqs.md#what-happens-if-mapeo-loses-financial-support-will-my-data-be-inaccessible)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 For help with technical issues using Mapeo, see the [troubleshooting](../reference-guide/troubleshooting/ "mention") section.
 {% endhint %}
 
