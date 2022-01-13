@@ -1,4 +1,4 @@
-# Essentials for a successful Mapeo project
+# 🗒 Essentials for a successful Mapeo project
 
 On this page...
 
