@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introdução](README.md)
-* [Table of contents](table-of-contents.md)
 
 ## Resumo <a href="#introduction" id="introduction"></a>
 
