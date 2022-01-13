@@ -1,31 +1,34 @@
-# Tools/ecosystem
+# Mapeo tools
 
-There are two, highly-customizable Mapeo tools:
+Mapeo is a set of digital tools, designed to support collaborative data collection and mapping in offline environments.
 
-* **Mapeo Mobile** - a smartphone application
-* **Mapeo Desktop** - a desktop application&#x20;
+There are two highly-customizable Mapeo apps that can be used together or individually, depending on your goals:
 
-Both of these tools are built on top of **Mapeo Core** - the underlying, peer-to-peer database that powers the Mapeo ecosystem.
+* ****[**Mapeo Mobile**](tools.md#mapeo-mobile)
+* ****[**Mapeo Desktop**](tools.md#mapeo-desktop)
 
-### Mapeo Mobile
+![](../../.gitbook/assets/Md\&Mm\&Mcore)
 
-Mapeo Mobile is a smartphone application (currently for Android only) that allows you to collect and map information in the field about places of interest. Using your phone's GPS, you can mark points on a map for your current location and add photos, notes and other details about what is happening. Information can be shared with collaborators who are using Mapeo, or with external contacts via email, SMS, or other messaging apps.
+Mapeo Mobile and Desktop are built on top of [Mapeo Core](peer-to-peer-and-mapeo-sync.md#mapeo-core), an embedded peer-to-peer database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server. For more on peer-to-peer and data sharing with Mapeo, see [peer-to-peer-and-mapeo-sync.md](peer-to-peer-and-mapeo-sync.md "mention").
+
+
+
+## Mapeo Mobile
+
+Mapeo Mobile is a smartphone application (currently for Android only) that allows you to collect and map information. Using your phone's GPS, you can mark points on a map for your current location and add photos, notes and other details about what is happening. Information can be shared with collaborators who are using Mapeo, or with external contacts via email or other messaging apps.
 
 Mapeo Mobile can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information.&#x20;
 
-### Mapeo Desktop
+![](../../.gitbook/assets/Mm tool visual)
 
-Mapeo Desktop is a desktop application that allows you to aggregate, view and manage data collected with Mapeo Mobile.&#x20;
+## Mapeo Desktop
 
-It also offers a simple interface for adding or creating territory data for making maps. Mapeo Desktop provides a basic set of mapping features that is more accessible to new tech users than other available geographic information tools, but exporting maps requires knowledge of other software.
+Mapeo Desktop is a computer application that allows you to aggregate, view and manage data collected with Mapeo Mobile. Data from Mapeo Desktop can be shared with collaborators who are using Mapeo or exported to PDF reports, CSV files, GeoJSON files or published to the web using [Mapeo Webmaps](../../reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md#export-as-web-map).
+
+It also offers a simple interface for adding or creating territory information for making maps. Mapeo Desktop provides a basic set of mapping features that are more accessible to new tech users than other available geographic information tools, but exporting maps requires knowledge of other software.
+
+![On the left side, Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. On the right, Mapeo Desktop is being used to create and export territory information.](../../.gitbook/assets/Md\_usesTerritory.png)
 
 Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information.&#x20;
 
-### Mapeo Core
-
-Mapeo Mobile and Mapeo Desktop are both built on top of Mapeo Core to securely store the geographic data and media created by users. Mapeo Core is an offline-first, peer-to-peer embedded database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server. To read more about Mapeo Core, see [here](https://mapeo-core-docs-git-first-draft-digidem.vercel.app).&#x20;
-
-Mapeo Core is built upon [**Hypercore**](https://hypercore-protocol.org), which is an append-only log of actions (create, edit, delete data). Data is secured by cryptographic proofs -- every record written has a signature that also references the signature of every previous record/row in the log -- so you can never change or edit anything already written to the log. For more on Mapeo Core and data integrity, see here.
-
-### Mapeo Web maps
-
+\ To learn more about additional tools and modules that support use of Mapeo, see [untitled.md](../../for-developers/untitled.md "mention") in the FOR DEVELOPERS section.
