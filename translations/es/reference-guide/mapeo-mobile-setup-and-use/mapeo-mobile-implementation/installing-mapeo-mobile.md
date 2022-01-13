@@ -1,50 +1,66 @@
-# Installation of Mapeo Mobile
+# Installing Mapeo Mobile
 
-If you have an internet connection, download and install Mapeo Mobile for free from the [Google Play Store](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_CA\&gl=US) platform.&#x20;
+There are 2 ways to install Mapeo Mobile on your smartphone:
 
-To install Mapeo Mobile on smartphones that do not have an internet connection, follow the steps below to use an installation file (`.apk`).
+* ****[**Install from Play Store**](installing-mapeo-mobile.md#install-from-play-store)\ If you have an ![](../../../.gitbook/assets/internet connection)**internet connection**, you can download and install Mapeo Mobile for free from the Google Play Store. \
 
-* [Install from Play Store](installing-mapeo-mobile.md#installation-from-play-store-step-by-step)
-* [Install from APK file](installing-mapeo-mobile.md#use-of-installation-file-.apk-step-by-step)
+* ****[**Install from a APK file**](installing-mapeo-mobile.md#install-from-apk-file)\ To install Mapeo Mobile on smartphones that have ![](../../../.gitbook/assets/no internet connection)**no internet** **connection**, you can use an installation file (`.apk`).
 
-### Install from Play Store
+## Install from Play Store
 
 Before you start, make sure that:&#x20;
 
-* You have a good Internet connection.&#x20;
-* You have enough space available on your smartphone for the Mapeo application - we recommend that you have at least 500 MB Megabytes available.&#x20;
+* You have a good ![](../../../.gitbook/assets/internet connection)internet connection.&#x20;
+* You have enough space available on your smartphone for the Mapeo application and data you will collect - we recommend that you have at least 1 GB (gigabyte) <mark style="color:red;"></mark> available.&#x20;
 
-{% hint style="info" %}
-If you need help to check how much space you have available on your smartphone, click here.
-{% endhint %}
+To install Mapeo Mobile on your smartphone from the Google Play Store:
 
-Now, follow these steps to download and install Mapeo Mobile on your smartphone from the Google Play Store:
-
-1. Click ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w)**Play Store** on your smartphone to open the platform.
-2. In the search engine, at the top of the Play Store window, type **Mapeo**, and click on the ![](../../../.gitbook/assets/image (5).png)**magnifying glass** icon at the bottom and right of the keyboard.
-3. Click ![](../../../.gitbook/assets/image (2).png)**Mapeo **in the list of applications.
-4. On the Mapeo Mobile screen within the Play Store platform click on **Install**.
+1. Open the ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w) **Play Store** application on your smartphone.
+2. In the search bar at the top of the Play Store window, type **Mapeo**, and click on the ![](../../../.gitbook/assets/image (5) (1).png)**magnifying glass** icon at the bottom right of the keyboard.
+3. Click ![](../../../.gitbook/assets/image (2) (1).png) **Mapeo** in the list of applications.
+4. On the Mapeo Mobile screen in the Play Store application, click on **Install**.
 5. When the installation process is complete, click on **Open**.
-6. When the Mapeo Mobile application opens on your smartphone, click **ALLOW **on both the camera and GPS permission request messages for the proper functioning of Mapeo. After that, the Mapeo Mobile main screen will open automatically.
+6. When Mapeo Mobile opens, you will be prompted to allow Mapeo access to your phone's camera and GPS for proper functioning of the app. After that, the Mapeo Mobile home screen will open automatically.
+
+![](../../../.gitbook/assets/Play Store - Install Mapeo)  ![](../../../.gitbook/assets/Mapeo permit to take pics, audio, video.jpg)
+
+
 
 {% hint style="info" %}
-The installation process can take a long time (more than 15 min), depending on the quality of your internet connection. If you don't get any messages on the screen, wait until the process finishes.&#x20;
+The installation process can take a long time (![](../../../.gitbook/assets/watch time)more than 15 min), depending on the quality of your internet connection.
 {% endhint %}
 
 {% hint style="warning" %}
-If you don't have enough space available on your smartphone, you will receive a message from Play Store inviting you to delete content and applications from your device to free up space. Click here for help on how to do it.
+If you don't have enough space available on your smartphone, you will receive a message from Play Store inviting you to delete content or applications from your device to free up space.
 {% endhint %}
 
-> ▶ Video available: [How to install Mapeo Mobile from Play Store?](https://www.youtube.com/watch?v=-2EYN4pimXk)
+> ▶ Video available: [How to install Mapeo Mobile from Play Store](https://www.youtube.com/watch?v=-2EYN4pimXk)
+
+## Install from APK file
+
+You can install Mapeo Mobile on a smartphone that does not have an internet connection using a previously downloaded installation file (`.apk`).&#x20;
+
+If you already have the installation file on your device, continue here: [#install-from-an-apk-file](installing-mapeo-mobile.md#install-from-an-apk-file "mention").&#x20;
+
+### Download the installation file
+
+While an internet connection is available, [download the Mapeo installation file ](https://www.digital-democracy.org/mapeo/latest/android)(`.apk`).&#x20;
+
+{% hint style="info" %}
+Once downloaded, the APK file can be shared with other devices and used to install Mapeo offline.
+
+* If you have ![](../../../.gitbook/assets/internet connection)an internet connection, use any messaging app (such as ![](../../../.gitbook/assets/Telegram-logo.png) Telegram or ![](../../../.gitbook/assets/whatsapp icon)WhatsApp) for sending installation files (`.apk`) between smartphones.
+* If you have ![](../../../.gitbook/assets/no internet connection)no internet connection, you can copy the file from a computer using a ![](../../../.gitbook/assets/USB cable)USB cable or send the installation file using ![](../../../.gitbook/assets/Bluetooth) Bluetooth. Read more about how to send a file using these methods in [sharing-files-between-devices](../../troubleshooting/sharing-files-between-devices/ "mention").
+{% endhint %}
 
 ### Install from APK file
 
-You can install Mapeo Mobile on a smartphone that does not have an internet connection using an installation file (`.apk`). To do this, follow the following steps:&#x20;
+1. Locate the Mapeo installation file (`.apk`) on the device.
+2. Tap on the installation file (`.apk`) to open it.
+3. In the pop-up window, click on **INSTALL**. The installation process may take several minutes.&#x20;
+4. Once the installation is complete, click on **OPEN** in the pop-up window.
+5. When Mapeo Mobile opens, you will be prompted to allow Mapeo access to your phone's camera and GPS for proper functioning of the app. After that, the Mapeo Mobile home screen will open automatically.
 
-1. Locate and/or download the Mapeo installation file (`.apk`). Here you will find more information on how to get an installation file.
-2. Click on the installation file (`.apk`) to open it.
-3. On the pop-up screen, click on **INSTALL**. The installation process may take a few minutes. Wait until the process finishes.
-4. When installation is complete, on the pop-up screen click **OPEN**.
-5. When the Mapeo Mobile application opens on your smartphone, click **ALLOW **on both the camera and GPS permission request messages for the proper functioning of Mapeo. After that, the Mapeo Mobile main screen will open automatically.
+![](../../../.gitbook/assets/Download APK from Telegram (2) (1).jpg)  ![](../../../.gitbook/assets/Install Mapeo from APK - INSTALL option.jpg)  ![](../../../.gitbook/assets/Post install from APK - Open Mapeo.jpg)  ![](../../../.gitbook/assets/Mapeo permit to take pics, audio, video.jpg)
 
-> ▶ Video available: [How to install Mapeo Mobile from an APK file?](https://www.youtube.com/watch?v=eMJW1Hx3xQg)
+> ▶ Video available: [How to install Mapeo Mobile from an APK file](https://www.youtube.com/watch?v=eMJW1Hx3xQg)

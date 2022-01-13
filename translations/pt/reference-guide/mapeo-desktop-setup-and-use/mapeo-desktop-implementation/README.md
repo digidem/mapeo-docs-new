@@ -1,15 +1,16 @@
-# Preparando o equipamento para o Mapeo Desktop
+# 💻 Mapeo Desktop installation & setup
+
+This section will cover all the necessary steps to install and set up Mapeo Desktop on your computer:
+
+* [installing-mapeo-desktop.md](installing-mapeo-desktop.md "mention")
+* [app-settings.md](app-settings.md "mention")
+* [importing-configurations.md](importing-configurations.md "mention")
+* [installing-offline-maps.md](installing-offline-maps.md "mention")
+* [updating-mapeo-desktop.md](updating-mapeo-desktop.md "mention")\
 
 
+Before you start, make sure that:
 
-Before you start, make sure that:&#x20;
+* Your computer ![](../../../.gitbook/assets/battery) battery is fully charged or you have access to a charger and  ![](../../../.gitbook/assets/plug)electrical outlet.
+* Your computer is ![](../../../.gitbook/assets/virus free bug free) virus-free.
 
-* The computer's battery is charged and/or you have access to an electricity point or a portable battery for computers.&#x20;
-* The computer is virus-free.&#x20;
-* The computer's operating system is Windows, macOS, and Linux. We have yet to find an OS not compatible with Mapeo.
-
-
-
-This section will cover:
-
-*

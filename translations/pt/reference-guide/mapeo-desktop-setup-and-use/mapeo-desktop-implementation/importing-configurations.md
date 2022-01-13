@@ -1,13 +1,23 @@
 # Importing configurations to Mapeo Desktop
 
-Mapeo Desktop comes with a _default configuration_. The default configuration is the set of categories, icons, and forms that Mapeo uses automatically after its installation.&#x20;
+To start using a custom configuration, you'll need to import the new configuration file into Mapeo Desktop. For more on configurations, see [custom-configurations](../../pre-launch-deployment-preparation/custom-configurations/ "mention").
 
-If your Mapeo project has a _custom configuration_, follow these steps to import and use it to Mapeo Desktop:
+## Locate the configuration file
 
-1. Download or copy the custom configuration file (eg. `example_project.mapeosettings`) onto your computer. Note which folder the file was saved in.&#x20;
-2. Open ![](../../../.gitbook/assets/image (3).png)**Mapeo Desktop**. On the **Top menu** bar, click **File **and select **Import Configuration**.&#x20;
-3. In the pop-up window, browse inside your computer until you find the custom configuration (`.mapeosettings`) that you want to import. Click on the file and then click **Open**. After a few seconds, the settings will have been imported.
+Download or copy the custom configuration file (eg. `example_project.mapeosettings`) onto your computer. Note which folder the file was saved in.&#x20;
 
-![](https://lh4.googleusercontent.com/bxSDQ0b8gLkuoHadzNBzYowF-cmb0SkR3OvUuuXYSWFi0gWbZd-wkBp3E44vnm9IxMoSV5lRDnV0WInE6Fg9-m\_3eAR6--Ur7QPJVjltNbdVIf2dx8FkXe\_6g0a2tg)
+{% hint style="info" %}
+For sending configuration files (`.mapeosettings`) between computers that have an![](../../../.gitbook/assets/internet in a computer) internet connection, we recommend using email or the ![](../../../.gitbook/assets/Telegram-logo.png) **Telegram Desktop** app, as other messaging applications have problems with this file format.&#x20;
+
+
+
+If you have ![](../../../.gitbook/assets/NO internet in a computer) no internet connection, you can copy the file from a computer using a ![](../../../.gitbook/assets/USB stick memory)USB drive or send the file via ![](../../../.gitbook/assets/Bluetooth) Bluetooth. For more on these methods, see:  [sharing-files-between-devices](../../troubleshooting/sharing-files-between-devices/ "mention").
+{% endhint %}
+
+## Import the configuration
+
+1. Open ![](../../../.gitbook/assets/image (3) (1).png) **Mapeo Desktop.**&#x20;
+2. On the **Top menu** bar, click **File** and select **Import Configuration**.&#x20;
+3. In the pop-up window, navigate to the folder on the computer where you saved the configuration file (`.mapeosettings`) you want to import. Click on the file, then click **Open**. You may see a white screen for a few seconds while the configuration changes.
 
 ![](https://lh6.googleusercontent.com/mIfll6BAJm8b6jCZ3gM5bmhv43GZAzsK07JAPAph1Qbqh\_DMBXtgXUXE4LZPp5zK9feUdth3X9AtdG83obxsHIRkNC6FvYNS-Gb4vHTNg6FDcjpEDchhIBTLpuKXFQ)

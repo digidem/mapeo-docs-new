@@ -1,21 +1,12 @@
-# Mapeo defaults & customization options
+# ⚙ Customization options
 
-### Will Mapeo work out-of-the-box for me?
+Mapeo was built to be highly customizable and allow users to adapt its interface to meet the needs of specific projects. This section covers both translation of the application and the development of custom configurations and base maps in the pages below:
 
-When you install Mapeo, it will come with basic default settings that can be used right away, without any customization. The section below details what is automatically included with Mapeo so you can determine whether the app will meet your needs out-of-the-box.
+* [translating-mapeo-and-default-configurations.md](translating-mapeo-and-default-configurations.md "mention") (novice, intermediate)
+* [custom-configurations](custom-configurations/ "mention")(advanced)
+* [custom-base-maps](custom-base-maps/ "mention") (advanced)
 
-Mapeo offers many options for customizing basemaps, categories, icons, questionnaires, and language, but the current customization process requires significant technical knowledge and will not be accessible to many users
-
-* Default categories, icons and questions
-* Default base map
-* Custom categories, icons and questions
-* Custom base maps
-
-### **Default categories, icons and questions**
-
-Mapeo comes with the a default configuration that includes the following data collection categories. Observations that do not fit these categories can always be collected using the **New point **category.
-
-![](../../.gitbook/assets/Default\_categories\_2 (1).jpg)
-
-
+{% hint style="warning" %}
+Please note that the customization process for configurations and base maps currently requires significant technical knowledge and will not be accessible to all users.
+{% endhint %}
 

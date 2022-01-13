@@ -1,4 +1,4 @@
-# Getting started
+# Começando
 
 Some intro text: The Quick Start Guide is intended to help you install and test out the basics of Mapeo in order to evaluate whether it will be a good fit. The full Reference Guide below includes critical information about how to design and implement a project and we recommend using it for starting a new initiative with Mapeo or as a training reference.
 

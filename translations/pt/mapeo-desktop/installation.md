@@ -1,4 +1,4 @@
-# Installation
+# Instalação
 
 Install info
 
