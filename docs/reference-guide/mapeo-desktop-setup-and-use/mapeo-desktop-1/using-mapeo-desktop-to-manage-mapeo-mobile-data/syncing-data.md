@@ -182,7 +182,7 @@ When the synchronization is complete, ![](<../../../../.gitbook/assets/image (1)
 
 To learn about viewing and managing synchronized data in Mapeo Desktop, continue to:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../mapeo-mobile-setup-and-use/use-mapeo-mobile/view-data-on-mobile.md" %}
+[view-data-on-mobile.md](../../../mapeo-mobile-setup-and-use/use-mapeo-mobile/view-data-on-mobile.md)
 {% endcontent-ref %}
 
