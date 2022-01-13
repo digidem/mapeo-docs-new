@@ -6,11 +6,11 @@ Mapeo foi desenvolido pela Democracia Digital com e para defensores da terra par
 
 ![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines](../.gitbook/assets/ac-siona2-1024x683.jpg)
 
-## About this Guide
+## Sobre este guia
 
 Este site fornece uma introdução às ferramentas Mapeo e uma coleção de recursos de capacitação e apoio técnico e para apoiar os usuários do Mapeo.
 
-The site is divided into the following sections:
+O site é dividido nas seguintes seções:
 
 * **Visão geral**\ Informações básicas sobre as ferramentas Mapeo
 * **Guia de início rápido**\ Instruções para instalar e testar a funcionalidade básica do Mapeo
@@ -18,7 +18,7 @@ The site is divided into the following sections:
 
 ### Uso deste guia
 
-A Democracia Digital quere que o Mapeo e os materiais de referência Mapeo que desenvolvemos ajudem às comunidades a encontrarem formas de apoiar a **autonomia**, **acessibilidade** e **colaboração** em seus projetos. Sabemos que as pessoas que acederem a este recurso on-line terão diversos interesses, objetivos, necessidades e capacidades técnicas. Por esta razão, há uma variedade de caminhos para acessar informações e níveis de detalhes que os usuários podem procurar.  All pages in this guide can also be [saved in PDF format and printed for use offline](reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md).
+A Digital Democracy gostaria que o Mapeo e os materiais de referência que desenvolvemos ajudem às comunidades a encontrarem formas de apoiar a **autonomia**, **acessibilidade** e **colaboração** em seus projetos. Sabemos que as pessoas que acederem a este recurso on-line terão diversos interesses, objetivos, necessidades e capacidades técnicas. Por esta razão, há uma variedade de caminhos para acessar as informações e níveis de detalhes que os usuários podem procurar.  Todas as páginas neste guia também podem ser [salvas em formato PDF e impressas para usar offline](reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md).
 
 _Sinta-se à vontade para fazer uso desses recursos sob os termos de licença criativa comum:_ [Attribution-NonCommercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/)&#x20;
 
