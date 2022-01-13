@@ -6,7 +6,7 @@ Mapeo uses base maps to show users their current location in the mobile app and 
 
 ### Mapeo's default base map <a href="#default-base-map" id="default-base-map"></a>
 
-By default, when the device has access to the internet, Mapeo uses a detailed base map that includes geographical elements such as rivers and hills, as well as some political and urban elements such as borders, cities, roads, and others.
+By default, when the device has access to the internet, Mapeo uses a detailed base map that includes geographic elements such as rivers and mountains, as well as some political and urban elements such as borders, cities, roads, and others.
 
 If the device is not connected to the internet, the base map shown by default is much less detailed. In Mapeo Mobile, the offline base map shows country borders and the main water bodies. In Mapeo Desktop, there is currently no default offline base map.
 
@@ -23,4 +23,4 @@ If the device is not connected to the internet, the base map shown by default is
 
 ### Beyond the default base map
 
-Mapeo offers the option to add a custom base map for use both offline and online. For more on creating and adding custom base maps, see [custom-base-maps.md](../pre-launch-deployment-preparation/custom-base-maps.md "mention").
+Mapeo offers the option to add a custom base map for use both offline and online. For more on creating and adding custom base maps, see [custom-base-maps](../pre-launch-deployment-preparation/custom-base-maps/ "mention").

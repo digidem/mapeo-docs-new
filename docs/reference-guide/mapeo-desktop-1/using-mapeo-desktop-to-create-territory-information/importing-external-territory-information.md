@@ -1,2 +1,0 @@
-# Importing external territory information
-

@@ -7,5 +7,3 @@ description: >-
 
 # References
 
-dd
-

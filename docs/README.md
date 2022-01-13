@@ -4,7 +4,7 @@
 
 Mapeo was built by [Digital Democracy](https://www.digital-democracy.org) with and for earth defenders to easily document environmental & human rights information and to collect data about their land. It was designed to work in entirely offline environments, is highly customizable, and built on a decentralized peer-to-peer database that allows communities to own their own data.
 
-![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines](.gitbook/assets/AC-Siona2-1024x683.jpg)
+![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines](../.gitbook/assets/ac-siona2-1024x683.jpg)
 
 ## About this Guide
 
@@ -21,20 +21,20 @@ The site is divided into the following sections:
 
 ### Use of this guide
 
-Digital  Democracy would like both Mapeo and the Mapeo reference materials we develop to help communities find ways to support **autonomy**, **accesibility** and **collaboration** in their projects. We know that people accessing this online resource will have diverse interests, goals, needs, and technical literacy. For this reason, there are a variety of paths to access information and levels of details users may be looking for.  In addition, we are including commonly requested printable versions of instructions in respective sections.&#x20;
+Digital  Democracy would like both Mapeo and the Mapeo reference materials we develop to help communities find ways to support **autonomy**, **accesibility** and **collaboration** in their projects. We know that people accessing this online resource will have diverse interests, goals, needs, and technical literacy. For this reason, there are a variety of paths to access information and levels of details users may be looking for.  All pages in this guide can also be [saved in PDF format and printed for use offline](reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md).
 
 _Feel free to make use of these resources under the creative commons license terms:_ [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)&#x20;
 
 ### Contributions
 
-Feedback, edits, and additions to these materials are welcome! They can be provided here: `(is gitbook the best way?)`
+Feedback, edits, and additions to these materials are welcome! External edits and additions are currently only possible via pull requests to the [mapeo-docs-new repository](https://github.com/digidem/mapeo-docs-new) on GitHub.
 
 **Translation**\
 ****We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](reference-guide/pre-launch-deployment-preparation/translating-mapeo-and-default-configurations.md) to learn how to get started.
 
 #### Open Source Development
 
-Mapeo and all of Digital Democracy's technical development is open source. Visit the __ **FOR DEVELOPERS** <mark style="color:blue;"></mark> section for more information.
+Mapeo and all of Digital Democracy's technical development is open source. Visit the __ [FOR DEVELOPERS](broken-reference) <mark style="color:blue;"></mark> section for more information.
 
 
 
