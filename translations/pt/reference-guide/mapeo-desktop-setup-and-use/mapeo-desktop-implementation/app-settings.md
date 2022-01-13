@@ -1,23 +1,12 @@
-# App settings
+# Choosing Mapeo Desktop language
 
-These are some of the settings that you can easily change in Mapeo Desktop:
+Mapeo Desktop is currently available in Spanish (es), English (en), Portuguese (pt) and French (fr), Thai (th), Vietnamese (vi) and Khmer (km), but it can be translated into any language using [Crowdin](https://crowdin.com). For more on translation, see: [translating-mapeo-and-default-configurations.md](../../pre-launch-deployment-preparation/translating-mapeo-and-default-configurations.md "mention").&#x20;
 
-* [Language](app-settings.md#language)
-* [GPS coordinate format](app-settings.md#gps-coordinate-format)
+Changing the language of Mapping Desktop is a simple step and does not affect the data collected or the categories used to create observations. Mapeo Desktop should open initially in the current language you have selected for your computer's operating system.\ \ To change the Mapeo Desktop language:
 
-## Language
-
-At the moment, Mapeo Desktop is available in the following languages: Spanish (es), English (en), Portuguese (pt) and French (fr), Thai (th), Vietnamese (vi) and Khmer (km).&#x20;
-
-Changing the language of Mapping Desktop is a simple step and does not affect the data collected or the categories used to create observations.&#x20;
-
-Follow these steps to change the Mapeo Desktop language:
-
-1. Open ![](../../../.gitbook/assets/image (3).png)**Mapeo Desktop**.
-2. On the **Top menu** bar, click on **View **and select **Change language**.
-3. Select the desired language and click on <mark style="color:blue;">**SUMBIT**</mark>. After a few seconds, the language will have been changed.
-
-![](https://lh5.googleusercontent.com/M8kmju0cTcx1wki1Suum5NTiLSymwU9ZlCKbqZMaxmwLip1RXCbvaNk-p7sQWYgnSuNsvcmsCwSMfT3RtmO5i6jfn0g3CNEqQz9nczMQiDxbsnDHWmaRCG5quX2\_yA)
+1. Open ![](../../../.gitbook/assets/image (3) (1).png)**Mapeo Desktop**.
+2. On the **Top menu** bar, click on **View** and select **Change language**.
+3. Select the desired language and click on <mark style="color:blue;">**SUBMIT**</mark>. You may see a white screen for a few seconds as the interface language changes.
 
 ![](https://lh5.googleusercontent.com/kLFIM6fzcbeJmbZphm-IMpd-fKRPZw9n\_D5ACSQm-F\_ZiYccPo44MBIZKq6mvY97mRy9dT2mIwRjKqKqsXidyVo8wg4Yu-9H5oDxrHRADAk7EoOIvd5fjpjEmF\_7oQ)
 
@@ -25,7 +14,5 @@ Follow these steps to change the Mapeo Desktop language:
 If the language does not change automatically, restart Mapeo Desktop.
 {% endhint %}
 
-## GPS coordinate format
 
-ADD
 
