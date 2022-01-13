@@ -1,3 +1,6 @@
 # Security & risk assessment
 
-\[OTF content from Aliya & Emilie]
+{% hint style="info" %}
+Coming soon
+{% endhint %}
+
