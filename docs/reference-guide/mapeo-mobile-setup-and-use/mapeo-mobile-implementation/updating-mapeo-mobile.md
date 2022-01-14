@@ -5,10 +5,10 @@ Like most existing apps, Mapeo Mobile is in continuous development. We frequentl
 The process to update Mapeo Mobile is very similar to the installation process and there are 3 ways to do it:
 
 * ****[**Update from Play Store**](updating-mapeo-mobile.md#install-from-play-store)\
-  If you have an ![](<../../../.gitbook/assets/internet connection>)**internet connection**, update to the latest version of Mapeo Mobile from the ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w) [Google Play Store](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_CA\&gl=US). The steps are the same as for installing Mapeo: [#install-from-play-store](installing-mapeo-mobile.md#install-from-play-store "mention")\
+  If you have an ![](../../../.gitbook/assets/Internet\_connection.png)**internet connection**, update to the latest version of Mapeo Mobile from the ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w) [Google Play Store](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_CA\&gl=US). The steps are the same as for installing Mapeo: [#install-from-play-store](installing-mapeo-mobile.md#install-from-play-store "mention")\
 
 * ****[**Update from an APK file**](updating-mapeo-mobile.md#install-from-apk-file)\
-  To update Mapeo Mobile on smartphones that have ![](<../../../.gitbook/assets/no internet connection>)**no internet** **connection**, follow the same steps as for installing the app using an installation file (`.apk`), this time using a more recent installation file: [#install-from-apk-file](installing-mapeo-mobile.md#install-from-apk-file "mention")\
+  To update Mapeo Mobile on smartphones that have ![](../../../.gitbook/assets/no\_internet\_connection.png)**no internet** **connection**, follow the same steps as for installing the app using an installation file (`.apk`), this time using a more recent installation file: [#install-from-apk-file](installing-mapeo-mobile.md#install-from-apk-file "mention")\
 
 * [**Update via peer-to-peer sync**](updating-mapeo-mobile.md#updating-mapeo-mobile-via-sync) (\*Experimental)\
   We are currently developing a way to automatically update the version of the app offline via peer-to-peer synchronization. This is still an experimental feature. To read more about it and how to test it, see: [#updating-mapeo-mobile-via-sync](updating-mapeo-mobile.md#updating-mapeo-mobile-via-sync "mention")
@@ -46,17 +46,17 @@ To view all previous versions of Mapeo Mobile, including release notes for chang
 
 We are currently developing a way to automatically update the version of the application offline. This update would happen every time that a Mapeo Mobile user synchronizes with a mobile device that uses a newer version of Mapeo.
 
-![](<../../../.gitbook/assets/p2p upgrade Mapeo version>)
+![](../../../.gitbook/assets/p2p\_upgrade\_Mapeo\_version.png)
 
 ### Want to try it out?
 
-To test out this feature, you will need to enable it within the **Experiments** menu. To do so, tap the ![](<../../../.gitbook/assets/app icons\_Observation-list\_GREY.png>)**Observations list** button, then tap ![](<../../../.gitbook/assets/app icons\_Settings.png>)**Settings**, and select **Experiments**. Select the **P2P upgrades** checkbox to activate.
+To test out this feature, you will need to enable it within the **Experiments** menu. To do so, tap the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png)**Observations list** button, then tap ![](../../../.gitbook/assets/app\_icons\_Settings.png)**Settings**, and select **Experiments**. Select the **P2P upgrades** checkbox to activate.
 
-![](<../../../.gitbook/assets/Settings screen - Experiments.jpg>)  ![](<../../../.gitbook/assets/Experiments - select P2P upgrade.jpg>)
+![](../../../.gitbook/assets/Mm\_Settings\_screen\_experiments.jpg)  ![](../../../.gitbook/assets/Mm\_Experiments\_screen-select\_P2P\_upgrade.jpg)
 
 
 
-Once you have activated the experimental **P2P upgrades** feature, you will be able to see available app updates on the ![](<../../../.gitbook/assets/app icons\_Sync.png>) **Synchronize** screen when synchronizing with other Mapeo Mobile users.
+Once you have activated the experimental **P2P upgrades** feature, you will be able to see available app updates on the ![](../../../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** screen when synchronizing with other Mapeo Mobile users.
 
 ![](../../../.gitbook/assets/Mm\_sync\_checking\_p2p\_updates.jpg)&#x20;
 

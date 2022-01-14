@@ -34,7 +34,7 @@ Feedback, edits, and additions to these materials are welcome! External edits an
 
 #### Open Source Development
 
-Mapeo and all of Digital Democracy's technical development is open source. Visit the __ [FOR DEVELOPERS](broken-reference) <mark style="color:blue;"></mark> section for more information.
+Mapeo and all of Digital Democracy's technical development is open source. Visit the __ [FOR DEVELOPERS](for-developers/untitled.md) <mark style="color:blue;"></mark> section for more information.
 
 
 

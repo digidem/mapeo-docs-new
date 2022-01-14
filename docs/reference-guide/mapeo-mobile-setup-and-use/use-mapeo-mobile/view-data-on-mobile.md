@@ -14,7 +14,7 @@ Note that observations you have just collected may appear directly below the blu
 
 To view the details of an observation, tap on the orange dot marking the observation to open the **View observation** screen.&#x20;
 
-![](<../../../.gitbook/assets/Home screen - tab an observation dot.jpg>)  ![](../../../.gitbook/assets/View\_observation\_screen.jpg)
+![](../../../.gitbook/assets/Homescreen-tap\_observation\_dot.jpg)  ![](../../../.gitbook/assets/View\_observation\_screen.jpg)
 
 {% hint style="info" %}
 If you have collected several observations in a small geographic area, you may need to zoom in on the map to see the different points.
@@ -22,13 +22,13 @@ If you have collected several observations in a small geographic area, you may n
 
 ## View observations in a list
 
-Tap ![](<../../../.gitbook/assets/app icons\_Observation-list\_GREY.png>) **Observations list** on the home screen to view your observations in list form.
+Tap ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** on the home screen to view your observations in list form.
 
-![](<../../../.gitbook/assets/Home screen - Observations\_list\_button.jpg>)  ![](../../../.gitbook/assets/Observations\_list\_screen.jpg)\
+![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Observations\_list\_screen.jpg)\
 
 
 To view the details of an observation, tap on any observation in the list to open the **View observation** screen.&#x20;
 
-![](<../../../.gitbook/assets/Observation List screen - select observation>)  ![](../../../.gitbook/assets/View\_observation\_screen.jpg)
+![](../../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg)  ![](../../../.gitbook/assets/View\_observation\_screen.jpg)
 
 ****

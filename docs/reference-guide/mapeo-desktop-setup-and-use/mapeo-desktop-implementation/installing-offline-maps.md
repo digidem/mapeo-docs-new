@@ -21,7 +21,7 @@ Mapeo base maps will often be shared as a compressed file`(.zip)`. If your base 
 
 Standard vector base maps for Mapeo will contain the file elements listed below: 3 folders and 2 files.
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](../../../.gitbook/assets/Vector\_base\_map\_files.jpg)
 
 {% hint style="info" %}
 Raster base maps will contain different files and folders than those pictured above. Raster maps for Mapeo consist of one folder (`tiles`) and one file (`style.json`).
@@ -38,7 +38,7 @@ Select and copy all of the elements found inside your base map folder.
 
 ### Reload **Mapeo Desktop**
 
-Use **Ctrl + R** on your keyboard to reload Mapeo or restart ![](<../../../.gitbook/assets/image (3) (1).png>) **Mapeo Desktop** to begin using the custom base map.
+Use **Ctrl + R** on your keyboard to reload Mapeo or restart ![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** to begin using the custom base map.
 
 {% hint style="info" %}
 For more on loading custom base maps into **Territory** mode in Mapeo Desktop, see [changing-basemaps.md](../mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/changing-basemaps.md "mention") in the [using-mapeo-desktop-to-create-territory-information](../mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/ "mention") section.
@@ -52,7 +52,7 @@ Mapeo base maps will often be shared as a compressed file`(.zip)`. If your base 
 
 A Mapeo base map consists of several folders and files that need to be copied into the file system of Mapeo Desktop. Standard vector base maps for Mapeo will contain the file elements listed below - 3 folders and 2 files.
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](../../../.gitbook/assets/Vector\_base\_map\_files.jpg)
 
 {% hint style="info" %}
 Raster base maps will contain different files and folders than those pictured above. Raster maps for Mapeo consist of one folder (`tiles`) and one file (`style.json`).
@@ -74,7 +74,7 @@ Paste the base map elements you copied into the **default** folder.
 
 ### Restart **Mapeo Desktop**
 
-Use **Command (⌘)-R** on your keyboard to reload Mapeo or restart ![](<../../../.gitbook/assets/image (3) (1).png>) **Mapeo Desktop** to begin using the custom base map.
+Use **Command (⌘)-R** on your keyboard to reload Mapeo or restart ![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** to begin using the custom base map.
 
 {% hint style="info" %}
 For more on loading custom base maps into **Territory** mode in Mapeo Desktop, see [changing-basemaps.md](../mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/changing-basemaps.md "mention") in the [using-mapeo-desktop-to-create-territory-information](../mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/ "mention") section.

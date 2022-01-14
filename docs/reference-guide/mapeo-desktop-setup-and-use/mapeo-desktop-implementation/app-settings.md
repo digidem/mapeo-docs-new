@@ -6,7 +6,7 @@ Changing the language of Mapping Desktop is a simple step and does not affect th
 \
 To change the Mapeo Desktop language:
 
-1. Open ![](<../../../.gitbook/assets/image (3) (1).png>)**Mapeo Desktop**.
+1. Open ![](../../../.gitbook/assets/Mapeo\_Desktop.png)**Mapeo Desktop**.
 2. On the **Top menu** bar, click on **View** and select **Change language**.
 3. Select the desired language and click on <mark style="color:blue;">**SUBMIT**</mark>. You may see a white screen for a few seconds as the interface language changes.
 

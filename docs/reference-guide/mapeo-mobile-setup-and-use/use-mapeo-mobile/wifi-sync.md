@@ -4,9 +4,9 @@
 
 Mapeo Mobile allows you to synchronize the data you have collected with other Mapeo users that are members of the same project. **Syncing data does not require an internet connection and can be done in entirely offline areas**.
 
-For devices to sync, both need to be in the same place and connected to the same![](../../../.gitbook/assets/wifi-cropped-01.png) Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**. In offline environments, a local WiFi network can be created using a ![](../../../.gitbook/assets/router)mobile wireless router, or by creating a ![](../../../.gitbook/assets/hotspot)hotspot using a third smartphone.
+For devices to sync, both need to be in the same place and connected to the same![](../../../.gitbook/assets/wifi-cropped-01.png) Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**. In offline environments, a local WiFi network can be created using a ![](../../../.gitbook/assets/Router\_icon.png)mobile wireless router, or by creating a ![](../../../.gitbook/assets/hotspot.png)hotspot using a third smartphone.
 
-![In offline environments, you can create a local WiFi network (without internet) using a mobile wireless router.](<../../../.gitbook/assets/Mobile sync visuals - 1>)
+![In offline environments, you can create a local WiFi network (without internet) using a mobile wireless router.](../../../.gitbook/assets/Mm-Mm\_sync\_via\_WiFi.png)
 
 {% hint style="info" %}
 For more on how to create a local Wi-Fi network, see [creating-local-wi-fi-networks.md](../../troubleshooting/creating-local-wi-fi-networks.md "mention")
@@ -25,7 +25,7 @@ It is important to create project **synchronization protocols** <mark style="col
 
 Connect both devices to the same Wi-Fi network. **Wi-Fi** settings can generally be found in the Quick Settings menu, which can be accessed by swiping down from the top of your screen.
 
-![](<../../../.gitbook/assets/WiFi phone activate.jpg>)
+![](../../../.gitbook/assets/WiFi\_phone\_activate.jpg)
 
 {% hint style="info" %}
 For more on how to connect to Wi-Fi, see [#connect-to-wi-fi-on-a-smartphone](../../troubleshooting/connecting-to-wi-fi.md#connect-to-wi-fi-on-a-smartphone "mention").
@@ -33,9 +33,9 @@ For more on how to connect to Wi-Fi, see [#connect-to-wi-fi-on-a-smartphone](../
 
 ## Enter Synchronize mode
 
-Tap the ![](<../../../.gitbook/assets/app icons\_Sync.png>) **Synchronize** button on the Mapeo home screen of both devices to go to the **Synchronize** screen.
+Tap the ![](../../../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** button on the Mapeo home screen of both devices to go to the **Synchronize** screen.
 
-![](<../../../.gitbook/assets/Home screen - Sync\_button.jpg>) &#x20;
+![](../../../.gitbook/assets/Homescreen-Sync\_button.jpg) &#x20;
 
 \
 The **Synchronize** screen will show whether you are connected to a Wi-Fi network. If connected, you will be able to see the name of the network you are connected to in the top left of the **navy blue bar**. You will also be able to see the unique identification number of your device on the right side of the navy bar.
@@ -59,9 +59,9 @@ Click on the **Sync** button beside the device name to begin the exchange of dat
 
 ## View synced observations
 
-You can view new observation data received in the synchronization by looking at the points on the home ![](../../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](<../../../.gitbook/assets/app icons\_Observation-list\_GREY.png>) **Observations list** screen.
+You can view new observation data received in the synchronization by looking at the points on the home ![](../../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** screen.
 
-![](<../../../.gitbook/assets/Home screen - Observations\_list\_button.jpg>)  ![](../../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
+![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
 
 In the **Observations list** screen, observations collected by other devices will appear with a blue bar on the left side.&#x20;
 
