@@ -4,13 +4,13 @@
 
 Select the observation you would like to edit and open it. You can open the observation by tapping on the dot marking the observation on the home ![](../../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen:
 
-![](../../../.gitbook/assets/Home screen - tab an observation dot.jpg)
+![](../../../.gitbook/assets/Homescreen-tap\_observation\_dot.jpg)
 
-or by tapping the observation on the ![](../../../.gitbook/assets/app icons\_Observation-list\_GREY.png) **Observations list** screen:
+or by tapping the observation on the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** screen:
 
-![](../../../.gitbook/assets/Home screen - Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Observation List screen - select observation)
+![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg)
 
-Once you are on the **View observation** screen, tap ![](../../../.gitbook/assets/app icons\_Edit-pencil.png) **Edit observation** to modify the information collected.&#x20;
+Once you are on the **View observation** screen, tap ![](../../../.gitbook/assets/app\_icons\_Edit-pencil.png) **Edit observation** to modify the information collected.&#x20;
 
 ![](../../../.gitbook/assets/Edit\_observation\_button.jpg)
 
@@ -24,15 +24,15 @@ In Mapeo Mobile, you can only edit or delete observations that have been created
 
 ## Save changes
 
-Tap ![](../../../.gitbook/assets/app icons\_Save-check.png) **Save** to save the changes you have made. Tap ![](../../../.gitbook/assets/app icons\_back arrow.png) **Back** to return the **Map** view.
+Tap ![](../../../.gitbook/assets/app\_icons\_Save-check.png) **Save** to save the changes you have made. Tap ![](../../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** to return the **Map** view.
 
-<mark style="background-color:orange;"></mark>![](../../../.gitbook/assets/Save observation.jpg)<mark style="background-color:orange;"></mark>
+<mark style="background-color:orange;"></mark>![](../../../.gitbook/assets/Mm\_Save\_observation.jpg)<mark style="background-color:orange;"></mark>
 
-To exit without saving your changes, tap  ![](../../../.gitbook/assets/app icons\_back arrow.png) **Back** and confirm you want to discard changes.
+To exit without saving your changes, tap  ![](../../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** and confirm you want to discard changes.
 
 ## Delete observations
 
-To delete an observation you have collected, scroll to the bottom of the  **View observation** screen and tap ![](../../../.gitbook/assets/app icons\_Delete-trash.png) **Delete**.&#x20;
+To delete an observation you have collected, scroll to the bottom of the  **View observation** screen and tap ![](../../../.gitbook/assets/app\_icons\_Delete-trash.png) **Delete**.&#x20;
 
 ![](../../../.gitbook/assets/Delete\_button.jpg)
 
