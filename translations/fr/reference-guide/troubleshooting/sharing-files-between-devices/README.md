@@ -2,25 +2,25 @@
 
 See the sections below for different file sharing options:
 
-* [Sharing files between devices with an ![](<../../../.gitbook/assets/internet connection>)**internet connection**](./#sharing-files-between-devices-with-an-internet-connection)****
-* [Sharing files between devices with  ![](<../../../.gitbook/assets/no internet connection>)**no internet connection**](./#sharing-files-between-devices-with-no-internet-connection)****
+* [Sharing files between devices with an ![](../../../.gitbook/assets/Internet\_connection.png)**internet connection**](./#sharing-files-between-devices-with-an-internet-connection)****
+* [Sharing files between devices with  ![](../../../.gitbook/assets/no\_internet\_connection.png)**no internet connection**](./#sharing-files-between-devices-with-no-internet-connection)****
 
 ## **Sharing files between devices with an internet connection**
 
-If you have access to an ![](../../../.gitbook/assets/internet connection)**internet connection**, you can share files in multiple ways. The optimal way depends on the size and type of the file. Below are our recommendations:
+If you have access to an ![](../../../.gitbook/assets/Internet\_connection.png)**internet connection**, you can share files in multiple ways. The optimal way depends on the size and type of the file. Below are our recommendations:
 
-#### ![](../../../.gitbook/assets/image (2) (1).png) **Mapeo Mobile**
+#### ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**
 
 For Mapeo Mobile, we recommend using the free ![](../../../.gitbook/assets/Telegram-logo.png)**Telegram** app **** or **email** for sending the following files, as other apps encounter problems with the size and type of the files:
 
 * Configuration files (`.mapeosettings`)&#x20;
 * Installation files for Mapeo Mobile (`.apk`)
 
-To share and add <mark style="background-color:yellow;">base maps</mark> to Mapeo Mobile, we recommend using a computer and a ![](../../../.gitbook/assets/USB cable)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [installing-offline-maps.md](../../mapeo-mobile-setup-and-use/mapeo-mobile-implementation/installing-offline-maps.md "mention")\ \ You can also share larger files (up to 2GB) for free via Drive, Dropbox, WeTransfer or other online platforms.
+To share and add base maps to Mapeo Mobile, we recommend using a computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [installing-offline-maps.md](../../mapeo-mobile-setup-and-use/mapeo-mobile-implementation/installing-offline-maps.md "mention")\ \ You can also share larger files (up to 2GB) for free via Drive, Dropbox, WeTransfer or other online platforms.
 
 
 
-![](../../../.gitbook/assets/image (3) (1).png) **Mapeo Desktop**
+![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**
 
 For Mapeo Desktop, you can use multiple platforms to share the files.&#x20;
 
@@ -36,12 +36,12 @@ For Mapeo Desktop, you can use multiple platforms to share the files.&#x20;
 
 ## **Sharing files between devices with  no internet connection**
 
-If you do ![](../../../.gitbook/assets/no internet connection)not have access to an internet connection, there are multiple ways to share files between devices.
+If you do ![](../../../.gitbook/assets/no\_internet\_connection.png)not have access to an internet connection, there are multiple ways to share files between devices.
 
 * Copy and paste files using a USB drive or cable
 * Send via Bluetooth using Android, SHAREit or other apps
 
-![](../../../.gitbook/assets/image (2) (1).png) **Mapeo Mobile**
+![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**
 
 Android devices that are near each other can use Bluetooth to transfer files without an internet connection. Bluetooth transfer will be quicker for lighter weight files, such as:&#x20;
 
@@ -54,7 +54,7 @@ To transfer files using Android's Bluetooth:
 2. On the Bluetooth settings screen, tap **Pair new device** and wait for the list of AVAILABLE DEVICES to populate.\ The screen of both devices should be open and unlocked to appear available for syncing.
 3. Once you see the device you would like to share files with and confirm its identity, tap on the device name to pair.&#x20;
 4. Confirm the code and the pair request on both devices.
-5. Locate and select the file you wish to send and tap  ![](../../../.gitbook/assets/app icons\_Share.png) Share. Select Bluetooth in the share options and tap the name of the other device in the list.
+5. Locate and select the file you wish to send and tap  ![](../../../.gitbook/assets/app\_icons\_Share.png) Share. Select Bluetooth in the share options and tap the name of the other device in the list.
 
 You can also use Android apps for Bluetooth sharing, including SHAREit or others.
 
@@ -64,9 +64,9 @@ For transferring larger files (bigger than 10MB) such as base map folders, we re
 
 
 
-![](../../../.gitbook/assets/image (3) (1).png) **Mapeo Desktop**
+![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**
 
-For transferring files between computers without an internet connection, we recommend using a ![](../../../.gitbook/assets/USB stick memory)USB drive.
+For transferring files between computers without an internet connection, we recommend using a ![](../../../.gitbook/assets/USB\_stick\_memory.png)USB drive.
 
 Most computers can also share files via Bluetooth with other devices that are nearby.
 
