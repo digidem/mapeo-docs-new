@@ -14,7 +14,7 @@ To begin translating, visit the project page for the area you would like to tran
 * [Mapeo Desktop](https://crowdin.com/project/mapeo-desktop)\ Text and titles for screens and buttons in the dekstop app
 * [Mapeo's default configuration](https://crowdin.com/project/mapeo-defaut-config) \ Names of data collection categories, text of questions fields
 
-![Project page for Mapeo Mobile on Crowdin](../../.gitbook/assets/Screen Shot 2021-12-08 at 10.22.02 AM (1).png)
+![Project page for Mapeo Mobile on Crowdin](../../.gitbook/assets/Crowdin\_Mm\_languages.png)
 
 #### Viewing available languages
 
