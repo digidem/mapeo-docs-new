@@ -1,12 +1,12 @@
-# Peer-to-peer & Mapeo sync
+# Peer-to-peer & sincronização com o Mapeo
 
-## Mapeo's p**eer-to-peer database** <a href="#peer-to-peer-database" id="peer-to-peer-database"></a>
+## **Base de dados peer-to-peer do Mapeo** <a href="#peer-to-peer-database" id="peer-to-peer-database"></a>
 
 Unlike traditional apps where all the data is stored on a central server (in the cloud or in an office), the Mapeo database is integrated into the application on your device, and every device (smartphone or computer) participating in your project can have a copy of all the data. We made this choice so that Mapeo can work entirely offline and does not require the user to set up any database or machine for storing data.&#x20;
 
 Mapeo uses a peer-to-peer database, which could be compared to an invisible network that connects all different devices participating in a project, such as cell phones or computers. This peer-to-peer database allows users to transfer data to other users in the field without internet, and several users with computers or smartphones can all work on the same dataset and share edits.
 
-### **Main characteristics:**
+### **Características principais:**
 
 * **Data ownership and control**\ ****Data collected with Mapeo is stored directly on the devices used for data collection and can be shared with other smartphones or computers that participate in the same project. This way, the information does not exist solely on one device. No one else, not even us, has access to this data. Mapeo users are the owners of the information collected and have total control over it. In other words, your data stays in your team, in your community. To learn more about the embedded database Mapeo is built on, see the [Mapeo Core](peer-to-peer-and-mapeo-sync.md#mapeo-core) section. \ \ ![](../../.gitbook/assets/P2P-no server used)\
 

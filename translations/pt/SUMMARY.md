@@ -6,7 +6,7 @@
 
 * [Sobre o Mapeo](introduction/what-is-mapeo/README.md)
   * [Mapeo tools](introduction/what-is-mapeo/tools.md)
-  * [Peer-to-peer & Mapeo sync](introduction/what-is-mapeo/peer-to-peer-and-mapeo-sync.md)
+  * [Peer-to-peer & sincronização com o Mapeo](introduction/what-is-mapeo/peer-to-peer-and-mapeo-sync.md)
   * [How Mapeo is being used](introduction/what-is-mapeo/how-mapeo-is-being-used.md)
 * [Mapeo é a ferramenta certa para mim?](introduction/untitled.md)
 * [Perguntas frequentes](introduction/faqs.md)
