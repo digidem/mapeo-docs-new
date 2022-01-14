@@ -5,7 +5,7 @@
 To edit an observation, open its full details in the **View observation** window.
 
 {% hint style="info" %}
-From **Map** or **Media** view, click on a dot or image to open the **View observation** window for the associated observation. From **Report** view, use the ![](../../../.gitbook/assets/edit web map) **EDIT** button in the grey toolbar to open the **View observation** window for the observation shown in the current page of the report.
+From **Map** or **Media** view, click on a dot or image to open the **View observation** window for the associated observation. From **Report** view, use the ![](../../../.gitbook/assets/Webmaps\_edit\_icon.jpg) **EDIT** button in the grey toolbar to open the **View observation** window for the observation shown in the current page of the report.
 {% endhint %}
 
 With the **View observation** window open, click on a field to add or edit information. Click **SAVE** to save changes.
@@ -18,7 +18,7 @@ In Mapeo Desktop you cannot modify the creation date, category type or geographi
 
 ## Delete an observation
 
-To delete an observation, go to the  **View observation** window and click on the![](../../../.gitbook/assets/Three dots menu.png)**More options** menu. Select **Delete observation** and confirm deletion by clicking **Yes, delete** in the pop-up window.
+To delete an observation, go to the  **View observation** window and click on the![](../../../.gitbook/assets/Three\_dots\_menu.png)**More options** menu. Select **Delete observation** and confirm deletion by clicking **Yes, delete** in the pop-up window.
 
 ![](../../../.gitbook/assets/Md\_edit\_observation\_more\_options.jpg)
 
