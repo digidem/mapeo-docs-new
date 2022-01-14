@@ -1,8 +1,8 @@
-# Synchronizing data
+# Sincronizando dados
 
-To load observations into Mapeo Desktop for the first time, you will need to synchronize data with another ![](../../../../.gitbook/assets/image (9) (1).png) computer or ![](../../../../.gitbook/assets/smartphone with Mapeo)smartphone that uses Mapeo.
+Para transfeir observações para o Mapeo Desktop pela primeira vez, você precisará sincronizar dados do outro![](../../../../.gitbook/assets/image (9) (1).png) computador ou ![](../../../../.gitbook/assets/smartphone with Mapeo)smartphone que usa o Mapeo.
 
-Mapeo allows you to synchronize collected data with other Mapeo users or devices that are members of the same project. Synchronizing is used regularly throughout the course of projects to aggregate data collected by different participants and ensure that multiple copies of the complete database exist. **Syncing data does not always require an internet connection and can be done in entirely offline areas**. &#x20;
+O Mapeo permite que você sincronize dados coletados com outros usuários ou dispositivos que são membros do mesmo projeto. Synchronizing is used regularly throughout the course of projects to aggregate data collected by different participants and ensure that multiple copies of the complete database exist. **Syncing data does not always require an internet connection and can be done in entirely offline areas**. &#x20;
 
 {% hint style="warning" %}
 Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations present on the other Mapeo device and they will receive all of the observations present on your device. Only synchronize with members of your project whom you trust with all of your data. For more on synchronization, see: [peer-to-peer-and-mapeo-sync.md](../../../../introduction/what-is-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
