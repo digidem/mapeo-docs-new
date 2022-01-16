@@ -30,8 +30,8 @@ Feedback, edits, and additions to these materials are welcome! External edits an
 
 #### Desenvolvimento open source
 
-Mapeo e todo o desenvolvimento técnico da Digital Democracy são de código aberto. Visite a seção __ [PARA DESENVOLVEDORES](for-developers/untitled.md) <mark style="color:blue;"></mark> para mais informações.
+Mapeo e todo o desenvolvimento técnico da Digital Democracy são de código aberto. Visite a seção [PARA DESENVOLVEDORES](for-developers/untitled.md) <mark style="color:blue;"></mark> para mais informações.
 
 
 
-_Mapeo é um projeto de Digital Democracy, uma organização sem fins lucrativos que trabalha em solidariedade com comunidades marginalizadas para usarem tecnologia para defender seus direitos. Para mais informações sobre a Digital Democracy e como apoiar nosso processo de co-desenvolvimento centrado no usuário visite_ [_nosso site_](https://www.digital-democracy.org)_. _
+_Mapeo é um projeto de Digital Democracy, uma organização sem fins lucrativos que trabalha em solidariedade com comunidades marginalizadas para usarem tecnologia para defender seus direitos. Para mais informações sobre a Digital Democracy e como apoiar nosso processo de co-desenvolvimento centrado no usuário visite_ [_nosso site_](https://www.digital-democracy.org).
