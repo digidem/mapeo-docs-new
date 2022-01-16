@@ -12,9 +12,9 @@ Este site fornece uma introdução às ferramentas Mapeo e uma coleção de recu
 
 O site é dividido nas seguintes seções:
 
-* **Visão geral**\ Informações básicas sobre as ferramentas Mapeo
-* **Guia de início rápido**\ Instruções para instalar e testar a funcionalidade básica do Mapeo
-* **Guia de referência completo**\ Uma coleção completa de recursos sobre o planejamento & implementação de projetos usando o Mapeo e a personalização das ferramentas
+* **Visão geral**<br>Informações básicas sobre as ferramentas Mapeo
+* **Guia de início rápido**<br> Instruções para instalar e testar a funcionalidade básica do Mapeo
+* **Guia de referência completo**<br> Uma coleção completa de recursos sobre o planejamento & implementação de projetos usando o Mapeo e a personalização das ferramentas
 
 ### Uso deste guia
 
