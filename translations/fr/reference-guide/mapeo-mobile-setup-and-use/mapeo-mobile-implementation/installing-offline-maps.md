@@ -10,8 +10,8 @@ Adding a base map to Mapeo requires navigating the File Manager on your smartpho
 
 You can add a base map to Mapeo Mobile in two different ways, depending on the equipment you have.
 
-* ****[![](<../../../.gitbook/assets/image (6) (1).png>)****![](<../../../.gitbook/assets/USB cable>)****![](../../../.gitbook/assets/smartphone)**Using a computer, a USB cable, and your smartphone**](installing-offline-maps.md#a.-adding-the-base-map-using-a-computer)****
-* [![](../../../.gitbook/assets/smartphone)**Using only your smartphone**](installing-offline-maps.md#a.-adding-the-base-map-using-a-computer-1)****
+* ****[![](../../../.gitbook/assets/laptop\_icon.png)****![](../../../.gitbook/assets/USB\_cable.png)****![](../../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](installing-offline-maps.md#a.-adding-the-base-map-using-a-computer)****
+* [![](../../../.gitbook/assets/Smartphone\_icon.png)**Using only your smartphone**](installing-offline-maps.md#a.-adding-the-base-map-using-a-computer-1)****
 
 ## Adding a base map using a computer
 
@@ -35,7 +35,7 @@ Mapeo base maps will often be shared as a compressed file`(.zip)`. If your base 
 
 A Mapeo base map consists of several folders and files that need to be copied into the file system of Mapeo Mobile. Standard vector base maps for Mapeo will contain the file elements listed below - 3 folders and 2 files.
 
-![](../../../.gitbook/assets/image (7) (1).png)
+![](../../../.gitbook/assets/Vector\_base\_map\_files.jpg)
 
 {% hint style="info" %}
 Raster base maps will contain different files and folders than those pictured above. Raster tile base maps for Mapeo consist of one folder (`tiles`) and one file (`style.json`).
@@ -51,16 +51,16 @@ Click on **Internal Shared Storage**, then on **Android**, **data**, **com.mapeo
 
 The complete path of the default folder where you will paste the map elements is `Internal Shared Storage/Android/data/com.mapeo/files/styles/default`
 
-![](../../../.gitbook/assets/Add base map in mobile - part1 (2).jpg)
+![](../../../.gitbook/assets/Mm\_Add\_base\_map\_via\_computer\_part1.jpg)
 
-![](../../../.gitbook/assets/Add base map in mobile - part2.jpg)
+![](../../../.gitbook/assets/Mm\_Add\_base\_map\_via\_computer\_part2.jpg)
 
 ### Restart Mapeo Mobile
 
 Restart the Mapeo Mobile app. The new base map will appear as the background on the home **Map** screen.&#x20;
 
 {% hint style="info" %}
-Loading a new base map for the first time in Mapeo Mobile can take ![](../../../.gitbook/assets/watch time)several minutes.
+Loading a new base map for the first time in Mapeo Mobile can take ![](../../../.gitbook/assets/watch\_time.png)several minutes.
 {% endhint %}
 
 ## Adding a base map using only your smartphone <mark style="color:red;">(unfinished... ask Jen to do it)</mark>&#x20;
@@ -69,7 +69,7 @@ Loading a new base map for the first time in Mapeo Mobile can take ![](../../../
 
 Download or locate the base map zip folder on your smartphone and unzip it.
 
-![](../../../.gitbook/assets/image (7) (1).png)
+![](../../../.gitbook/assets/Vector\_base\_map\_files.jpg)
 
 Select all of the elements inside the folder.
 
@@ -77,7 +77,7 @@ Select all of the elements inside the folder.
 
 ### Open the File Manager.
 
-### ![](../../../.gitbook/assets/Select File Manager.jpg)  ![](../../../.gitbook/assets/select Android - add base map.jpg)
+### ![](../../../.gitbook/assets/Mm\_select\_File\_Manager.jpg)  ![](../../../.gitbook/assets/Android\_file\_system\_select\_Android\_add\_map.jpg)
 
 On another window, open the **File Manager** and click on **Android.** Paste the base map in the **Android** folder.&#x20;
 
@@ -95,5 +95,5 @@ The complete address of the default folder is `Android/data/com.mapeo/files/styl
 
 ### Restart Mapeo Mobile
 
-Restart Mapeo Mobile. The new base map will appear in the background on the main screen. Sometimes it can ![](../../../.gitbook/assets/watch time)take some minutes, wait.
+Restart Mapeo Mobile. The new base map will appear in the background on the main screen. Sometimes it can ![](../../../.gitbook/assets/watch\_time.png)take some minutes, wait.
 

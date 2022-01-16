@@ -32,7 +32,7 @@ To view observations as a gallery of images, click on **Media** in the **Toolbar
 
 To view observations in the form of a report, click on **Report** in the **Toolbar. Report** view displays one observation per page and includes the category, coordinates, date, a map of the location, and any images associated with the observation.
 
-Use the **Next** ![](../../../.gitbook/assets/app icons\_next arrow.png) and ![](../../../.gitbook/assets/app icons\_back arrow.png) **Previous** buttons at the bottom of the screen to step through each page of the report.
+Use the **Next** ![](../../../.gitbook/assets/app\_icons\_next\_arrow.png) and ![](../../../.gitbook/assets/app\_icons\_back\_arrow.png) **Previous** buttons at the bottom of the screen to step through each page of the report.
 
 ![](../../../.gitbook/assets/Md\_report\_view\_button.jpg)
 
@@ -52,7 +52,7 @@ To apply a filter, click the ![](../../../.gitbook/assets/icon-down.png)**Expand
 
 ### Filter by date
 
-To filter observations by a specific date range, click ![](../../../.gitbook/assets/icon-down.png)**Expand** beside ![](../../../.gitbook/assets/CALENDAR FILTER.jpg) **Date of observation** to open the filter section. Click on the **From** and **To** date fields and use the pop-up calendar to define the start date and end date for the timeframe you would like to view. Only observations collected between these dates will be visible.
+To filter observations by a specific date range, click ![](../../../.gitbook/assets/icon-down.png)**Expand** beside ![](../../../.gitbook/assets/Md\_filter\_by\_date\_calendar\_icon.jpg) **Date of observation** to open the filter section. Click on the **From** and **To** date fields and use the pop-up calendar to define the start date and end date for the timeframe you would like to view. Only observations collected between these dates will be visible.
 
 Click <mark style="color:blue;">**ALL**</mark> to reset the filter and show observations for all dates.
 
@@ -60,7 +60,7 @@ Click <mark style="color:blue;">**ALL**</mark> to reset the filter and show obse
 
 ### **Filter by category**
 
-To filter observations by a category, click ![](../../../.gitbook/assets/icon-down.png)**Expand** beside ![](../../../.gitbook/assets/Filter options grey.png) **Category** to open the list of the categories used in your project.
+To filter observations by a category, click ![](../../../.gitbook/assets/icon-down.png)**Expand** beside ![](../../../.gitbook/assets/Md\_Filter\_options\_icon\_grey.png) **Category** to open the list of the categories used in your project.
 
 * Use the checkboxes to select the categories that you want to make visible.&#x20;
 * Click <mark style="color:blue;">**ONLY**</mark> to show observations for a single selected category. &#x20;

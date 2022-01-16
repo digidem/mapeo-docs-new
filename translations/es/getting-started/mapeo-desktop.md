@@ -18,14 +18,14 @@ To get started, synchronize collected data from a Mapeo Mobile device. To synchr
 
 ### Connect to Wi-Fi
 
-Make sure both the ![](../.gitbook/assets/image (2) (1).png) **Mapeo Mobile** device and the ![](../.gitbook/assets/image (3) (1).png) **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
+Make sure both the ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile** device and the ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
 
 ### Enter Synchronize mode
 
-In ![](../.gitbook/assets/image (2) (1).png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app icons\_Sync.png) **Synchronize** button to enter the **Synchronize** screen.\ \ ![](../.gitbook/assets/Home screen - Sync\_button.jpg)\
+In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** button to enter the **Synchronize** screen.\ \ ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\
 
 
-In ![](../.gitbook/assets/image (3) (1).png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
+In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
@@ -75,7 +75,7 @@ To look at a subset of your observations in **Map**, **Media** or **Report** vie
 
 ## **Edit observations**
 
-From **Map** or **Media** view, click on a dot or image to view the full details of the corresponding observation. From **Report** view, use the ![](../.gitbook/assets/edit web map) **EDIT** button in the grey toolbar to open the details of the observation shown in the current page of the report.
+From **Map** or **Media** view, click on a dot or image to view the full details of the corresponding observation. From **Report** view, use the ![](../.gitbook/assets/Webmaps\_edit\_icon.jpg) **EDIT** button in the grey toolbar to open the details of the observation shown in the current page of the report.
 
 With the observation details open, click on a field to add or edit information. Click **SAVE** to save changes.
 
@@ -87,7 +87,7 @@ In Mapeo Desktop you cannot modify the creation date, category type or geographi
 
 ## Delete observations
 
-To delete an observation, open the observation details and click on the![](../.gitbook/assets/Three dots menu.png)**More options** menu. Select **Delete observation** and confirm deletion in the pop-up window.
+To delete an observation, open the observation details and click on the![](../.gitbook/assets/Three\_dots\_menu.png)**More options** menu. Select **Delete observation** and confirm deletion in the pop-up window.
 
 ![](../.gitbook/assets/Md\_edit\_observation\_more\_options.jpg)
 

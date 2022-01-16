@@ -7,7 +7,7 @@ There are two highly-customizable Mapeo apps that can be used together or indivi
 * ****[**Mapeo Mobile**](tools.md#mapeo-mobile)
 * ****[**Mapeo Desktop**](tools.md#mapeo-desktop)
 
-![](../../.gitbook/assets/Md\&Mm\&Mcore)
+![](../../.gitbook/assets/Md\_Mm\_Mcore.png)
 
 Mapeo Mobile and Desktop are built on top of [Mapeo Core](peer-to-peer-and-mapeo-sync.md#mapeo-core), an embedded peer-to-peer database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server. For more on peer-to-peer and data sharing with Mapeo, see [peer-to-peer-and-mapeo-sync.md](peer-to-peer-and-mapeo-sync.md "mention").
 
@@ -19,7 +19,7 @@ Mapeo Mobile is a smartphone application (currently for Android only) that allow
 
 Mapeo Mobile can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information.&#x20;
 
-![](../../.gitbook/assets/Mm tool visual)
+![](../../.gitbook/assets/Mm\_tool\_visual.jpg)
 
 ## Mapeo Desktop
 
@@ -27,8 +27,8 @@ Mapeo Desktop is a computer application that allows you to aggregate, view and m
 
 It also offers a simple interface for adding or creating territory information for making maps. Mapeo Desktop provides a basic set of mapping features that are more accessible to new tech users than other available geographic information tools, but exporting maps requires knowledge of other software.
 
-![On the left side, Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. On the right, Mapeo Desktop is being used to create and export territory information.](../../.gitbook/assets/image (8).png)
-
 Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information.&#x20;
+
+![Left: Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. Right: Mapeo Desktop is being used to create and export territory information.](../../.gitbook/assets/Md tool visual with titles)
 
 \ To learn more about additional tools and modules that support use of Mapeo, see [untitled.md](../../for-developers/untitled.md "mention") in the FOR DEVELOPERS section.

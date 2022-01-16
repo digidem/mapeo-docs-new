@@ -4,7 +4,7 @@
 
 Mapeo foi desenvolido pela Democracia Digital com e para defensores da terra para que pudessem facilmente documentar informações ambientais e sobre direitos humanos e coletar dados sobre suas terras. Foi projetado para funcionar em ambientes totalmente offline, é altamente customizável, e construído sobre uma base de dados descentralizada que permite que as comunidades sejam donos de seus próprios dados.
 
-![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines](../.gitbook/assets/ac-siona2-1024x683.jpg)
+![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines.](../.gitbook/assets/ac-siona2-1024x683.jpg)
 
 ## Sobre este guia
 
@@ -28,10 +28,10 @@ Feedback, edits, and additions to these materials are welcome! External edits an
 
 **Translation**\ ****We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](reference-guide/pre-launch-deployment-preparation/translating-mapeo-and-default-configurations.md) to learn how to get started.
 
-#### Open Source Development
+#### Desenvolvimento open source
 
-Mapeo and all of Digital Democracy's technical development is open source. Visit the __ [FOR DEVELOPERS](broken-reference) <mark style="color:blue;"></mark> section for more information.
+Mapeo e todo o desenvolvimento técnico da Digital Democracy são de código aberto. Visite a seção __ [PARA DESENVOLVEDORES](for-developers/untitled.md) <mark style="color:blue;"></mark> para mais informações.
 
 
 
-_Mapeo is a project of Digital Democracy, a non-profit organization that works in solidarity with marginalized communities to use technology to defend their rights. For more information on Digital Democracy,  and how to support our user-centered co-development process visit_ [_our website_](https://www.digital-democracy.org)_._
+_Mapeo é um projeto de Digital Democracy, uma organização sem fins lucrativos que trabalha em solidariedade com comunidades marginalizadas para usarem tecnologia para defender seus direitos. Para mais informações sobre a Digital Democracy e como apoiar nosso processo de co-desenvolvimento centrado no usuário visite_ [_nosso site_](https://www.digital-democracy.org)_. _

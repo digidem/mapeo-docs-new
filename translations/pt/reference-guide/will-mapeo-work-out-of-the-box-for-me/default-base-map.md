@@ -12,11 +12,11 @@ If the device is not connected to the internet, the base map shown by default is
 
 **Online base map example**:
 
-![](../../.gitbook/assets/base map online.jpg)
+![](../../.gitbook/assets/Mm\_online\_base\_map.jpg)
 
 ****\ **Offline base map example**:
 
-![](../../.gitbook/assets/base map offline.jpg)
+![](../../.gitbook/assets/Mm\_offline\_base\_map.jpg)
 
 
 
