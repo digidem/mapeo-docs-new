@@ -1,0 +1,29 @@
+# This workflow creates a branch from the translations/ht folder
+env:
+  # **CHANGE THIS** for other languages
+  LANG_CODE: ht
+
+name: Haitian Creole [HT] Translations
+
+# Runs on push to master, only when files under `docs/ht` are modified
+on:
+  push:
+    branches: [ master ]
+    paths:
+      # **CHANGE THIS** for other languages
+      - 'translations/ht/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    # Create branch from translations/ht folder
+    - name: Create branch from language
+      run: |
+        git config --global user.email "developer@digital-democracy.org"
+        git config --global user.name "Dd Github Bot"
+        ./scripts/create-translated-branch.sh $LANG_CODE
+        git push -f origin translations-$LANG_CODE:translations-$LANG_CODE
