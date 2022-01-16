@@ -6,7 +6,7 @@
 
 * [About Mapeo](introduction/what-is-mapeo/README.md)
   * [Mapeo tools](introduction/what-is-mapeo/tools.md)
-  * [Peer-to-peer & Mapeo sync](introduction/what-is-mapeo/peer-to-peer-and-mapeo-sync.md)
+  * [Peer-to-peer epi senkronizasyon ak Mapeo](introduction/what-is-mapeo/peer-to-peer-and-mapeo-sync.md)
   * [Kijan Mapeo ap itilize](introduction/what-is-mapeo/how-mapeo-is-being-used.md)
 * [Is Mapeo right for me?](introduction/untitled.md)
 * [FAQs](introduction/faqs.md)
