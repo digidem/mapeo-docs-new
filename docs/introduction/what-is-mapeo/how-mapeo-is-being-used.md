@@ -10,13 +10,13 @@ Mapeo is currently being used by a variety of communities around the globe to su
 
 ### **Territory Mapping in Kenya**
 
-![Ogiek Indigenous People of Mount Elgon learning to use Mapeo to map their land. Credits: Chepkitale Indigenous Peoples Development Project](../../.gitbook/assets/Ogiek.png)
+![Ogiek Indigenous People of Mount Elgon learning to use Mapeo to map their land. Credit: Chepkitale Indigenous Peoples Development Project](../../.gitbook/assets/Ogiek.png)
 
 > The [Ogiek Indigenous People of Mount Elgon are using Mapeo Mobile and Desktop to map important sites](https://www.digital-democracy.org/blog/mapping-ogiek-ancestral-lands-in-kenya-using-mapeo-during-a-pandemic/) on their lands as part of a historical land claim.
 
 ### **Ancestral Mapping in Ecuador**
 
-![The Siekopai in Northern Ecuador using Mapeo to gather knowledge from elders before mapping their ancestral lands in Lagarto Cocha (with Alianza Ceibo and Amazon Frontlines)](../../.gitbook/assets/Wao.png)
+![The Siekopai in Northern Ecuador using Mapeo to gather knowledge from elders before mapping their ancestral lands in Lagarto Cocha (with Alianza Ceibo and Amazon Frontlines).](../../.gitbook/assets/Wao.png)
 
 > The Siekopai people of Northern Ecuador used Mapeo Desktop in their villages to explore satellite imagery of their ancestral lands with the elders, and document stories associated with lakes and old settlements. [Watch video](https://vimeo.com/175900565).
 
