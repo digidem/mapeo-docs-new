@@ -1,6 +1,6 @@
 # Peer-to-peer epi senkronizasyon ak Mapeo
 
-## Mapeo's p**eer-to-peer database** <a href="#peer-to-peer-database" id="peer-to-peer-database"></a>
+## Baz done peer-to-peer Mapeo <a href="#peer-to-peer-database" id="peer-to-peer-database"></a>
 
 Unlike traditional apps where all the data is stored on a central server (in the cloud or in an office), the Mapeo database is integrated into the application on your device, and every device (smartphone or computer) participating in your project can have a copy of all the data. We made this choice so that Mapeo can work entirely offline and does not require the user to set up any database or machine for storing data.&#x20;
 
