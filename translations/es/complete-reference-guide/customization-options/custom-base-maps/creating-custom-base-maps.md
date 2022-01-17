@@ -9,5 +9,5 @@ In the interim, you can view documentation of the existing process [here](https:
 {% hint style="info" %}
 For instructions on how to add custom base maps to Mapeo, see:
 
-[installing-offline-maps.md](../../mapeo-mobile-installation-setup/installing-offline-maps.md "mention")\ [installing-offline-maps.md](../../mapeo-desktop-installation-setup/installing-offline-maps.md "mention")
+[adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")\ [adding-custom-base-maps-to-mapeo-desktop.md](../../mapeo-desktop-installation-setup/adding-custom-base-maps-to-mapeo-desktop.md "mention")
 {% endhint %}
