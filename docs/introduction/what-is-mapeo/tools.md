@@ -4,8 +4,8 @@ Mapeo is a set of digital tools, designed to support collaborative data collecti
 
 There are two highly-customizable Mapeo apps that can be used together or individually, depending on your goals:
 
-* ****[**Mapeo Mobile**](tools.md#mapeo-mobile)
-* ****[**Mapeo Desktop**](tools.md#mapeo-desktop)
+* [**Mapeo Mobile**](tools.md#mapeo-mobile)****
+* [**Mapeo Desktop**](tools.md#mapeo-desktop)****
 
 ![](../../.gitbook/assets/Md\_Mm\_Mcore.png)
 

@@ -56,7 +56,7 @@ In order to set up your own custom questions or details fields, you must customi
 
 ## Save observation
 
-Once you have added all desired information, tap ![](../../../.gitbook/assets/app\_icons\_Save-check.png) **Save**.
+Once you have added all desired information, tap ![](../../../.gitbook/assets/app\_icons\_save\_35px.png) **Save**.
 
 <mark style="background-color:orange;"></mark>![](../../../.gitbook/assets/Mm\_Save\_observation.jpg)<mark style="background-color:orange;"></mark>
 
@@ -78,4 +78,4 @@ If the GPS signal at the moment of saving the observation has an accuracy worse 
    \
    ![](../../../.gitbook/assets/Mm\_Enter\_coordinates\_screen\_format\_menu.jpg)  ![](../../../.gitbook/assets/Mm\_Enter\_coordinates\_screen-format\_options.jpg)\
    \
-   Tap ![](../../../.gitbook/assets/app\_icons\_Save-check.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.
+   Tap ![](../../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.

@@ -12,7 +12,7 @@ This section covers the available options and formats for exporting data from **
 
 In Mapeo Desktop you can view your data as a report. Each page of the report contains the details of one observation. From the **Report** view, you can:
 
-* Edit the details of the observation on the current report page by clicking on ![](../../../.gitbook/assets/app\_icons\_Edit-pencil.png) **EDIT** in the grey panel above the report.
+* Edit the details of the observation on the current report page by clicking on ![](../../../.gitbook/assets/app\_icons\_edit\_35px.png) **EDIT** in the grey panel above the report.
 * Control which observations are included in the report using the **Filters** panel. For more on filtering, see [Broken link](broken-reference "mention").
 * Decide which detail fields you want to show or hide. To do so, click on the ![](../../../.gitbook/assets/hide.png) **Hide Fields** button in the grey panel above the report and toggle on off/on the fields that you want to hide/show. Click on **SHOW ALL** to show all fields and click on **HIDE ALL** to hide them all.
 

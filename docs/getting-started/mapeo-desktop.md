@@ -22,7 +22,7 @@ Make sure both the ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile** de
 
 ### Enter Synchronize mode
 
-In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** button to enter the **Synchronize** screen.\
+In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\
 \
 ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\
 

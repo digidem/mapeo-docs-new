@@ -16,7 +16,7 @@ If you don't have an internet connection, you can copy the file from a computer 
 
 ## Go to Settings
 
-In the Mapeo Mobile app, tap the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** button, then the ![](../../../.gitbook/assets/app\_icons\_Settings.png) **Settings** button.
+In the Mapeo Mobile app, tap the ![](<../../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations list** button, then the ![](../../../.gitbook/assets/app\_icons\_Settings.png) **Settings** button.
 
 ![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg)
 

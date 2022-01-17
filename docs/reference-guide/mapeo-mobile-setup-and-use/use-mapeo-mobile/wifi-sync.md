@@ -33,7 +33,7 @@ For more on how to connect to Wi-Fi, see [#connect-to-wi-fi-on-a-smartphone](../
 
 ## Enter Synchronize mode
 
-Tap the ![](../../../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** button on the Mapeo home screen of both devices to go to the **Synchronize** screen.
+Tap the ![](../../../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button on the Mapeo home screen of both devices to go to the **Synchronize** screen.
 
 ![](../../../.gitbook/assets/Homescreen-Sync\_button.jpg) &#x20;
 
@@ -59,7 +59,7 @@ Click on the **Sync** button beside the device name to begin the exchange of dat
 
 ## View synced observations
 
-You can view new observation data received in the synchronization by looking at the points on the home ![](../../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** screen.
+You can view new observation data received in the synchronization by looking at the points on the home ![](../../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](<../../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations list** screen.
 
 ![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
 

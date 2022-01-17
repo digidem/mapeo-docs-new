@@ -22,7 +22,7 @@ If you have collected several observations in a small geographic area, you may n
 
 ## View observations in a list
 
-Tap ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** on the home screen to view your observations in list form.
+Tap ![](<../../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations list** on the home screen to view your observations in list form.
 
 ![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Observations\_list\_screen.jpg)\
 

@@ -60,7 +60,7 @@ In ![](../../../../.gitbook/assets/Mapeo\_Desktop.png)Mapeo Desktop: Click on **
 
 ![](../../../../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
-In ![](../../../../.gitbook/assets/Mapeo\_Mobile.png)Mapeo Mobile: Tap the ![](../../../../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** button on the home screen.
+In ![](../../../../.gitbook/assets/Mapeo\_Mobile.png)Mapeo Mobile: Tap the ![](../../../../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button on the home screen.
 
 ![](../../../../.gitbook/assets/Homescreen-Sync\_button.jpg)&#x20;
 
