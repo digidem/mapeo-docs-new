@@ -2,10 +2,10 @@
 
 This section provides step-by-step guidance on the use of the main features of Mapeo Mobile:
 
-* [mobile-navigation-features.md](mobile-navigation-features.md "mention")
-* [collecting-observations.md](collecting-observations.md "mention")
-* [view-data-on-mobile.md](view-data-on-mobile.md "mention")
-* [editing-and-deleting-on-mobile.md](editing-and-deleting-on-mobile.md "mention")
+* [activating-gps-and-viewing-current-location.md](activating-gps-and-viewing-current-location.md "mention")
+* [creating-observations.md](creating-observations.md "mention")
+* [viewing-observations.md](viewing-observations.md "mention")
+* [editing-and-deleting-observations.md](editing-and-deleting-observations.md "mention")
 * [sharing-data-externally.md](sharing-data-externally.md "mention")
 * [wifi-sync.md](wifi-sync.md "mention")
 
