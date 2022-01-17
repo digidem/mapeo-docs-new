@@ -2,14 +2,14 @@
 
 * [Entwodiksyon](README.md)
 
-## Overview <a href="#introduction" id="introduction"></a>
+## Overview
 
-* [About Mapeo](introduction/about-mapeo/README.md)
-  * [Mapeo tools](introduction/about-mapeo/mapeo-tools.md)
-  * [Peer-to-peer epi senkronizasyon ak Mapeo](introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md)
-  * [Kijan Mapeo ap itilize](introduction/about-mapeo/how-mapeo-is-being-used.md)
-* [Is Mapeo right for me?](introduction/is-mapeo-right-for-me.md)
-* [FAQs](introduction/faqs.md)
+* [About Mapeo](overview/about-mapeo/README.md)
+  * [Mapeo tools](overview/about-mapeo/mapeo-tools.md)
+  * [Peer-to-peer epi senkronizasyon ak Mapeo](overview/about-mapeo/peer-to-peer-and-mapeo-sync.md)
+  * [Kijan Mapeo ap itilize](overview/about-mapeo/how-mapeo-is-being-used.md)
+* [Is Mapeo right for me?](overview/is-mapeo-right-for-me.md)
+* [FAQs](overview/faqs.md)
 
 ## Quick start guide
 
@@ -35,7 +35,7 @@
       * [Templates we could provide](complete-reference-guide/essentials-for-a-successful-mapeo-project/planning/is-mapeo-right-for-you/templates-we-could-provide.md)
   * [Security & risk assessment](complete-reference-guide/essentials-for-a-successful-mapeo-project/security-and-risk-assessment.md)
   * [Creating user protocols](complete-reference-guide/essentials-for-a-successful-mapeo-project/creating-user-protocols.md)
-  * [Choosing equipment](complete-reference-guide/essentials-for-a-successful-mapeo-project/selecting-equipment.md)
+  * [Choosing equipment](complete-reference-guide/essentials-for-a-successful-mapeo-project/choosing-equipment.md)
   * [Training and information sessions](complete-reference-guide/essentials-for-a-successful-mapeo-project/training-and-information-sessions/README.md)
     * [Preparing training](complete-reference-guide/essentials-for-a-successful-mapeo-project/training-and-information-sessions/preparing-training.md)
 * [✔ Will Mapeo work out-of-the-box for me?](complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/README.md)
@@ -55,20 +55,20 @@
   * [Installing Mapeo Mobile](complete-reference-guide/mapeo-mobile-installation-setup/installing-mapeo-mobile.md)
   * [Choosing Mapeo Mobile settings](complete-reference-guide/mapeo-mobile-installation-setup/app-settings.md)
   * [Importing configurations into Mapeo Mobile](complete-reference-guide/mapeo-mobile-installation-setup/importing-configurations.md)
-  * [Adding custom base maps to Mapeo Mobile](complete-reference-guide/mapeo-mobile-installation-setup/installing-offline-maps.md)
+  * [Adding custom base maps to Mapeo Mobile](complete-reference-guide/mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md)
   * [Updating Mapeo Mobile](complete-reference-guide/mapeo-mobile-installation-setup/updating-mapeo-mobile.md)
 * [📱 Mapeo Mobile use](complete-reference-guide/mapeo-mobile-use/README.md)
-  * [Activating GPS and viewing current location](complete-reference-guide/mapeo-mobile-use/mobile-navigation-features.md)
-  * [Creating observations](complete-reference-guide/mapeo-mobile-use/collecting-observations.md)
-  * [Viewing observations](complete-reference-guide/mapeo-mobile-use/view-data-on-mobile.md)
-  * [Editing and deleting observations](complete-reference-guide/mapeo-mobile-use/editing-and-deleting-on-mobile.md)
+  * [Activating GPS and viewing current location](complete-reference-guide/mapeo-mobile-use/activating-gps-and-viewing-current-location.md)
+  * [Creating observations](complete-reference-guide/mapeo-mobile-use/creating-observations.md)
+  * [Viewing observations](complete-reference-guide/mapeo-mobile-use/viewing-observations.md)
+  * [Editing and deleting observations](complete-reference-guide/mapeo-mobile-use/editing-and-deleting-observations.md)
   * [Sharing data externally](complete-reference-guide/mapeo-mobile-use/sharing-data-externally.md)
   * [Syncing data via Wi-Fi](complete-reference-guide/mapeo-mobile-use/wifi-sync.md)
 * [💻 Mapeo Desktop installation & setup](complete-reference-guide/mapeo-desktop-installation-setup/README.md)
   * [Installing Mapeo Desktop](complete-reference-guide/mapeo-desktop-installation-setup/installing-mapeo-desktop.md)
   * [Choosing Mapeo Desktop language](complete-reference-guide/mapeo-desktop-installation-setup/app-settings.md)
   * [Importing configurations to Mapeo Desktop](complete-reference-guide/mapeo-desktop-installation-setup/importing-configurations.md)
-  * [Adding custom base maps to Mapeo Desktop](complete-reference-guide/mapeo-desktop-installation-setup/installing-offline-maps.md)
+  * [Adding custom base maps to Mapeo Desktop](complete-reference-guide/mapeo-desktop-installation-setup/adding-custom-base-maps-to-mapeo-desktop.md)
   * [Updating Mapeo Desktop](complete-reference-guide/mapeo-desktop-installation-setup/updating-mapeo-desktop.md)
 * [💻 Mapeo Desktop use](complete-reference-guide/mapeo-desktop-use/README.md)
   * [Mapeo Desktop for managing Mapeo Mobile data](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/README.md)
