@@ -13,7 +13,7 @@ For more on how to create a local Wi-Fi network, see [creating-local-wi-fi-netwo
 {% endhint %}
 
 {% hint style="warning" %}
-Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations created by that user and they will receive all of your observations. Only synchronize with members of your project whom you trust with all of your data. For more about this process, see [peer-to-peer-and-mapeo-sync.md](../../introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").\
+Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations created by that user and they will receive all of your observations. Only synchronize with members of your project whom you trust with all of your data. For more about this process, see [peer-to-peer-and-mapeo-sync.md](../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").\
 
 
 All edits that have been made to collected data will also be transferred to the other device during sync. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.&#x20;
