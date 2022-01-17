@@ -5,7 +5,7 @@ This section will cover all the necessary steps to install and set up Mapeo Desk
 * [installing-mapeo-desktop.md](installing-mapeo-desktop.md "mention")
 * [app-settings.md](app-settings.md "mention")
 * [importing-configurations.md](importing-configurations.md "mention")
-* [installing-offline-maps.md](installing-offline-maps.md "mention")
+* [adding-custom-base-maps-to-mapeo-desktop.md](adding-custom-base-maps-to-mapeo-desktop.md "mention")
 * [updating-mapeo-desktop.md](updating-mapeo-desktop.md "mention")\
 
 
