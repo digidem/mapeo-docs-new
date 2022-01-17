@@ -13,7 +13,7 @@ Mapeo Mobile and Desktop are built on top of [Mapeo Core](peer-to-peer-and-mapeo
 
 
 
-## Mapeo Mobile
+## Mapeo Móvel
 
 Mapeo Mobile is a smartphone application (currently for Android only) that allows you to collect and map information. Using your phone's GPS, you can mark points on a map for your current location and add photos, notes and other details about what is happening. Information can be shared with collaborators who are using Mapeo, or with external contacts via email or other messaging apps.
 
@@ -21,7 +21,7 @@ Mapeo Mobile can be translated into local languages, customized to use offline m
 
 ![](../../.gitbook/assets/Mm\_tool\_visual.jpg)
 
-## Mapeo Desktop
+## Mapeo Dektop
 
 Mapeo Desktop is a computer application that allows you to aggregate, view and manage data collected with Mapeo Mobile. Data from Mapeo Desktop can be shared with collaborators who are using Mapeo or exported to PDF reports, CSV files, GeoJSON files or published to the web using [Mapeo Webmaps](../../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md#export-as-web-map).
 
