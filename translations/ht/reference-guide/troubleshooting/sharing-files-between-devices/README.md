@@ -54,7 +54,7 @@ To transfer files using Android's Bluetooth:
 2. On the Bluetooth settings screen, tap **Pair new device** and wait for the list of AVAILABLE DEVICES to populate.\ The screen of both devices should be open and unlocked to appear available for syncing.
 3. Once you see the device you would like to share files with and confirm its identity, tap on the device name to pair.&#x20;
 4. Confirm the code and the pair request on both devices.
-5. Locate and select the file you wish to send and tap  ![](../../../.gitbook/assets/app\_icons\_Share.png) Share. Select Bluetooth in the share options and tap the name of the other device in the list.
+5. Locate and select the file you wish to send and tap  ![](../../../.gitbook/assets/app\_icons\_share\_35px.png) Share. Select Bluetooth in the share options and tap the name of the other device in the list.
 
 You can also use Android apps for Bluetooth sharing, including SHAREit or others.
 
