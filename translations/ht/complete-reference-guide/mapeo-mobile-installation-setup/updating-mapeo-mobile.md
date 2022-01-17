@@ -11,7 +11,7 @@ The process to update Mapeo Mobile is very similar to the installation process a
 * [**Update via peer-to-peer sync**](updating-mapeo-mobile.md#updating-mapeo-mobile-via-sync) (\*Experimental)\ We are currently developing a way to automatically update the version of the app offline via peer-to-peer synchronization. This is still an experimental feature. To read more about it and how to test it, see: [#updating-mapeo-mobile-via-sync](updating-mapeo-mobile.md#updating-mapeo-mobile-via-sync "mention")
 
 {% hint style="info" %}
-To update files used within Mapeo Mobile, such as configurations or base maps, follow the same steps detailed in the sections below using the new files:\ \ [importing-configurations.md](importing-configurations.md "mention")[installing-offline-maps.md](installing-offline-maps.md "mention")&#x20;
+To update files used within Mapeo Mobile, such as configurations or base maps, follow the same steps detailed in the sections below using the new files:\ \ [importing-configurations.md](importing-configurations.md "mention")[adding-custom-base-maps-to-mapeo-mobile.md](adding-custom-base-maps-to-mapeo-mobile.md "mention")&#x20;
 {% endhint %}
 
 ### Other content related to Mapeo updates
