@@ -1,4 +1,4 @@
-# Mapeo Desktop
+# Mapeo Dektop
 
 ## Install
 
