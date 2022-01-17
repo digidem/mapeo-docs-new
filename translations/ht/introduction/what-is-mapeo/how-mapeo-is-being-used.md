@@ -1,6 +1,6 @@
 # Kijan Mapeo ap itilize
 
-Mapeo is currently being used by a variety of communities around the globe to support territory mapping and monitoring efforts. Below are a few examples. For more detailed case studies, partner stories and information about other tool for mapping and monitoring, check out our **** [**Earth Defenders Toolkit**](https://www.earthdefenderstoolkit.com) **** website.
+Mapeo is currently being used by a variety of communities around the globe to support territory mapping and monitoring efforts. Below are a few examples. For more detailed case studies, partner stories and information about other tool for mapping and monitoring, check out our [Earth Defenders Toolkit](https://www.earthdefenderstoolkit.com) website.
 
 ### **Environmental Monitoring in Peru**
 
