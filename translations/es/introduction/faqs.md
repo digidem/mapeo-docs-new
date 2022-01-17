@@ -17,7 +17,7 @@ description: >- Frequently asked questions about Mapeo. See the Troubleshooting 
 * [What happens if Mapeo loses financial support? Will my data be inaccessible?](faqs.md#what-happens-if-mapeo-loses-financial-support-will-my-data-be-inaccessible)
 
 {% hint style="info" %}
-For help with technical issues using Mapeo, see the [troubleshooting](../reference-guide/troubleshooting/ "mention") section.
+For help with technical issues using Mapeo, see the [troubleshooting](../complete-reference-guide/troubleshooting/ "mention") section.
 {% endhint %}
 
 ## Who made Mapeo?
@@ -32,7 +32,7 @@ Yes, all Mapeo tools are free to install and use.
 
 Mapeo is built on an embedded peer-to-peer database, so all data collected with Mapeo is stored directly on your device, with no need for an internet connection or centralized server. Users of Mapeo Mobile and Desktop can synchronize or exchange data over a local Wi-Fi network. The data never leaves your local Wi-Fi network and does not require an internet connection. Mapeo Desktop can also exchange information via a synchronization file using a USB drive.
 
-For more on how Mapeo stores and synchronizes data, see [peer-to-peer-and-mapeo-sync.md](what-is-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
+For more on how Mapeo stores and synchronizes data, see [peer-to-peer-and-mapeo-sync.md](about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
 
 ## What languages is Mapeo available in?
 
@@ -42,7 +42,7 @@ Mapeo is currently available in over 8 languages, including:
 * Spanish
 * Portuguese
 
-Mapeo can be translated into additional languages on [Crowdin](https://crowdin.com). For more information, see [translating-mapeo-and-default-configurations.md](../reference-guide/pre-launch-deployment-preparation/translating-mapeo-and-default-configurations.md "mention")
+Mapeo can be translated into additional languages on [Crowdin](https://crowdin.com). For more information, see [translating.md](../complete-reference-guide/customization-options/translating.md "mention")
 
 ## How secure is Mapeo?
 
@@ -50,9 +50,9 @@ Mapeo can be translated into additional languages on [Crowdin](https://crowdin.c
 
 Mapeo is built with long-term sustainability as a focus. This goes beyond financial sustainability - we ensure that no single entity or technology is responsible for data storage or access.
 
-Mapeo does not lock your data into a particular data format. You can easily move your data around, and it is kept in its original form. Mapeo can export data to [SMART](http://smartconservationtools.org/download/), Shapefile, CSV, and GeoJSON. You'll never be locked into using Mapeo software. For more on export options, see [exporting-and-sharing-externally.md](../reference-guide/mapeo-desktop-1/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md "mention").
+Mapeo does not lock your data into a particular data format. You can easily move your data around, and it is kept in its original form. Mapeo can export data to [SMART](http://smartconservationtools.org/download/), Shapefile, CSV, and GeoJSON. You'll never be locked into using Mapeo software. For more on export options, see [exporting-and-sharing-externally.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md "mention").
 
-[exporting-data.md](../reference-guide/mapeo-desktop-setup-and-use/mapeo-desktop-1/using-mapeo-desktop-to-create-territory-information/exporting-data.md "mention")
+[exporting-data.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/exporting-data.md "mention")
 
 ## Does Mapeo use a Blockchain? <a href="#does-mapeo-use-a-blockchain" id="does-mapeo-use-a-blockchain"></a>
 
