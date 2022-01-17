@@ -7,7 +7,7 @@ In this section, you will find all the needed resources to learn how to install 
   * Language
   * GPS coordinate format
 * [importing-configurations.md](importing-configurations.md "mention")
-* [installing-offline-maps.md](installing-offline-maps.md "mention")
+* [adding-custom-base-maps-to-mapeo-mobile.md](adding-custom-base-maps-to-mapeo-mobile.md "mention")
 * [updating-mapeo-mobile.md](updating-mapeo-mobile.md "mention")
 
 
