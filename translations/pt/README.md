@@ -14,7 +14,7 @@ O site é dividido nas seguintes seções:
 
 * **Visão geral**<br>Informações básicas sobre as ferramentas Mapeo
 * **Guia de início rápido**<br> Instruções para instalar e testar a funcionalidade básica do Mapeo
-* **Guia de referência completo**<br> Uma coleção completa de recursos sobre o planejamento & implementação de projetos usando o Mapeo e a personalização das ferramentas
+* **Complete Reference Guide**\ A complete collection of resources on planning & implementing projects using Mapeo and customization of the tools
 
 ### Uso deste guia
 
