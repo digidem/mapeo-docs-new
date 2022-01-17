@@ -6,11 +6,11 @@ Select the observation you would like to edit and open it. You can open the obse
 
 ![](../../../.gitbook/assets/Homescreen-tap\_observation\_dot.jpg)
 
-or by tapping the observation on the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** screen:
+or by tapping the observation on the ![](../../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** screen:
 
 ![](../../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg)
 
-Once you are on the **View observation** screen, tap ![](../../../.gitbook/assets/app\_icons\_Edit-pencil.png) **Edit observation** to modify the information collected.&#x20;
+Once you are on the **View observation** screen, tap ![](../../../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit observation** to modify the information collected.&#x20;
 
 ![](../../../.gitbook/assets/Edit\_observation\_button.jpg)
 
@@ -24,7 +24,7 @@ In Mapeo Mobile, you can only edit or delete observations that have been created
 
 ## Save changes
 
-Tap ![](../../../.gitbook/assets/app\_icons\_Save-check.png) **Save** to save the changes you have made. Tap ![](../../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** to return the **Map** view.
+Tap ![](../../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** to save the changes you have made. Tap ![](../../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** to return the **Map** view.
 
 <mark style="background-color:orange;"></mark>![](../../../.gitbook/assets/Mm\_Save\_observation.jpg)<mark style="background-color:orange;"></mark>
 
