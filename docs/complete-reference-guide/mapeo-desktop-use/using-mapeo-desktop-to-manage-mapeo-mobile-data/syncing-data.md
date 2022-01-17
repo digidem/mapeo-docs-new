@@ -5,7 +5,7 @@ To load observations into Mapeo Desktop for the first time, you will need to syn
 Mapeo allows you to synchronize collected data with other Mapeo users or devices that are members of the same project. Synchronizing is used regularly throughout the course of projects to aggregate data collected by different participants and ensure that multiple copies of the complete database exist. **Syncing data does not always require an internet connection and can be done in entirely offline areas**. &#x20;
 
 {% hint style="warning" %}
-Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations present on the other Mapeo device and they will receive all of the observations present on your device. Only synchronize with members of your project whom you trust with all of your data. For more on synchronization, see: [peer-to-peer-and-mapeo-sync.md](../../../introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
+Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations present on the other Mapeo device and they will receive all of the observations present on your device. Only synchronize with members of your project whom you trust with all of your data. For more on synchronization, see: [peer-to-peer-and-mapeo-sync.md](../../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
 
 \
 Any edits that have been made to the data will also be transferred to the other device during synchronization. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.&#x20;
@@ -106,7 +106,7 @@ To learn about viewing and managing synchronized data:
 
 While other options allow the synchronization between smartphones and computers, synchronizing with a file is only possible between computers.
 
-In this option, a sync file is created in Mapeo Desktop on one computer and then it is used by another computer with Mapeo to exchange data. During the synchronization, all data contained in the sync file is transferred to the computer that is syncing with it, and all data in the Mapeo database of the computer will also be transferred to the sync file. It uses the same two-way method as synchronization via Wi-Fi. To learn more about how synchronization works, see [peer-to-peer-and-mapeo-sync.md](../../../introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
+In this option, a sync file is created in Mapeo Desktop on one computer and then it is used by another computer with Mapeo to exchange data. During the synchronization, all data contained in the sync file is transferred to the computer that is syncing with it, and all data in the Mapeo database of the computer will also be transferred to the sync file. It uses the same two-way method as synchronization via Wi-Fi. To learn more about how synchronization works, see [peer-to-peer-and-mapeo-sync.md](../../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
 
 * **If devices are near** each other, this is a good sync option when you can't create a local Wi-Fi network. You can instead use a ![](../../../.gitbook/assets/USB\_stick\_memory.png)USB drive to copy and paste the sync file between different devices. It works with ![](../../../.gitbook/assets/Computer\_no\_internet\_icon.png)**no internet connection**.
 * **If devices are not near** <mark style="color:red;"></mark> each other, this is also a good sync option. In this case, you will either need to transport a ![](../../../.gitbook/assets/USB\_stick\_memory.png)USB drive to the location of the second device or have access to an ![](../../../.gitbook/assets/Computer\_internet\_icon.png)internet connection.&#x20;
@@ -182,7 +182,7 @@ When the synchronization is complete, ![](../../../.gitbook/assets/Laptop\_blue\
 
 To learn about viewing and managing synchronized data in Mapeo Desktop, continue to:
 
-{% content-ref url="../../mapeo-mobile-use/view-data-on-mobile.md" %}
-[view-data-on-mobile.md](../../mapeo-mobile-use/view-data-on-mobile.md)
+{% content-ref url="../../mapeo-mobile-use/viewing-observations.md" %}
+[viewing-observations.md](../../mapeo-mobile-use/viewing-observations.md)
 {% endcontent-ref %}
 

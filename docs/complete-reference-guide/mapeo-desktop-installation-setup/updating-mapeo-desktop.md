@@ -13,7 +13,7 @@ To update Mapeo Desktop, follow the same steps of the installation process using
 {% hint style="info" %}
 To update files used within Mapeo Desktop, such as configurations or base maps, follow the same steps detailed in the sections below using the new files:\
 \
-[importing-configurations.md](importing-configurations.md "mention")[installing-offline-maps.md](installing-offline-maps.md "mention")
+[importing-configurations.md](importing-configurations.md "mention")[adding-custom-base-maps-to-mapeo-desktop.md](adding-custom-base-maps-to-mapeo-desktop.md "mention")
 {% endhint %}
 
 ## Mapeo versions - information and naming conventions

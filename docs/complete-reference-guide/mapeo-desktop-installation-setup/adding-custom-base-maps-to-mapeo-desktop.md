@@ -10,8 +10,8 @@ Adding a base map to Mapeo Desktop requires some technical skills and should be 
 
 To add a base map to Mapeo Desktop, follow the instructions below for your operating system:
 
-* ![](../../.gitbook/assets/Windows-logo.png) [**Windows computer**](installing-offline-maps.md#steps-for-a-windows-computer)****
-* ![](../../.gitbook/assets/mac.png) [**macOS computer**](installing-offline-maps.md#steps-for-a-macos-computer)****
+* ![](../../.gitbook/assets/Windows-logo.png) [**Windows computer**](adding-custom-base-maps-to-mapeo-desktop.md#steps-for-a-windows-computer)****
+* ![](../../.gitbook/assets/mac.png) [**macOS computer**](adding-custom-base-maps-to-mapeo-desktop.md#steps-for-a-macos-computer)****
 
 ## Windows computer
 

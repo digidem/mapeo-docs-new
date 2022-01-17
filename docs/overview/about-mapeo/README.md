@@ -6,7 +6,7 @@ Mapeo was co-designed and developed with Indigenous communities who face threats
 
 Mapeo is open source software that benefits from continued feedback from our users across the world.
 
-## Ke**y features of Mapeo**
+## Key features of Mapeo
 
 * **Simple to use and learn**\
   Even if you have never used a smartphone phone before, you can learn to collect data, GPS points and photos with Mapeo Mobile in a few hours. Mapeo Desktop does require some computer skills, but has a simple interface with a limited number of features. For more complex analysis or mapping work you can export your data to other tools. The simplicity of the tools helps support wide community involvement and ownership of projects.\
@@ -21,4 +21,4 @@ Mapeo is open source software that benefits from continued feedback from our use
   You can customize the language, maps and information you collect. You can add detailed offline maps of your area, and change the icons and questions used for data collection. Mapeo has been translated into a number of languages already and anyone can add more.\
 
 * **Secure, unfalsifiable data**\
-  ****All data collected with Mapeo has encrypted logs that can be verified for authenticity. Similar to a blockchain, data is secured by cryptographic proofs, so you can verify that no record in the log has been changed or tampered with. Private projects can be created using secure project keys which limit who one can synchronize data with.
+  All data collected with Mapeo has encrypted logs that can be verified for authenticity. Similar to a blockchain, data is secured by cryptographic proofs, so you can verify that no record in the log has been changed or tampered with. Private projects can be created using secure project keys which limit who one can synchronize data with.

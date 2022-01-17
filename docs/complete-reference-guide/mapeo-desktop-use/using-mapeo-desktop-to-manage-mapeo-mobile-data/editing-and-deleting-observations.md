@@ -25,6 +25,6 @@ To delete an observation, go to the  **View observation** window and click on th
 {% hint style="danger" %}
 **Deleting observations cannot be undone, so exercise caution when using delete.**
 
-By deleting observations, you will permanently remove them from your device and all devices you synchronize data with in the future. For more on synchronization, see [peer-to-peer-and-mapeo-sync.md](../../../introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
+By deleting observations, you will permanently remove them from your device and all devices you synchronize data with in the future. For more on synchronization, see [peer-to-peer-and-mapeo-sync.md](../../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
 {% endhint %}
 

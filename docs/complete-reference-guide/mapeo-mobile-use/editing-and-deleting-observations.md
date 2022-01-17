@@ -45,6 +45,6 @@ In Mapeo Mobile, you can only delete observations that have been created on your
 
 As Mapeo uses a peer-to-peer database, all data is stored directly on your device and there is no backup on a centralized server. By deleting observations, you will permanently remove them from your device and all devices you synchronize data with in the future.\
 \
-For more on synchronization, see [peer-to-peer-and-mapeo-sync.md](../../introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
+For more on synchronization, see [peer-to-peer-and-mapeo-sync.md](../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
 {% endhint %}
 

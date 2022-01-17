@@ -50,7 +50,7 @@ Deleting observations cannot be undone, so exercise caution when using delete.
 
 ## Synchronize data
 
-Mapeo Mobile allows you to synchronize data with other Mapeo users that are participants of the same project. During synchronization, ALL data from one device will be sent to the other device and vice versa. For more on synchronization, see: [peer-to-peer-and-mapeo-sync.md](../introduction/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
+Mapeo Mobile allows you to synchronize data with other Mapeo users that are participants of the same project. During synchronization, ALL data from one device will be sent to the other device and vice versa. For more on synchronization, see: [peer-to-peer-and-mapeo-sync.md](../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
 
 To synchronize data between 2 Mapeo Mobile devices that are near each other:
 

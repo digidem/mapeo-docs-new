@@ -10,8 +10,8 @@ Adding a base map to Mapeo requires navigating the File Manager on your smartpho
 
 You can add a base map to Mapeo Mobile in two different ways, depending on the equipment you have.
 
-* ****[![](../../.gitbook/assets/laptop\_icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](installing-offline-maps.md#a.-adding-the-base-map-using-a-computer)****
-* [![](../../.gitbook/assets/Smartphone\_icon.png)**Using only your smartphone**](installing-offline-maps.md#a.-adding-the-base-map-using-a-computer-1)****
+* ****[![](../../.gitbook/assets/laptop\_icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****
+* [![](../../.gitbook/assets/Smartphone\_icon.png)**Using only your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer-1)****
 
 ## Adding a base map using a computer
 
