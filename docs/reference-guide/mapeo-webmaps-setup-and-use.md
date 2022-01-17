@@ -1,2 +1,0 @@
-# Mapeo Webmaps setup & use
-
