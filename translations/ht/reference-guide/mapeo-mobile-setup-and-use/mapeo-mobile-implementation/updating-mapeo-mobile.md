@@ -45,13 +45,13 @@ We are currently developing a way to automatically update the version of the app
 
 ### Want to try it out?
 
-To test out this feature, you will need to enable it within the **Experiments** menu. To do so, tap the ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png)**Observations list** button, then tap ![](../../../.gitbook/assets/app\_icons\_Settings.png)**Settings**, and select **Experiments**. Select the **P2P upgrades** checkbox to activate.
+To test out this feature, you will need to enable it within the **Experiments** menu. To do so, tap the ![](../../../.gitbook/assets/app icons\_observation-list\_35px.png)**Observations list** button, then tap ![](../../../.gitbook/assets/app\_icons\_Settings.png)**Settings**, and select **Experiments**. Select the **P2P upgrades** checkbox to activate.
 
 ![](../../../.gitbook/assets/Mm\_Settings\_screen\_experiments.jpg)  ![](../../../.gitbook/assets/Mm\_Experiments\_screen-select\_P2P\_upgrade.jpg)
 
 
 
-Once you have activated the experimental **P2P upgrades** feature, you will be able to see available app updates on the ![](../../../.gitbook/assets/app\_icons\_Sync.png) **Synchronize** screen when synchronizing with other Mapeo Mobile users.
+Once you have activated the experimental **P2P upgrades** feature, you will be able to see available app updates on the ![](../../../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** screen when synchronizing with other Mapeo Mobile users.
 
 ![](../../../.gitbook/assets/Mm\_sync\_checking\_p2p\_updates.jpg)&#x20;
 
