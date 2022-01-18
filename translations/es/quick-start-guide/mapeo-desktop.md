@@ -1,6 +1,6 @@
 # Mapeo Desktop
 
-## Install
+## Instalar
 
 Download Mapeo Desktop from the [Mapeo website](https://docs.mapeo.app) and double click the file to launch the installer. For more on installation, see [installing-mapeo-desktop.md](../complete-reference-guide/mapeo-desktop-installation-setup/installing-mapeo-desktop.md "mention").
 
