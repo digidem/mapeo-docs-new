@@ -66,7 +66,7 @@ Click on the Permissions tab at the top of the Properties window, then click the
 
 ![](../../.gitbook/assets/Linux\_allow\_executable\_permissions.jpg)
 
-### Install
+### Instalar
 
 Double click the `.AppImage` file and Mapeo Desktop should open automatically.
 
