@@ -1,10 +1,10 @@
 # Mapeo Mobile
 
-## Install
+## Instalar
 
 To install Mapeo Mobile on your Android device,[ download the latest version on Google Play​](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_US). ​You can also [download the app as an APK ](https://apk.mapeo.app/latest/)and install it manually on your phone. ​For more on installation, see [installing-mapeo-mobile.md](../complete-reference-guide/mapeo-mobile-installation-setup/installing-mapeo-mobile.md "mention").
 
-## Collect data
+## Recopilar datos
 
 Users collect data with Mapeo Mobile in the form of _observations_. An observation is based on a geographic location (a point on the map) and can have associated photos, notes and details.&#x20;
 
