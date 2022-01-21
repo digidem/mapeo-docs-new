@@ -60,7 +60,7 @@ See below for instructions on how to confirm which configuration is currently in
 
 ### View current configuration in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**:&#x20;
 
-To confirm which configuration Mapeo Mobile is currently using, tap ![](../../../.gitbook/assets/app\_icons\_Observation-list\_GREY.png) **Observations list** on the home screen, then tap ![](../../../.gitbook/assets/app\_icons\_Settings.png) **Settings**. On the Settings screen, select **Project configuration** to view the name and version of the configuration in use.\ \ ![](../../../.gitbook/assets/Mm\_Project\_config\_screen\_IMW-config.jpg)
+To confirm which configuration Mapeo Mobile is currently using, tap ![](../../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** on the home screen, then tap ![](../../../.gitbook/assets/app\_icons\_Settings.png) **Settings**. On the Settings screen, select **Project configuration** to view the name and version of the configuration in use.\ \ ![](../../../.gitbook/assets/Mm\_Project\_config\_screen\_IMW-config.jpg)
 
 {% hint style="info" %}
 For more on how to import a new configuration file into Mapeo Mobile, see [importing-configurations.md](../../mapeo-mobile-setup-and-use/mapeo-mobile-implementation/importing-configurations.md "mention").

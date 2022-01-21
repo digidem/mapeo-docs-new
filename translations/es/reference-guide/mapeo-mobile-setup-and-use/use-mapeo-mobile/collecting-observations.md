@@ -56,7 +56,7 @@ In order to set up your own custom questions or details fields, you must customi
 
 ## Save observation
 
-Once you have added all desired information, tap ![](../../../.gitbook/assets/app\_icons\_Save-check.png) **Save**.
+Once you have added all desired information, tap ![](../../../.gitbook/assets/app\_icons\_save\_35px.png) **Save**.
 
 <mark style="background-color:orange;"></mark>![](../../../.gitbook/assets/Mm\_Save\_observation.jpg)<mark style="background-color:orange;"></mark>
 
@@ -70,4 +70,4 @@ If the GPS signal at the moment of saving the observation has an accuracy worse 
 
 1. Tap **CONTINUE WAITING** to wait until the GPS signal improves.
 2. Tap **SAVE** to use the current GPS data, even if the accuracy is worse than ± 10 m.
-3. Tap **MANUAL COORDS** to manually enter the coordinates that you want to use.\ \ ![](../../../.gitbook/assets/Mm\_Weak\_GPS\_message\_manual\_coords\_option.jpg)  \ \ You can choose which GPS data format you want to use to enter the coordinates. This is a useful option if you have a GPS device or another smartphone with a better GPS signal accuracy. \ \ ![](../../../.gitbook/assets/Mm\_Enter\_coordinates\_screen\_format\_menu.jpg)  ![](../../../.gitbook/assets/Mm\_Enter\_coordinates\_screen-format\_options.jpg)\ \ Tap ![](../../../.gitbook/assets/app\_icons\_Save-check.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.
+3. Tap **MANUAL COORDS** to manually enter the coordinates that you want to use.\ \ ![](../../../.gitbook/assets/Mm\_Weak\_GPS\_message\_manual\_coords\_option.jpg)  \ \ You can choose which GPS data format you want to use to enter the coordinates. This is a useful option if you have a GPS device or another smartphone with a better GPS signal accuracy. \ \ ![](../../../.gitbook/assets/Mm\_Enter\_coordinates\_screen\_format\_menu.jpg)  ![](../../../.gitbook/assets/Mm\_Enter\_coordinates\_screen-format\_options.jpg)\ \ Tap ![](../../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.

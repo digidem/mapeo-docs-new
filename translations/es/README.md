@@ -14,11 +14,11 @@ The site is divided into the following sections:
 
 * **Overview**\ Basic information about the Mapeo tools
 * **Quick Start Guide**\ Instructions for installing and testing Mapeo's default functionality
-* **Complete Reference Guide**\ ****A complete collection of resources on planning & implementing projects using Mapeo and customization of the tools
+* **Complete Reference Guide**\ A complete collection of resources on planning & implementing projects using Mapeo and customization of the tools
 
 ### Use of this guide
 
-Digital  Democracy would like both Mapeo and the Mapeo reference materials we develop to help communities find ways to support **autonomy**, **accesibility** and **collaboration** in their projects. We know that people accessing this online resource will have diverse interests, goals, needs, and technical literacy. For this reason, there are a variety of paths to access information and levels of details users may be looking for.  All pages in this guide can also be [saved in PDF format and printed for use offline](reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md).
+Digital  Democracy would like both Mapeo and the Mapeo reference materials we develop to help communities find ways to support **autonomy**, **accesibility** and **collaboration** in their projects. We know that people accessing this online resource will have diverse interests, goals, needs, and technical literacy. For this reason, there are a variety of paths to access information and levels of details users may be looking for.  All pages in this guide can also be [saved in PDF format and printed for use offline](complete-reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md).
 
 _Feel free to make use of these resources under the creative commons license terms:_ [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)&#x20;
 
@@ -26,11 +26,11 @@ _Feel free to make use of these resources under the creative commons license ter
 
 Feedback, edits, and additions to these materials are welcome! External edits and additions are currently only possible via pull requests to the [mapeo-docs-new repository](https://github.com/digidem/mapeo-docs-new) on GitHub.
 
-**Translation**\ ****We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](reference-guide/pre-launch-deployment-preparation/translating-mapeo-and-default-configurations.md) to learn how to get started.
+**Translation**\ ****We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](complete-reference-guide/customization-options/translating.md) to learn how to get started.
 
 #### Open Source Development
 
-Mapeo and all of Digital Democracy's technical development is open source. Visit the __ [FOR DEVELOPERS](for-developers/untitled.md) <mark style="color:blue;"></mark> section for more information.
+Mapeo and all of Digital Democracy's technical development is open source. Visit the __ [FOR DEVELOPERS](for-developers/mapeo-repositories.md) <mark style="color:blue;"></mark> section for more information.
 
 
 
