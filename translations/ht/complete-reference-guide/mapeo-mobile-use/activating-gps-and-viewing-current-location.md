@@ -12,12 +12,11 @@ It will be different on each smartphone, but **GPS** or **Location** services ca
 
 On the home screen of Mapeo Mobile, you will be able to see if Mapeo is successfully accessing your device's GPS.
 
-* If GPS is activated, the **GPS details** button at the top of the screen will show a green dot and the precision of the GPS signal:\ &#x20;![](../../.gitbook/assets/GPS\_details\_activated (1).png)\
-
-* If the GPS is deactivated, the **GPS details** button will be red:\ &#x20;![](../../.gitbook/assets/GPS\_details\_activated.png)
+* If GPS is activated, the **GPS details** button at the top of the screen will show a green dot and the precision of the GPS signal:\ ![](../../.gitbook/assets/GPS\_details\_activated (1).png)\\
+* If the GPS is deactivated, the **GPS details** button will be red:\ ![](../../.gitbook/assets/GPS\_details\_activated.png)
 
 {% hint style="info" %}
-If you activate the GPS on your device while you are using Mapeo, you might have to restart ![](../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo** for the app to recognize that the GPS is activated and change the status of the **GPS details** button.
+If you activate the GPS on your device while you are using Mapeo, you might have to restart ![](../../.gitbook/assets/Mm-icon.png) **Mapeo** for the app to recognize that the GPS is activated and change the status of the **GPS details** button.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -28,9 +27,7 @@ If you didn't allow Mapeo Mobile access to your phone's camera and GPS the first
 
 Tap the ![](../../.gitbook/assets/GPS\_button\_activated.png)**GPS details** button to see more information on your current location.
 
-![](../../.gitbook/assets/Homescreen-GPS\_button.jpg)  ![](../../.gitbook/assets/GPS\_details\_screen.jpg)
-
-&#x20;
+![](../../.gitbook/assets/Homescreen-GPS\_button.jpg) ![](../../.gitbook/assets/GPS\_details\_screen.jpg)
 
 ## Viewing your current location
 
@@ -39,4 +36,3 @@ By default, Mapeo Mobile will mark your current position with a blue dot at the 
 If you pan to a different area on the map, you can always return to viewing your current location by tapping the ![](../../.gitbook/assets/app-icons\_show-current-location.png) **Show my current position** button on the bottom right of the map.
 
 ![](../../.gitbook/assets/Mm\_show\_current\_location\_button.jpg)
-
