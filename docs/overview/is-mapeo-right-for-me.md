@@ -12,13 +12,29 @@ There are many tools and pieces of software that you could use for making maps a
 
 Mapeo may not be the right tool for all projects. When evaluating whether Mapeo will be a good choice, we encourage you to try out the tools (see the [Quick Start Guide](../quick-start-guide/getting-started.md)) and please keep in mind the following:
 
+* Mapeo Mobile is currently available for Android only.
+  * [ ] In the roadmap: iOS
+* Currently, Mapeo does not offer the option for hierarchical project roles, so all data is available to all participants of a project.
+  * [ ] In the roadmap: having different types of users in a single project&#x20;
+* Mapeo works best when team members work physically close to each other in a remote context or do coincide with other members of their team on a regular basis&#x20;
+  * [ ] Work in progress:  web sync option for those working from afar and having an internet connection&#x20;
+* Currently, setting up custom data fields and offline background maps requires some coding.
+  * [ ] Work in progress: a background map builder tool and an easier config builder to custom data fields
+* The current version of Mapeo does not have support for GPS tracks, audio, or video capture.
+  * [ ] Work in progress: tracks
+  * [ ] In the roadmap: audio and video
+* If you want to track information about the same set of places and view changes over time, other tools would be a better choice.
+* For complicated (nested) surveys for data collection, other tools would be a better choice.
+
+To better identify if Mapeo is the best tool for you, we encourage you to read these main specifications:&#x20;
+
 * **Equipment requirements**\
   Mapeo Mobile is currently available for **Android only**. Mapeo Desktop works on Windows, Mac and Linux machines.\
   \
   Mapeo Mobile uses Wi-Fi networks to synchronize data between devices. To synchronize data with Mapeo Mobile in offline areas, you will need a portable router (this does not require an internet connection) or a third device capable of creating a local network offline. \
 
 * **Peer-to-peer architecture**\
-  The Mapeo tools are based on a peer-to-peer database, which means there is no centralized server aggregating information collected by users. Two devices that are participating in the same Mapeo project can synchronize or exchange their data at a time.\
+  The Mapeo tools are based on a peer-to-peer database, which means there is no centralized server aggregating information collected by users. Two devices that are participating in the same Mapeo project can synchronize or exchange data at a time.\
   \
   Synchronized devices have identical copies of the Mapeo database and can serve as backups if a device is lost or damaged. **Please note that data that has not been synchronized will not have a backup.**  For more details on peer-to-peer architecture and syncing, see [peer-to-peer-and-mapeo-sync.md](about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").\
   \
@@ -29,7 +45,7 @@ Mapeo may not be the right tool for all projects. When evaluating whether Mapeo 
   ****\
   ****Mapeo was also built to be highly customizable and allow users to adapt its interface to meet the needs of specific projects. Mapeo is currently available in many languages and can easily be translated into new ones.\
   \
-  Adapting Mapeo to use custom categories, icons, questions and base maps currently requires significant technical knowledge and will not be accessible to all users. If you believe customization will be necessary for your project, please consult the section on [customization-options](../complete-reference-guide/customization-options/ "mention") to determine whether your team has the required technical skills.\
+  Adapting Mapeo to use custom categories, icons, questions and background maps currently requires significant technical knowledge and will not be accessible to all users. If you believe customization will be necessary for your project, please consult the section on [customization-options](../complete-reference-guide/customization-options/ "mention") to determine whether your team has the required technical skills.\
 
 * **Security**\
   As an offline-first, peer-to-peer set of tools, Mapeo can offer a path for data collection and exchange with fewer technological vulnerabilities than other available tools.\
