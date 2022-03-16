@@ -7,7 +7,7 @@ To start using a custom configuration, you'll need to import the new configurati
 Download or copy the custom configuration file (eg. `example_project.mapeosettings`) onto your computer. Note which folder the file was saved in.
 
 {% hint style="info" %}
-For sending configuration files (`.mapeosettings`) between computers that have an![](../../.gitbook/assets/Computer-no-internet-icon.png) internet connection, we recommend using **email** or the ![](../../.gitbook/assets/Telegram-logo.png) **Telegram Desktop** app, as other messaging applications have problems with this file format. You can also share a link to a ![](../../.gitbook/assets/drive.png)**Drive** directory where the configuration is located.
+For sending configuration files (`.mapeosettings`) between computers that have an![](../../.gitbook/assets/Computer\_internet\_icon.png) internet connection, we recommend using **email** or the ![](../../.gitbook/assets/Telegram-logo.png) **Telegram Desktop** app, as other messaging applications have problems with this file format. You can also share a link to a ![](../../.gitbook/assets/drive.png)**Drive** directory where the configuration is located.
 
 
 
@@ -16,7 +16,7 @@ If you have ![](../../.gitbook/assets/Computer\_no\_internet\_icon.png) no inter
 
 ## Import the configuration
 
-1. Open ![](../../.gitbook/assets/Md-icon.png) **Mapeo Desktop.**
+1. Open ![](../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop.**
 2. On the **Top menu** bar, click **File** and select **Import Configuration**.
 3. In the pop-up window, navigate to the folder on the computer where you saved the configuration file (`.mapeosettings`) you want to import. Click on the file, then click **Open**. You may see a white screen for a few seconds while the configuration changes.
 
