@@ -2,24 +2,24 @@
 
 See the sections below for different file sharing options:
 
-* [Sharing files between devices with an ![](../../../.gitbook/assets/internet-connection-icon.png)**internet connection**](./#sharing-files-between-devices-with-an-internet-connection)
-* [Sharing files between devices with ![](../../../.gitbook/assets/no-internet-connection-icon.png)**no internet connection**](./#sharing-files-between-devices-with-no-internet-connection)
+* [Sharing files between devices with an ![](../../../.gitbook/assets/Internet\_connection.png)**internet connection**](./#sharing-files-between-devices-with-an-internet-connection)
+* [Sharing files between devices with ![](../../../.gitbook/assets/no\_internet\_connection.png)**no internet connection**](./#sharing-files-between-devices-with-no-internet-connection)
 
 ## **Sharing files between devices with an internet connection**
 
-If you have access to an ![](../../../.gitbook/assets/internet-connection-icon.png)**internet connection**, you can share files in multiple ways. The optimal way depends on the size and type of the file. Below are our recommendations:
+If you have access to an ![](../../../.gitbook/assets/Internet\_connection.png)**internet connection**, you can share files in multiple ways. The optimal way depends on the size and type of the file. Below are our recommendations:
 
-#### ![](../../../.gitbook/assets/Mm-icon.png) **Mapeo Mobile**
+#### ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**
 
 * Configuration files (`.mapeosettings`) - ![](../../../.gitbook/assets/Telegram-logo.png)**Telegram** app, **email,** or ![](../../../.gitbook/assets/drive.png)**Google  Drive.**
 * Installation files for Mapeo Mobile (`.apk`) - ![](../../../.gitbook/assets/Telegram-logo.png)**Telegram** app, **email,** or ![](../../../.gitbook/assets/drive.png)**Google  Drive.**
-* Base maps (folder `.zip`) - we recommend using a ![](../../../.gitbook/assets/laptop-icon.png)computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")
+* Base maps (folder `.zip`) - we recommend using a ![](../../../.gitbook/assets/laptop\_icon.png)computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")
 
 To share and add base maps to Mapeo Mobile, we recommend using a computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")\ \ You can also share larger files (up to 2GB) for free via Drive, Dropbox, WeTransfer or other online platforms.
 
 Note: Sending installation (`.apk`) and configuration (`.mapeosettings`) files with other apps encounter problems with the size and type of the files.
 
-![](../../../.gitbook/assets/Md-icon.png) **Mapeo Desktop**
+![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**
 
 * Configuration files (`.mapeosettings`)&#x20;
 * Installation files for Mapeo Desktop (`.exe`, `.dmg` , `.zip` , `.AppImage`)&#x20;
@@ -33,12 +33,12 @@ For Mapeo Desktop, you can use multiple platforms to share files.&#x20;
 
 ## **Sharing files between devices with no internet connection**
 
-If you do ![](../../../.gitbook/assets/no-internet-connection-icon.png)not have access to an internet connection, there are multiple ways to share files between devices.
+If you do ![](../../../.gitbook/assets/no\_internet\_connection.png)not have access to an internet connection, there are multiple ways to share files between devices.
 
 * Copy and paste files using a USB drive or cable
 * Send via Bluetooth using Android, SHAREit or other apps
 
-![](../../../.gitbook/assets/Mm-icon.png) **Mapeo Mobile**
+![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**
 
 Android devices that are near each other can use Bluetooth to transfer files without an internet connection. Bluetooth transfer will be quicker for lighter weight files, such as:
 
@@ -59,7 +59,7 @@ You can also use Android apps for Bluetooth sharing, including SHAREit or others
 For transferring larger files (bigger than 10MB) such as base map folders, we recommend connecting to a computer and transferring via cable if possible.\ \ For more on adding base maps to Mapeo Mobile, see [#adding-a-base-map-using-a-computer](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md#adding-a-base-map-using-a-computer "mention").
 {% endhint %}
 
-![](../../../.gitbook/assets/Md-icon.png) **Mapeo Desktop**
+![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**
 
 For transferring files between computers without an internet connection, we recommend using a ![](../../../.gitbook/assets/USB\_stick\_memory.png)USB drive.
 
