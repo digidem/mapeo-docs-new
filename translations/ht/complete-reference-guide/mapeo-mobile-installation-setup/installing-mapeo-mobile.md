@@ -2,21 +2,21 @@
 
 There are 2 ways to install Mapeo Mobile on your smartphone:
 
-* \*\*\*\*[**Install from Play Store**](installing-mapeo-mobile.md#install-from-play-store)\ If you have an ![](../../.gitbook/assets/internet-connection-icon.png)**internet connection**, you can download and install Mapeo Mobile for free from the Google Play Store. \\
-* \*\*\*\*[**Install from a APK file**](installing-mapeo-mobile.md#install-from-apk-file)\ To install Mapeo Mobile on smartphones that have ![](../../.gitbook/assets/no-internet-connection-icon.png)**no internet** **connection**, you can use an installation file (`.apk`).
+* \*\*\*\*[**Install from Play Store**](installing-mapeo-mobile.md#install-from-play-store)\ If you have an ![](../../.gitbook/assets/Internet\_connection.png)**internet connection**, you can download and install Mapeo Mobile for free from the Google Play Store. \\
+* \*\*\*\*[**Install from a APK file**](installing-mapeo-mobile.md#install-from-apk-file)\ To install Mapeo Mobile on smartphones that have ![](../../.gitbook/assets/no\_internet\_connection.png)**no internet** **connection**, you can use an installation file (`.apk`).
 
 ## Install from Play Store
 
 Before you start, make sure that:
 
-* You have a good ![](../../.gitbook/assets/internet-connection-icon.png)internet connection.
+* You have a good ![](../../.gitbook/assets/Internet\_connection.png)internet connection.
 * You have enough space available on your smartphone for the Mapeo application and data you will collect - we recommend that you have at least 1 GB (gigabyte) available.
 
 To install Mapeo Mobile on your smartphone from the Google Play Store:
 
 1. Open the ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w) **Play Store** application on your smartphone.
-2. In the search bar at the top of the Play Store window, type **Mapeo**, and click on the ![](../../.gitbook/assets/image (4).png)**magnifying glass** icon at the bottom right of the keyboard.
-3. Click ![](../../.gitbook/assets/Mm-icon.png) **Mapeo** in the list of applications.
+2. In the search bar at the top of the Play Store window, type **Mapeo**, and click on the ![](../../.gitbook/assets/image (5) (1).png)**magnifying glass** icon at the bottom right of the keyboard.
+3. Click ![](../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo** in the list of applications.
 4. On the Mapeo Mobile screen in the Play Store application, click on **Install**.
 5. When the installation process is complete, click on **Open**.
 6. When Mapeo Mobile opens, you will be prompted to allow Mapeo access to your phone's camera and GPS for proper functioning of the app. After that, the Mapeo Mobile home screen will open automatically.
@@ -46,8 +46,8 @@ While an internet connection is available, [download the Mapeo installation file
 {% hint style="info" %}
 Once downloaded, the APK file can be shared with other devices and used to install Mapeo offline.
 
-* If you have ![](../../.gitbook/assets/internet-connection-icon.png)an internet connection, use any messaging app (such as ![](../../.gitbook/assets/Telegram-logo.png) Telegram or ![](../../.gitbook/assets/Whatsapp\_icon.png)WhatsApp) for sending installation files (`.apk`) between smartphones.
-* If you have ![](../../.gitbook/assets/no-internet-connection-icon.png)no internet connection, you can copy the file from a computer using a ![](../../.gitbook/assets/USB\_cable.png)USB cable or send the installation file using ![](../../.gitbook/assets/Bluetooth.png) Bluetooth. Read more about how to send a file using these methods in [sharing-files-between-devices](../troubleshooting/sharing-files-between-devices/ "mention").
+* If you have ![](../../.gitbook/assets/Internet\_connection.png)an internet connection, use any messaging app (such as ![](../../.gitbook/assets/Telegram-logo.png) Telegram or ![](../../.gitbook/assets/Whatsapp\_icon.png)WhatsApp) for sending installation files (`.apk`) between smartphones.
+* If you have ![](../../.gitbook/assets/no\_internet\_connection.png)no internet connection, you can copy the file from a computer using a ![](../../.gitbook/assets/USB\_cable.png)USB cable or send the installation file using ![](../../.gitbook/assets/Bluetooth.png) Bluetooth. Read more about how to send a file using these methods in [sharing-files-between-devices](../troubleshooting/sharing-files-between-devices/ "mention").
 {% endhint %}
 
 ### Install from APK file
