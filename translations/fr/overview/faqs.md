@@ -32,9 +32,9 @@ Yes, all Mapeo tools and features are free to install and use.
 
 ## What kind of data can Mapeo collect?
 
-With ![](../.gitbook/assets/Mm-icon.png) **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
+With ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
 
-With ![](../.gitbook/assets/Md-icon.png) **Mapeo Desktop** Territory mode, you can create points, lines and areas (polygons) on a map and add an associated category, description, and details.
+With ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** Territory mode, you can create points, lines and areas (polygons) on a map and add an associated category, description, and details.
 
 For more on Mapeo's default categories and details fields, see [default-configuration.md](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/default-configuration.md "mention"). To learn about customizing these options, see [custom-configurations](../complete-reference-guide/customization-options/custom-configurations/ "mention").
 
@@ -47,8 +47,6 @@ Mapeo is currently available in over 8 languages, including:
 * Portuguese
 
 Mapeo can be translated into additional languages on [Crowdin](https://crowdin.com). For more information, see [translating.md](../complete-reference-guide/customization-options/translating.md "mention")
-
-Mapeo can be translated into additional languages on [Crowdin](https://crowdin.com). For more information, see [translating.md](../complete-reference-guide/customization-options/translating.md "mention").
 
 ## Is Mapeo Mobile available for iOS?
 
