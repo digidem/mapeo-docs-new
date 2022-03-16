@@ -4,9 +4,9 @@ Like most existing apps, Mapeo Mobile is in continuous development. We frequentl
 
 The process to update Mapeo Mobile is very similar to the installation process and there are 3 ways to do it:
 
-* **Update from Play Store**\ If you have an ![](../../.gitbook/assets/internet-connection-icon.png)**internet connection**, update to the latest version of Mapeo Mobile from the ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w) [Google Play Store](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_CA\&gl=US). The steps are the same as for installing Mapeo: [#install-from-play-store](installing-mapeo-mobile.md#install-from-play-store "mention")\
+* **Update from Play Store**\ If you have an ![](../../.gitbook/assets/Internet\_connection.png)**internet connection**, update to the latest version of Mapeo Mobile from the ![](https://lh5.googleusercontent.com/12JKLq6v4NOosOrMWed5oh6WPYPge3hcwt2nwsmC1Bdq4AUQoQWTqN9Z2T2sgzRBxmjKjDb4nB40Xv3mH3U5TxH88r4BKnj\_p25ERgOKOYGEYNby3VLvSWnWjYKn2w) [Google Play Store](https://play.google.com/store/apps/details?id=com.mapeo\&hl=en\_CA\&gl=US). The steps are the same as for installing Mapeo: [#install-from-play-store](installing-mapeo-mobile.md#install-from-play-store "mention")\
 
-* **Update from an APK file**\ To update Mapeo Mobile on smartphones that have ![](../../.gitbook/assets/no-internet-connection-icon.png)**no internet** **connection**, follow the same steps as for installing the app using an installation file (`.apk`), this time using a more recent installation file: [#install-from-apk-file](installing-mapeo-mobile.md#install-from-apk-file "mention")\
+* **Update from an APK file**\ To update Mapeo Mobile on smartphones that have ![](../../.gitbook/assets/no\_internet\_connection.png)**no internet** **connection**, follow the same steps as for installing the app using an installation file (`.apk`), this time using a more recent installation file: [#install-from-apk-file](installing-mapeo-mobile.md#install-from-apk-file "mention")\
 
 * ****[**Update via P2P App Updates**](updating-mapeo-mobile.md#updating-mapeo-mobile-via-p2p-peer-to-peer-app-updates) (\*Experimental)\ Mapeo Mobile currently includes an experimental feature that allows you to update the version of the application offline via a peer-to-peer connection over Wi-Fi. For more on how to update this way, see[#updating-mapeo-mobile-via-p2p-peer-to-peer-app-updates](updating-mapeo-mobile.md#updating-mapeo-mobile-via-p2p-peer-to-peer-app-updates "mention")
 
@@ -51,7 +51,7 @@ To search for and share Mapeo app updates between Mapeo Mobile devices, both sma
 
 ### Enable the P2P App Updates feature
 
-To use this feature, you will need to enable it within the **Experiments** menu. To do so, tap the ![](../../.gitbook/assets/app\_icons\_observations-list\_35px.png)**Observations list** button, then tap ![](../../.gitbook/assets/app icons\_Settings.png)**Settings**, and select **Experiments**. Select **P2P App Updates,** then check the box to **Use P2P App Updater**.
+To use this feature, you will need to enable it within the **Experiments** menu. To do so, tap the ![](../../.gitbook/assets/app icons\_observation-list\_35px.png)**Observations list** button, then tap ![](../../.gitbook/assets/app\_icons\_Settings.png)**Settings**, and select **Experiments**. Select **P2P App Updates,** then check the box to **Use P2P App Updater**.
 
 ![](../../.gitbook/assets/Mm\_Settings\_screen\_experiments.jpg)  ![](../../.gitbook/assets/Mm\_Experiments\_screen\_P2P\_App\_Updates.jpg)![](../../.gitbook/assets/Mm\_P2P\_App\_Updates\_screen\_on.jpg)
 
