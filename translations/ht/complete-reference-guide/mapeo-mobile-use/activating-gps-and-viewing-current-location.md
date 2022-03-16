@@ -16,7 +16,7 @@ On the home screen of Mapeo Mobile, you will be able to see if Mapeo is successf
 * If the GPS is deactivated, the **GPS details** button will be red:\ ![](../../.gitbook/assets/GPS\_details\_activated.png)
 
 {% hint style="info" %}
-If you activate the GPS on your device while you are using Mapeo, you might have to restart ![](../../.gitbook/assets/Mm-icon.png) **Mapeo** for the app to recognize that the GPS is activated and change the status of the **GPS details** button.
+If you activate the GPS on your device while you are using Mapeo, you might have to restart ![](../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo** for the app to recognize that the GPS is activated and change the status of the **GPS details** button.
 {% endhint %}
 
 {% hint style="danger" %}
