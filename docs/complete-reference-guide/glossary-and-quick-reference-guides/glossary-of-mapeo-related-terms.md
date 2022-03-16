@@ -79,9 +79,9 @@ The GPS acronym stands for "Global Positioning System", which is a satellite nav
 
 <mark style="color:purple;">Should we have a keyboard where we show what Space, Enter, etc. are? They are mentioned in Territory mode.</mark>
 
-![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (6).png>)
+![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (1).png>)
 
-![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (7).png>)
+![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (2).png>)
 
 #### Location?
 
@@ -119,7 +119,7 @@ Also called **Google Play**, or **Google Play Store**, it is the official app st
 
 **Portable battery**
 
-It is a form of portable power supply that provides charging for smartphones, tablets, and other devices. If you plan to use Mapeo and you won't have access to a charger and an ![](../../.gitbook/assets/plug-icon.png)electrical outlet (e.g. if you are on a patrol or you are in the woods), it's good to take a fully-charged portable battery with you, so that you can recharge your device if needed.&#x20;
+It is a form of portable power supply that provides charging for smartphones, tablets, and other devices. If you plan to use Mapeo and you won't have access to a charger and an ![](../../.gitbook/assets/plug.png)electrical outlet (e.g. if you are on a patrol or you are in the woods), it's good to take a fully-charged portable battery with you, so that you can recharge your device if needed.&#x20;
 
 #### **Project key**
 
@@ -137,7 +137,7 @@ In a Mapeo project, synchronization is a process in which information is shared 
 
 #### Sync files
 
-It is a type of file created in Mapeo Desktop that allows the [synchronization ](glossary-of-mapeo-related-terms.md#synchronization)of Mapeo [data ](glossary-of-mapeo-related-terms.md#data)between computers. It has an `.mapeodata` extension and, similarly to synchronization via [Wi-Fi](glossary-of-mapeo-related-terms.md#wi-fi-network), it uses a two-way sync method. To learn more about how synchronization works, see [synchronizing-with-a-file.md](../mapeo-desktop-use/synchronizing-data-with-mapeo-desktop/synchronizing-with-a-file.md "mention")
+It is a type of file created in Mapeo Desktop that allows the [synchronization ](glossary-of-mapeo-related-terms.md#synchronization)of Mapeo [data ](glossary-of-mapeo-related-terms.md#data)between computers. It has an `.mapeodata` extension and, similarly to synchronization via [Wi-Fi](glossary-of-mapeo-related-terms.md#wi-fi-network), it uses a two-way sync method. To learn more about how synchronization works, see [Broken link](broken-reference "mention")
 
 #### Territory mapping?
 

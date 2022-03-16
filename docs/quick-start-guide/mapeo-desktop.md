@@ -18,15 +18,15 @@ To get started, synchronize collected data from a Mapeo Mobile device. To synchr
 
 ### Connect to Wi-Fi
 
-Make sure both the ![](../.gitbook/assets/Mm-icon.png) **Mapeo Mobile** device and the ![](../.gitbook/assets/Md-icon.png) **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
+Make sure both the ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile** device and the ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
 
 ### Enter Synchronize mode
 
-In ![](../.gitbook/assets/Mm-icon.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\
+In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\
 \
 ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\\
 
-In ![](../.gitbook/assets/Md-icon.png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
+In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
@@ -41,7 +41,7 @@ On the Mapeo Desktop **Synchronize** screen, identify the mobile device you woul
 {% hint style="info" %}
 In order to synchronize, Mapeo devices must be connected to the **same Wi-Fi network**, and using the **same project configuration**.
 
-For more detailed instructions on synchronizing in Mapeo Desktop, see [syncing-data](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/ "mention").
+For more detailed instructions on synchronizing in Mapeo Desktop, see [syncing-data.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data.md "mention").
 {% endhint %}
 
 ## View observations

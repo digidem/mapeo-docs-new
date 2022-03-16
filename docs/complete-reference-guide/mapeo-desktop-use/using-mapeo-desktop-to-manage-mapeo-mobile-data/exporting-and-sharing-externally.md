@@ -24,7 +24,7 @@ In Mapeo Desktop you can view your data as a report. Each page of the report con
 
 ## ![](../../../.gitbook/assets/map\_GeoJSON.png) Export as GeoJSON
 
-This is a useful export option if you want to continue working on your data in another mapping software (such as ![](<../../../.gitbook/assets/image (3).png>)QGIS, ![](<../../../.gitbook/assets/image (10).png>)ArcGIS, or others).
+This is a useful export option if you want to continue working on your data in another mapping software (such as ![](<../../../.gitbook/assets/image (5).png>)QGIS, ![](<../../../.gitbook/assets/image (9).png>)ArcGIS, or others).
 
 To export your observation data as `.GeoJSON`:
 
@@ -99,14 +99,14 @@ This is a useful export option if you want to publish an interactive online map 
 
 3\. In the pop-up window, navigate in your computer's file system to locate the Mapeo Web Package (`.mapeomap`) file. Select it and click on **Open**. Wait until the uploading process is complete.
 
-4\. Click on ![](../../../.gitbook/assets/Webmaps\_link\_to\_map.png)**Publish link to Map** to open the website with your published map!
+4\. Click on ![](../../../.gitbook/assets/Webmap-link-to-map-icon.png)**Publish link to Map** to open the website with your published map!
 
 5\. Copy the URL link of the online map to share it with other people
 
 You can also:
 
 * Click on ![](../../../.gitbook/assets/Webmaps\_edit\_icon.jpg) **Edit map details** to edit the title, description, terms & limitations, and style of the background map.&#x20;
-* Click on ![](<../../../.gitbook/assets/image (1).png>)**Menu** to delete the map.
+* Click on ![](<../../../.gitbook/assets/image (4).png>)**Menu** to delete the map.
 
 ![](../../../.gitbook/assets/Mapeo\_web\_maps\_buttons.jpg)
 

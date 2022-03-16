@@ -10,23 +10,7 @@ There are many tools and pieces of software that you could use for making maps a
 * want to view and gather information in their native languages
 * need a tool that is free to use
 
-Mapeo may not be the right tool for all projects. When evaluating whether Mapeo will be a good choice, we encourage you to try out the tools (see the [Quick Start Guide](../quick-start-guide/getting-started.md)) and please keep in mind the following:
-
-* Mapeo Mobile is currently available for Android only.
-  * [ ] In the roadmap: iOS
-* Currently, Mapeo does not offer the option for hierarchical project roles, so all data is available to all participants of a project.
-  * [ ] In the roadmap: having different types of users in a single project&#x20;
-* Mapeo works best when team members work physically close to each other in a remote context or do coincide with other members of their team on a regular basis&#x20;
-  * [ ] Work in progress:  web sync option for those working from afar and having an internet connection&#x20;
-* Currently, setting up custom data fields and offline background maps requires some coding.
-  * [ ] Work in progress: a background map builder tool and an easier config builder to custom data fields
-* The current version of Mapeo does not have support for GPS tracks, audio, or video capture.
-  * [ ] Work in progress: tracks
-  * [ ] In the roadmap: audio and video
-* If you want to track information about the same set of places and view changes over time, other tools would be a better choice.
-* For complicated (nested) surveys for data collection, other tools would be a better choice.
-
-To better identify if Mapeo is the best tool for you, we encourage you to read these main specifications:&#x20;
+Mapeo may not be the right tool for all projects. When evaluating whether Mapeo will be a good choice, we encourage you to try out the tools (see the [Quick Start Guide](../quick-start-guide/getting-started.md)) and please keep in mind the following:&#x20;
 
 * **Equipment requirements**\
   Mapeo Mobile is currently available for **Android only**. Mapeo Desktop works on Windows, Mac and Linux machines.\

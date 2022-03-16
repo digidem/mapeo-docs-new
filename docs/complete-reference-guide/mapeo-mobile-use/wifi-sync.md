@@ -4,7 +4,7 @@
 
 Mapeo Mobile allows you to synchronize the data you have collected with other Mapeo users that are members of the same project. **Syncing data does not require an internet connection and can be done in entirely offline areas**.
 
-For devices to sync, both need to be in the same place and connected to the same![](../../.gitbook/assets/wifi-cropped-01.png) Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**. In offline environments, a local WiFi network can be created using a ![](../../.gitbook/assets/Router\_icon.png)mobile wireless router, or by creating a ![](../../.gitbook/assets/hotspot-icon.png)hotspot using a third smartphone.
+For devices to sync, both need to be in the same place and connected to the same![](../../.gitbook/assets/wifi-cropped-01.png) Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**. In offline environments, a local WiFi network can be created using a ![](../../.gitbook/assets/Router\_icon.png)mobile wireless router, or by creating a ![](../../.gitbook/assets/hotspot.png)hotspot using a third smartphone.
 
 ![In offline environments, you can create a local WiFi network (without internet) using a mobile wireless router.](../../.gitbook/assets/Mm-Mm\_sync\_via\_WiFi.png)
 
@@ -57,7 +57,7 @@ Click on the **Sync** button beside the device name to begin the exchange of dat
 
 ## View synced observations
 
-You can view new observation data received in the synchronization by looking at the points on the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](../../.gitbook/assets/app\_icons\_observations-list\_35px.png) **Observations list** screen.
+You can view new observation data received in the synchronization by looking at the points on the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](<../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations list** screen.
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
 

@@ -1,2 +1,0 @@
-# Synchronizing with a file
-

@@ -6,7 +6,7 @@ Select the observation you would like to edit and open it. You can open the obse
 
 ![](../../.gitbook/assets/Homescreen-tap\_observation\_dot.jpg)
 
-or by tapping the observation on the ![](../../.gitbook/assets/app\_icons\_observations-list\_35px.png) **Observations list** screen:
+or by tapping the observation on the ![](<../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations list** screen:
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg)
 
@@ -22,15 +22,15 @@ In Mapeo Mobile, you can only edit or delete observations that have been created
 
 ## Save changes
 
-Tap ![](../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** to save the changes you have made. Tap ![](<../../.gitbook/assets/app icons\_back arrow.png>) **Back** to return the **Map** view.
+Tap ![](../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** to save the changes you have made. Tap ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** to return the **Map** view.
 
 ![](../../.gitbook/assets/Mm\_Save\_observation.jpg)
 
-To exit without saving your changes, tap ![](<../../.gitbook/assets/app icons\_back arrow.png>) **Back** and confirm you want to discard changes.
+To exit without saving your changes, tap ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** and confirm you want to discard changes.
 
 ## Delete observations
 
-To delete an observation you have collected, scroll to the bottom of the **View observation** screen and tap ![](<../../.gitbook/assets/app icons\_Delete-trash.png>) **Delete**.
+To delete an observation you have collected, scroll to the bottom of the **View observation** screen and tap ![](../../.gitbook/assets/app\_icons\_Delete-trash.png) **Delete**.
 
 ![](../../.gitbook/assets/Delete\_button.jpg)
 
