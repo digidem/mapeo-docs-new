@@ -8,7 +8,7 @@ If you have a [custom background map](../customization-options/custom-base-maps/
 Adding a background map to Mapeo requires navigating the File Manager on your smartphone and copy-pasting elements in the internal file system. A mistake in this process could cause irreversible undesired effects.
 {% endhint %}
 
-* ****[![](../../.gitbook/assets/laptop-icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****
+* ****[![](../../.gitbook/assets/laptop\_icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****
 * [![](../../.gitbook/assets/Smartphone\_icon.png)**Using only your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer-1)****
 
 ## Adding a background map using a computer
