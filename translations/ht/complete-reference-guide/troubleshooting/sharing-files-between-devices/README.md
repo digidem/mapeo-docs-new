@@ -15,7 +15,8 @@ If you have access to an ![](../../../.gitbook/assets/Internet\_connection.png)*
 * Installation files for Mapeo Mobile (`.apk`) - ![](../../../.gitbook/assets/Telegram-logo.png)**Telegram** app, **email,** or ![](../../../.gitbook/assets/drive.png)**Google  Drive.**
 * Base maps (folder `.zip`) - we recommend using a ![](../../../.gitbook/assets/laptop\_icon.png)computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")
 
-To share and add base maps to Mapeo Mobile, we recommend using a computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")\ \ You can also share larger files (up to 2GB) for free via Drive, Dropbox, WeTransfer or other online platforms.
+To share and add base maps to Mapeo Mobile, we recommend using a computer and a ![](../../../.gitbook/assets/USB\_cable.png)USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")\
+\ You can also share larger files (up to 2GB) for free via Drive, Dropbox, WeTransfer or other online platforms.
 
 Note: Sending installation (`.apk`) and configuration (`.mapeosettings`) files with other apps encounter problems with the size and type of the files.
 
@@ -48,7 +49,8 @@ Android devices that are near each other can use Bluetooth to transfer files wit
 To transfer files using Android's Bluetooth:
 
 1. Activate **Bluetooth** on both devices. Bluetooth settings can generally be found in the Quick Settings menu, accessed by swiping down from the top of your screen.
-2. On the Bluetooth settings screen, tap **Pair new device** and wait for the list of AVAILABLE DEVICES to populate.\ The screen of both devices should be open and unlocked to appear available for syncing.
+2. On the Bluetooth settings screen, tap **Pair new device** and wait for the list of AVAILABLE DEVICES to populate.\
+The screen of both devices should be open and unlocked to appear available for syncing.
 3. Once you see the device you would like to share files with and confirm its identity, tap on the device name to pair.
 4. Confirm the code and the pair request on both devices.
 5. Locate and select the file you wish to send and tap ![](../../../.gitbook/assets/app\_icons\_share\_35px.png) Share. Select Bluetooth in the share options and tap the name of the other device in the list.
@@ -56,7 +58,8 @@ To transfer files using Android's Bluetooth:
 You can also use Android apps for Bluetooth sharing, including SHAREit or others.
 
 {% hint style="warning" %}
-For transferring larger files (bigger than 10MB) such as base map folders, we recommend connecting to a computer and transferring via cable if possible.\ \ For more on adding base maps to Mapeo Mobile, see [#adding-a-base-map-using-a-computer](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md#adding-a-base-map-using-a-computer "mention").
+For transferring larger files (bigger than 10MB) such as base map folders, we recommend connecting to a computer and transferring via cable if possible.\
+\ For more on adding base maps to Mapeo Mobile, see [#adding-a-base-map-using-a-computer](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md#adding-a-base-map-using-a-computer "mention").
 {% endhint %}
 
 ![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**
