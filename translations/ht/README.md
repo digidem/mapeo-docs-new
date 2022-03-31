@@ -12,9 +12,12 @@ This site provides an introduction to the Mapeo tools and a collection of traini
 
 The site is divided into the following sections:
 
-* **Overview**\ Basic information about the Mapeo tools
-* **Quick Start Guide**\ Instructions for installing and testing Mapeo's default functionality
-* **Complete Reference Guide**\ A complete collection of resources on planning & implementing projects using Mapeo and customization of the tools
+* **Overview**\
+Basic information about the Mapeo tools
+* **Quick Start Guide**\
+Instructions for installing and testing Mapeo's default functionality
+* **Complete Reference Guide**\
+A complete collection of resources on planning & implementing projects using Mapeo and customization of the tools
 
 ### Ki jan pou ou itilize gid sa a
 
@@ -22,7 +25,8 @@ Digital Democracy would like both Mapeo and the Mapeo reference materials we dev
 
 _Feel free to make use of these resources under the creative commons license terms:_ [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
-**Translation**\ We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](complete-reference-guide/customization-options/translating.md) to learn how to get started.
+**Translation**\
+We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](complete-reference-guide/customization-options/translating.md) to learn how to get started.
 
 #### Open Source Development
 
