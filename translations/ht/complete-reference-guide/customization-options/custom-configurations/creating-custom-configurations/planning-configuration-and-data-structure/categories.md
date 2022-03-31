@@ -15,7 +15,8 @@ When collecting or creating data with Mapeo, each observation or element on the 
 
 #### How categories are viewed in Mapeo
 
-Categories list on Mapeo Mobile (using the default configuration).\ \ &#x20;![](../../../../../.gitbook/assets/Categories\_screen.jpg)\
+Categories list on Mapeo Mobile (using the default configuration).\
+\ &#x20;![](../../../../../.gitbook/assets/Categories\_screen.jpg)\
 
 
 Categories list in Filters panel of Mapeo Desktop (using the default configuration).
