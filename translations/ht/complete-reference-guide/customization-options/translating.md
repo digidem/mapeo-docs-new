@@ -10,9 +10,12 @@ Translations for Mapeo are handled through the [Crowdin](https://crowdin.com) pl
 
 To begin translating, visit the project page for the area you would like to translate.
 
-* [Mapeo Mobile](https://crowdin.com/project/mapeo-mobile)\ Text and titles for screens and buttons in the mobile app
-* [Mapeo Desktop](https://crowdin.com/project/mapeo-desktop)\ Text and titles for screens and buttons in the dekstop app
-* [Mapeo's default configuration](https://crowdin.com/project/mapeo-defaut-config) \ Names of data collection categories, text of questions fields
+* [Mapeo Mobile](https://crowdin.com/project/mapeo-mobile)\
+Text and titles for screens and buttons in the mobile app
+* [Mapeo Desktop](https://crowdin.com/project/mapeo-desktop)\
+Text and titles for screens and buttons in the dekstop app
+* [Mapeo's default configuration](https://crowdin.com/project/mapeo-defaut-config) \
+Names of data collection categories, text of questions fields
 
 ![Project page for Mapeo Mobile on Crowdin](../../.gitbook/assets/Crowdin\_Mm\_languages.png)
 
