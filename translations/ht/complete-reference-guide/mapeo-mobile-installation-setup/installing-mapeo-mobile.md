@@ -2,8 +2,10 @@
 
 There are 2 ways to install Mapeo Mobile on your smartphone:
 
-* \*\*\*\*[**Install from Play Store**](installing-mapeo-mobile.md#install-from-play-store)\ If you have an ![](../../.gitbook/assets/Internet\_connection.png)**internet connection**, you can download and install Mapeo Mobile for free from the Google Play Store. \\
-* \*\*\*\*[**Install from a APK file**](installing-mapeo-mobile.md#install-from-apk-file)\ To install Mapeo Mobile on smartphones that have ![](../../.gitbook/assets/no\_internet\_connection.png)**no internet** **connection**, you can use an installation file (`.apk`).
+* \*\*\*\*[**Install from Play Store**](installing-mapeo-mobile.md#install-from-play-store)\
+If you have an ![](../../.gitbook/assets/Internet\_connection.png)**internet connection**, you can download and install Mapeo Mobile for free from the Google Play Store. \\
+* \*\*\*\*[**Install from a APK file**](installing-mapeo-mobile.md#install-from-apk-file)\
+To install Mapeo Mobile on smartphones that have ![](../../.gitbook/assets/no\_internet\_connection.png)**no internet** **connection**, you can use an installation file (`.apk`).
 
 ## Install from Play Store
 
