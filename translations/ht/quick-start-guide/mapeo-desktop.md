@@ -22,7 +22,8 @@ Make sure both the ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile** de
 
 ### Enter Synchronize mode
 
-In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\ \ ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\\
+In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\
+\ ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\\
 
 In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
 
@@ -110,7 +111,8 @@ For more details on Mapeo export formats and process, see [exporting-and-sharing
 
 ### **Save as PDF Report**
 
-To save a PDF report with the observations collected, go to **Report** view. Filter observations if desired using the **Filter** panel. Hide any fields you don't wish to appear by using the ![](../.gitbook/assets/hide.png) **Hide fields** option in the grey panel above the report.\ \ To save, click on ![](../.gitbook/assets/icon-load.png)**Save PDF.**
+To save a PDF report with the observations collected, go to **Report** view. Filter observations if desired using the **Filter** panel. Hide any fields you don't wish to appear by using the ![](../.gitbook/assets/hide.png) **Hide fields** option in the grey panel above the report.\
+\ To save, click on ![](../.gitbook/assets/icon-load.png)**Save PDF.**
 
 ![](../.gitbook/assets/Md\_report\_save\_pdf.jpg)
 
