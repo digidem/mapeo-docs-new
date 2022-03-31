@@ -6,9 +6,11 @@ Mapeo Desktop can synchronize data via Wi-Fi with other ![](../../../../.gitbook
 
 Requirements:
 
-* **Both devices need to be connected to the same** ![](../../../../.gitbook/assets/wifi-cropped-01.png)**Wi-Fi network**\ For devices to sync, both need to be connected to the same Wi-Fi network. This Wi-Fi network does not need to have an internet connection. \
+* **Both devices need to be connected to the same** ![](../../../../.gitbook/assets/wifi-cropped-01.png)**Wi-Fi network**\
+For devices to sync, both need to be connected to the same Wi-Fi network. This Wi-Fi network does not need to have an internet connection. \
 
-* **Both devices must be using the same configuration**\ ****It is only possible to synchronize with devices that use the same [configuration](../../../customization-options/custom-configurations/#about-custom-configurations). For more on how to import configurations, see [importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention").
+* **Both devices must be using the same configuration**\
+****It is only possible to synchronize with devices that use the same [configuration](../../../customization-options/custom-configurations/#about-custom-configurations). For more on how to import configurations, see [importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention").
 
 
 
@@ -19,7 +21,9 @@ To synchronize, follow the steps below:
 Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a ![](../../../../.gitbook/assets/Router\_icon.png)mobile wireless router or a third device capable of serving as an offline ![](../../../../.gitbook/assets/hotspot.png)hotspot.&#x20;
 
 {% hint style="info" %}
-For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\ [creating-local-wi-fi-networks.md](../../../troubleshooting/creating-local-wi-fi-networks.md "mention")\ [connecting-to-wi-fi.md](../../../troubleshooting/connecting-to-wi-fi.md "mention")
+For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
+[creating-local-wi-fi-networks.md](../../../troubleshooting/creating-local-wi-fi-networks.md "mention")\
+[connecting-to-wi-fi.md](../../../troubleshooting/connecting-to-wi-fi.md "mention")
 {% endhint %}
 
 ### Enter Synchronize mode
@@ -42,7 +46,9 @@ Devices available for syncing will be listed on the **Synchronize** screen. \
 ![Synchronize screen of Mapeo Desktop showing an available smartphone for syncing](../../../../.gitbook/assets/Md\_Synchronize\_mode\_sync\_with\_mobile\_no\_callout.jpg)
 
 {% hint style="info" %}
-Remember that in order for a device to appear in the list, it must be connected to the same Wi-Fi network, have the **Synchronize** screen open, and be using the same project configuration. \ \ You can confirm which configuration Mapeo Desktop is currently using by consulting the white bar at the bottom of the **Synchronize** screen.\ \ For troubleshooting on this step, see [solving-sync-issues](../../../troubleshooting/solving-sync-issues/ "mention").
+Remember that in order for a device to appear in the list, it must be connected to the same Wi-Fi network, have the **Synchronize** screen open, and be using the same project configuration. \
+\ You can confirm which configuration Mapeo Desktop is currently using by consulting the white bar at the bottom of the **Synchronize** screen.\
+\ For troubleshooting on this step, see [solving-sync-issues](../../../troubleshooting/solving-sync-issues/ "mention").
 {% endhint %}
 
 ### Start synchronization
