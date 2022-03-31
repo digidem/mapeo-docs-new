@@ -41,7 +41,8 @@ Photos must be taken in the moment using your phone's camera. Mapeo Mobile does 
 To remove a photo from a draft observation, tap on the thumbnail of the image. On the **View image** screen, tap the ![](../../.gitbook/assets/icon-delete\_image\_35px.png)**Delete Image** button.
 
 {% hint style="info" %}
-If the **Delete Image** button is not visible on the **View image** screen, tap anywhere on the screen to show.\ \ \*Deleting images from draft observations is only available in Mapeo Mobile version **5.4.0** or higher.
+If the **Delete Image** button is not visible on the **View image** screen, tap anywhere on the screen to show.\
+\ \*Deleting images from draft observations is only available in Mapeo Mobile version **5.4.0** or higher.
 {% endhint %}
 
 ![](../../.gitbook/assets/Mm\_Delete\_photo\_button.jpg)&#x20;
@@ -84,4 +85,8 @@ If the GPS signal at the moment of saving the observation has an accuracy worse 
 
 1. Tap **CONTINUE WAITING** to wait until the GPS signal improves.
 2. Tap **SAVE** to use the current GPS data, even if the accuracy is worse than ± 10 m.
-3. Tap **MANUAL COORDS** to manually enter the coordinates that you want to use.\ \ ![](../../.gitbook/assets/Mm\_Weak\_GPS\_message\_manual\_coords\_option.jpg)\ \ You can choose which GPS data format you want to use to enter the coordinates. This is a useful option if you have a GPS device or another smartphone with a better GPS signal accuracy.\ \ ![](../../.gitbook/assets/Mm\_Enter\_coordinates\_screen\_format\_menu.jpg) ![](../../.gitbook/assets/Mm\_Enter\_coordinates\_screen-format\_options.jpg)\ \ Tap ![](../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.
+3. Tap **MANUAL COORDS** to manually enter the coordinates that you want to use.\
+\ ![](../../.gitbook/assets/Mm\_Weak\_GPS\_message\_manual\_coords\_option.jpg)\
+\ You can choose which GPS data format you want to use to enter the coordinates. This is a useful option if you have a GPS device or another smartphone with a better GPS signal accuracy.\
+\ ![](../../.gitbook/assets/Mm\_Enter\_coordinates\_screen\_format\_menu.jpg) ![](../../.gitbook/assets/Mm\_Enter\_coordinates\_screen-format\_options.jpg)\
+\ Tap ![](../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.
