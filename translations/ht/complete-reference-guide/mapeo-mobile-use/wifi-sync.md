@@ -36,9 +36,11 @@ Tap the ![](../../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** bu
 
 ![](../../.gitbook/assets/Homescreen-Sync\_button.jpg)
 
-\ The **Synchronize** screen will show whether you are connected to a Wi-Fi network. If connected, you will be able to see the name of the network you are connected to in the top left of the **navy blue bar**. You will also be able to see the unique identification number of your device on the right side of the navy bar.
+\
+The **Synchronize** screen will show whether you are connected to a Wi-Fi network. If connected, you will be able to see the name of the network you are connected to in the top left of the **navy blue bar**. You will also be able to see the unique identification number of your device on the right side of the navy bar.
 
-Devices available for synchronization will be listed below.\ \ ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYBEBKX0wx5\_bwmCf0q-887967055%2Fuploads%2FLMfz6FgtUzVMUJtIYZow%2FSync\_screen\_with\_mobile.jpg?alt=media\&token=460df577-a234-4375-8db4-b4f31201e8e8)​\\
+Devices available for synchronization will be listed below.\
+\ ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYBEBKX0wx5\_bwmCf0q-887967055%2Fuploads%2FLMfz6FgtUzVMUJtIYZow%2FSync\_screen\_with\_mobile.jpg?alt=media\&token=460df577-a234-4375-8db4-b4f31201e8e8)​\\
 
 {% hint style="info" %}
 Remember that in order for a device to appear in the list, it must be connected to the same network, have the **Synchronize** screen open, and be using the same project configuration. For troubleshooting on this step, see [solving-sync-issues](../troubleshooting/solving-sync-issues/ "mention").
@@ -61,5 +63,6 @@ You can view new observation data received in the synchronization by looking at 
 In the **Observations list** screen, observations collected by other devices will appear with a blue bar on the left side.
 
 {% hint style="info" %}
-In Mapeo Mobile, you cannot edit or delete observations collected by other users.\ \ Remember that you can always view, edit and manage collected data in Mapeo Desktop. For more on that, see: [using-mapeo-desktop-to-manage-mapeo-mobile-data](../mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/ "mention")
+In Mapeo Mobile, you cannot edit or delete observations collected by other users.\
+\ Remember that you can always view, edit and manage collected data in Mapeo Desktop. For more on that, see: [using-mapeo-desktop-to-manage-mapeo-mobile-data](../mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/ "mention")
 {% endhint %}
