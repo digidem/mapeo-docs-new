@@ -11,7 +11,8 @@ In this option, a sync file is created in Mapeo Desktop on one computer and then
 
 Other requirements:&#x20;
 
-* **Both devices must be using the same configuration**\ ****It is only possible to sync with sync files created by devices that use the same [configuration](../../../will-mapeo-work-out-of-the-box-for-me/default-configuration.md#about-configurations). For more on how to import configurations, see[importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention")[importing-configurations.md](../../../mapeo-mobile-installation-setup/importing-configurations.md "mention").
+* **Both devices must be using the same configuration**\
+****It is only possible to sync with sync files created by devices that use the same [configuration](../../../will-mapeo-work-out-of-the-box-for-me/default-configuration.md#about-configurations). For more on how to import configurations, see[importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention")[importing-configurations.md](../../../mapeo-mobile-installation-setup/importing-configurations.md "mention").
 
 ### Create a sync file
 
