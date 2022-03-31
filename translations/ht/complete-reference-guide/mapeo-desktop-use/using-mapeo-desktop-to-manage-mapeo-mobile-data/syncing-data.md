@@ -7,15 +7,21 @@ Mapeo allows you to synchronize collected data with other Mapeo users or devices
 {% hint style="warning" %}
 Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations present on the other Mapeo device and they will receive all of the observations present on your device. Only synchronize with members of your project whom you trust with all of your data. For more on synchronization, see: [peer-to-peer-and-mapeo-sync.md](../../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
 
-\ Any edits that have been made to the data will also be transferred to the other device during synchronization. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.
+\
+Any edits that have been made to the data will also be transferred to the other device during synchronization. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.
 
-\ It is important to create project [<mark style="color:blue;">synchronization protocols</mark>](../../essentials-for-a-successful-mapeo-project/creating-user-protocols.md) to ensure that all data becomes part of the project database.
+\
+It is important to create project [<mark style="color:blue;">synchronization protocols</mark>](../../essentials-for-a-successful-mapeo-project/creating-user-protocols.md) to ensure that all data becomes part of the project database.
 {% endhint %}
 
 There are 2 ways to synchronize with Mapeo Desktop:
 
-* [**Synchronization via Wi-Fi**](syncing-data.md#synchronization-via-wifi)  (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/smartphone\_with\_Mapeo))\ _For syncing with another computer or smartphone_\ Can be used if both devices are in the same place and have access to a Wi-Fi network. **(An internet connection is not required.)**
-* [**Synchronization with a file**](syncing-data.md#synchronization-with-a-file) (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png))\ _Only for syncing between computers_\ Useful in these two contexts:
+* [**Synchronization via Wi-Fi**](syncing-data.md#synchronization-via-wifi)  (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/smartphone\_with\_Mapeo))\
+_For syncing with another computer or smartphone_\
+Can be used if both devices are in the same place and have access to a Wi-Fi network. **(An internet connection is not required.)**
+* [**Synchronization with a file**](syncing-data.md#synchronization-with-a-file) (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png))\
+_Only for syncing between computers_\
+Useful in these two contexts:
   * If devices are in the same place, even without a Wi-Fi network.
   * If devices are not in the same place and both have an internet connection.
 
@@ -25,8 +31,10 @@ Mapeo Desktop can synchronize data via Wi-Fi with other ![](../../../.gitbook/as
 
 Requirements:
 
-* **Both devices need to be connected to the same** ![](../../../.gitbook/assets/Wifi.png)**Wi-Fi network**\ For devices to sync, both need to be connected to the same Wi-Fi network. This Wi-Fi network does not need to have an internet connection.
-* **Both devices must be using the same configuration**\ It is only possible to synchronize with devices that use the same [configuration](../../customization-options/custom-configurations/#about-custom-configurations). For more on how to import configurations, see [importing-configurations.md](../../mapeo-desktop-installation-setup/importing-configurations.md "mention").
+* **Both devices need to be connected to the same** ![](../../../.gitbook/assets/Wifi.png)**Wi-Fi network**\
+For devices to sync, both need to be connected to the same Wi-Fi network. This Wi-Fi network does not need to have an internet connection.
+* **Both devices must be using the same configuration**\
+It is only possible to synchronize with devices that use the same [configuration](../../customization-options/custom-configurations/#about-custom-configurations). For more on how to import configurations, see [importing-configurations.md](../../mapeo-desktop-installation-setup/importing-configurations.md "mention").
 
 To synchronize, follow the steps below:
 
@@ -35,7 +43,9 @@ To synchronize, follow the steps below:
 Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a ![](../../../.gitbook/assets/hotspot.png)mobile wireless router or a third device capable of serving as an offline ![](../../../.gitbook/assets/hotspot.png)hotspot.
 
 {% hint style="info" %}
-For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\ [creating-local-wi-fi-networks.md](../../troubleshooting/creating-local-wi-fi-networks.md "mention")\ [connecting-to-wi-fi.md](../../troubleshooting/connecting-to-wi-fi.md "mention")
+For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
+[creating-local-wi-fi-networks.md](../../troubleshooting/creating-local-wi-fi-networks.md "mention")\
+[connecting-to-wi-fi.md](../../troubleshooting/connecting-to-wi-fi.md "mention")
 {% endhint %}
 
 ### Enter Synchronize mode
@@ -55,7 +65,9 @@ Devices available for syncing will be listed on the **Synchronize** screen.
 ![Synchronize screen of Mapeo Desktop showing an available smartphone for syncing](../../../.gitbook/assets/Md\_Synchronize\_mode\_sync\_with\_mobile\_no\_callout.jpg)
 
 {% hint style="info" %}
-Remember that in order for a device to appear in the list, it must be connected to the same Wi-Fi network, have the **Synchronize** screen open, and be using the same project configuration.\ \ You can confirm which configuration Mapeo Desktop is currently using by consulting the white bar at the bottom of the **Synchronize** screen.\ \ For troubleshooting on this step, see [solving-sync-issues](../../troubleshooting/solving-sync-issues/ "mention").
+Remember that in order for a device to appear in the list, it must be connected to the same Wi-Fi network, have the **Synchronize** screen open, and be using the same project configuration.\
+\ You can confirm which configuration Mapeo Desktop is currently using by consulting the white bar at the bottom of the **Synchronize** screen.\
+\ For troubleshooting on this step, see [solving-sync-issues](../../troubleshooting/solving-sync-issues/ "mention").
 {% endhint %}
 
 ### Start synchronization
@@ -92,7 +104,8 @@ In this option, a sync file is created in Mapeo Desktop on one computer and then
 
 Other requirements:
 
-* **Both devices must be using the same configuration**\ It is only possible to sync with sync files created by devices that use the same [configuration](../../will-mapeo-work-out-of-the-box-for-me/default-configuration.md#about-configurations). For more on how to import configurations, see[importing-configurations.md](../../mapeo-desktop-installation-setup/importing-configurations.md "mention")[importing-configurations.md](../../mapeo-mobile-installation-setup/importing-configurations.md "mention").
+* **Both devices must be using the same configuration**\
+It is only possible to sync with sync files created by devices that use the same [configuration](../../will-mapeo-work-out-of-the-box-for-me/default-configuration.md#about-configurations). For more on how to import configurations, see[importing-configurations.md](../../mapeo-desktop-installation-setup/importing-configurations.md "mention")[importing-configurations.md](../../mapeo-mobile-installation-setup/importing-configurations.md "mention").
 
 ### Create a sync file
 
@@ -109,8 +122,10 @@ Other requirements:
 
 There are two options for sharing a sync file:
 
-* [**Send sync file via email or file sharing service**](syncing-data.md#send-sync-file-via-email-or-file-sharing-service)\ (Requires an ![](../../../.gitbook/assets/Computer\_internet\_icon.png)internet connection)
-* [**Copy and paste sync file using a USB drive**](syncing-data.md#option-2.-copy-pasting-it-among-different-devices-with-no-internet-connection-you-will-need-a-usb-dr)\ (Works with ![](../../../.gitbook/assets/Computer\_no\_internet\_icon.png)no internet connection)
+* [**Send sync file via email or file sharing service**](syncing-data.md#send-sync-file-via-email-or-file-sharing-service)\
+(Requires an ![](../../../.gitbook/assets/Computer\_internet\_icon.png)internet connection)
+* [**Copy and paste sync file using a USB drive**](syncing-data.md#option-2.-copy-pasting-it-among-different-devices-with-no-internet-connection-you-will-need-a-usb-dr)\
+(Works with ![](../../../.gitbook/assets/Computer\_no\_internet\_icon.png)no internet connection)
 
 #### **Option 1. Send sync file via email or file sharing service**
 
