@@ -11,7 +11,8 @@ To update Mapeo Desktop, follow the same steps of the installation process using
 {% endcontent-ref %}
 
 {% hint style="info" %}
-To update files used within Mapeo Desktop, such as configurations or background maps, follow the same steps detailed in the sections below using the new files:\ \ [importing-configurations.md](importing-configurations.md "mention")[adding-custom-base-maps-to-mapeo-desktop.md](adding-custom-base-maps-to-mapeo-desktop.md "mention")
+To update files used within Mapeo Desktop, such as configurations or background maps, follow the same steps detailed in the sections below using the new files:\
+\ [importing-configurations.md](importing-configurations.md "mention")[adding-custom-base-maps-to-mapeo-desktop.md](adding-custom-base-maps-to-mapeo-desktop.md "mention")
 {% endhint %}
 
 ## Mapeo versions - information and naming conventions
