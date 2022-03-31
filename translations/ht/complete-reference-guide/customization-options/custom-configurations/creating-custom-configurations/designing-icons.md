@@ -4,7 +4,8 @@
 
 Each of the categories you create for your configuration needs to be assigned an icon (or image). These icons are displayed to users in Mapeo when selecting a category. You can assign the same icon to various cateogries, or each category can have it's own icon. All icons must to be saved as `.svg` files when creating a configuration.
 
-[See example icons](https://github.com/digidem/mapeo-default-settings/tree/master/icons) created for our default 'jungle' configuration, pictured below in Mapeo Mobile.\ \ &#x20;![](../../../../.gitbook/assets/Categories\_screen.jpg)
+[See example icons](https://github.com/digidem/mapeo-default-settings/tree/master/icons) created for our default 'jungle' configuration, pictured below in Mapeo Mobile.\
+\ &#x20;![](../../../../.gitbook/assets/Categories\_screen.jpg)
 
 ## Creating icons
 
