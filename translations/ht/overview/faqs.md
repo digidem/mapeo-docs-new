@@ -24,7 +24,8 @@ For help with technical issues using Mapeo, see the [troubleshooting](../complet
 
 ## Who made Mapeo?
 
-Mapeo was built by [**Digital Democracy**](https://www.digital-democracy.org) in close collaboration with Indigenous partners in the Amazon who are on the front lines of defending their rights and territories.\ \ Digital Democracy is a non-profit organization that works in solidarity with marginalized communities to use technology to defend their rights. For more information on Digital Democracy and our partners, visit [our website](https://www.digital-democracy.org).
+Mapeo was built by [**Digital Democracy**](https://www.digital-democracy.org) in close collaboration with Indigenous partners in the Amazon who are on the front lines of defending their rights and territories.\
+\ Digital Democracy is a non-profit organization that works in solidarity with marginalized communities to use technology to defend their rights. For more information on Digital Democracy and our partners, visit [our website](https://www.digital-democracy.org).
 
 ## Is Mapeo free to use?
 
