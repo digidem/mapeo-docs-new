@@ -11,7 +11,7 @@ For sending configuration files (`.mapeosettings`) between smartphones with an i
 
 
 
-If you don't have an internet connection, you can copy the file from a computer using a ![](../../.gitbook/assets/USB\_cable.png)**USB cable** or send the file using ![](../../.gitbook/assets/Bluetooth.png)**Bluetooth**. Read more about how to send a file using these methods in [sharing-files-between-devices](../troubleshooting/sharing-files-between-devices/ "mention").
+If you don't have an internet connection, you can copy the file from a computer using a ![](../../.gitbook/assets/USB\_cable.png)**USB cable** or send the file using ![](../../.gitbook/assets/bluetooth.jpg) **Bluetooth**. Read more about how to send a file using these methods in [sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
 {% endhint %}
 
 ## Go to Settings
