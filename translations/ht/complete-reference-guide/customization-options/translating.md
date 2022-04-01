@@ -14,8 +14,8 @@ To begin translating, visit the project page for the area you would like to tran
 Text and titles for screens and buttons in the mobile app
 * [Mapeo Desktop](https://crowdin.com/project/mapeo-desktop)\
 Text and titles for screens and buttons in the dekstop app
-* [Mapeo's default configuration](https://crowdin.com/project/mapeo-defaut-config) \
-Names of data collection categories, text of questions fields
+* [Mapeo's default configuration](https://crowdin.com/project/mapeo-defaut-config)\
+Names of data collection categories, and details fields
 
 ![Project page for Mapeo Mobile on Crowdin](../../.gitbook/assets/Crowdin\_Mm\_languages.png)
 
@@ -30,4 +30,3 @@ If the language you wish to translate is not available on the project home page,
 #### Contributing translations
 
 To start translating, create an account with Crowdin, visit the relevant project home page, and select the target language. Click on **Translate All** to bring up all relevant text strings.
-
