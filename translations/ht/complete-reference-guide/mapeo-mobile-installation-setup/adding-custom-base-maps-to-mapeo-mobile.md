@@ -2,14 +2,17 @@
 
 By default, Mapeo Mobile uses a[ ](../will-mapeo-work-out-of-the-box-for-me/default-base-map.md)[background **** map](../will-mapeo-work-out-of-the-box-for-me/default-base-map.md) that shows some geographic elements such as rivers and mountains, as well as some political and urban elements such as borders, cities, roads, etc.&#x20;
 
-If you have a [custom background map](../customization-options/custom-base-maps/) prepared, you can add it and use it in Mapeo Mobile without affecting the data you have collected. (For more on creating custom background maps, see [custom-base-maps](../customization-options/custom-base-maps/ "mention"))
+If you have a [custom background map](../customization-options/custom-base-maps/) prepared, you can add it and use it in Mapeo Mobile without affecting the data you have collected. (For more on creating custom background maps, see [custom-base-maps](../customization-options/custom-base-maps/ "mention").)
+
+{% hint style="info" %}
+We are currently working on a new user interface to simplify the process of generating and adding custom background maps to Mapeo. Once the new functionality is complete, we will include full instructions on this page.
+{% endhint %}
 
 {% hint style="warning" %}
-Adding a background map to Mapeo requires navigating the File Manager on your smartphone and copy-pasting elements in the internal file system. A mistake in this process could cause irreversible undesired effects.
+Adding a background map to Mapeo currently requires navigating the File Manager on your smartphone and copy-pasting elements in the internal file system. A mistake in this process could cause irreversible undesired effects.
 {% endhint %}
 
 * ****[![](../../.gitbook/assets/laptop\_icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****
-* [![](../../.gitbook/assets/Smartphone\_icon.png)**Using only your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer-1)****
 
 ## Adding a background map using a computer
 
