@@ -1,7 +1,9 @@
-# Mapeo Desktop for creating territory information
+# Mapeo Desktop for creating territory data (Territory mode)
 
-You can also use Mapeo Desktop as a standalone tool to create territory information for making maps.
+This section explores how to use Mapeo Desktop to create, edit and manage mapping data directly within the Desktop application, using **Territory** mode. The information is contained in the following pages:
 
-Caveats: What you can and can't do
-
-\[Guide from Aliya & Rudo]
+* [navigating-around-the-map.md](navigating-around-the-map.md "mention")
+* [creating-and-editing-territory-data.md](creating-and-editing-territory-data.md "mention")
+* [changing-basemaps.md](changing-basemaps.md "mention")
+* [importing-external-territory-information.md](importing-external-territory-information.md "mention")
+* [exporting-data.md](exporting-data.md "mention")
