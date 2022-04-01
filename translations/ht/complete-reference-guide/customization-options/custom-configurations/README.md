@@ -8,7 +8,7 @@ In the current version of Mapeo, configurations also contain a _project key_ tha
 
 ### Creating custom configurations
 
-If you have determined that Mapeo's default configuration will not suit the needs of your project, you have the option of authoring a custom configuration.
+If you have determined that Mapeo's [default-configuration.md](../../will-mapeo-work-out-of-the-box-for-me/default-configuration.md "mention") will not suit the needs of your project, you have the option of authoring a custom configuration.
 
 {% hint style="warning" %}
 Creating custom configurations currently requires significant technical knowledge and will not be accessible to all users.
