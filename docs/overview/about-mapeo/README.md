@@ -6,6 +6,8 @@ Mapeo was co-designed and developed with Indigenous communities who face threats
 
 Mapeo is open source software that benefits from continued feedback from our users across the world.
 
+![](<../../.gitbook/assets/Screen Shot 2022-03-29 at 12.08.56 PM.png>)
+
 ## Key features of Mapeo
 
 * **Simple to use and learn**\

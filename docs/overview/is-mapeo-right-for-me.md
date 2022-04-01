@@ -13,7 +13,7 @@ There are many tools and pieces of software that you could use for making maps a
 Mapeo may not be the right tool for all projects. When evaluating whether Mapeo will be a good choice, we encourage you to try out the tools (see the [Quick Start Guide](../quick-start-guide/getting-started.md)) and please keep in mind the following:&#x20;
 
 * **Equipment requirements**\
-  Mapeo Mobile is currently available for **Android only**. Mapeo Desktop works on Windows, Mac and Linux machines.\
+  Mapeo Mobile is currently available for **Android only**. (An iOS version is in development for 2022.) Mapeo Desktop works on Windows, Mac and Linux machines.\
   \
   Mapeo Mobile uses Wi-Fi networks to synchronize data between devices. To synchronize data with Mapeo Mobile in offline areas, you will need a portable router (this does not require an internet connection) or a third device capable of creating a local network offline. \
 

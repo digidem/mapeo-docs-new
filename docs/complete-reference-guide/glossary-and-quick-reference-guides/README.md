@@ -1,2 +1,0 @@
-# Glossary & quick reference guides
-

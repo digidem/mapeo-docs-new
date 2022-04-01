@@ -44,7 +44,7 @@ To view all previous versions of Mapeo Mobile, including release notes for chang
 
 ## Updating Mapeo Mobile via P2P (peer-to-peer) App Updates
 
-Peer-to-peer (P2P) App Updates in experimental feature that allows you to share and receive newer versions of the Mapeo app by connecting to other Mapeo devices via Wi-Fi (no internet connection required).&#x20;
+Peer-to-peer (P2P) App Updates is an experimental feature that allows you to share and receive newer versions of the Mapeo app by connecting to other Mapeo devices via Wi-Fi (no internet connection required).&#x20;
 
 When updating the Mapeo app version in this way, **NONE** of your Mapeo data (observations, configurations, or maps) is shared between devices.
 
@@ -77,3 +77,21 @@ If a newer version of the app is available from another Mapeo device on the netw
 To install the newer version of Mapeo, wait until the download completes, then tap **INSTALL** on the **Synchronize** screen.
 
 ![](../../.gitbook/assets/Mm\_P2P\_App\_Updates\_install.jpg)
+
+
+
+### Allow installs from Mapeo
+
+After tapping **INSTALL**, you may see a security pop-up window saying that your phone is not allowed to install apps from this source.
+
+To enable Mapeo to install updates, tap **Settings** in the pop-up window and toggle the switch to **Allow from this source** in the following Android Settings screen.
+
+&#x20;![](../../.gitbook/assets/Mm\_P2P\_app\_update\_security\_window.jpg)![](../../.gitbook/assets/Mm\_P2P\_app\_update\_Android\_settings\_allow\_install.jpg)
+
+Tap the ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** button to return to Mapeo and confirm that you would like to install the update.
+
+### Reopen Mapeo
+
+When the installation is complete, Mapeo will close automatically. When you re-open Mapeo, you will see an update confirmation window. Tap **OK** to close the window and start using the new version of Mapeo.
+
+&#x20;![](../../.gitbook/assets/Mm\_P2P\_update\_complete\_confirmation.jpg)

@@ -11,7 +11,7 @@ For sending configuration files (`.mapeosettings`) between computers that have a
 
 
 
-If you have ![](../../.gitbook/assets/Computer\_no\_internet\_icon.png) no internet connection, you can copy the file from a computer using a ![](../../.gitbook/assets/USB\_stick\_memory.png)**USB drive** or send the file via ![](../../.gitbook/assets/Bluetooth.png) **Bluetooth**. For more on these methods, see:  [sharing-files-between-devices](../troubleshooting/sharing-files-between-devices/ "mention").
+If you have ![](../../.gitbook/assets/Computer\_no\_internet\_icon.png) no internet connection, you can copy the file from a computer using a ![](../../.gitbook/assets/USB\_stick\_memory.png)**USB drive** or send the file via ![](../../.gitbook/assets/bluetooth.jpg) **Bluetooth**. For more on these methods, see:  [sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
 {% endhint %}
 
 ## Import the configuration

@@ -32,11 +32,13 @@ In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Sync
 
 ### Start synchronization
 
-On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** ![](broken-reference) button below its name.
+On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** ![](../.gitbook/assets/sync\_icon\_simple-.png) button below its name.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode\_sync\_with\_mobile.jpg)
 
-\*Keep the **Synchronize** screen open on both devices until the process is complete.
+{% hint style="warning" %}
+**IMPORTANT**: Keep the **Synchronize** screen open on BOTH devices until the synchronization is complete. Interrupting the sync process can result in permanently corrupted data.
+{% endhint %}
 
 {% hint style="info" %}
 In order to synchronize, Mapeo devices must be connected to the **same Wi-Fi network**, and using the **same project configuration**.
@@ -102,12 +104,12 @@ By deleting observations, you will permanently remove them from your device and 
 
 Data can be exported to multiple formats from **Observations** mode in Mapeo Desktop. Basic export instructions are included below.
 
-* \*\*\*\*[Save as PDF Report](mapeo-desktop.md#save-as-pdf-report)
+* [Save as PDF Report](mapeo-desktop.md#save-as-pdf-report)
 * [Export to GeoJSON, CSV, or SMART CSV](mapeo-desktop.md#export-to-geojson-csv-or-smart-csv)
 * [Export as Web Map](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md#export-as-web-map) (In Complete Reference Guide)
 
 {% hint style="info" %}
-For more details on Mapeo export formats and process, see [exporting-and-sharing-externally.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md "mention") \*\*\*\* in the Complete Reference Guide.
+For more details on Mapeo export formats and process, see [exporting-and-sharing-externally.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md "mention") in the Complete Reference Guide.
 {% endhint %}
 
 ### **Save as PDF Report**

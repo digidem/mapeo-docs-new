@@ -6,7 +6,7 @@ You collect data with Mapeo Mobile in the form of _observations_. An observation
 
 To create a new observation, tap the ![](../../.gitbook/assets/create\_observation.png)**Create observation** button.
 
-![](../../.gitbook/assets/Homescreen-Create\_observation\_button.jpg)
+&#x20;![](../../.gitbook/assets/Homescreen-Create\_observation\_button.jpg)
 
 {% hint style="info" %}
 Observations can be created from the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or from the ![](<../../.gitbook/assets/app icons\_Photo-Camera.png>) **Camera** screen. Tap ![](<../../.gitbook/assets/app icons\_Photo-Camera.png>) **Camera**  at the bottom of the home screen to change the view.
@@ -26,13 +26,13 @@ It is possible to create custom categories and icons to tailor Mapeo to specific
 
 Tap on the placeholder **What is happening here?** to add a description of what you are documenting.
 
-![](../../.gitbook/assets/Mm\_New\_observation\_blank.jpg)
+&#x20;![](../../.gitbook/assets/Add\_description.jpg)
 
 ## Add photos
 
-Tap ![](https://lh6.googleusercontent.com/frEQrTzBVEG1\_7QbIuBtPoJmeTnZnLZ7vFuCJIm7wOly9cfTeBfqhEKvHOwk1feLIsyvNECJTOaEpUOA5l-Tuid1i-oToURZ4P52iJEAcpgzgQkAJnvKTN\_d1UXd8FUE9-mNg1Sk) **Add Photo** to take one or more photos to attach to the observation.
+Tap ![](<../../.gitbook/assets/app icons\_Photo-Camera.png>) **Add Photo** to take one or more photos to attach to the observation.
 
-![](../../.gitbook/assets/Mm\_new\_observation\_add\_photo.jpg)
+&#x20;![](../../.gitbook/assets/Mm\_new\_observation\_add\_photo.jpg)
 
 {% hint style="info" %}
 Photos must be taken in the moment using your phone's camera. Mapeo Mobile does not currently allow you to attach existing images from a gallery or other source.

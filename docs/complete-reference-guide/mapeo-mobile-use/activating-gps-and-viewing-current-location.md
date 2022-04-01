@@ -13,7 +13,7 @@ It will be different on each smartphone, but **GPS** or **Location** services ca
 On the home screen of Mapeo Mobile, you will be able to see if Mapeo is successfully accessing your device's GPS.
 
 * If GPS is activated, the **GPS details** button at the top of the screen will show a green dot and the precision of the GPS signal:\
-  ![](<../../.gitbook/assets/GPS\_details\_activated (1).png>)\\
+  ![](<../../.gitbook/assets/GPS\_details\_activated (1).png>)
 * If the GPS is deactivated, the **GPS details** button will be red:\
   ![](../../.gitbook/assets/GPS\_details\_activated.png)
 
@@ -29,7 +29,7 @@ If you didn't allow Mapeo Mobile access to your phone's camera and GPS the first
 
 Tap the ![](../../.gitbook/assets/GPS\_button\_activated.png)**GPS details** button to see more information on your current location.
 
-![](../../.gitbook/assets/Homescreen-GPS\_button.jpg) ![](../../.gitbook/assets/GPS\_details\_screen.jpg)
+![](../../.gitbook/assets/Homescreen-GPS\_button.jpg)  ![](../../.gitbook/assets/GPS\_details\_screen.jpg)
 
 ## Viewing your current location
 
