@@ -32,6 +32,6 @@ description: >- Here is an overview of the Mapeo ecosystem, including various mo
 
 ### Documentation
 
-* [mapeo-docs](https://github.com/digidem/Mapeo-docs): Docs site for mapeo
+* [mapeo-docs-new](https://github.com/digidem/mapeo-docs-new): Docs site for Mapeo (mirrored with GitBook)
 
 ​
