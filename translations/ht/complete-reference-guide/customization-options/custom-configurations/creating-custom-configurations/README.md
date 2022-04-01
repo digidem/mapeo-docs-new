@@ -12,13 +12,15 @@ While data structures in Mapeo can be modified during the course of a project, m
 
 Once you have completed this process, you will have a Mapeo configuration file (`.mapeosettings`) that can be imported and used in Mapeo Mobile and Destop.
 
-This section will cover the follow steps:
+The pages that follow will walk you through the key steps for authoring a custom configuration:
 
-* [planning-configuration-and-data-structure](planning-configuration-and-data-structure/ "mention")
-* [designing-icons.md](designing-icons.md "mention")
-* Coding configuration
-* Compiling configuration
-* Testing and iterating
+* [planning-configuration-and-data-structure](planning-configuration-and-data-structure/ "mention")\
+This section will outline the key customizable elements in a configuration and some considerations when mapping out each area.\ \***No technical knowledge is required.**\
+  ****
+* [coding-configuration](coding-configuration/ "mention")\
+This section will guide you through translating the planned data structure into the required format and compiling the Mapeo configuration file. \ \***Editing `JSON` files, generating `.svg` files and working with command line or GitHub is required.**
+
+
 
 {% hint style="info" %}
 For instructions on how to import a configuration file (`.mapeosettings`) into Mapeo, see:
