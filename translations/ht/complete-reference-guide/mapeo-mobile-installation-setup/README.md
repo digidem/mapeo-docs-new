@@ -12,7 +12,7 @@ In this section, you will find all the needed resources to learn how to install 
 
 Before you start, make sure that:
 
-* The ![](../../.gitbook/assets/Battery\_icon.png)battery \*\*\*\* of the smartphone is charged and/or you have access to a charger and an ![](../../.gitbook/assets/plug.png)electrical outlet or portable battery.
+* The ![](../../.gitbook/assets/Battery\_icon.png) battery of the smartphone is charged and/or you have access to a charger and an ![](../../.gitbook/assets/plug.png)electrical outlet or portable battery.
 * The smartphone is ![](../../.gitbook/assets/virus\_free\_bug\_free\_icon.png)virus-free.
 
 {% hint style="warning" %}
