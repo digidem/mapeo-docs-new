@@ -24,7 +24,7 @@ If you have collected several observations in a small geographic area, you may n
 
 Tap ![](../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** on the home screen to view your observations in list form.
 
-![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Observations\_list\_screen.jpg)\\
+![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Observations\_list\_screen.jpg)
 
 To view the details of an observation, tap on any observation in the list to open the **View observation** screen.
 
