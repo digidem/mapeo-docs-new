@@ -12,11 +12,9 @@ For devices to sync, both need to be connected to the same Wi-Fi network. This W
 * **Both devices must be using the same configuration**\
 ****It is only possible to synchronize with devices that use the same [configuration](../../../customization-options/custom-configurations/#about-custom-configurations). For more on how to import configurations, see [importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention").
 
-
-
 To synchronize, follow the steps below:
 
-### Connect to Wi-Fi
+## Connect to Wi-Fi
 
 Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a ![](../../../../.gitbook/assets/Router\_icon.png)mobile wireless router or a third device capable of serving as an offline ![](../../../../.gitbook/assets/hotspot.png)hotspot.&#x20;
 
@@ -26,7 +24,7 @@ For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
 [connecting-to-wi-fi.md](../../../troubleshooting/connecting-to-wi-fi.md "mention")
 {% endhint %}
 
-### Enter Synchronize mode
+## Enter Synchronize mode
 
 In order to synchronize, both devices must have the **Synchronize** screen open.
 
@@ -51,7 +49,7 @@ Remember that in order for a device to appear in the list, it must be connected 
 \ For troubleshooting on this step, see [solving-sync-issues](../../../troubleshooting/solving-sync-issues/ "mention").
 {% endhint %}
 
-### Start synchronization
+## Start synchronization
 
 Once available devices appear in the list, confirm the identity of the device you plan to synchronize with by consulting the unique identification number on the other user's device.
 
@@ -67,7 +65,7 @@ In Mapeo Desktop, click on the **SYNCHRONIZE** ![](../../../../.gitbook/assets/s
 **Important**: Keep the **Synchronize** screen open on both devices until the synchronization process is complete.
 {% endhint %}
 
-### View synced observations
+## View synced observations
 
 To learn about viewing and managing synchronized data:
 
