@@ -1,7 +1,7 @@
 # Creating custom configurations
 
 {% hint style="warning" %}
-Please note that creating custom configurations currently requires significant technical knowledge and will not be accessible to all users.
+For instructions on how to import the configuration file (`.mapeosettings`) into Mapeo, see:\ [importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention")[importing-configurations.md](../../../mapeo-desktop-installation-setup/importing-configurations.md "mention")
 {% endhint %}
 
 ### Overview of the process
