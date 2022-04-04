@@ -1,5 +1,5 @@
 - - -
-description: Frequently asked questions about Mapeo.
+description: >- Frequently asked questions about Mapeo. See the Troubleshooting section of this guide for support with technical issues.
 - - -
 
 # FAQs
@@ -29,13 +29,13 @@ Mapeo was built by [**Digital Democracy**](https://www.digital-democracy.org) in
 
 ## Is Mapeo free to use?
 
-Yes, all Mapeo tools and features are free to install and use.
+Yes, all Mapeo tools are free to install and use.
 
 ## What kind of data can Mapeo collect?
 
 With ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
 
-With ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** Territory mode, you can create points, lines and areas (polygons) on a map and add an associated category, description, and details.
+For more on how Mapeo stores and synchronizes data, see [peer-to-peer-and-mapeo-sync.md](about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
 
 For more on Mapeo's default categories and details fields, see [default-configuration.md](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/default-configuration.md "mention"). To learn about customizing these options, see [custom-configurations](../complete-reference-guide/customization-options/custom-configurations/ "mention").
 
@@ -63,7 +63,7 @@ Some projects may require customization of data fields or background maps in ord
 
 Mapeo is built on an embedded peer-to-peer database, so all data collected with Mapeo is stored directly on your device, with no need for an internet connection or centralized server. Users of Mapeo Mobile and Mapeo Desktop can synchronize or exchange data over a local Wi-Fi network. The data never leaves your local Wi-Fi network and does not require an internet connection. Mapeo Desktop can also exchange information via a synchronization file using a USB drive.
 
-For more on how Mapeo stores and synchronizes data, see [peer-to-peer-and-mapeo-sync.md](about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
+Applications like Mapeo assume that data is managed by the community generating it - and **some of that data may never be publicly accessible.** Mapeo's approach, in contrast, creates a closed group, where data creators are also data stewards, managing their own data and controlling who has access. We take security seriously and maintain protections from third-party attacks such as targeted hacks and surveillance by third-parties. For users of Mapeo, privacy is critical for protecting their ancestral knowledge and environmental monitoring information until it’s ready to be shared with trusted partners.
 
 ## Does Mapeo use a Blockchain? <a href="#does-mapeo-use-a-blockchain" id="does-mapeo-use-a-blockchain"></a>
 
