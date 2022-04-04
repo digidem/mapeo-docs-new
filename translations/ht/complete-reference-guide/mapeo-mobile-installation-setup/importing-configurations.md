@@ -28,7 +28,7 @@ Select **Project configuration**, then tap **Import config**.
 
 ![](../../.gitbook/assets/Mm\_Settings\_screen\_Project\_config.jpg) ![](../../.gitbook/assets/Mm\_Project\_config\_screen-import\_config\_button.jpg)
 
-Navigate to the folder that contains your configuration file and tap on the file.
+Navigate to the folder that contains your configuration file and tap on the file.&#x20;
 
 {% hint style="info" %}
 Files downloaded from the internet or a messaging application can generally be found in the **Downloads** folder.
@@ -46,4 +46,4 @@ To start using the updated configuration, tap ![](../../.gitbook/assets/app\_ico
 
 > ▶ Video available: [How to identify which configuration is Mapeo Mobile using](https://www.youtube.com/watch?v=SaSxCBGjZiM\&list=PLI10lL3Yr-k2MUMquVTaQxZoiQqfT\_eID\&index=6\&t=65s)
 > 
-> ▶ Video available: [How to import a custom configuration to Mapeo Mobile](https://www.youtube.com/watch?v=PNodALVTG5w\&list=PLI10lL3Yr-k2MUMquVTaQxZoiQqfT\_eID\&index=7\&t=20s)
+> ▶ Video available: [How to import a custom configuration to Mapeo Mobile](https://www.youtube.com/watch?v=PNodALVTG5w\&list=PLI10lL3Yr-k2MUMquVTaQxZoiQqfT\_eID\&index=7\&t=20s)&#x20;
