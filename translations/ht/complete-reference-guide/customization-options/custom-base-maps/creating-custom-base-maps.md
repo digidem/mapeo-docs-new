@@ -1,4 +1,4 @@
-# Creating custom background maps
+# Creating custom base maps
 
 {% hint style="info" %}
 We are currently working on a new user interface to simplify the process of generating and adding custom background maps to Mapeo. Once the new functionality is complete, we will include full instructions on this page.
