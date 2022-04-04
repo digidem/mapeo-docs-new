@@ -1,4 +1,4 @@
-# 💡 Mapeo trainings
+# 📈 Evaluating impact
 
 {% hint style="info" %}
 Coming soon
