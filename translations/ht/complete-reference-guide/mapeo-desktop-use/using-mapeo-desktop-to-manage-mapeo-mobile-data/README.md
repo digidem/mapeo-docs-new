@@ -1,4 +1,4 @@
-# Mapeo Desktop for managing Mapeo Mobile data (Observations mode)
+# Mapeo Desktop for managing Mapeo Mobile data
 
 This section explores how to use Mapeo Desktop to view and manage Mapeo Mobile data, as well as the available options for exporting data into different formats. The information is contained in the following pages:
 
