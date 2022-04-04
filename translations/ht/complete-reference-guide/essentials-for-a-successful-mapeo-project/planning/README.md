@@ -1,18 +1,18 @@
 # Planning
 
-You may be keen to jump in and get started with data collection, however spending a bit of time upfront thinking through how the project will run, the methodology, team set-up, logistics of gathering data, and how the data collected or created with Mapeo will be used can save you a lot of time and avoid problems and issues later on.
+You may be keen to jump in and get started with data collection, however spending a bit of time upfront thinking through how the project will run, the methodology, team set-up, logistics of gathering data, and how the data collected or created with Mapeo will be used can save you a lot of time and avoid problems and issues later on.&#x20;
 
 This guide does not aim to give you a blueprint of how to run your project. There are so many different uses of Mapeo, some of these we (Digital Democracy) can imagine, some of them we can't, and each one has its own particular needs, priorities and local contexts. What works in one place might need to be set up very differently for another place, even if the desired outcome is very similar. And likewise what works somewhere at one time, might have to be adjusted for another time as local situations, politics, etc. change.
 
-Hopefully spending time thinking through the questions below will enable you to create a process tailored to your needs and project, and give it the best possible chance of success.
+Hopefully spending time thinking through the questions below will enable you to create a process tailored to your needs and project, and give it the best possible chance of success. &#x20;
 
 **We are going to run through the following questions:**
 
 * [**Why collect information?**](why-what-is-the-project-goal.md) What is the aim of your mapping, monitoring or data collection, what is your goal or desired end product or result?
 * [**What outputs do you want?**](what-outputs-do-you-want.md) If you already know that you want to build an interactive story map, or produce a quantitative report or file a legal case, this can help shape your project design.
 * [**What information do you need to collect in order to meet this aim?**](what-information-to-collect/)
-* [**Who should be involved?**](what-are-your-parameters.md) What project structure will best meet your aims, who should be involved, what roles do you need, who is making decisions and who are you accountable to?
-* [**What are the parameters or limiting factors you are working with?**](who-is-involved.md) This refers to your geographical context, infrastructure, accessibility to areas, budgets and equipment availability, time constraints, security risks, etc.
+* [**Who should be involved?**](what-are-your-parameters.md) **** What project structure will best meet your aims, who should be involved, what roles do you need, who is making decisions and who are you accountable to?&#x20;
+* [**What are the parameters or limiting factors you are working with?**](who-is-involved.md) **** This refers to your geographical context, infrastructure, accessibility to areas, budgets and equipment availability, time constraints, security risks, etc.
 * [**Is Mapeo the right tool for you?** ](../../../overview/is-mapeo-right-for-me.md)We think Mapeo is great :) but we know that it has limits and it isn't the right tool for every job. We want to make sure that if you choose Mapeo you understand what it excels at doing and also its weaknesses, to make sure you are set up in the best possible way for success in your project.
 
 ### Provisos
