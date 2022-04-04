@@ -1,24 +1,21 @@
 # Creating details fields
 
 {% hint style="info" %}
-To review key information on defining details fields, see [details-fields.md](planning-configuration-and-data-structure/details-fields.md "mention").
+In the fields directory, each .json file needs a `key`, `type`, `label`, and `placeholder.`
 {% endhint %}
 
 ### In `fields` directory customize the `.json` files
 
-Each `.json` file in the **fields** directory needs a `key`, `type`, `label`, and `placeholder.`
+In the presets directory, each .json file needs:
 
-`type` can be one of `select_multiple`, `select_one`, or `text`.
+The `icons` folder should have all of the icons you created from the previous section
 
-For `select_one` __ and __ `select_many` fields, you will need to define an array of answer `options.`
+Type, 'cd\`, then a space, then drag and drop the folder where the prepared assets are and press enter. It will look something like this
 
-#### Example fields file (`name.json`):
+#### These are the files that live in the top level folder
 
 ```
-{
-    "key": "name",
-    "type": "text",
-    "label": "Name",
-    "placeholder": "Common name of this place"
-}
+wget https://github.com/digidem/mapeo-default-settings/archive/v2.1.0.zip 
+unzip v2.1.0.zip 
+mv mapeo-default-settings-v2.1.0 mapeo-settings-myprojectname
 ```
