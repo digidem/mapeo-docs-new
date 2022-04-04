@@ -10,8 +10,8 @@ Please note that by synchronizing with another Mapeo user, **ALL DATA is shared 
 \
 Any edits that have been made to the data will also be transferred to the other device during synchronization. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.
 
-\
-It is important to create project [<mark style="color:blue;">synchronization protocols</mark>](../../essentials-for-a-successful-mapeo-project/creating-user-protocols.md) to ensure that all data becomes part of the project database.
+\ It is important to create project [<mark style="color:blue;">synchronization protocols</mark>](../../essentials-for-a-successful-mapeo-project/creating-user-protocols.md) <mark style="color:red;"></mark> to ensure that all data becomes part of the project database.&#x20;
+{% endhint %}
 {% endhint %}
 
 There are 2 ways to synchronize with Mapeo Desktop:
@@ -19,9 +19,7 @@ There are 2 ways to synchronize with Mapeo Desktop:
 * [**Synchronization via Wi-Fi**](syncing-data.md#synchronization-via-wifi)  (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/smartphone\_with\_Mapeo))\
 _For syncing with another computer or smartphone_\
 Can be used if both devices are in the same place and have access to a Wi-Fi network. **(An internet connection is not required.)**
-* [**Synchronization with a file**](syncing-data.md#synchronization-with-a-file) (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png))\
-_Only for syncing between computers_\
-Useful in these two contexts:
+* [**Synchronization with a file**](syncing-data.md#synchronization-with-a-file) **** (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png))\ _Only for syncing between computers_\ Useful in these two contexts:&#x20;
   * If devices are in the same place, even without a Wi-Fi network.
   * If devices are not in the same place and both have an internet connection.
 
