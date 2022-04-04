@@ -1,6 +1,6 @@
-# Adding custom background maps to Mapeo Mobile
+# Adding custom base maps to Mapeo Mobile
 
-By default, Mapeo Mobile uses a[ ](../will-mapeo-work-out-of-the-box-for-me/default-base-map.md)[background **** map](../will-mapeo-work-out-of-the-box-for-me/default-base-map.md) that shows some geographic elements such as rivers and mountains, as well as some political and urban elements such as borders, cities, roads, etc.&#x20;
+By default, Mapeo Mobile uses a[ base map](../will-mapeo-work-out-of-the-box-for-me/default-base-map.md) that shows some geographic elements such as rivers and mountains, as well as some political and urban elements such as borders, cities, roads, etc.&#x20;
 
 If you have a [custom background map](../customization-options/custom-base-maps/) prepared, you can add it and use it in Mapeo Mobile without affecting the data you have collected. (For more on creating custom background maps, see [custom-base-maps](../customization-options/custom-base-maps/ "mention").)
 
@@ -14,7 +14,7 @@ Adding a background map to Mapeo currently requires navigating the File Manager 
 
 * ****[![](../../.gitbook/assets/laptop\_icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****
 
-## Adding a background map using a computer
+## Adding a base map using a computer
 
 ### Connect your smartphone to a computer
 
@@ -30,7 +30,7 @@ On Mac computers, you will need to have [Android File Transfer](https://www.andr
 For troubleshooting with transferring files to your Android device from a computer, see the [Android Help page here](https://support.google.com/android/answer/9064445?hl=en#zippy=%2Cwindows-computer%2Cmac-computer%2Cchromebook).
 {% endhint %}
 
-### On your computer, locate and copy the contents of the Mapeo background map package
+### On your computer, locate and copy the contents of the Mapeo base map package
 
 Mapeo background maps will often be shared as a compressed file`(.zip)`. If your background map is a `.zip` file, double-click the file to unzip it.
 
@@ -42,9 +42,9 @@ A Mapeo background map consists of several folders and files that need to be cop
 Raster background maps will contain different files and folders than those pictured above. Raster tile background maps for Mapeo consist of one folder (`tiles`) and one file (`style.json`).
 {% endhint %}
 
-Select and copy all of the elements found inside your background map folder.
+Select and copy all of the elements found inside your base map folder.
 
-### Paste the background map elements onto your smartphone
+### Paste the base map elements onto your smartphone
 
 Once you have copied the contents of the background map folder, use the computer to browse through your smartphone to the correct folder within the Mapeo Mobile file system.&#x20;
 
@@ -61,5 +61,5 @@ The complete path of the default folder where you will paste the map elements is
 Restart the Mapeo Mobile app. The new background map will appear on the home **Map** screen.&#x20;
 
 {% hint style="info" %}
-Loading a new background map for the first time in Mapeo Mobile can take ![](../../.gitbook/assets/watch\_time.png)several minutes.
+Download or locate the base map zip folder on your smartphone and unzip it.
 {% endhint %}
