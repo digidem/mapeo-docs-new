@@ -1,4 +1,4 @@
-# Importing and using external geospatial data
+# Exporting data
 
 When creating data in **Territory** mode, you may want to incorporate or utilize geospatial data from a source outside of ![](https://lh5.googleusercontent.com/bdNxQRS9mSJlaKfeYAUuqnhwjnkpXLYxjXEraIF2Y6JG7eyWI\_grgr8HJ5PKGER8wB3xIgmLse9XuLQKxRlcLrYc1ZV8fzB6GwNRV22uGoWWcQ2dtQs2RKh1XN\_v8PocFOMU24L6) Mapeo Desktop **Territory** Mode.
 
