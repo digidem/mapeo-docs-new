@@ -17,7 +17,7 @@ For more info on how to connect to Wi-Fi, see [connecting-to-wi-fi.md](../connec
 * [View current Wi-Fi status in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile)
 * [View current Wi-Fi status in ![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-desktop)
 
-### View current Wi-Fi status in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**:
+### View current Wi-Fi status in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**:&#x20;
 
 On the **Synchronize** screen you can view your device's current Wi-Fi status. If connected to Wi-Fi, the name of the network will appear on the left-hand side of the navy blue bar.\
 \ ![](../../../.gitbook/assets/Mm\_sync\_screen\_wifi\_info.jpg)\
@@ -26,7 +26,7 @@ On the **Synchronize** screen you can view your device's current Wi-Fi status. I
 
 ### View current Wi-Fi status in ![](../../../.gitbook/assets/Mapeo\_Desktop.png) Mapeo Desktop:
 
-Wi-Fi status for your computer may be displayed at the top of the **Synchronize** screen, under the "**Available Devices"** header.
+Wi-Fi status for your computer may be displayed at the top of the **Synchronize** screen, under the "**Available Devices"** header.&#x20;
 
 If you are currently connected, you may see the name of the Wi-Fi network and the current strength of the signal. (Eg. ![](../../../.gitbook/assets/Wifi.png)FIOS 7S5YS \*\*`QUALITY: 70%` \*\* ).
 
@@ -59,7 +59,7 @@ See below for instructions on how to confirm which configuration is currently in
 * [View current configuration in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile-1)
 * [View current configuration in ![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-desktop-1)
 
-### View current configuration in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**:
+### View current configuration in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**:&#x20;
 
 To confirm which configuration Mapeo Mobile is currently using, tap ![](../../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** on the home screen, then tap ![](../../../.gitbook/assets/app\_icons\_Settings.png) **Settings**. On the Settings screen, select **Project configuration** to view the name and version of the configuration in use.\
 \ ![](../../../.gitbook/assets/Mm\_Project\_config\_screen\_IMW-config.jpg)
@@ -70,7 +70,7 @@ For more on how to import a new configuration file into Mapeo Mobile, see [impor
 
 ### View current configuration in ![](../../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**:
 
-To confirm which configuration Mapeo Mobile is currently using, consult the white bar at the bottom of the **Synchronize** screen.
+To confirm which configuration Mapeo Mobile is currently using, consult the white bar at the bottom of the **Synchronize** screen.\ \ &#x20;![](../../../.gitbook/assets/Md\_sync\_project\_config\_info (1).jpg)
 
 ![](../../../.gitbook/assets/Md\_sync\_project\_config\_info (1).jpg)
 
