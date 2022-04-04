@@ -47,7 +47,9 @@ The new Directional Arrow feature uses your smartphone’s digital compass to pr
 
 If your smartphone doesn’t have a compass, the Directional Arrow may still be able to determine direction based on movement. Direction based on movement may be less accurate.
 
+{% hint style="info" %}
 **NOTE:** Directional Arrow is not reliable enough to be used exclusively for navigation, and it may drain your device battery faster.
+{% endhint %}
 
 #### Turn on Directional Arrow
 
