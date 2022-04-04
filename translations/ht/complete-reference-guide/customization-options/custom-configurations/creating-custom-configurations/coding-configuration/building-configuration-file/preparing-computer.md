@@ -136,7 +136,7 @@ If you're having more issues, please [open an issue on the GitHub repository](ht
 
 ## Versioning
 
-It's important to increment versions when releasing new changes to your configuration. When you are ready to release a new version, you can use [standard-version](https://github.com/conventional-changelog/standard-version) in the command line to automatically increment your config version and update the `CHANGELOG.md` file in your repository.
+It's important to increment the version when releasing new changes to your configuration. When you are ready to release a new version, you can use [standard-version](https://github.com/conventional-changelog/standard-version) in the command line to automatically increment your config version and update the `CHANGELOG.md` file in your repository.
 
 {% hint style="info" %}
 For more on versions with standard-version, see [#use-conventional-commit-messages-to-increment-your-configuration-version](using-github-actions.md#use-conventional-commit-messages-to-increment-your-configuration-version "mention")
