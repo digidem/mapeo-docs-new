@@ -28,7 +28,7 @@ It's worthwhile to thoroughly kick the tires of your new configuration prior to 
   ****Are text labels and placeholders easy to understand? Do details fields appear in a logical order? Fields will be displayed to users in the order they are listed in the `fields` array in [creating-categories.md](coding-configuration/creating-categories.md "mention").
 * **Colors**\
   If you added `color` to category map markers, are they distinguishable from one another and visible on your map background?
-* Name and version\
+* **Name and version**\
   Does the name and version of your configuration appear as desired on the **Project configuration** screen of Mapeo Mobile or the **Synchronize** screen of Mapeo Desktop?
 
 ## Making changes
