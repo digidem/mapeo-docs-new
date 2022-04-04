@@ -1,6 +1,6 @@
 # About Mapeo
 
-## Mapeo is a free, easy-to-use set of tools for collecting and mapping information.
+## Mapeo is a free, easy-to-use set of tools for collecting and mapping information.&#x20;
 
 Mapeo was co-designed and developed with Indigenous communities who face threats to their land such as illegal gold mining, oil contamination and poaching. It was built to support frontline groups to document these activities in order to take community action against them, report key information to authorities, file lawsuits, launch media campaigns, or create maps for land claims. To learn more about how Mapeo is currently being used, see [how-mapeo-is-being-used.md](how-mapeo-is-being-used.md "mention").
 
