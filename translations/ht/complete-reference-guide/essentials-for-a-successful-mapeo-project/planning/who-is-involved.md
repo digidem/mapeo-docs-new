@@ -37,7 +37,7 @@ Unfortunately, many frontline defenders are targeted for their work, often riski
 
 For example:
 
-* Do you need to keep team members, or the names of people interviewed or otherwise involved in the project, or would it be better to involve the media and ensure there is a spotlight on the work?
+* Do you need to keep team members, or the names of people interviewed or otherwise involved in the project, or would it be better to involve the media and ensure there is a spotlight on the work?&#x20;
 * Are there places you can avoid going to and questions can avoid asking so as to not trigger dangerous responses?
 * Do your teams need some kind of backup to keep them safe, a satellite phone, tracker or civil society accompaniment?
 
@@ -45,8 +45,8 @@ For example:
 
 Sometimes it is not people that are at risk but data - consider therefore if you are collecting data that could be valuable to others and how you can best keep it safe.
 
-Information can be sensitive in other ways too: perhaps only certain members of a community normally have access to it (but still want it documented) or perhaps it is information that the community does not want to make public.
+Information can be sensitive in other ways too: perhaps only certain members of a community normally have access to it (but still want it documented) or perhaps it is information that the community does not want to make public.&#x20;
 
-Mapeo does not make any of your data public unless you choose to share it, you can create reports or export data which is filtered to exclude sensitive places or pieces of information, and you can share information with team members without it going online.
+Mapeo does not make any of your data public unless you choose to share it, you can create reports or export data which is filtered to exclude sensitive places or pieces of information, and you can share information with team members without it going online.&#x20;
 
 However there are other measures you can take to protect your information if needed, creating passwords for your devices ... what else?
