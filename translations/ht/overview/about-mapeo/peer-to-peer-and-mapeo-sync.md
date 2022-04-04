@@ -4,7 +4,7 @@
 
 Unlike traditional apps where all the data is stored on a central server (in the cloud or in an office), the Mapeo database is integrated into the application on your device, and every device (smartphone or computer) participating in your project can have a copy of all the data. This is called a peer-to-peer database. We made this choice so that Mapeo can work entirely offline and does not require the user to set up any database or machine for storing data.
 
-This peer-to-peer database allows users to transfer data to other users in the field without internet, and several users with computers or smartphones can all work on the same dataset and share edits.
+Mapeo uses a peer-to-peer database, which could be compared to an invisible network that connects all different devices participating in a project, such as cell phones or computers. This peer-to-peer database allows users to transfer data to other users in the field without internet, and several users with computers or smartphones can all work on the same dataset and share edits.
 
 ### **Main characteristics:**
 
