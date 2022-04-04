@@ -1,4 +1,4 @@
-# Mapeo Desktop for creating territory data (Territory mode)
+# Mapeo Desktop for creating territory information
 
 This section explores how to use Mapeo Desktop to create, edit and manage mapping data directly within the Desktop application, using **Territory** mode. The information is contained in the following pages:
 
