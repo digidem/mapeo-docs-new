@@ -16,8 +16,8 @@ If you have ![](../../.gitbook/assets/Computer\_no\_internet\_icon.png) no inter
 
 ## Import the configuration
 
-1. Open ![](../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop.**
-2. On the **Top menu** bar, click **File** and select **Import Configuration**.
+1. Open ![](../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop.**&#x20;
+2. On the **Top menu** bar, click **File** and select **Import Configuration**.&#x20;
 3. In the pop-up window, navigate to the folder on the computer where you saved the configuration file (`.mapeosettings`) you want to import. Click on the file, then click **Open**. You may see a white screen for a few seconds while the configuration changes.
 
 ![](https://lh6.googleusercontent.com/mIfll6BAJm8b6jCZ3gM5bmhv43GZAzsK07JAPAph1Qbqh\_DMBXtgXUXE4LZPp5zK9feUdth3X9AtdG83obxsHIRkNC6FvYNS-Gb4vHTNg6FDcjpEDchhIBTLpuKXFQ)
