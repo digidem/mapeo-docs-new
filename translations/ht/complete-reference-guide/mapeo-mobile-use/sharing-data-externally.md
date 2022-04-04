@@ -6,7 +6,7 @@ In Mapeo Mobile, you can share the details of a single observation (location, im
 Remember that communication apps will require an internet connection or cell signal to work.
 {% endhint %}
 
-Open the **View observation** screen for the selected observation and tap ![](../../.gitbook/assets/app\_icons\_share\_35px.png) **Share**, which is located at the bottom left of the screen.
+Open the **View observation** screen for the selected observation and tap  ![](../../.gitbook/assets/app\_icons\_share\_35px.png) **Share**, which is located at the bottom left of the screen.&#x20;
 
 ![](../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg) ![](../../.gitbook/assets/Share\_button.jpg)
 
