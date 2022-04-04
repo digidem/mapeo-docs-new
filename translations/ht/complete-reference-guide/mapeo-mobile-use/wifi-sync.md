@@ -52,7 +52,7 @@ Once available devices appear in the list, confirm the identity of the device yo
 
 ![](../../.gitbook/assets/Sync\_screen\_mobile\_sync\_button.jpg)
 
-Click on the **Sync** button beside the device name to begin the exchange of data.&#x20;
+You can view new observation data received in the synchronization by looking at the points on the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** screen.
 
 {% hint style="warning" %}
 **IMPORTANT**: Keep the **Synchronize** screen open on BOTH devices until the synchronization is complete. Interrupting the sync process can result in permanently corrupted data.
@@ -60,7 +60,7 @@ Click on the **Sync** button beside the device name to begin the exchange of dat
 
 ## View synced observations
 
-You can view new observation data received in the synchronization by looking at the points on the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** screen.
+In Mapeo Mobile, you cannot edit or delete observations collected by other users.\ \ Remember that you can always view, edit and manage collected data in Mapeo Desktop. For more on that, see: [using-mapeo-desktop-to-manage-mapeo-mobile-data](../mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/ "mention")
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
 
