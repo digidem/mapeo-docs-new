@@ -1,4 +1,4 @@
-# Changing background maps in Territory mode
+# Importing external territory information
 
 The standard background map that appears in **Territory** mode when you are connected to the internet is an imagery map provided by Bing, composed of various sources of satellite imagery and aerial photography.&#x20;
 
