@@ -1,6 +1,6 @@
 # Entwodiksyon
 
-## Mapeo is a free, easy-to-use, open source set of tools for collecting and mapping information.
+## Mapeo se yon seri zouti ki gratis epi fasil pou itilize pou kolekte enfòmasyon ak fè kat.&#x20;
 
 Mapeo was built by [Digital Democracy](https://www.digital-democracy.org) with and for earth defenders to easily document environmental & human rights information and to collect data about their land. It was designed to work in entirely offline environments, is highly customizable, and built on a decentralized peer-to-peer database that allows communities to own their own data.
 
@@ -23,7 +23,7 @@ A complete collection of resources on planning & implementing projects using Map
 
 Digital Democracy would like both Mapeo and the Mapeo reference materials we develop to help communities find ways to support **autonomy**, **accesibility** and **collaboration** in their projects. We know that people accessing this online resource will have diverse interests, goals, needs, and technical literacy. For this reason, there are a variety of paths to access information and levels of details users may be looking for. All pages in this guide can also be [saved in PDF format and printed for use offline](complete-reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md).
 
-_Feel free to make use of these resources under the creative commons license terms:_ [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+_Feel free to make use of these resources under the creative commons license terms:_ [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)&#x20;
 
 **Translation**\
 We strive to make our tools & resources accessible and available to communities in their local languages. If you'd like to contribute to translating this guide, please see the section on [Translating Mapeo](complete-reference-guide/customization-options/translating.md) to learn how to get started.
