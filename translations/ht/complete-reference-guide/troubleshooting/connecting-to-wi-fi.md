@@ -2,8 +2,8 @@
 
 See below for details on how to connect to a WiFi network:
 
-* ![](../../.gitbook/assets/Wifi.png)[![](../../.gitbook/assets/Smartphone\_icon.png)**Connect to Wi-Fi on a smartphone**](connecting-to-wi-fi.md#connect-to-wifi-on-a-smartphone)
-* ![](../../.gitbook/assets/Wifi.png)![](../../.gitbook/assets/laptop\_icon.png) **** [**Connect to Wi-Fi on a computer**](connecting-to-wi-fi.md#connect-to-wifi-on-a-computer-it-might-be-different-depending-on-the-device.)
+* ![](../../.gitbook/assets/Wifi.png)[![](../../.gitbook/assets/Smartphone\_icon.png)**Connect to Wi-Fi on a smartphone** ](connecting-to-wi-fi.md#connect-to-wifi-on-a-smartphone)
+* ![](../../.gitbook/assets/Wifi.png)![](../../.gitbook/assets/laptop\_icon.png) [**Connect to Wi-Fi on a computer**](connecting-to-wi-fi.md#connect-to-wifi-on-a-computer-it-might-be-different-depending-on-the-device.)
 
 ## **Connect to Wi-Fi on a smartphone**
 
