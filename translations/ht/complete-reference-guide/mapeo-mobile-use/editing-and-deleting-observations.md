@@ -10,11 +10,11 @@ or by tapping the observation on the ![](../../.gitbook/assets/app icons\_observ
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg)
 
-Once you are on the **View observation** screen, tap ![](../../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit observation** to modify the information collected.
+Once you are on the **View observation** screen, tap ![](../../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit observation** to modify the information collected.&#x20;
 
 ![](../../.gitbook/assets/Edit\_observation\_button.jpg)
 
-In the **Edit observation** screen, you can change the category of the point, edit the description and details, or add additional photos.
+In the **Edit observation** screen, you can change the category of the point, edit the description and details, or add additional photos.&#x20;
 
 {% hint style="info" %}
 In Mapeo Mobile, you can only edit or delete observations that have been created on your device. You cannot change the geographic location saved with the observation or the date and time of the original observation.
@@ -30,7 +30,7 @@ To exit without saving your changes, tap ![](../../.gitbook/assets/app\_icons\_b
 
 ## Delete observations
 
-To delete an observation you have collected, scroll to the bottom of the **View observation** screen and tap ![](../../.gitbook/assets/app\_icons\_Delete-trash.png) **Delete**.
+To exit without saving your changes, tap  ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** and confirm you want to discard changes.
 
 ![](../../.gitbook/assets/Delete\_button.jpg)
 
