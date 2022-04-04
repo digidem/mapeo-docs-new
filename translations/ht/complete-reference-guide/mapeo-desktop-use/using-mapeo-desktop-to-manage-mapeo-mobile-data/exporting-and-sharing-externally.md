@@ -1,8 +1,8 @@
 # Exporting data & sharing externally
 
-This section covers the available options and formats for exporting data from **Observations** mode in Mapeo Desktop.
+This section covers the available options and formats for exporting data from **Observations** mode in Mapeo Desktop.&#x20;
 
-* ![](../../../.gitbook/assets/report\_pdf.png) [**Save as PDF report**](exporting-and-sharing-externally.md#undefined): if you want to download or print a PDF report with the observations collected.
+* ![](../../../.gitbook/assets/report\_pdf.png) [**Save as PDF report**](exporting-and-sharing-externally.md#undefined): if you want to download or print a PDF report with the observations collected.&#x20;
 * ![](../../../.gitbook/assets/map\_GeoJSON.png) [**Export as GeoJSON**](exporting-and-sharing-externally.md#export-as-geojson): if you want to continue working on your data in another mapping software (such as QGIS, ArcGIS, and others)
 * ![](../../../.gitbook/assets/spreadsheet\_icon.png) [**Export as CSV**](exporting-and-sharing-externally.md#export-as-csv): if you want to view and manage your data using a spreadsheet in Microsoft Excel, Google Sheets, or other data analysis tools.
 * ![](../../../.gitbook/assets/Webmap\_icon.png) [**Export as Web Map**](exporting-and-sharing-externally.md#export-as-web-map): if you want to publish an interactive online map with the observation data.
@@ -23,7 +23,7 @@ In Mapeo Desktop you can view your data as a report. Each page of the report con
 
 ## ![](../../../.gitbook/assets/map\_GeoJSON.png) Export as GeoJSON
 
-This is a useful export option if you want to continue working on your data in another mapping software (such as ![](../../../.gitbook/assets/image (5).png) QGIS, ![](../../../.gitbook/assets/image (9).png) ArcGIS, or others).
+This is a useful export option if you want to continue working on your data in another mapping software (such as !\[](../../../.gitbook/assets/image (5).png)QGIS, ![\](../../../.gitbook/assets/image (9).png)ArcGIS, or others).&#x20;
 
 To export your observation data as `.GeoJSON`:
 
@@ -44,11 +44,11 @@ To export your observation data as `.GeoJSON`:
 
 5\. In the pop-up window, give a name to the `.GeoJSON` file and choose where to save it. Once you are done, click on **Save**.
 
-You can now load and use this file in mapping software.
+You can now load and use this file in mapping software.&#x20;
 
 ## ![](../../../.gitbook/assets/spreadsheet\_icon.png) Export as CSV
 
-This is a useful export option if you want to view and manage your data using a spreadsheet and doing ![](../../../.gitbook/assets/graph)graphs and statistic analysis in software such as Microsoft Excel, ![](../../../.gitbook/assets/Google\_sheets\_icon.jpg) Google Sheets, and others.
+This is a useful export option if you want to view and manage your data using a spreadsheet and doing ![](../../../.gitbook/assets/graph)graphs and statistic analysis in software such as ![A picture containing text, sign, clipart, vector graphics
 
 To export your observation data as `.csv`:
 
@@ -69,7 +69,7 @@ To export your observation data as `.csv`:
 
 5\. In the pop-up window, give a name to the `.csv` file and choose where to save it. Once you are done, click on **Save**.
 
-You can now load and use this file in other software.
+5\. In the pop-up window, give a name to the `.csv` file and choose where to save it. Once you are done, click on **Save**.&#x20;
 
 ## ![](../../../.gitbook/assets/Webmap\_icon.png) Export as Web Map
 
@@ -100,7 +100,7 @@ This is a useful export option if you want to publish an interactive online map 
 
 You can also:
 
-* Click on ![](../../../.gitbook/assets/Webmaps\_edit\_icon.jpg) **Edit map details** to edit the title, description, terms & limitations, and style of the background map.&#x20;
+* Click on ![](../../../.gitbook/assets/Webmaps\_edit\_icon.jpg) **Edit map details** to edit the title, description, terms & limitations, and style of the base map.&#x20;
 * Click on ![](../../../.gitbook/assets/image (4).png)**Menu** to delete the map.
 
 ![](../../../.gitbook/assets/Mapeo\_web\_maps\_buttons.jpg)
