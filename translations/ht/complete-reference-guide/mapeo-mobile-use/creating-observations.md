@@ -30,7 +30,7 @@ Tap on the placeholder **What is happening here?** to add a description of what 
 
 ## Add photos
 
-Tap ![](../../.gitbook/assets/app icons\_Photo-Camera.png) **Add Photo** to take one or more photos to attach to the observation.
+Tap ![](https://lh6.googleusercontent.com/frEQrTzBVEG1\_7QbIuBtPoJmeTnZnLZ7vFuCJIm7wOly9cfTeBfqhEKvHOwk1feLIsyvNECJTOaEpUOA5l-Tuid1i-oToURZ4P52iJEAcpgzgQkAJnvKTN\_d1UXd8FUE9-mNg1Sk) **Add Photo** to take one or more photos to attach to the observation. &#x20;
 
 &#x20;![](../../.gitbook/assets/Mm\_new\_observation\_add\_photo.jpg)
 
