@@ -6,7 +6,7 @@ Mapeo uses _configurations_ to determine which categories, icons and questions u
 
 ### Mapeo's default configuration
 
-When you install Mapeo, it comes with a default configuration that includes general categories and questions for territory mapping and monitoring.
+When you install Mapeo, it comes with a default configuration that includes general categories and questions for territory mapping and monitoring.&#x20;
 
 #### Categories
 
@@ -14,7 +14,7 @@ The default configuration includes the following data collection categories:
 
 ![](../../.gitbook/assets/Default\_categories\_no\_frame.jpeg)
 
-Observations that do not fit these categories can always be collected using the **New point** category.
+Observations that do not fit these categories can always be collected using the **New point** category.&#x20;
 
 **Questions**
 
