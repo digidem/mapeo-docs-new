@@ -1,6 +1,6 @@
 # Viewing observations
 
-To view and manage synchronized observations in Mapeo Desktop, click on **Observations** in the **Mapeo modes** panel on the left side of the screen.
+To view and manage synchronized observations in Mapeo Desktop, click on **Observations** in the **Mapeo modes** panel on the left side of the screen.&#x20;
 
 ![](../../../.gitbook/assets/Md\_Observations\_mode.jpg)
 
@@ -62,9 +62,9 @@ Click <mark style="color:blue;">**ALL**</mark> to reset the filter and show obse
 
 To filter observations by a category, click ![](../../../.gitbook/assets/icon-down.png)**Expand** beside ![](../../../.gitbook/assets/Md\_Filter\_options\_icon\_grey.png) **Category** to open the list of the categories used in your project.
 
-* Use the checkboxes to select the categories that you want to make visible.
-* Click <mark style="color:blue;">**ONLY**</mark> to show observations for a single selected category.
-* Click <mark style="color:blue;">**ALL**</mark> to reset the filter and show observations for all categories.
+* Use the checkboxes to select the categories that you want to make visible.&#x20;
+* Click <mark style="color:blue;">**ONLY**</mark> to show observations for a single selected category. &#x20;
+* Click <mark style="color:blue;">**ALL**</mark> to reset the filter and show observations for all categories.&#x20;
 
 ![](../../../.gitbook/assets/Md\_filter\_by\_category.jpg)
 
