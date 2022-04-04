@@ -35,9 +35,13 @@ You can import a file containing geospatial data (in `.GeoJSON` and shapefile fo
 
 ![](../../../.gitbook/assets/Md-territory\_importing-04.jpg)
 
+{% hint style="info" %}
 **Note**: to import a shapefile, ![](https://lh5.googleusercontent.com/bdNxQRS9mSJlaKfeYAUuqnhwjnkpXLYxjXEraIF2Y6JG7eyWI\_grgr8HJ5PKGER8wB3xIgmLse9XuLQKxRlcLrYc1ZV8fzB6GwNRV22uGoWWcQ2dtQs2RKh1XN\_v8PocFOMU24L6) Mapeo Desktop is configured to look for `.shp` file. However, a shapefile consists of a number of additional files with other extensions including `.shx`, `.dbf`, `.sbn` and several additional optional files. Make sure these files are in the same directory as your `.shp` file or the import will fail.
+{% endhint %}
 
+{% hint style="info" %}
 **Note**: currently, it is not possible to import `.kml` / `.kmz` or `.gpx` data directly into your **Territory** database. See the next section for more information on how to use these as a map data overlay.&#x20;
+{% endhint %}
 
 ## Using geospatial data as a temporary custom map data overlay&#x20;
 

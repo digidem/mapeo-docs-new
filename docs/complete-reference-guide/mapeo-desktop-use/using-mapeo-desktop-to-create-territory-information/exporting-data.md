@@ -8,7 +8,9 @@ To export territory data, click on the ![](https://lh3.googleusercontent.com/Y7K
 
 ![](../../../.gitbook/assets/Md-territory\_exporting-01.jpg)
 
+{% hint style="info" %}
 **Note:** this will export all of your territory data at once. There currently is no way to export a selection of your territory data.&#x20;
+{% endhint %}
 
 ## About synchronizing territory data with other devices
 
@@ -19,6 +21,10 @@ It is possible to synchronize data created using ![](https://lh5.googleuserconte
   * When this ![](https://lh4.googleusercontent.com/h29dCuHGSwyXA6NBPzGBOWNjMXb3T7eSFam0RnCTtp1Aui8uQgtioJnREuOkPJ9idCfxOHcjkBUBNvIRRvbCA\_zW1sigl\_fn3EFoSq4pomrkehyYg6hPLkcr1nabg-FNR2y9YP\_-) Mapeo Mobile device synchronizes with another ![](https://lh5.googleusercontent.com/bdNxQRS9mSJlaKfeYAUuqnhwjnkpXLYxjXEraIF2Y6JG7eyWI\_grgr8HJ5PKGER8wB3xIgmLse9XuLQKxRlcLrYc1ZV8fzB6GwNRV22uGoWWcQ2dtQs2RKh1XN\_v8PocFOMU24L6) Mapeo Desktop device (computer 2), it will share all of the territory data from that first device (computer 1), and the second device will be able to see, edit, export, and synchronize that data as well.&#x20;
   * When this ![](https://lh4.googleusercontent.com/h29dCuHGSwyXA6NBPzGBOWNjMXb3T7eSFam0RnCTtp1Aui8uQgtioJnREuOkPJ9idCfxOHcjkBUBNvIRRvbCA\_zW1sigl\_fn3EFoSq4pomrkehyYg6hPLkcr1nabg-FNR2y9YP\_-) Mapeo Mobile device (phone 1) synchronizes with another ![](https://lh4.googleusercontent.com/h29dCuHGSwyXA6NBPzGBOWNjMXb3T7eSFam0RnCTtp1Aui8uQgtioJnREuOkPJ9idCfxOHcjkBUBNvIRRvbCA\_zW1sigl\_fn3EFoSq4pomrkehyYg6hPLkcr1nabg-FNR2y9YP\_-) Mapeo Mobile device (phone 2), that second device (phone 2) will receive all of the territory data that was synchronized with the first device (phone 1), but won’t be able to see it or edit it. The ![](https://lh4.googleusercontent.com/h29dCuHGSwyXA6NBPzGBOWNjMXb3T7eSFam0RnCTtp1Aui8uQgtioJnREuOkPJ9idCfxOHcjkBUBNvIRRvbCA\_zW1sigl\_fn3EFoSq4pomrkehyYg6hPLkcr1nabg-FNR2y9YP\_-) second Mapeo Mobile device (phone 2) may now synchronize this data with other Mapeo devices.
 
+{% hint style="info" %}
 **Note**: Synchronized territory data will also include any external geospatial data that was added to Mapeo **Territory** mode; see [importing-external-territory-information.md](importing-external-territory-information.md "mention").
+{% endhint %}
 
-To learn more about how synchronizing data works in Mapeo, visit [synchronizing-data-with-mapeo-desktop.md](../synchronizing-data-with-mapeo-desktop.md "mention").
+{% hint style="info" %}
+To learn more about how synchronizing data works in Mapeo, see[synchronizing-data-with-mapeo-desktop.md](../synchronizing-data-with-mapeo-desktop.md "mention").
+{% endhint %}

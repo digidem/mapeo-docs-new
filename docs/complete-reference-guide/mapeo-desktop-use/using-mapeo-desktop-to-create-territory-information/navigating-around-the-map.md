@@ -4,7 +4,7 @@ The background map that appears underneath the territory data is a vitally impor
 
 You move around the map by dragging it and by pressing and holding down the left mouse button and moving the mouse around. You can also use the ↓, ↑, ←, → arrow keys on your keyboard.
 
-You can zoom in or out by scrolling with the mouse wheel or trackpad, or by clicking the **+ Zoom in** and **- Zoom out** buttons in the **Map controls** menu on the right side of the map. You can also use the **+** and **-** keys on your keyboard.
+You can zoom in or out by scrolling with the mouse wheel or trackpad, or by clicking the **+ Zoom in** and **- Zoom out** buttons in the **Map controls** menu on the right side of the map. You can also use the **`+`** and **`-`** keys on your keyboard.
 
 ![](../../../.gitbook/assets/Md-territory\_navigating-01.jpg)
 
@@ -16,7 +16,7 @@ You can also zoom to a set of geographic coordinates (in decimal degrees) by acc
 
 The **+ Zoom in to edit** button appears at the top of your screen when you are not sufficiently zoomed in. You can press it to zoom in to a minimum high zoom level where editing is possible. Once you have created territory data, you can also use the **Zoom to Data** feature located in the View menu to zoom to the maximum extent of your territory data on the map.
 
-Lastly, it is possible to activate an **overview map** at the top of the map, by pressing the / key.
+Lastly, it is possible to activate an **overview map** at the top of the map, by pressing the `/` key.
 
 ![](../../../.gitbook/assets/Md-territory\_navigating-03.jpg)
 
