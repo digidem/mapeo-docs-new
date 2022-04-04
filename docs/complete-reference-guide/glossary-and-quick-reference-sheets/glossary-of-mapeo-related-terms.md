@@ -61,7 +61,7 @@ In a Mapeo project, categories are the different groups or classes in which you 
 
 #### **Compressed file (`.zip`)**
 
-Compressed or **zipped files** and **folders** are commonly used because they take up less storage space than uncompressed files and can be transferred to other computers more quickly. They use to have an `.zip` [extension ](glossary-of-mapeo-related-terms.md#file-extension)(they can sometimes have an `.7z` or `.rar` extension as well) and can be easily created and unzipped. In Mapeo, we use compressed folders to share [background map packages](glossary-of-mapeo-related-terms.md#background-map-package), since they are composed of many files, and it is easier to share them as a folder.
+Compressed or **zipped files** and **folders** are commonly used because they take up less storage space than uncompressed files and can be transferred to other computers more quickly. They often have an `.zip` [extension ](glossary-of-mapeo-related-terms.md#file-extension)(they can sometimes have an `.7z` or `.rar` extension as well) and can be easily created and unzipped. In Mapeo, we use compressed folders to share [background map packages](glossary-of-mapeo-related-terms.md#background-map-package), since they are composed of many files, and it is easier to share them as a folder.
 
 #### **Configuration**
 

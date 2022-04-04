@@ -14,7 +14,7 @@ In the **presets** directory, each `.json` file needs:
 * `name` will be the human-readable label shown to the user
 * `geometry` must be an array of `point` ,`area`, and/or `line` (All categories for use in Mapeo Mobile must include `point`.)
 * `sort` (optional) is an integer that will determine the order in which categories are displayed on the **Categories** screen of Mapeo Mobile. If no `sort` is included, categories will be listed alphabetically by `name`.
-* an array of `fields` (optional) which should match the `key` created in the fields directory.
+* an array of `fields` (optional) which should match the `key` created in the fields directory. Fields will be displayed to users in the order they are listed in the `fields` array.
 * `color` (optional) determines the color of observation dots on the map. (Dots fall back to orange if no color is defined.) Value can be a hex code, CSS color name or any string supported by [validate-color](https://github.com/dreamyguy/validate-color).
 
 #### Example preset file (`fishing-site.json`):

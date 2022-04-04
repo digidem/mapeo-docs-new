@@ -4,12 +4,12 @@ Mapeo is a set of digital tools, designed to support collaborative data collecti
 
 There are two highly-customizable Mapeo apps that can be used together or individually, depending on your goals:
 
-* [Mapeo Mobile](mapeo-tools.md#mapeo-mobile)
-* [Mapeo Desktop](mapeo-tools.md#mapeo-desktop)
+* ****[**Mapeo Mobile**](mapeo-tools.md#mapeo-mobile)****
+* ****[**Mapeo Desktop**](mapeo-tools.md#mapeo-desktop)****
 
 ![](../../.gitbook/assets/Md\_Mm\_Mcore.png)
 
-Mapeo Mobile and Desktop are built on top of [Mapeo Core](mapeo-tools.md#mapeo-core), an embedded peer-to-peer database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server.
+Mapeo Mobile and Desktop are built on top of **** [**Mapeo Core**](mapeo-tools.md#mapeo-core), an embedded peer-to-peer database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server.
 
 ## Mapeo Mobile
 
@@ -34,8 +34,6 @@ Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customi
 Mapeo Mobile and Mapeo Desktop are both built on top of Mapeo Core to securely store the geographic data, details and media created by users. Mapeo Core is an offline-first, peer-to-peer embedded database that allows users to own their own data, directly on their devices, without the need for an internet connection or to share information with a centralized server.
 
 Mapeo Core is built upon [**Hypercore**](https://hypercore-protocol.org), which is an append-only log of actions (create, edit, delete data). Data is secured by cryptographic proofs -- every record written has a signature that also references the signature of every previous record/row in the log -- so you can never change or edit anything already written to the log. For more on Mapeo Core and data integrity, see [here](https://wp.digital-democracy.org/cooperative-ownership-of-data-without-blockchain/).
-
-
 
 {% hint style="info" %}
 To learn more about additional tools and modules that support use of Mapeo, see [mapeo-repositories.md](../../for-developers/mapeo-repositories.md "mention") in the **FOR DEVELOPERS** section.
