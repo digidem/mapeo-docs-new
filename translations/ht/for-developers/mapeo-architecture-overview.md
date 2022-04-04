@@ -24,7 +24,7 @@ KappaDB is one of the fundamental primitives of Mapeo Core that handles indexing
 Each 'project' has a set of configuration files. It is identified by a project key which is a shared secret amongst all devices. It authorizes devices to read and write to the database. There is no way at this time to revoke a configuration from a device remotely.&#x20;
 
 {% hint style="info" %}
-For more on configurations, see [custom-configurations](../complete-reference-guide/customization-options/custom-configurations/ "mention").
+Replication requires advance knowledge of the project key. Replication will be refused if a peer's project key is not the same.
 {% endhint %}
 
 **Discovery**
