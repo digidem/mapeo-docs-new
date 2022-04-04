@@ -22,11 +22,11 @@ Each observation will be marked on the map with a dot. Observations can also be 
 
 ![](../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../.gitbook/assets/Observations\_list\_screen.jpg)
 
-Tap on an observation from the map or list to view its details.
+Tap on an observation from the map or list to view its details.&#x20;
 
 ## Edit an observation
 
-With the details of an observation open, tap the ![](../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit** button to make changes.
+With the details of an observation open, tap the ![](../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit** button to make changes.&#x20;
 
 ![](../.gitbook/assets/Edit\_observation\_button.jpg)
 
