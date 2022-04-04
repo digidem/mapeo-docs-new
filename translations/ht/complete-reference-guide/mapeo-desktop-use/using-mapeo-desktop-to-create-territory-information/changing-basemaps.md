@@ -50,4 +50,6 @@ You can also provide your own custom background map, with the information most r
 
 (2) You can also add background map options by specifying them in a custom configuration. Learn more about this by visiting [creating-custom-base-maps.md](../../customization-options/custom-base-maps/creating-custom-base-maps.md "mention").
 
+{% hint style="info" %}
 To learn more about custom and offline maps in Mapeo, visit [creating-custom-base-maps.md](../../customization-options/custom-base-maps/creating-custom-base-maps.md "mention") and [adding-custom-base-maps-to-mapeo-desktop.md](../../mapeo-desktop-installation-setup/adding-custom-base-maps-to-mapeo-desktop.md "mention").
+{% endhint %}
