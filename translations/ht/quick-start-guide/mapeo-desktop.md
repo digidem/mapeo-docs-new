@@ -4,12 +4,12 @@
 
 Download Mapeo Desktop from the [Mapeo website](https://docs.mapeo.app) and double click the file to launch the installer. For more on installation, see [installing-mapeo-desktop.md](../complete-reference-guide/mapeo-desktop-installation-setup/installing-mapeo-desktop.md "mention").
 
-## Mapeo Desktop for managing Mapeo Mobile data (Observations mode)
+## Mapeo Desktop for managing Mapeo Mobile data
 
 **Observations** mode in Mapeo Desktop is designed for viewing, managing and exporting data collected with Mapeo Mobile. The steps below will cover the basics for testing **Observations** mode.
 
 {% hint style="info" %}
-For more detailed instructions and information on how to use Mapeo Desktop for creating territory data (**Territory** mode), see the Complete Reference Guide section on [mapeo-desktop-use](../complete-reference-guide/mapeo-desktop-use/ "mention").
+For more detailed instructions and other uses of Mapeo Desktop, see [mapeo-desktop-use](../complete-reference-guide/mapeo-desktop-use/ "mention").
 {% endhint %}
 
 ## Synchronize Mapeo Mobile data
@@ -22,8 +22,7 @@ Make sure both the ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile** de
 
 ### Enter Synchronize mode
 
-In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\
-\ ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\\
+In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\ \ ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\
 
 In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
 
@@ -31,7 +30,7 @@ In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Sync
 
 ### Start synchronization
 
-On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** ![](../.gitbook/assets/sync\_icon\_simple-.png) button below its name.
+On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** ![](../.gitbook/assets/sync\_icon\_simple- (1).png) button below its name.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode\_sync\_with\_mobile.jpg)
 
@@ -47,7 +46,7 @@ For more detailed instructions on synchronizing in Mapeo Desktop, see [syncing-d
 
 ## View observations
 
-To view synchronized data, click on **Observations** in the **Mapeo modes** panel.
+By default, observations are displayed as dots on a map. Click on an individual dot to view the details of that observation.
 
 ![](../.gitbook/assets/Md\_Observations\_mode.jpg)
 
@@ -71,7 +70,7 @@ To view observations in the form of a report, click on **Report** in the **Toolb
 
 ## **Filter observations**
 
-To look at a subset of your observations in **Map**, **Media** or **Report** view, use the **Filter** panel to select a specific data range, a subset of categories, or specific data values from details fields.
+From **Map** or **Media** view, click on a dot or image to view the full details of the corresponding observation. From **Report** view, use the ![](../.gitbook/assets/Webmaps\_edit\_icon.jpg) **EDIT** button in the grey toolbar to open the details of the observation shown in the current page of the report.
 
 ![](../.gitbook/assets/Md\_Filter\_panel.jpg)
 
@@ -108,7 +107,7 @@ Data can be exported to multiple formats from **Observations** mode in Mapeo Des
 * [Export as Web Map](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md#export-as-web-map) (In Complete Reference Guide)
 
 {% hint style="info" %}
-For more details on Mapeo export formats and process, see [exporting-and-sharing-externally.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/exporting-and-sharing-externally.md "mention") in the Complete Reference Guide.
+To save a PDF report with the observations collected, go to **Report** view. Filter observations if desired using the **Filter** panel. Hide any fields you don't wish to appear by using the ![](../.gitbook/assets/hide.png) **Hide fields** option in the grey panel above the report.\ \ To save, click on ![](../.gitbook/assets/icon-load.png)**Save PDF.**
 {% endhint %}
 
 ### **Save as PDF Report**
