@@ -33,9 +33,9 @@ Yes, all Mapeo tools are free to install and use.
 
 ## What kind of data can Mapeo collect?
 
-With ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
+With <img src="../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" /> **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
 
-For more on how Mapeo stores and synchronizes data, see [peer-to-peer-and-mapeo-sync.md](about-mapeo/peer-to-peer-and-mapeo-sync.md "mention")
+With <img src="../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" /> **Mapeo Desktop** Territory mode, you can create points, lines and areas (polygons) on a map and add an associated category, description, and details.
 
 For more on Mapeo's default categories and details fields, see [default-configuration.md](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/default-configuration.md "mention"). To learn about customizing these options, see [custom-configurations](../complete-reference-guide/customization-options/custom-configurations/ "mention").
 
@@ -47,7 +47,7 @@ Mapeo is currently available in over 8 languages, including:
 * Spanish
 * Portuguese
 
-Mapeo can be translated into additional languages on [Crowdin](https://crowdin.com). For more information, see [translating.md](../complete-reference-guide/customization-options/translating.md "mention")
+Mapeo can be translated into additional languages on [Crowdin](https://crowdin.com/). For more information, see [translating.md](../complete-reference-guide/customization-options/translating.md "mention")
 
 ## Is Mapeo Mobile available for iOS?
 
@@ -91,7 +91,7 @@ Mapeo does not lock your data into a particular data format. You can easily move
 
 ## Can you help me deploy Mapeo?
 
-There is a community of active users and maintainers of Mapeo that participate in our public chat channel on [Discord](https://discord.gg/KWRFDh3v73) and on our [Earth Defenders Toolkit Forum](https://forum.earthdefenderstoolkit.com). We encourage you to consult these spaces for additional tips and ideas on how people are using Mapeo.
+There is a community of active users and maintainers of Mapeo that participate in our public chat channel on [Discord](https://discord.gg/KWRFDh3v73) and on our [Earth Defenders Toolkit Forum](https://forum.earthdefenderstoolkit.com/). We encourage you to consult these spaces for additional tips and ideas on how people are using Mapeo.
 
 Digital Democracy's core team is very small and we have limited capacity to provide direct accompaniment for implementing Mapeo outside of our existing partnerships. In some cases we are able to offer support. To read more about the way we work with partners and different levels of support, see [here](https://drive.google.com/file/d/1c9C1-6v1EHKnfrYDsBn3VNu5qS\_pUNMC/view?usp=sharing).
 
