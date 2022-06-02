@@ -21,7 +21,7 @@ We have compiled a list of items that are very useful to have when organizing in
   * USB sticks with space
 * For demonstration outdoors or in low-tech spaces you can use:
   * Tabloid (11”x17”) printouts of Mapeo screen or presentation slides and a wall or laundry line to display them. We recommend you laminate them to make them more resistant to use and weather conditions
-  * You can also use big textile prints - they are easy to carry around, can be used rain or shine and you can use Velcro pieces to make them more interactive. Check out some examples here: `ADD LINK TO RESOURCE`
+  * You can also use big textile prints - they are easy to carry around, can be used rain or shine and you can use Velcro pieces to make them more interactive.&#x20;
   * A clean dry surface with shelter from rain or sun to stage equipment
   * For Mapeo Desktop training, tables and seating where participants can work in pairs
 * For demonstration indoors or in spaces where projection is possible, you might need:
