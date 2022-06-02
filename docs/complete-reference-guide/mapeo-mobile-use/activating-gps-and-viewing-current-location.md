@@ -18,7 +18,7 @@ On the home screen of Mapeo Mobile, you will be able to see if Mapeo is successf
   ![](../../.gitbook/assets/GPS\_details\_activated.png)
 
 {% hint style="info" %}
-If you activate the GPS on your device while you are using Mapeo, you might have to restart ![](../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo** for the app to recognize that the GPS is activated and change the status of the **GPS details** button.
+If you activate the GPS on your device while you are using Mapeo, you might have to restart <img src="../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo** for the app to recognize that the GPS is activated and change the status of the **GPS details** button.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -27,7 +27,7 @@ If you didn't allow Mapeo Mobile access to your phone's camera and GPS the first
 
 ## View GPS details in Mapeo Mobile
 
-Tap the ![](../../.gitbook/assets/GPS\_button\_activated.png)**GPS details** button to see more information on your current location.
+Tap the <img src="../../.gitbook/assets/GPS_button_activated.png" alt="" data-size="line">**GPS details** button to see more information on your current location.
 
 ![](../../.gitbook/assets/Homescreen-GPS\_button.jpg)  ![](../../.gitbook/assets/GPS\_details\_screen.jpg)
 
@@ -35,6 +35,6 @@ Tap the ![](../../.gitbook/assets/GPS\_button\_activated.png)**GPS details** but
 
 By default, Mapeo Mobile will mark your current position with a blue dot at the center of the map and adjust the map as you move.
 
-If you pan to a different area on the map, you can always return to viewing your current location by tapping the ![](../../.gitbook/assets/app-icons\_show-current-location.png) **Show my current position** button on the bottom right of the map.
+If you pan to a different area on the map, you can always return to viewing your current location by tapping the <img src="../../.gitbook/assets/app-icons_show-current-location.png" alt="" data-size="line"> **Show my current position** button on the bottom right of the map.
 
 ![](../../.gitbook/assets/Mm\_show\_current\_location\_button.jpg)

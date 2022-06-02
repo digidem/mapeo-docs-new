@@ -1,10 +1,10 @@
 # Viewing observations
 
-Once you have created one or more observations, you can view the data you have collected on the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or in a list.
+Once you have created one or more observations, you can view the data you have collected on the home <img src="../../.gitbook/assets/app-icons_Map_view.png" alt="" data-size="line"> **Map** screen or in a list.
 
 ## View observations on the map
 
-On the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen of Mapeo Mobile, each observation you collect will be marked on the map with an orange dot.
+On the home <img src="../../.gitbook/assets/app-icons_Map_view.png" alt="" data-size="line"> **Map** screen of Mapeo Mobile, each observation you collect will be marked on the map with an orange dot.
 
 ![](../../.gitbook/assets/Home\_map\_screen\_with\_data.jpg)
 
@@ -22,7 +22,7 @@ If you have collected several observations in a small geographic area, you may n
 
 ## View observations in a list
 
-Tap ![](<../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations list** on the home screen to view your observations in list form.
+Tap <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line"> **Observations list** on the home screen to view your observations in list form.
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Observations\_list\_screen.jpg)
 

@@ -4,7 +4,7 @@ The standard background map that appears in **Territory** mode when you are conn
 
 For territory mapping, high resolution imagery is frequently one of the best background maps because you can clearly identify features in the landscape.&#x20;
 
-There are also other background map options available in the **Background map** window, which you can open by clicking on the ![](https://lh6.googleusercontent.com/rqFhZe9guHpmRwOM3mnCg9cs845rlSwVxdPhxmJFRMf2dWo1-qSPgq7eJNSlRsWbM63G9ZPEfAtdxKA9cc83Pl0xtUk-3J\_q8A8vXPp17L--609lJ8\_dtK4pQ5uwCb9ibOrdzSS6) **Background settings** icon or pressing the `B` key on your keyboard.&#x20;
+There are also other background map options available in the **Background map** window, which you can open by clicking on the <img src="https://lh6.googleusercontent.com/rqFhZe9guHpmRwOM3mnCg9cs845rlSwVxdPhxmJFRMf2dWo1-qSPgq7eJNSlRsWbM63G9ZPEfAtdxKA9cc83Pl0xtUk-3J_q8A8vXPp17L--609lJ8_dtK4pQ5uwCb9ibOrdzSS6" alt="" data-size="line"> **Background settings** icon or pressing the `B` key on your keyboard.&#x20;
 
 ![](../../../.gitbook/assets/Md-territory\_background-maps-01.jpg)
 

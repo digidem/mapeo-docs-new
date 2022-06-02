@@ -12,9 +12,9 @@ Mapeo Mobile is currently available in more than 15 languages, but it can be tra
 
 To change the language of Mapeo Mobile:
 
-1. Click on ![](<../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations List,** then click on ![](../../.gitbook/assets/app\_icons\_Settings.png) **Settings** and select **Language.**
+1. Click on <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line"> **Observations List,** then click on <img src="../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line"> **Settings** and select **Language.**
 2. On the **Language** screen, select the language you would like to use for Mapeo Mobile. The language of the application will change automatically.
-3. To return to the home screen of the application, click on ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** as many times as necessary.
+3. To return to the home screen of the application, click on <img src="../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line"> **Back** as many times as necessary.
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg) ![](../../.gitbook/assets/Mm\_Settings\_screen\_select\_Language.jpg) ![](../../.gitbook/assets/Mm\_language\_screen.jpg)
 
@@ -26,9 +26,9 @@ Mapeo Mobile supports three GPS coordinate formats: Universal Transverse Mercato
 
 To change the coordinate format used:
 
-1. Click on ![](<../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations List,** then click on ![](../../.gitbook/assets/app\_icons\_Settings.png) **Settings** and select **Coordinate Format.**
+1. Click on <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line"> **Observations List,** then click on <img src="../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line"> **Settings** and select **Coordinate Format.**
 2. On the **Coordinate Format** screen, click on the format you would like to use and it will automatically change inside the application.
-3. To return to the home screen of the application, click on ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** as many times as necessary.
+3. To return to the home screen of the application, click on <img src="../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line"> **Back** as many times as necessary.
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg) ![](../../.gitbook/assets/Mm\_Settings\_screen\_select\_Coordinate\_format.jpg) ![](../../.gitbook/assets/Mm\_Coordinate\_Format\_screen\_no\_callout.jpg)
 
@@ -38,7 +38,7 @@ The **Experiments** screen contains new, experimental features that are in ongoi
 
 There are currently 2 features available in **Experiments**:
 
-* ****[**Directional Arrow**](app-settings.md#undefined)****
+* ****[**Directional Arrow**](app-settings.md#directional-arrow)****
 * [**P2P App Updates**](updating-mapeo-mobile.md#updating-mapeo-mobile-via-p2p-peer-to-peer-app-updates)****
 
 ### Directional Arrow
@@ -55,6 +55,6 @@ If your smartphone doesn’t have a compass, the Directional Arrow may still be 
 
 To activate the Directional Arrow feature:
 
-1. Click on ![](<../../.gitbook/assets/app icons\_observation-list\_35px.png>) **Observations List,** then click on ![](../../.gitbook/assets/app\_icons\_Settings.png) **Settings** and select **Experiments.**
+1. Click on <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line"> **Observations List,** then click on <img src="../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line"> **Settings** and select **Experiments.**
 2. Select **Directional Arrow**, then click the checkbox to **Use Directional Arrow**.
-3. Click on ![](../../.gitbook/assets/app\_icons\_back\_arrow.png) **Back** as many times as necessary to return to the home **Map** screen to view the arrow.
+3. Click on <img src="../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line"> **Back** as many times as necessary to return to the home **Map** screen to view the arrow.

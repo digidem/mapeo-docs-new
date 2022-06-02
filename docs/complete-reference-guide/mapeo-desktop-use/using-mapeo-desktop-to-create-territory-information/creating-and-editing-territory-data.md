@@ -110,7 +110,7 @@ It is possible to activate a box of measurement information for a feature, such 
 
 #### Deleting features&#x20;
 
-To delete a feature (point, line, or area), right-click on the point to select it and show the **Feature commands** menu, then use the ![](../../../.gitbook/assets/app\_icons\_Delete-trash.png) **Delete** command.&#x20;
+To delete a feature (point, line, or area), right-click on the point to select it and show the **Feature commands** menu, then use the <img src="../../../.gitbook/assets/app_icons_Delete-trash.png" alt="" data-size="line"> **Delete** command.&#x20;
 
 ![](../../../.gitbook/assets/Md-territory\_creating-editing-13.jpg)
 
@@ -124,7 +124,7 @@ To change the category, click on the category that is currently selected. This w
 
 #### Undo & Redo&#x20;
 
-You can undo any edits to features by clicking the ![](https://lh4.googleusercontent.com/Y3kJ78IsFboPXjz9jQMSJmsclJFs57SsOP0qfPq314spjZcosoy1261kU0ns8wmhyu3D4hV6qHNzOp8hFS2\_OBiv4mjEBL9VEUtcEyjKaWVfLlKribseZnbRcOj3lqmpywcRvKZh) **Undo** button, and redo them by clicking the ![](https://lh3.googleusercontent.com/U-gCXO3P22DCS7nNpoznA3UKGG\_giGAepA7rf8tvZ3fg1u8SrmbpqqbscADPgGL0l4T9IF7ydoJoH-WSniSYVtQsrxOLuIdaKUEUprAxHfBoqXJcOM4dWczw09\_QchAaTHEvXIJC) **Redo** button.&#x20;
+You can undo any edits to features by clicking the <img src="https://lh4.googleusercontent.com/Y3kJ78IsFboPXjz9jQMSJmsclJFs57SsOP0qfPq314spjZcosoy1261kU0ns8wmhyu3D4hV6qHNzOp8hFS2_OBiv4mjEBL9VEUtcEyjKaWVfLlKribseZnbRcOj3lqmpywcRvKZh" alt="" data-size="line"> **Undo** button, and redo them by clicking the <img src="https://lh3.googleusercontent.com/U-gCXO3P22DCS7nNpoznA3UKGG_giGAepA7rf8tvZ3fg1u8SrmbpqqbscADPgGL0l4T9IF7ydoJoH-WSniSYVtQsrxOLuIdaKUEUprAxHfBoqXJcOM4dWczw09_QchAaTHEvXIJC" alt="" data-size="line"> **Redo** button.&#x20;
 
 ![](../../../.gitbook/assets/Md-territory\_creating-editing-15.jpg)
 
@@ -138,7 +138,7 @@ Also note that to confirm a new feature, you first need to select a category (se
 
 ## Saving all of your changes&#x20;
 
-Click ![](https://lh4.googleusercontent.com/lrcZWACC6YnAgDAaeEpGa3Vz1cfbGyXCGTpIGs-FBnY4CAA5SLL8\_LBN2HEYTwo9p9EHMLEuBfd1sS4GAkURZDw4AHFwc3VakvPLXt3rBZH5r5hiiOZDGnflBikhsehCJZcGb4Fz) **Save** to finish your edits and save them permanently to your computer. You should remember to save your work frequently!&#x20;
+Click <img src="https://lh4.googleusercontent.com/lrcZWACC6YnAgDAaeEpGa3Vz1cfbGyXCGTpIGs-FBnY4CAA5SLL8_LBN2HEYTwo9p9EHMLEuBfd1sS4GAkURZDw4AHFwc3VakvPLXt3rBZH5r5hiiOZDGnflBikhsehCJZcGb4Fz" alt="" data-size="line"> **Save** to finish your edits and save them permanently to your computer. You should remember to save your work frequently!&#x20;
 
 ![](../../../.gitbook/assets/Md-territory\_creating-editing-17.jpg)
 
@@ -146,7 +146,7 @@ On the **Save your edits** panel, you'll have a chance to review what you've don
 
 ![](../../../.gitbook/assets/Md-territory\_creating-editing-18.jpg)
 
-Before saving your changes you must enter a **Changeset Comment**, or a short description of the changes you have made. Then click ![](https://lh4.googleusercontent.com/lrcZWACC6YnAgDAaeEpGa3Vz1cfbGyXCGTpIGs-FBnY4CAA5SLL8\_LBN2HEYTwo9p9EHMLEuBfd1sS4GAkURZDw4AHFwc3VakvPLXt3rBZH5r5hiiOZDGnflBikhsehCJZcGb4Fz) **Save** so your changes will be saved on the map, and can be synchronized with other devices or exported.&#x20;
+Before saving your changes you must enter a **Changeset Comment**, or a short description of the changes you have made. Then click <img src="https://lh4.googleusercontent.com/lrcZWACC6YnAgDAaeEpGa3Vz1cfbGyXCGTpIGs-FBnY4CAA5SLL8_LBN2HEYTwo9p9EHMLEuBfd1sS4GAkURZDw4AHFwc3VakvPLXt3rBZH5r5hiiOZDGnflBikhsehCJZcGb4Fz" alt="" data-size="line"> **Save** so your changes will be saved on the map, and can be synchronized with other devices or exported.&#x20;
 
 #### Automatic Backups&#x20;
 

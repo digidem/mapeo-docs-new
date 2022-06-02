@@ -49,7 +49,7 @@ A Mapeo background map package consists of several folders and files that, used 
 
 #### **Bluetooth**&#x20;
 
-It is a wireless technology used for exchanging [data ](glossary-of-mapeo-related-terms.md#data)between devices over short distances (less than 10 meters) using radio waves. Currently, most smartphones and computers offer this option, but you might need to activate the **** ![](../../.gitbook/assets/bluetooth.jpg) Bluetooth in your device before sharing or receiving data. Bluetooth can be a useful way to exchange files in [offline ](glossary-of-mapeo-related-terms.md#offline)conditions. For example, even with an internet connection, you can share a Mapeo [configuration ](glossary-of-mapeo-related-terms.md#configuration)file (`.mapeosettings`) via Bluetooth with other devices.
+It is a wireless technology used for exchanging [data ](glossary-of-mapeo-related-terms.md#data)between devices over short distances (less than 10 meters) using radio waves. Currently, most smartphones and computers offer this option, but you might need to activate the **** <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line"> Bluetooth in your device before sharing or receiving data. Bluetooth can be a useful way to exchange files in [offline ](glossary-of-mapeo-related-terms.md#offline)conditions. For example, even with an internet connection, you can share a Mapeo [configuration ](glossary-of-mapeo-related-terms.md#configuration)file (`.mapeosettings`) via Bluetooth with other devices.
 
 #### **Bug**
 
@@ -73,7 +73,7 @@ In Mapeo, the configuration of a project determines which categories, icons, and
 
 #### **Crowdin**
 
-It is a platform that helps companies and organizations to translate their software. We use the [Crowdin](https://crowdin.com) platform to translate Mapeo into different languages. It is free to create an account on Crowdin and anyone can contribute translations to Mapeo for new or existing languages. For more information, see [translating.md](../customization-options/translating.md "mention")
+It is a platform that helps companies and organizations to translate their software. We use the [Crowdin](https://crowdin.com/) platform to translate Mapeo into different languages. It is free to create an account on Crowdin and anyone can contribute translations to Mapeo for new or existing languages. For more information, see [translating.md](../customization-options/translating.md "mention")
 
 #### **Data**
 
@@ -93,7 +93,7 @@ It refers to the letters appearing at the end of a file's name, after the dot. I
 
 #### GPS
 
-The GPS acronym stands for "Global Positioning System", which is a satellite navigation system that allows determining the ground position (or [coordinates](glossary-of-mapeo-related-terms.md#coordinates)) of an object. When we here talk about a **GPS device,** we are referring to a portable tool that allows gathering information on the user's current position, allows saving specific locations as points as well as [tracks](glossary-of-mapeo-related-terms.md#tracks) of the paths traveled. Most smartphones have a **GPS feature** that gathers the user's current position. This feature normally appears under the names **GPS** or **Location**. This is what Mapeo Mobile uses to gather the coordinates of a point when creating a new [observation](glossary-of-mapeo-related-terms.md#observation). In Mapeo Mobile, the **accuracy of the GPS** signal received by our smartphone is shown with a _±number of meters_ (e.g.![](../../.gitbook/assets/GPS\_button\_activated.png)), and it refers to the margin of error of the given coordinates. The bigger the number, the less accurate the GPS signal is.&#x20;
+The GPS acronym stands for "Global Positioning System", which is a satellite navigation system that allows determining the ground position (or [coordinates](glossary-of-mapeo-related-terms.md#coordinates)) of an object. When we here talk about a **GPS device,** we are referring to a portable tool that allows gathering information on the user's current position, allows saving specific locations as points as well as [tracks](glossary-of-mapeo-related-terms.md#tracks) of the paths traveled. Most smartphones have a **GPS feature** that gathers the user's current position. This feature normally appears under the names **GPS** or **Location**. This is what Mapeo Mobile uses to gather the coordinates of a point when creating a new [observation](glossary-of-mapeo-related-terms.md#observation). In Mapeo Mobile, the **accuracy of the GPS** signal received by our smartphone is shown with a _±number of meters_ (e.g.<img src="../../.gitbook/assets/GPS_button_activated.png" alt="" data-size="line">), and it refers to the margin of error of the given coordinates. The bigger the number, the less accurate the GPS signal is.&#x20;
 
 #### Keyboard
 
@@ -119,11 +119,11 @@ Also called **P2P**, it refers to a [database ](glossary-of-mapeo-related-terms.
 
 #### **Play Store**
 
-Also called **Google Play**, or **Google Play Store**, it is the official app store for Android and Chrome OS devices. There you can browse and download many [applications](glossary-of-mapeo-related-terms.md#application-app), including Mapeo Mobile. Some of them are free, like Mapeo, and others are at a cost. You can access the Play Store space from any Android and Chrome smartphone by clicking on the ![](../../.gitbook/assets/play-store-icon)Play Store icon n your device.
+Also called **Google Play**, or **Google Play Store**, it is the official app store for Android and Chrome OS devices. There you can browse and download many [applications](glossary-of-mapeo-related-terms.md#application-app), including Mapeo Mobile. Some of them are free, like Mapeo, and others are at a cost. You can access the Play Store space from any Android and Chrome smartphone by clicking on the <img src="../../.gitbook/assets/play-store-icon" alt="" data-size="line">Play Store icon n your device.
 
 #### **Portable battery**
 
-It is a form of portable power supply that provides charging for smartphones, tablets, and other devices. If you plan to use Mapeo and you won't have access to a charger and an ![](../../.gitbook/assets/plug.png)electrical outlet (e.g. if you are on a patrol or you are in the woods), it's good to take a fully-charged portable battery with you, so that you can recharge your device if needed.&#x20;
+It is a form of portable power supply that provides charging for smartphones, tablets, and other devices. If you plan to use Mapeo and you won't have access to a charger and an <img src="../../.gitbook/assets/plug.png" alt="" data-size="line">electrical outlet (e.g. if you are on a patrol or you are in the woods), it's good to take a fully-charged portable battery with you, so that you can recharge your device if needed.&#x20;
 
 #### **Project key**
 
@@ -131,7 +131,7 @@ In Mapeo, a project key is a random cryptographic string of characters that prev
 
 #### **Router**
 
-A router is a device that is designed to receive, analyze, and forward [data ](glossary-of-mapeo-related-terms.md#data)packets between [networks](glossary-of-mapeo-related-terms.md#wi-fi-network). In an [offline ](glossary-of-mapeo-related-terms.md#offline)context, you can use a ![](../../.gitbook/assets/Router\_icon.png)portable router to create a [Wi-Fi](glossary-of-mapeo-related-terms.md#wi-fi-network) internet-free network to which devices can be connected and share data with each other. For example, by using a network created by a portable router, Mapeo allows [synchronizing ](glossary-of-mapeo-related-terms.md#synchronization)data between devices anywhere, without the need for an internet connection, as long as the devices are connected to the same network.
+A router is a device that is designed to receive, analyze, and forward [data ](glossary-of-mapeo-related-terms.md#data)packets between [networks](glossary-of-mapeo-related-terms.md#wi-fi-network). In an [offline ](glossary-of-mapeo-related-terms.md#offline)context, you can use a <img src="../../.gitbook/assets/Router_icon.png" alt="" data-size="line">portable router to create a [Wi-Fi](glossary-of-mapeo-related-terms.md#wi-fi-network) internet-free network to which devices can be connected and share data with each other. For example, by using a network created by a portable router, Mapeo allows [synchronizing ](glossary-of-mapeo-related-terms.md#synchronization)data between devices anywhere, without the need for an internet connection, as long as the devices are connected to the same network.
 
 #### **Synchronization**
 
@@ -143,7 +143,7 @@ It is a type of file created in Mapeo Desktop that allows the [synchronization ]
 
 #### **USB drive**
 
-Also called ![](../../.gitbook/assets/USB\_stick\_memory.png)**USB flash drive**, is a small [data ](glossary-of-mapeo-related-terms.md#data)storage device with an integrated USB interface. You can connect it easily to most computers, and many smartphones (you might need an adapter). It is rewritable and very useful to transfer files from one device to another or to create backups. For more information on how to transfer data using a USB stick, visit **Sharing files between devices** in [troubleshooting](../troubleshooting/ "mention").
+Also called <img src="../../.gitbook/assets/USB_stick_memory.png" alt="" data-size="line">**USB flash drive**, is a small [data ](glossary-of-mapeo-related-terms.md#data)storage device with an integrated USB interface. You can connect it easily to most computers, and many smartphones (you might need an adapter). It is rewritable and very useful to transfer files from one device to another or to create backups. For more information on how to transfer data using a USB stick, visit **Sharing files between devices** in [troubleshooting](../troubleshooting/ "mention").
 
 #### **Virus**
 

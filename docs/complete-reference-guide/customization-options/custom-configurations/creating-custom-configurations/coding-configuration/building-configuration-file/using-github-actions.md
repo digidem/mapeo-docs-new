@@ -1,6 +1,6 @@
 # Using GitHub Actions
 
-It is possible to build a Mapeo configuration file using GitHub Actions. This requires setting up your custom configuration directory as a repository on [Github.com](https://github.com), adding a `/.github/workflows/build.yml` script to your repository, and committing changes to that repository. &#x20;
+It is possible to build a Mapeo configuration file using GitHub Actions. This requires setting up your custom configuration directory as a repository on [Github.com](https://github.com/), adding a `/.github/workflows/build.yml` script to your repository, and committing changes to that repository. &#x20;
 
 {% hint style="info" %}
 If you haven't already used GitHub, you may want to study the [basics](https://docs.github.com/en/get-started/using-git/about-git) of how GitHub works before proceeding.

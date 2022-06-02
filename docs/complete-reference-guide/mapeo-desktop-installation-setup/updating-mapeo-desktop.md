@@ -4,7 +4,7 @@ Like most existing apps, Mapeo Desktop is in continuous development. We frequent
 
 When you **update** Mapeo Desktop, you do not lose data you have collected or synchronized using a previous version.
 
-To update Mapeo Desktop, follow the same steps of the installation process using a newer installation file. Before starting, ensure that the ![](../../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** application is not open. Then, follow the steps below for:
+To update Mapeo Desktop, follow the same steps of the installation process using a newer installation file. Before starting, ensure that the <img src="../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop** application is not open. Then, follow the steps below for:
 
 {% content-ref url="installing-mapeo-desktop.md" %}
 [installing-mapeo-desktop.md](installing-mapeo-desktop.md)

@@ -2,7 +2,7 @@
 
 ## Install
 
-Download Mapeo Desktop from the [Mapeo website](https://docs.mapeo.app) and double click the file to launch the installer. For more on installation, see [installing-mapeo-desktop.md](../complete-reference-guide/mapeo-desktop-installation-setup/installing-mapeo-desktop.md "mention").
+Download Mapeo Desktop from the [Mapeo website](https://www.digital-democracy.org/mapeo/) and double click the file to launch the installer. For more on installation, see [installing-mapeo-desktop.md](../complete-reference-guide/mapeo-desktop-installation-setup/installing-mapeo-desktop.md "mention").
 
 ## Mapeo Desktop for managing Mapeo Mobile data (Observations mode)
 
@@ -18,21 +18,21 @@ To get started, synchronize collected data from a Mapeo Mobile device. To synchr
 
 ### Connect to Wi-Fi
 
-Make sure both the ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile** device and the ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
+Make sure both the <img src="../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile** device and the <img src="../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
 
 ### Enter Synchronize mode
 
-In ![](../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**, tap the ![](../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button to enter the **Synchronize** screen.\
+In <img src="../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile**, tap the <img src="../.gitbook/assets/app_icons_Sync_35px.png" alt="" data-size="line"> **Synchronize** button to enter the **Synchronize** screen.\
 \
-![](../.gitbook/assets/Homescreen-Sync\_button.jpg)\\
+![](../.gitbook/assets/Homescreen-Sync\_button.jpg)
 
-In ![](../.gitbook/assets/Mapeo\_Desktop.png) **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
+In <img src="../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
 ### Start synchronization
 
-On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** ![](../.gitbook/assets/sync\_icon\_simple-.png) button below its name.
+On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** <img src="../.gitbook/assets/sync_icon_simple-.png" alt="" data-size="line"> button below its name.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode\_sync\_with\_mobile.jpg)
 
@@ -78,7 +78,7 @@ To look at a subset of your observations in **Map**, **Media** or **Report** vie
 
 ## **Edit observations**
 
-From **Map** or **Media** view, click on a dot or image to view the full details of the corresponding observation. From **Report** view, use the ![](../.gitbook/assets/Webmaps\_edit\_icon.jpg) **EDIT** button in the grey toolbar to open the details of the observation shown in the current page of the report.
+From **Map** or **Media** view, click on a dot or image to view the full details of the corresponding observation. From **Report** view, use the <img src="../.gitbook/assets/Webmaps_edit_icon.jpg" alt="" data-size="line"> **EDIT** button in the grey toolbar to open the details of the observation shown in the current page of the report.
 
 With the observation details open, click on a field to add or edit information. Click **SAVE** to save changes.
 
@@ -90,7 +90,7 @@ In Mapeo Desktop you cannot modify the creation date, category type or geographi
 
 ## Delete observations
 
-To delete an observation, open the observation details and click on the![](../.gitbook/assets/Three\_dots\_menu.png)**More options** menu. Select **Delete observation** and confirm deletion in the pop-up window.
+To delete an observation, open the observation details and click on the<img src="../.gitbook/assets/Three_dots_menu.png" alt="" data-size="line">**More options** menu. Select **Delete observation** and confirm deletion in the pop-up window.
 
 ![](../.gitbook/assets/Md\_edit\_observation\_more\_options.jpg)
 
@@ -114,15 +114,15 @@ For more details on Mapeo export formats and process, see [exporting-and-sharing
 
 ### **Save as PDF Report**
 
-To save a PDF report with the observations collected, go to **Report** view. Filter observations if desired using the **Filter** panel. Hide any fields you don't wish to appear by using the ![](../.gitbook/assets/hide.png) **Hide fields** option in the grey panel above the report.\
+To save a PDF report with the observations collected, go to **Report** view. Filter observations if desired using the **Filter** panel. Hide any fields you don't wish to appear by using the <img src="../.gitbook/assets/hide.png" alt="" data-size="line"> **Hide fields** option in the grey panel above the report.\
 \
-To save, click on ![](../.gitbook/assets/icon-load.png)**Save PDF.**
+To save, click on <img src="../.gitbook/assets/icon-load.png" alt="" data-size="line">**Save PDF.**
 
 ![](../.gitbook/assets/Md\_report\_save\_pdf.jpg)
 
 ### Export to GeoJSON, CSV, or SMART CSV
 
-To export observations to GeoJSON, CSV or SMART CSV format, click on the ![](../.gitbook/assets/ico\_export.png)**Export options** menu at the top right corner of the Mapeo Desktop window.
+To export observations to GeoJSON, CSV or SMART CSV format, click on the <img src="../.gitbook/assets/ico_export.png" alt="" data-size="line">**Export options** menu at the top right corner of the Mapeo Desktop window.
 
 Select **Export Observations...** then select the desired data format and options in the Export Observations pop-up window. Click **SAVE** to name the export file and choose the location on your computer where it will be saved.
 

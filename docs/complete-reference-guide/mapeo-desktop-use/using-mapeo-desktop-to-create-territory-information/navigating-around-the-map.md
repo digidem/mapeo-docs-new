@@ -8,7 +8,7 @@ You can zoom in or out by scrolling with the mouse wheel or trackpad, or by clic
 
 ![](../../../.gitbook/assets/Md-territory\_navigating-01.jpg)
 
-If your computer provides your geolocation, you can also click on the![](https://lh3.googleusercontent.com/FQtHbTb6AC4XLssfexdunzFqyxmksQan5SEjFbsgQETz7-YSRdA5CDiHRaOegrSG8eKfAUnQjrhishAEXT0QXNUA0I6aTEqzDAoeeD5PIUMv9Og9YiKaLbhRcYYs5UyamuKZ-xwG)**Show my Location** button to pan to your location on the map.
+If your computer provides your geolocation, you can also click on the<img src="https://lh3.googleusercontent.com/FQtHbTb6AC4XLssfexdunzFqyxmksQan5SEjFbsgQETz7-YSRdA5CDiHRaOegrSG8eKfAUnQjrhishAEXT0QXNUA0I6aTEqzDAoeeD5PIUMv9Og9YiKaLbhRcYYs5UyamuKZ-xwG" alt="" data-size="line">**Show my Location** button to pan to your location on the map.
 
 You can also zoom to a set of geographic coordinates (in decimal degrees) by accessing the **Zoom to Coordinates** feature located in the **View** menu. Enter a pair of longitude and latitude coordinates separated by a comma and with longitude going first, and then click Submit. The background map should travel to the coordinates.
 

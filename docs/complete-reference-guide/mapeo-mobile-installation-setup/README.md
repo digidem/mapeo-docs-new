@@ -12,8 +12,8 @@ In this section, you will find all the needed resources to learn how to install 
 
 Before you start, make sure that:
 
-* The ![](../../.gitbook/assets/Battery\_icon.png) battery of the smartphone is charged and/or you have access to a charger and an ![](../../.gitbook/assets/plug.png)electrical outlet or portable battery.
-* The smartphone is ![](../../.gitbook/assets/virus\_free\_bug\_free\_icon.png)virus-free.
+* The <img src="../../.gitbook/assets/Battery_icon.png" alt="" data-size="line"> battery of the smartphone is charged and/or you have access to a charger and an <img src="../../.gitbook/assets/plug.png" alt="" data-size="line">electrical outlet or portable battery.
+* The smartphone is <img src="../../.gitbook/assets/virus_free_bug_free_icon.png" alt="" data-size="line">virus-free.
 
 {% hint style="warning" %}
 Mapeo Mobile is currently available for **Android only** and works on **Android version 5.0 or above.**

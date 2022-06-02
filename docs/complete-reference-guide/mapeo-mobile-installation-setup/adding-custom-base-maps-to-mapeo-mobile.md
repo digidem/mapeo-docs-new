@@ -12,7 +12,7 @@ We are currently working on a new user interface to simplify the process of gene
 Adding a background map to Mapeo currently requires navigating the File Manager on your smartphone and copy-pasting elements in the internal file system. A mistake in this process could cause irreversible undesired effects.
 {% endhint %}
 
-* ****[![](../../.gitbook/assets/laptop\_icon.png)****![](../../.gitbook/assets/USB\_cable.png)****![](../../.gitbook/assets/Smartphone\_icon.png)**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****
+* ****<img src="../../.gitbook/assets/laptop_icon.png" alt="" data-size="line">****<img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line">****<img src="../../.gitbook/assets/Smartphone_icon.png" alt="" data-size="line">****[**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#adding-a-background-map-using-a-computer)****
 
 ## Adding a background map using a computer
 
@@ -61,5 +61,5 @@ The complete path of the default folder where you will paste the map elements is
 Restart the Mapeo Mobile app. The new background map will appear on the home **Map** screen.&#x20;
 
 {% hint style="info" %}
-Loading a new background map for the first time in Mapeo Mobile can take ![](../../.gitbook/assets/watch\_time.png)several minutes.
+Loading a new background map for the first time in Mapeo Mobile can take <img src="../../.gitbook/assets/watch_time.png" alt="" data-size="line">several minutes.
 {% endhint %}
