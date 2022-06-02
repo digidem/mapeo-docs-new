@@ -24,6 +24,14 @@ Then close terminal and open again
 
 [http://brew.sh/](http://brew.sh)
 
+### **Install puppeteer dependencies (Windows Subsystem for Linux)**
+
+If you are using Windows Subsystem for Linux (WSL) to build a configuration, you need to install some dependencies for puppeteer.
+
+```
+sudo apt install libgtk-3-dev libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2
+```
+
 ### Install npm
 
 [https://docs.npmjs.com/cli/install](https://docs.npmjs.com/cli/install)
