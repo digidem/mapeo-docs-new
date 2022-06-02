@@ -6,4 +6,4 @@ On this page...
 * Training
 * ..
 
-Additional information on running trainings in Mapeo can be found in [training-and-information-sessions.md](../training-and-information-sessions.md "mention").
+Additional information on running trainings in Mapeo can be found in [training-and-information-sessions](../training-and-information-sessions/ "mention").
