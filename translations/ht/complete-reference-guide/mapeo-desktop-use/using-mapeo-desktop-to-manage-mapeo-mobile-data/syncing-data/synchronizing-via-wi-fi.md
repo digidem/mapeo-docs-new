@@ -2,11 +2,11 @@
 
 ## Synchronizing via Wi-Fi
 
-Mapeo Desktop can synchronize data via Wi-Fi with other ![](../../../../.gitbook/assets/Laptop\_with\_Mapeo.png) computers or ![](../../../../.gitbook/assets/smartphone\_with\_Mapeo)smartphones that use Mapeo. This is a good sync option when devices are near each other and it works with **no internet connection**.&#x20;
+Mapeo Desktop can synchronize data via Wi-Fi with other <img src="../../../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" /> computers or <img src="../../../../.gitbook/assets/smartphone_with_Mapeo" alt="" data-size="line" />smartphones that use Mapeo. This is a good sync option when devices are near each other and it works with **no internet connection**.&#x20;
 
 Requirements:
 
-* **Both devices need to be connected to the same** ![](../../../../.gitbook/assets/wifi-cropped-01.png)**Wi-Fi network**\
+* **Both devices need to be connected to the same** <img src="../../../../.gitbook/assets/wifi-cropped-01.png" alt="" data-size="line" />**Wi-Fi network**\
 For devices to sync, both need to be connected to the same Wi-Fi network. This Wi-Fi network does not need to have an internet connection. \
 
 * **Both devices must be using the same configuration**\
@@ -16,7 +16,7 @@ To synchronize, follow the steps below:
 
 ## Connect to Wi-Fi
 
-Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a ![](../../../../.gitbook/assets/Router\_icon.png)mobile wireless router or a third device capable of serving as an offline ![](../../../../.gitbook/assets/hotspot.png)hotspot.&#x20;
+Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a <img src="../../../../.gitbook/assets/Router_icon.png" alt="" data-size="line" />mobile wireless router or a third device capable of serving as an offline <img src="../../../../.gitbook/assets/hotspot.png" alt="" data-size="line" />hotspot.&#x20;
 
 {% hint style="info" %}
 For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
@@ -28,11 +28,11 @@ For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
 
 In order to synchronize, both devices must have the **Synchronize** screen open.
 
-In ![](../../../../.gitbook/assets/Mapeo\_Desktop.png)Mapeo Desktop: Click on **Synchronize** in the **Mapeo modes** panel.
+In <img src="../../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop: Click on **Synchronize** in the **Mapeo modes** panel.
 
 ![](../../../../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
-In ![](../../../../.gitbook/assets/Mapeo\_Mobile.png)Mapeo Mobile: Tap the ![](../../../../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button on the home screen.
+In <img src="../../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" />Mapeo Mobile: Tap the <img src="../../../../.gitbook/assets/app_icons_Sync_35px.png" alt="" data-size="line" /> **Synchronize** button on the home screen.
 
 ![](../../../../.gitbook/assets/Homescreen-Sync\_button.jpg)&#x20;
 
@@ -59,7 +59,7 @@ To see the unique identification number of a Mapeo Mobile device, check the righ
 
 ![Matching the unique ID of a Mapeo Mobile device as it appears on Mapeo Desktop](../../../../.gitbook/assets/Md\_Synchronize\_confirm\_Mm\_deviceID.jpg)
 
-In Mapeo Desktop, click on the **SYNCHRONIZE** ![](../../../../.gitbook/assets/sync\_icon\_simple-.png) **** button below the device name to begin the exchange of data.&#x20;
+In Mapeo Desktop, click on the **SYNCHRONIZE** <img src="../../../../.gitbook/assets/sync_icon_simple-.png" alt="" data-size="line" /> **** button below the device name to begin the exchange of data.&#x20;
 
 {% hint style="warning" %}
 **Important**: Keep the **Synchronize** screen open on both devices until the synchronization process is complete.
