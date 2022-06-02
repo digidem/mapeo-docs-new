@@ -6,10 +6,10 @@ You collect data with Mapeo Mobile in the form of _observations_. An observation
 
 To create a new observation, tap the ![](../../.gitbook/assets/create\_observation.png)**Create observation** button.
 
-&#x20;![](../../.gitbook/assets/Homescreen-Create\_observation\_button.jpg)
+&#x20;<img src="../../.gitbook/assets/Homescreen-Create_observation_button.jpg" alt="" data-size="original" />
 
 {% hint style="info" %}
-Observations can be created from the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or from the ![](../../.gitbook/assets/app icons\_Photo-Camera.png) **Camera** screen. Tap ![](../../.gitbook/assets/app icons\_Photo-Camera.png) **Camera**  at the bottom of the home screen to change the view.
+Observations can be created from the home <img src="../../.gitbook/assets/app-icons_Map_view.png" alt="" data-size="line" /> **Map** screen or from the <img src="../../.gitbook/assets/app icons_Photo-Camera.png" alt="" data-size="line" /> **Camera** screen. Tap <img src="../../.gitbook/assets/app icons_Photo-Camera.png" alt="" data-size="line" /> **Camera**  at the bottom of the home screen to change the view.
 {% endhint %}
 
 ## Select a category
@@ -30,7 +30,7 @@ Tap on the placeholder **What is happening here?** to add a description of what 
 
 ## Add photos
 
-Tap ![](https://lh6.googleusercontent.com/frEQrTzBVEG1\_7QbIuBtPoJmeTnZnLZ7vFuCJIm7wOly9cfTeBfqhEKvHOwk1feLIsyvNECJTOaEpUOA5l-Tuid1i-oToURZ4P52iJEAcpgzgQkAJnvKTN\_d1UXd8FUE9-mNg1Sk) **Add Photo** to take one or more photos to attach to the observation. &#x20;
+Tap <img src="../../.gitbook/assets/app icons_Photo-Camera.png" alt="" data-size="line" /> **Add Photo** to take one or more photos to attach to the observation.
 
 &#x20;![](../../.gitbook/assets/Mm\_new\_observation\_add\_photo.jpg)
 
@@ -38,7 +38,7 @@ Tap ![](https://lh6.googleusercontent.com/frEQrTzBVEG1\_7QbIuBtPoJmeTnZnLZ7vFuCJ
 Photos must be taken in the moment using your phone's camera. Mapeo Mobile does not currently allow you to attach existing images from a gallery or other source.
 {% endhint %}
 
-To remove a photo from a draft observation, tap on the thumbnail of the image. On the **View image** screen, tap the ![](../../.gitbook/assets/icon-delete\_image\_35px.png)**Delete Image** button.
+To remove a photo from a draft observation, tap on the thumbnail of the image. On the **View image** screen, tap the <img src="../../.gitbook/assets/icon-delete_image_35px.png" alt="" data-size="line" />**Delete Image** button.
 
 {% hint style="info" %}
 If the **Delete Image** button is not visible on the **View image** screen, tap anywhere on the screen to show.\
@@ -49,7 +49,7 @@ If the **Delete Image** button is not visible on the **View image** screen, tap 
 
 To confirm deletion, tap **Delete Image** in the confirmation window. Please note that once deleted, images cannot be recovered.
 
-If you don't wish to proceed with the deletion, tap **Cancel** then tap the ![](../../.gitbook/assets/icon-close-35px.png) **Close** button to return to the **New observation** screen.&#x20;
+If you don't wish to proceed with the deletion, tap **Cancel** then tap the <img src="../../.gitbook/assets/icon-close-35px.png" alt="" data-size="line" /> **Close** button to return to the **New observation** screen.&#x20;
 
 ![](../../.gitbook/assets/Mm\_Delete\_photo\_confirmation.jpg)
 
@@ -59,7 +59,7 @@ Images cannot be removed once an observation has been saved.
 
 ## Add details
 
-Depending on the category you have selected, you may see the option to ![](../../.gitbook/assets/app\_icons\_Details.png) **Add details** at the bottom of the screen. Observation details consist of specific questions for each observation category. Mapeo Mobile comes with basic questions for some categories. Adding details is not required when creating observations.
+Depending on the category you have selected, you may see the option to <img src="../../.gitbook/assets/app_icons_Details.png" alt="" data-size="line" /> **Add details** at the bottom of the screen. Observation details consist of specific questions for each observation category. Mapeo Mobile comes with basic questions for some categories. Adding details is not required when creating observations.
 
 Tap <mark style="color:blue;">**NEXT**</mark> to move to the next question and tap <mark style="color:blue;">**DONE**</mark> once you have answered the last one.
 
@@ -73,7 +73,7 @@ In order to set up your own custom questions or details fields, you must customi
 
 ## Save observation
 
-Once you have added all desired information, tap ![](../../.gitbook/assets/app\_icons\_save\_35px.png) **Save**.
+Once you have added all desired information, tap <img src="../../.gitbook/assets/app_icons_save_35px.png" alt="" data-size="line" /> **Save**.
 
 ![](../../.gitbook/assets/Mm\_Save\_observation.jpg)
 
@@ -89,4 +89,4 @@ If the GPS signal at the moment of saving the observation has an accuracy worse 
 \ ![](../../.gitbook/assets/Mm\_Weak\_GPS\_message\_manual\_coords\_option.jpg)\
 \ You can choose which GPS data format you want to use to enter the coordinates. This is a useful option if you have a GPS device or another smartphone with a better GPS signal accuracy.\
 \ ![](../../.gitbook/assets/Mm\_Enter\_coordinates\_screen\_format\_menu.jpg) ![](../../.gitbook/assets/Mm\_Enter\_coordinates\_screen-format\_options.jpg)\
-\ Tap ![](../../.gitbook/assets/app\_icons\_save\_35px.png) **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.
+\ Tap <img src="../../.gitbook/assets/app_icons_save_35px.png" alt="" data-size="line" /> **Save** once you have manually entered the coordinates to return to the **Edit observation** screen.
