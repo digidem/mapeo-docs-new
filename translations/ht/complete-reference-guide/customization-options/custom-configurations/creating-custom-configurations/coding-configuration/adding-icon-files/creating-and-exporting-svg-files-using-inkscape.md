@@ -1,6 +1,6 @@
 # Creating and exporting SVG files using Inkscape
 
-[Inkscape](https://inkscape.org) is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (`.svg`) format. Inkscape is an alternative to the commercial software Adobe Illustrator, and can be used to generate `.svg` files that work in Mapeo.
+[Inkscape](https://inkscape.org/) is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (`.svg`) format. Inkscape is an alternative to the commercial software Adobe Illustrator, and can be used to generate `.svg` files that work in Mapeo.
 
 ### Using Inkscape to vectorize images
 
