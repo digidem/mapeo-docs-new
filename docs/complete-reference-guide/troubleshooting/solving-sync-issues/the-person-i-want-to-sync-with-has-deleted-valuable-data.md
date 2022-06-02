@@ -30,6 +30,6 @@ This activity shows which edits take priority when synced data has been edited o
 
 </details>
 
-* **How can you prevent this from happenning again?**
+* **How can you prevent this from happening again?**
 
 Mapeo sync can be a tricky and complex process and the functioning of the peer-to-peer database is not always easy to understand. It is important to create project **synchronization protocols** to ensure that all data becomes part of the project database. For more on that, see [creating-user-protocols.md](../../essentials-for-a-successful-mapeo-project/creating-user-protocols.md "mention").
