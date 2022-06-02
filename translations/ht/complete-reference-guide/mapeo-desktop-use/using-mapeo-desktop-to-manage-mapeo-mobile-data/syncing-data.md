@@ -1,6 +1,6 @@
 # Synchronizing data
 
-To load observations into Mapeo Desktop for the first time, you will need to synchronize data with another ![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png) computer or ![](../../../.gitbook/assets/smartphone\_with\_Mapeo)smartphone that uses Mapeo.
+To load observations into Mapeo Desktop for the first time, you will need to synchronize data with another ![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png) computer or <img src="../../../.gitbook/assets/smartphone_with_Mapeo" alt="" data-size="line" />smartphone that uses Mapeo.
 
 Mapeo allows you to synchronize collected data with other Mapeo users or devices that are members of the same project. Synchronizing is used regularly throughout the course of projects to aggregate data collected by different participants and ensure that multiple copies of the complete database exist. **Syncing data does not always require an internet connection and can be done in entirely offline areas**.
 
@@ -16,10 +16,12 @@ Any edits that have been made to the data will also be transferred to the other 
 
 There are 2 ways to synchronize with Mapeo Desktop:
 
-* [**Synchronization via Wi-Fi**](syncing-data.md#synchronization-via-wifi)  (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/smartphone\_with\_Mapeo))\
+* [**Synchronization via Wi-Fi**](syncing-data.md#synchronization-via-wifi)  (<img src="../../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" /><img src="../../../.gitbook/assets/smartphone_with_Mapeo" alt="" data-size="line" />)\
 _For syncing with another computer or smartphone_\
 Can be used if both devices are in the same place and have access to a Wi-Fi network. **(An internet connection is not required.)**
-* [**Synchronization with a file**](syncing-data.md#synchronization-with-a-file) **** (![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png)![](../../../.gitbook/assets/Laptop\_with\_Mapeo.png))\ _Only for syncing between computers_\ Useful in these two contexts:&#x20;
+* [**Synchronization with a file**](syncing-data.md#synchronization-with-a-file) (<img src="../../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" /><img src="../../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" />)\
+_Only for syncing between computers_\
+Useful in these two contexts:
   * If devices are in the same place, even without a Wi-Fi network.
   * If devices are not in the same place and both have an internet connection.
 
