@@ -23,12 +23,6 @@ description: >-
 
 ### Training on Mapeo
 
-* 👩🏽‍🏫 Presentation on Mapeo Mobile & Desktop (editable Google sheets) \[EN]
-* 👩🏽‍🏫 Presentation on Mapeo Mobile & Desktop (editable Google sheets) \[ES]
-* 👩🏽‍🏫 Animations on Mapeo (GIFs)
-* 👩🏽‍🏫 Prints in textile (Textile slides to use in outside workshops - <mark style="color:red;">editable FORMAT?</mark>) \[EN, ES]
-* 👩🏽‍🏫 Presentation on security issues and recommendations (editable Google sheets)
-* 👩🏽‍🏫 Presentation on equipment maintenance (editable Google sheets)
 * [💡Mapeo trainings](complete-reference-guide/training-and-information-sessions/) (section on this site with resources and information on how to plan, prepare and deliver training sessions, depending on your goals, the participants, the format of training, etc.) \[EN]
 
 ### Examples of Mapeo projects
