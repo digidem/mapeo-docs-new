@@ -6,8 +6,8 @@ Training plans are naturally unique for every participant group, and Mapeo train
 
 The goals of a Mapeo training often fall under one the umbrellas below, but of course your goals will vary depending on your team's priorities and needs:
 
-* **Tool-centered:** Provide a general overview of the Mapeo tools or focus on specific Mapeo features.
-* **Context-centered:** Train on the workflow and concrete tasks that users are expected to perform in a specific context or project.
+* **Tool-centered:** Provide a general overview of the Mapeo tools or focus on specific Mapeo features. For example, training on how to collect observations, or on how to synchronize Mapeo Mobile with Mapeo Desktop
+* **Context-centered:** Train on the workflow and concrete tasks that users are expected to perform in a specific context or project. For example, training to the monitors on the workflow they are expected to carry out (e.g. collect observations with Mapeo in the case of `X` or `X`, send an alert to `X` person via the `X` app, sync with `X` person, etc.)
 
 ### Who will be involved?
 
@@ -29,13 +29,15 @@ Mapeo training events can be in-person or virtual. Each has its benefits and lim
   *   <mark style="color:red;">**Weaknesses**</mark>
 
       * Normally it is more expensive, as it has to gather people from different places.
+      * Depending on the context, it might be impossible to do this given time or logistics required, or because of location of the trainer, etc.
 
 
 * **VIRTUAL training event**
   * <mark style="color:green;">**Strengths**</mark>
     * It allows the involvement of participants located in distinct areas.
-    * It tends to be cheaper than organizing an in-person retreat.
+    * It tends to be cheaper than organizing an in-person training.
   * <mark style="color:red;">**Weaknesses**</mark>
     * Virtual training events have the challenge of requiring that participants have knowledge of virtual learning platforms. If you end up organizing a virtual session, remember that it is always better to use the virtual platforms that are already known by the participants or to separate dedicated training time to train them on the use of these new platforms.
     * It is more difficult to read the room and have a sense of how people are following the session.
     * The Internet signal can be weak in some areas, so expect sudden losses of connection by participants joining from rural areas.
+    * It can be more challenging to maintain momentum, have people work together, and remain focused. Participants' ability to remain focused on a computer screen for training is likely less than in a face-face meeting.&#x20;
