@@ -12,6 +12,7 @@
 * [Coordinates](glossary-of-mapeo-related-terms.md#coordinates)
 * [Crowdin](glossary-of-mapeo-related-terms.md#crowdin)
 * [Data](glossary-of-mapeo-related-terms.md#data)
+* [Device accessibility feature settings](glossary-of-mapeo-related-terms.md#device-accessability-settings)
 * [Feature](glossary-of-mapeo-related-terms.md#feature)
 * [File extension](glossary-of-mapeo-related-terms.md#file-extension)
 * [Folder/Directory](glossary-of-mapeo-related-terms.md#folder-directory)
@@ -78,6 +79,12 @@ It is a platform that helps companies and organizations to translate their softw
 #### **Data**
 
 It refers to information in digital form that can be transmitted or processed. In Mapeo, the word "data" is used for both [observations ](glossary-of-mapeo-related-terms.md#observation)collected by Mapeo Mobile <mark style="color:red;"></mark> (**observation data**) as well as lines, points, and polygons created using Mapeo Desktop (**territory data**). Data can be organized and stored in **databases** and be accessed electronically.&#x20;
+
+#### **Device Accessibility Feature Settings** <a href="#device-accessability-settings" id="device-accessability-settings"></a>
+
+Most phones and computers have an **Accessibility settings menu** to help users change the settings of their devices to adapt to their needs. For example, there are often features for blind or low-vision computer users, such as _Text-to-speech_ or _Enlarged cursors, icons, and text_. There are features for deaf or low-hearing computer users, such as _Closed-captioning_ to convey audio information into a visual form or _Mono audio_, and there are also features for limited-mobility computer users, such as _Keyboard shortcuts_.
+
+You can read more about the Accessibility options on a laptop ([here](https://edu.gcfglobal.org/en/computerbasics/using-accessibility-features/1/)) and on a smartphone ([here](https://support.google.com/accessibility/android/answer/9078941?hl=en)).
 
 #### Feature
 

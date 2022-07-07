@@ -51,29 +51,36 @@ Different features and workflows of Mapeo differ in terms of complexity, difficu
 
 <summary>💡 <strong>Activity 2- Create territory data with Mapeo Desktop</strong></summary>
 
-<mark style="color:blue;">**\<Coming soon>**</mark>
-
 **Platform:** Mapeo Desktop
 
 **Goal:** To get familiar with the creation of territory data with Mapeo Desktop.
 
-**Format:**
+**Format:** Individual hands-on exercise, computer based, internet (or offline map) dependent
 
-**Expected time:**&#x20;
+**Expected time:** 15 minutes - 1 hour - depends how much you get into it!
 
-**Description:**&#x20;
+**Description:** Participants navigate to an area they know well and then practice drawing points, lines and areas (polygons) on the map and classifying them with information.
 
 **Support guide section:** [creating-and-editing-territory-data.md](../../../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/creating-and-editing-territory-data.md "mention")****
 
 **Steps:**&#x20;
 
+1. Navigate to an area on the map that you know well, for example your community or the area you live in.
+2. Choose a background online map which has good satellite detail of the area (eg. bing) and zoom in so that you can see things close up and editing becomes possible.
+3. What can you identify? Can you see any houses, buildings, created structures (football pitches/gardens) or natural features (mountains/lakes/rivers) that you recognise?
+4. Use the editing tool to create some points on the map of things that you know - such as your home or school or an important location. Do the same for some line features (paths, roads, rivers, pipelines) and some areas (garden, village limits, forested area etc).&#x20;
+5. Choose categories for each feature you create from the default list, and add any details you wish.
+6. When you have created at least 6 features (a mixture of points, lines, areas) save your edits.
+7. Then go back and see if you can delete any, and edit the information.
+8. Change the background map so that you have a sense of what different options you have.
+
 </details>
 
 ### **Synchronizing data**
 
-* Synchronizing is the most difficult feature to fully understand because it is an offline feature that is not typical for most internet-dependent consumer-based technology. P2P (peer-to-peer) can be very abstract to talk about but is very intuitive to understand when in action.
+* Synchronizing is the most difficult feature to fully understand because it is an offline feature that is not typical for most internet-dependent consumer-based technology. Peer-to-peer (P2P) can be very abstract to talk about and is more intuitive to understand when in action.
 * This functionality has a relatively steep learning curve for new users.
-* It is best to do it early in case more time is needed or the agenda requires this to be repeated towards the end of the event.
+* It is best to do it early in a training agenda in case more time is needed or the agenda requires this to be repeated towards the end of the event.
 * This is essential for understanding how data is aggregated on phones and/or computers with Mapeo when used in a community GIS data project.
 * Hands-on exercises are the best way to show and clarify that any edits or deletions made in the database on any device, will be shown on the other devices after syncing.
 * Having participants practice data sharing and data syncing is useful to visually illustrate the different behavior of the data in these two processes.

@@ -8,9 +8,9 @@ Take time for making an appropriate and meaningful opening that is directed by l
 
 Participatory introductions are an opportunity for the trainer to hear from participants why they are participating in a Mapeo training. This becomes a collective affirmation of the effort everyone is giving in sharing the learning process.
 
-When introducing or reintroducing Mapeo to a group, give concrete examples from user stories about how Mapeo works or helped a community achieve their goal, followed by goals and expectations about what they will be learning about Mapeo at the current event. Allow time in this section for questions or concerns to make sure that the agenda is going to work.
+When introducing or reintroducing Mapeo to a group, give concrete examples from other places about how Mapeo works or helped a community achieve their goal, followed by goals and expectations about what the participants will be learning about Mapeo at the current event. Allow time in this section for questions or concerns to make sure that the agenda is going to work.
 
-For participatory Mapeo events, take a moment to remind participants to charge their devices.
+For events that will include hands-on practice with Mapeo, take a moment to remind participants to charge their devices.
 
 ### **Demonstration**
 
@@ -18,13 +18,15 @@ Show a user task or workflow once with everyone watching first.
 
 Be specific when describing what you want to do and what you have to click/tap to do it. Often describing the shape, color, location, and when available, a label of a button in a demonstration will make it easier for participants to recall more options for interacting with Mapeo.
 
+You can also use some support for the demonstrations, such as using a slide or a printed demo to show people on, or if you only have one device, you can walk around so everyone sees it.
+
 ### **Walkthrough**
 
 Have all participants' equipment ready to use and distributed to participants. (see [#participant-devices](../../preparing-equipment-and-supplies-for-a-training/tech-preparation-before-doing-in-person-training.md#participant-devices "mention") )
 
 Ask leading questions - _I want to do x, Where should I click/tap?_
 
-Having a dedicated support person to help participants resolve equipment issues is essential for maintaining a flow during instructional time.
+Having a dedicated support person to help participants resolve equipment issues, and walk around the room to offer support if it's an in-person training, is essential for maintaining a flow during instructional time.
 
 ### **Practice**
 
