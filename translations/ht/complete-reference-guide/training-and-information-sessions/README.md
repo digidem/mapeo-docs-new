@@ -4,7 +4,7 @@ A key piece of a successful Mapeo project is ensuring that participants have the
 
 Training sessions generally take place at the beginning of a Mapeo project or when a new participant joins a project. Trainings can cover different types of content, ranging from a general introduction to the Mapeo tools and main features, to explaining how Mapeo is used in a specific project and the workflows that need to be followed when participating in it. In this sense, trainings can be _tool-centered_, or _context-centered_. Sessions can be virtual or in-person, periodical or punctual. These aspects of format and focus will depend on the details of each case.
 
-Mapeo is designed with a focus on user accessibility to help communities spend less time learning technical skills, and reduce their need to have budget and access to outside trainers to get started using Mapeo. The goal of these design considerations is to increase user and community autonomy.
+Mapeo is designed with a focus on being easy to use to help communities spend less time learning technical skills, and reduce their need to have budget and access to outside trainers to get started using Mapeo. The aim is to increase user and community autonomy.
 
 Digital Democracy has been delivering many types of information and training events based on the needs of different groups and communities. We have documented the content in this section because we believe that access to good information and training should not be limited to the relatively small number of training and support requests we are able to accommodate. With a diversely skilled and motivated team, we hope the contents shared here will help you deliver a Mapeo training event that will work well for your community or audience.
 
