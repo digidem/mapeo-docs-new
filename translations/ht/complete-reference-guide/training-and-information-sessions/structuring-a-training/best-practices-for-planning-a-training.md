@@ -16,7 +16,7 @@
 * If community members who can’t read or write are important to the project (eg. elders sharing stories, leading walks, etc.), make sure that use demonstrations are tailored to engage them, so that they are also able to use Mapeo.
 * It is important to present information and instruction at a vocabulary and skill level that is accessible to participants.
 * Newly learned skills can be affirmed by asking participants to share with their peers what they were able to do using Mapeo. Even if they are unsure, it’s good to remind them that making mistakes or asking for help in the learning environment is much better than getting stuck when alone.
-* Be mindful of different abilities and disabilities in the group. Impaired vision, hearing, dexterity, and mobility, as well as diverse levels of literacy and language fluency can impact one's ability to learn new skills and be a confident Mapeo user. Mapeo trainers are encouraged to use accessible training techniques and support learners with their device's accessibility feature settings and where possible, access specialized equipment.
+* Be mindful of different abilities and disabilities in the group. Impaired vision, hearing, dexterity, and mobility, as well as diverse levels of literacy and language fluency can impact one's ability to learn new skills and be a confident Mapeo user. Mapeo trainers are encouraged to use accessible training techniques and support learners with their [device's accessibility feature settings](../../glossary-and-quick-reference-sheets/glossary-of-mapeo-related-terms.md#device-accessability-settings) and where possible, access specialized equipment.
 
 ### **Tips for virtual events**
 
