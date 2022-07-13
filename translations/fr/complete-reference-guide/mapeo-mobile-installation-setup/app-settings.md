@@ -15,9 +15,9 @@ To change the language of Mapeo Mobile:
 2. On the **Language** screen, select the language you would like to use for Mapeo Mobile. The language of the application will change automatically.
 3. To return to the home screen of the application, click on ![](https://lh3.googleusercontent.com/dXGCl1o-AA8lucy82twJvu14gGN9H3GkAWX\_RDVIhEdIkzmVUWcxK\_k1yUz5NgIhEJPJchQLFLytvmB-Qw3jrS7uMBaCUf58G7DdYAcOKkeMto9mHSXkZfSL-RX7LbpC1sSqvrD2) **Back** as many times as necessary.
 
-![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg)![](../../.gitbook/assets/Mm\_Settings\_screen\_select\_Language.jpg)  ![](../../.gitbook/assets/Mm\_language\_screen.jpg)
+![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg) ![](../../.gitbook/assets/Mm\_Settings\_screen\_select\_Language.jpg) ![](../../.gitbook/assets/Mm\_language\_screen.jpg)
 
-> **▶** Video available: **** [How to change the language of Mapeo Mobile](https://www.youtube.com/watch?v=-hhrbi\_dvGU\&list=PLI10lL3Yr-k2MUMquVTaQxZoiQqfT\_eID\&index=5\&t=31s)
+> **▶** Video available: \*\*\*\* [How to change the language of Mapeo Mobile](https://www.youtube.com/watch?v=-hhrbi\_dvGU\&list=PLI10lL3Yr-k2MUMquVTaQxZoiQqfT\_eID\&index=5\&t=31s)
 
 ## GPS coordinate format
 
@@ -29,7 +29,4 @@ To change the coordinate format used:
 2. On the **Coordinate Format** screen, click on the format you would like to use and it will automatically change inside the application.
 3. To return to the home screen of the application, click on ![](https://lh3.googleusercontent.com/dXGCl1o-AA8lucy82twJvu14gGN9H3GkAWX\_RDVIhEdIkzmVUWcxK\_k1yUz5NgIhEJPJchQLFLytvmB-Qw3jrS7uMBaCUf58G7DdYAcOKkeMto9mHSXkZfSL-RX7LbpC1sSqvrD2) **Back** as many times as necessary.
 
-![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg)![](../../.gitbook/assets/Mm\_Settings\_screen\_select\_Coordinate\_format.jpg)  ![](../../.gitbook/assets/Mm\_Coordinate\_Format\_screen\_no\_callout.jpg)
-
-
-
+![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen\_settings\_button.jpg) ![](../../.gitbook/assets/Mm\_Settings\_screen\_select\_Coordinate\_format.jpg) ![](../../.gitbook/assets/Mm\_Coordinate\_Format\_screen\_no\_callout.jpg)

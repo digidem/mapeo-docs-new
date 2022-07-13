@@ -13,5 +13,4 @@ See additional information and troubleshooting steps for some common technical i
   * [the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md](solving-sync-issues/the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md "mention")
   * [an-error-is-displayed-when-trying-to-sync.md](solving-sync-issues/an-error-is-displayed-when-trying-to-sync.md "mention")
 * [updating-mapeo-mobile-permissions.md](updating-mapeo-mobile-permissions.md "mention")
-* [Broken link](broken-reference "mention")
 * [saving-and-printing-mapeo-reference-materials.md](saving-and-printing-mapeo-reference-materials.md "mention")

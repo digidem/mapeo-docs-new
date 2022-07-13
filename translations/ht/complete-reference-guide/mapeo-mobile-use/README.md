@@ -9,4 +9,6 @@ This section provides step-by-step guidance on the use of the main features of M
 * [sharing-data-externally.md](sharing-data-externally.md "mention")
 * [wifi-sync.md](wifi-sync.md "mention")
 
+{% hint style="info" %}
 If you don't yet have Mapeo Mobile installed on your smartphone, see: [mapeo-mobile-installation-setup](../mapeo-mobile-installation-setup/ "mention")
+{% endhint %}

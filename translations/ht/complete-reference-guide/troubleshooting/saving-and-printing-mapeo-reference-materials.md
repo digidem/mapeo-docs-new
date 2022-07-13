@@ -10,9 +10,12 @@ To save a PDF, click on the ![](../../.gitbook/assets/Three\_dots\_menu.png)**Pa
 
 Choose one of the options from the **Export as PDF** window:
 
-* **Only this page**\ Export only the content of the current page
-* **This page and it's subpages**\ Export this page and all of its subpages (only available for pages with subpages)
-* **Entire space**\ Export all pages from the Mapeo Materials guide
+* **Only this page**\
+Export only the content of the current page
+* **This page and it's subpages**\
+Export this page and all of its subpages (only available for pages with subpages)
+* **Entire space**\
+Export all pages from the Mapeo Materials guide
 
 ![](../../.gitbook/assets/GitBook\_export\_PDF\_choose\_content.png)
 

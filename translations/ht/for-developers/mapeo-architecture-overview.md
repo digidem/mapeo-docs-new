@@ -1,6 +1,10 @@
 # Mapeo architecture overview
 
-Behind the scenes of the user interfaces for working with mapping and monitoring data, you'll find Mapeo's core infrastructure. This document is a work in progress and if you find anything missing or unclear, please feel free to submit a pull request!
+{% hint style="info" %}
+We are currently redesigning Mapeo's core architecture and will relese updated documentation once changes are complete.
+{% endhint %}
+
+Behind the scenes of the user interfaces for working with mapping and monitoring data, you'll find Mapeo's core infrastructure. This document is a work in progress.
 
 [![Architecture Diagram September, 2020](https://github.com/digidem/mapeo-docs/raw/master/.gitbook/assets/frame-1-3-.png)](https://github.com/digidem/mapeo-docs/blob/master/.gitbook/assets/frame-1-3-.png)
 
@@ -17,9 +21,11 @@ KappaDB is one of the fundamental primitives of Mapeo Core that handles indexing
 
 **Configuration**
 
-Each 'project' has a set of configuration files. It is identified by a project key which is a shared secret amongst all devices. It authorizes devices to read and write to the database. There is no way at this time to revoke a configuration from a device remotely. Read more about configurations in the Preparing Mapeo Configurations page.
+Each 'project' has a set of configuration files. It is identified by a project key which is a shared secret amongst all devices. It authorizes devices to read and write to the database. There is no way at this time to revoke a configuration from a device remotely.&#x20;
 
-{% page-ref page="../customization/preparing-mapeo-configuration.md" %}
+{% hint style="info" %}
+Replication requires advance knowledge of the project key. Replication will be refused if a peer's project key is not the same.
+{% endhint %}
 
 **Discovery**
 

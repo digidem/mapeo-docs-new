@@ -66,7 +66,6 @@ Commands:
   extract-messages [options]   Extract messages for translation
   generate-key                 Generate a random project key
   help [command]               display help for command
-
 ```
 
 Now you're ready to move to putting your icons and questions together!

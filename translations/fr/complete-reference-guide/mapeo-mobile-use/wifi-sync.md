@@ -13,12 +13,11 @@ For more on how to create a local Wi-Fi network, see [creating-local-wi-fi-netwo
 {% endhint %}
 
 {% hint style="warning" %}
-Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations created by that user and they will receive all of your observations. Only synchronize with members of your project whom you trust with all of your data. For more about this process, see [peer-to-peer-and-mapeo-sync.md](../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").\
+Please note that by synchronizing with another Mapeo user, **ALL DATA is shared in both directions**. You will receive all of the observations created by that user and they will receive all of your observations. Only synchronize with members of your project whom you trust with all of your data. For more about this process, see [peer-to-peer-and-mapeo-sync.md](../../overview/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").\\
 
+All edits that have been made to collected data will also be transferred to the other device during sync. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.
 
-All edits that have been made to collected data will also be transferred to the other device during sync. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.&#x20;
-
-It is important to create project **synchronization protocols** <mark style="color:red;"></mark> to ensure that all data becomes part of the project database. For more on that, see [creating-user-protocols.md](../essentials-for-a-successful-mapeo-project/creating-user-protocols.md "mention").
+It is important to create project **synchronization protocols** to ensure that all data becomes part of the project database. For more on that, see [creating-user-protocols.md](../essentials-for-a-successful-mapeo-project/creating-user-protocols.md "mention").
 {% endhint %}
 
 ## Connect to WiFi
@@ -35,12 +34,11 @@ For more on how to connect to Wi-Fi, see [#connect-to-wi-fi-on-a-smartphone](../
 
 Tap the ![](../../.gitbook/assets/app\_icons\_Sync\_35px.png) **Synchronize** button on the Mapeo home screen of both devices to go to the **Synchronize** screen.
 
-![](../../.gitbook/assets/Homescreen-Sync\_button.jpg) &#x20;
+![](../../.gitbook/assets/Homescreen-Sync\_button.jpg)
 
 \ The **Synchronize** screen will show whether you are connected to a Wi-Fi network. If connected, you will be able to see the name of the network you are connected to in the top left of the **navy blue bar**. You will also be able to see the unique identification number of your device on the right side of the navy bar.
 
-Devices available for synchronization will be listed below. \ \ ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYBEBKX0wx5\_bwmCf0q-887967055%2Fuploads%2FLMfz6FgtUzVMUJtIYZow%2FSync\_screen\_with\_mobile.jpg?alt=media\&token=460df577-a234-4375-8db4-b4f31201e8e8)​\
-
+Devices available for synchronization will be listed below.\ \ ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYBEBKX0wx5\_bwmCf0q-887967055%2Fuploads%2FLMfz6FgtUzVMUJtIYZow%2FSync\_screen\_with\_mobile.jpg?alt=media\&token=460df577-a234-4375-8db4-b4f31201e8e8)​\\
 
 {% hint style="info" %}
 Remember that in order for a device to appear in the list, it must be connected to the same network, have the **Synchronize** screen open, and be using the same project configuration. For troubleshooting on this step, see [solving-sync-issues](../troubleshooting/solving-sync-issues/ "mention").
@@ -58,11 +56,10 @@ Click on the **Sync** button beside the device name to begin the exchange of dat
 
 You can view new observation data received in the synchronization by looking at the points on the home ![](../../.gitbook/assets/app-icons\_Map\_view.png) **Map** screen or at the ![](../../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** screen.
 
-![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
+![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
 
-In the **Observations list** screen, observations collected by other devices will appear with a blue bar on the left side.&#x20;
+In the **Observations list** screen, observations collected by other devices will appear with a blue bar on the left side.
 
 {% hint style="info" %}
 In Mapeo Mobile, you cannot edit or delete observations collected by other users.\ \ Remember that you can always view, edit and manage collected data in Mapeo Desktop. For more on that, see: [using-mapeo-desktop-to-manage-mapeo-mobile-data](../mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/ "mention")
 {% endhint %}
-
