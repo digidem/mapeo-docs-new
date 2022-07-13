@@ -32,4 +32,4 @@ We strive to make our tools & resources accessible and available to communities 
 
 Mapeo and all of Digital Democracy's technical development is open source. Visit the [FOR DEVELOPERS](for-developers/mapeo-repositories.md) section for more information.
 
-_Mapeo is a project of Digital Democracy, a non-profit organization that works in solidarity with marginalized communities to use technology to defend their rights. For more information on Digital Democracy, and how to support our user-centered co-development process visit_ [_our website_](https://www.digital-democracy.org)_._
+_Mapeo is a project of Digital Democracy, a non-profit organization that partners with earth defenders to co-develop technology for social justice. For more information on Digital Democracy, and how to support our user-centered co-development process visit_ [_our website_](https://www.digital-democracy.org)_._
