@@ -24,6 +24,12 @@ description: >-
 
 ### Training on Mapeo
 
+* 👩🏽‍🏫 [Full presentation on Mapeo (editable Google sheets) \[EN\]](https://docs.google.com/presentation/d/1-fLmJbbMNcyo78JU2sOFTMjDfjWswNCw/edit?usp=sharing\&ouid=106123884054457337407\&rtpof=true\&sd=true)
+  * [👩🏽‍🏫 Mapeo overview - presentation (editable Google sheets) \[EN\]](https://docs.google.com/presentation/d/1bLLUjyXBymiHhUeUEwMfHe\_j1X1VHx6I/edit?usp=sharing\&ouid=106123884054457337407\&rtpof=true\&sd=true)
+  * 👩🏽‍🏫[ Mapeo Mobile - presentation (editable Google sheets) \[EN\]](https://docs.google.com/presentation/d/1axl7DQNyp2JR0zlNvP9kHlak\_WawyGUY/edit?usp=sharing\&ouid=106123884054457337407\&rtpof=true\&sd=true)
+  * 👩🏽‍🏫[ Mapeo Desktop - presentation (editable Google sheets) \[EN\]](https://docs.google.com/presentation/d/1Ha4P-TTc3\_eLc0a86bjXI17mHskpDh\_8/edit?usp=sharing\&ouid=106123884054457337407\&rtpof=true\&sd=true)
+* 👩🏽‍🏫[ Animations (GIFs) and videos on Mapeo](https://drive.google.com/drive/folders/1PhIGV933MfFMTZq5KhaHsukexe74rBj7?usp=sharing)
+* 👩🏽‍🏫[ Mapeo training tapestry textiles (Textile slides to use in outside workshops) \[ES\]](https://drive.google.com/drive/folders/1MCLC3ImRdIwVMIcJcrJgpLT5ivBteh8a?usp=sharing)
 * [💡Mapeo trainings](complete-reference-guide/training-and-information-sessions/) (section on this site with resources and information on how to plan, prepare and deliver training sessions, depending on your goals, the participants, the format of training, etc.) \[EN]
 
 ### Examples of Mapeo projects
