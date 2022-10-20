@@ -12,6 +12,6 @@ In the interim, you can view documentation of the existing process [here](https:
 For instructions on how to add custom background maps to Mapeo, see:\
 
 
-[adding-custom-base-maps-to-mapeo-mobile.md](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")\
+[adding-custom-base-maps-to-mapeo-mobile](../../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile/ "mention")\
 [adding-custom-base-maps-to-mapeo-desktop.md](../../mapeo-desktop-installation-setup/adding-custom-base-maps-to-mapeo-desktop.md "mention")
 {% endhint %}
