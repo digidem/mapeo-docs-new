@@ -14,7 +14,8 @@ To update Mapeo Mobile on smartphones that have <img src="../../.gitbook/assets/
 Mapeo Mobile currently includes an experimental feature that allows you to update the version of the application offline via a peer-to-peer connection over Wi-Fi. For more on how to update this way, see[#updating-mapeo-mobile-via-p2p-peer-to-peer-app-updates](updating-mapeo-mobile.md#updating-mapeo-mobile-via-p2p-peer-to-peer-app-updates "mention")
 
 {% hint style="info" %}
-To update files used within Mapeo Mobile, such as configurations or base maps, follow the same steps detailed in the sections below using the new files:\ \ [importing-configurations.md](importing-configurations.md "mention")[adding-custom-base-maps-to-mapeo-mobile.md](adding-custom-base-maps-to-mapeo-mobile.md "mention")&#x20;
+To update files used within Mapeo Mobile, such as configurations or background maps, follow the same steps detailed in the sections below using the new files:\
+\ [importing-configurations.md](importing-configurations.md "mention")[adding-custom-base-maps-to-mapeo-mobile](adding-custom-base-maps-to-mapeo-mobile/ "mention")&#x20;
 {% endhint %}
 
 ### Other content related to Mapeo updates
