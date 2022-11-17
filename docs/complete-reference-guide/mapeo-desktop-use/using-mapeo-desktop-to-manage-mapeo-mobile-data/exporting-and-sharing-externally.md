@@ -23,7 +23,7 @@ In Mapeo Desktop you can view your data as a report. Each page of the report con
 
 ## <img src="../../../.gitbook/assets/map_GeoJSON.png" alt="" data-size="line"> Export as GeoJSON
 
-This is a useful export option if you want to continue working on your data in another mapping software (such as <img src="../../../.gitbook/assets/image (5).png" alt="" data-size="line"> QGIS, <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> ArcGIS, or others).
+This is a useful export option if you want to continue working on your data in another mapping software (such as <img src="../../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> QGIS, <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line"> ArcGIS, or others).
 
 To export your observation data as `.GeoJSON`:
 
@@ -101,7 +101,7 @@ This is a useful export option if you want to publish an interactive online map 
 You can also:
 
 * Click on <img src="../../../.gitbook/assets/Webmaps_edit_icon.jpg" alt="" data-size="line"> **Edit map details** to edit the title, description, terms & limitations, and style of the background map.&#x20;
-* Click on <img src="../../../.gitbook/assets/image (4).png" alt="" data-size="line">**Menu** to delete the map.
+* Click on <img src="../../../.gitbook/assets/image (4) (2).png" alt="" data-size="line">**Menu** to delete the map.
 
 ![](../../../.gitbook/assets/Mapeo\_web\_maps\_buttons.jpg)
 

@@ -48,8 +48,8 @@ You can also provide your own custom background map, with the information most r
 
 ![](../../../.gitbook/assets/Md-territory\_background-maps-06.jpg)
 
-(2) You can also add background map options by specifying them in a custom configuration. Learn more about this by visiting [creating-custom-maps.md](../../customization-options/custom-base-maps/creating-custom-maps.md "mention").
+(2) You can also add background map options by specifying them in a custom configuration. Learn more about this by visiting [creating-custom-maps](../../customization-options/custom-base-maps/creating-custom-maps/ "mention").
 
 {% hint style="info" %}
-To learn more about custom and offline maps in Mapeo, visit [creating-custom-maps.md](../../customization-options/custom-base-maps/creating-custom-maps.md "mention") and [adding-custom-base-maps-to-mapeo-desktop.md](../../mapeo-desktop-installation-setup/adding-custom-base-maps-to-mapeo-desktop.md "mention").
+To learn more about custom and offline maps in Mapeo, visit [creating-custom-maps](../../customization-options/custom-base-maps/creating-custom-maps/ "mention") and [adding-custom-base-maps-to-mapeo-desktop.md](../../mapeo-desktop-installation-setup/adding-custom-base-maps-to-mapeo-desktop.md "mention").
 {% endhint %}

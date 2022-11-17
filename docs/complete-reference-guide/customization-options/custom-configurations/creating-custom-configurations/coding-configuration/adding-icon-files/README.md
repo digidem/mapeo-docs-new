@@ -6,7 +6,9 @@ To review key information on designing icons, see [icons.md](../../planning-conf
 
 Once you've settled on the design or concept for your icons, you'll need to generate `.svg` files for each one to be saved in the **icons** directory. Icons should be created as 100x100 pixel graphics that are clear when viewing at 100%.
 
-Currently, we have documented two workflows to generate Mapeo-compatible `.svg`  files using software, one using a commercial product (Adobe Illustrator) and another using a open-source product (Inkscape).
+To generate `.svg` icons for Mapeo, there is an online Mapeo Icons Generator tool accessible [here](https://icons.earthdefenderstoolkit.com/).
+
+We have also documented two workflows to generate Mapeo-compatible `.svg`  files using software, one using a commercial product (Adobe Illustrator) and another using a open-source product (Inkscape).
 
 * [creating-and-exporting-svg-files-using-adobe-illustrator.md](creating-and-exporting-svg-files-using-adobe-illustrator.md "mention")
 * [creating-and-exporting-svg-files-using-inkscape.md](creating-and-exporting-svg-files-using-inkscape.md "mention")
