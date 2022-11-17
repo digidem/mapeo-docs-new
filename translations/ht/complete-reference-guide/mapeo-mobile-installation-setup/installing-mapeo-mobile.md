@@ -17,7 +17,7 @@ Before you start, make sure that:
 To install Mapeo Mobile on your smartphone from the Google Play Store:
 
 1. Open the <img src="../../.gitbook/assets/play-store-icon" alt="" data-size="line" /> **Play Store** application on your smartphone.
-2. In the search bar at the top of the Play Store window, type **Mapeo**, and click on the <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line" />**magnifying glass** icon at the bottom right of the keyboard.
+2. In the search bar at the top of the Play Store window, type **Mapeo**, and click on the <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line" />**magnifying glass** icon at the bottom right of the keyboard.
 3. Click <img src="../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" /> **Mapeo** in the list of applications.
 4. On the Mapeo Mobile screen in the Play Store application, click on **Install**.
 5. When the installation process is complete, click on **Open**.
