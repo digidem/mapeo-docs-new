@@ -20,7 +20,7 @@ Some Mapeo files can be tricky to share from a Mapeo Mobile smartphone, because 
 * Installation files for Mapeo Mobile (`.apk`)&#x20;
 * Base maps (folder `.zip`)&#x20;
 
-To share and add base maps to Mapeo Mobile, we recommend using a computer and a <img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line" />USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile/ "mention")\
+To share and add base maps to Mapeo Mobile, we recommend using a computer and a <img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line" />USB cable, because it requires navigation inside the file system of the smartphone and pasting the base map elements in a specific location. For instructions on that process, see [adding-custom-base-maps-to-mapeo-mobile.md](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")\
 \
 You can also share larger files (up to 2GB) for free via <img src="../../.gitbook/assets/DROPBOX.jpg" alt="" data-size="line" />Dropbox, <img src="../../.gitbook/assets/WE_TRANSFER.png" alt="" data-size="line" />WeTransfer, or other online platforms.
 
@@ -92,6 +92,6 @@ You can also use Android apps for Bluetooth sharing, including <img src="../../.
 {% hint style="warning" %}
 For transferring larger files (bigger than 10MB) such as base map folders, we recommend connecting to a computer and transferring via <img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line" />cable if possible.\
 \
-For more on adding base maps to Mapeo Mobile, see [#adding-a-base-map-using-a-computer](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile/#adding-a-base-map-using-a-computer "mention").
+For more on adding base maps to Mapeo Mobile, see [#adding-a-base-map-using-a-computer](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md#adding-a-base-map-using-a-computer "mention").
 {% endhint %}
 
