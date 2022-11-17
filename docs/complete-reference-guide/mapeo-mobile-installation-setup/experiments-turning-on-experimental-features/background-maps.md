@@ -5,7 +5,7 @@
 WARNING: When this feature is enabled, you will not have access to the map you had previously been using in Mapeo. Turn off Map Manager to switch back to your previous map.&#x20;
 
 {% hint style="info" %}
-For info on how to generate a map file in for use in the new Background Maps feature, see [creating-custom-maps.md](../../customization-options/custom-base-maps/creating-custom-maps/creating-custom-maps.md "mention")
+For info on how to generate a map file in for use in the new Background Maps feature, see [creating-mbtiles.md](../../customization-options/custom-base-maps/creating-custom-maps/creating-mbtiles.md "mention")
 {% endhint %}
 
 {% hint style="info" %}

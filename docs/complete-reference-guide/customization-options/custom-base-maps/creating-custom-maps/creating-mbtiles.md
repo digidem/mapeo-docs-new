@@ -98,7 +98,7 @@ If you have existing map tiles in `asar` or directory (`xyz`) format, there is a
    `cd path/to/directory`
 3. Identify what format your tiles are in by opening up one of the zoom level directories (e.g. `0`, `1`, `2`...) and then going one directory deeper, until you see files ending in `pbf`.
    * If your files end in `.pbf`, you may proceed to step 4.
-   * If your files end in `.vector.pbf`, first follow to the next section [#extra-step-for-vector-tiles-if-they-are-in-.vector.pbf-format](creating-custom-maps.md#extra-step-for-vector-tiles-if-they-are-in-.vector.pbf-format "mention") on renaming `.vector.pbf` to `.pbf`, before proceeding to step 4.
+   * If your files end in `.vector.pbf`, first follow to the next section [#extra-step-for-vector-tiles-if-they-are-in-.vector.pbf-format](creating-mbtiles.md#extra-step-for-vector-tiles-if-they-are-in-.vector.pbf-format "mention") on renaming `.vector.pbf` to `.pbf`, before proceeding to step 4.
 4. Create a virtual Python environment. `NAME_OF_ENV` can be an arbitrary name.\
    `python3 -m venv NAME_OF_ENV`
 5. Activate the virtual environment. You need to run this whenever working in this project. This ensures dependencies and other project-specific tooling are properly referenced.\

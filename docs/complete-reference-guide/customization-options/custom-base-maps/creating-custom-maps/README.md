@@ -13,7 +13,7 @@ For creating custom background maps that work with the current (non-experimental
 
 ## **New experimental Background Maps feature**
 
-For generating map files in `.mbtiles` format to test out the new experimental Mapeo Mobile **Background Maps** feature, see [**here**](creating-custom-maps.md).&#x20;
+For generating map files in `.mbtiles` format to test out the new experimental Mapeo Mobile **Background Maps** feature, see [**here**](creating-mbtiles.md).&#x20;
 
 * For instructions on how to add these maps to Mapeo, see: [background-maps.md](../../../mapeo-mobile-installation-setup/experiments-turning-on-experimental-features/background-maps.md "mention")
 
