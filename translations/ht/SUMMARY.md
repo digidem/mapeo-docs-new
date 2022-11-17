@@ -56,7 +56,7 @@
       * [Testing and iterating](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/testing-and-iterating.md)
   * [Custom base maps](complete-reference-guide/customization-options/custom-base-maps/README.md)
     * [Creating custom base maps](complete-reference-guide/customization-options/custom-base-maps/creating-custom-maps/README.md)
-      * [Generating map files in .mbtiles format for the experimental Background Maps feature](complete-reference-guide/customization-options/custom-base-maps/creating-custom-maps/creating-custom-maps.md)
+      * [Generating map files in .mbtiles format for the experimental Background Maps feature](complete-reference-guide/customization-options/custom-base-maps/creating-custom-maps/creating-mbtiles.md)
 * [📱 Mapeo Mobile installation & setup](complete-reference-guide/mapeo-mobile-installation-setup/README.md)
   * [Installing Mapeo Mobile](complete-reference-guide/mapeo-mobile-installation-setup/installing-mapeo-mobile.md)
   * [Choosing Mapeo Mobile settings](complete-reference-guide/mapeo-mobile-installation-setup/app-settings.md)
