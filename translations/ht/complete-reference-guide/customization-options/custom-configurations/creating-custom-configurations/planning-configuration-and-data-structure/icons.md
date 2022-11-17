@@ -25,7 +25,11 @@ If you're not up for designing your own icon images, there are libraries of imag
 
 ## Generating icon files
 
-Once you've settled on the design or concept for your icons, you'll need to generate `.svg` files required to include as part of the [coding-configuration](../coding-configuration/ "mention") process. Jump to [creating-and-exporting-svg-files-using-adobe-illustrator.md](../coding-configuration/adding-icon-files/creating-and-exporting-svg-files-using-adobe-illustrator.md "mention") or [creating-and-exporting-svg-files-using-inkscape.md](../coding-configuration/adding-icon-files/creating-and-exporting-svg-files-using-inkscape.md "mention") for technical guidelines in generating suitable SVG files. &#x20;
+Once you've settled on the design or concept for your icons, you'll need to generate `.svg` files required to include as part of the [coding-configuration](../coding-configuration/ "mention") process.&#x20;
+
+To do so, you can use our online Mapeo Icons Generator, [here](https://icons.earthdefenderstoolkit.com/).
+
+Or, jump to [creating-and-exporting-svg-files-using-adobe-illustrator.md](../coding-configuration/adding-icon-files/creating-and-exporting-svg-files-using-adobe-illustrator.md "mention") or [creating-and-exporting-svg-files-using-inkscape.md](../coding-configuration/adding-icon-files/creating-and-exporting-svg-files-using-inkscape.md "mention") for technical guidelines in generating your own suitable SVG files. &#x20;
 
 {% hint style="info" %}
 If you do not have skills to prepare the digital icon files, paper sketches can be passed off to someone with technical skills to complete the steps of generating icon files, outlined in [coding-configuration](../coding-configuration/ "mention").
