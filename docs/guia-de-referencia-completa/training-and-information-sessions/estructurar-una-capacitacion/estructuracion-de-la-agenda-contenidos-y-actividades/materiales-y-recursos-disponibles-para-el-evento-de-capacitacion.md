@@ -1,0 +1,7 @@
+# Materiales y recursos disponibles para el evento de capacitación
+
+Hemos preparado una lista de recursos que pueden ser útiles para las capacitaciones de Mapeo. Compruébalo aquí: [additional-references.md](../../../../additional-references.md "mention"). Van desde videos ilustrativos breves que brindan una descripción general de Mapeo hasta diapositivas de Google Slides que puede adaptar para su actividad de capacitación y plantillas para crear recursos de capacitación sobre textiles para usar en eventos de capacitación al aire libre en cualquier condición climática.&#x20;
+
+Además, también puede usar las secciones y el contenido de este sitio de materiales de soporte de Mapeo como un menú de posible contenido y como un recurso de soporte cuando tenga preguntas sobre funciones y flujos de trabajo específicos. Recuerde que esta guía también tiene una sección de [faqs.md](../../../../vision-general/faqs.md "mention") donde se responden las preguntas más comunes y una sección de[troubleshooting](../../../troubleshooting/ "mention") para ayudar a resolver los problemas más frecuentes de Mapeo.
+
+Los eventos de capacitación se pueden realizar recorriendo cada tema de interés en la Guía de referencia completa en este sitio. Sin embargo, no es tan atractivo como un evento participativo, donde la persona capacitadora comprende completamente los temas de interés y adapta las actividades en torno a ellos.

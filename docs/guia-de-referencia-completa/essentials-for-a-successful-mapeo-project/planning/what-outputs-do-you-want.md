@@ -1,0 +1,12 @@
+# Qué resultados (productos/materiales) quieres?
+
+Puede que sea demasiado pronto para empezar a pensar en los resultados, pero si ya tiene una idea de cuáles podrían ser, podrían proporcionarle una dirección útil para su proceso de planificación. Por resultados no nos referimos a la meta o los resultados de su proyecto, aunque estos pueden superponerse, nos referimos particularmente a los materiales concretos que resultan de su proyecto Mapeo.&#x20;
+
+Por ejemplo estos podrían ser:&#x20;
+
+* **Mapa/mapas impresos:** Estos pueden ser para una audiencia externa, como el gobierno o un organismo legal, o pueden ser para que la comunidad misma los use para otros fines. Si planea crear un mapa, considere qué información puede mostrar en el mapa; tal vez pasa mucho tiempo recolectando datos y le es difícil encontrar espacio, o recolecta tanta información que el mapa es difícil de leer.&#x20;
+* **Informes de datos:** es posible que desee producir informes regulares sobre los datos que recolecta, o esperar hasta el final de su proyecto y luego producir un informe con todos los datos o los aspectos más destacados. ¿Sus informes incluyen datos cuantitativos (cantidades) que desea analizar y presentar de una manera particular o son principalmente datos cualitativos (descripciones) que deberán editarse o compilarse antes de ser presentados? Pensar en esto puede ayudarlo a organizar sus equipos y la recolección de datos para que tenga los datos cuando los necesite, en el formato correcto.&#x20;
+* **Alertas:** si está recolectando evidencia de algo que necesita una acción rápida, entonces podría ayudar tener un sistema de alertas integrado en su metodología. Mapeo Mobile puede exportar puntos de datos a WhatsApp y otras aplicaciones para que pueda enviar alertas de ilegalidades directamente a las fuerzas del orden para que tomen medidas inmediatas.&#x20;
+* **Mapa web interactivo:** este podría ser un buen resultado si espera crear una campaña y desea compartir parte del proyecto con el público o los medios de comunicación, o incluso para su propia comunidad, como un recurso educativo o narrativo. También permite presentar más tipos diferentes de información que en un mapa impreso, ya que puede incluir videos y audio más fácilmente. Sin embargo, puede implicar un nivel de experiencia técnica o presupuesto más allá del alcance de su proyecto, y definitivamente no es el resultado adecuado para todos los objetivos.
+
+***

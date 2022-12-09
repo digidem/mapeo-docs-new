@@ -1,8 +1,8 @@
-# Support
+# Apoyo
 
 ### Technical support
 
-For help with common technical issues, see the [troubleshooting](complete-reference-guide/troubleshooting/ "mention") section of this guide. For additional support, please check out the community of active users and maintainers of Mapeo on our public [**Discord channel**](https://discord.gg/KWRFDh3v73)**.**&#x20;
+For help with common technical issues, see the [troubleshooting](guia-de-referencia-completa/troubleshooting/ "mention") section of this guide. For additional support, please check out the community of active users and maintainers of Mapeo on our public [**Discord channel**](https://discord.gg/KWRFDh3v73)**.**&#x20;
 
 If you're a developer or comfortable using GitHub, you can file an issue in the corresponding repository [here](https://github.com/digidem).
 

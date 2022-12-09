@@ -1,0 +1,26 @@
+# Planeando un proyecto de Mapeo
+
+Es posible que esté interesado en participar y comenzar con la recolección de datos, sin embargo, dedique un poco de tiempo a pensar por adelantado cómo se ejecutará el proyecto, la metodología, la configuración del equipo, la logística de recolección de datos y cómo los datos recolectados o creados con Mapeo puede ahorrarle mucho tiempo y evitar problemas y problemas más adelante.&#x20;
+
+Esta guía no tiene como objetivo brindarle un modelo de cómo ejecutar su proyecto. Hay tantos usos diferentes de Mapeo, algunos de estos los podemos imaginar nosotros (Digital Democracy), pero otros no los conocemos, y cada uno tiene sus propias necesidades, prioridades y contextos locales particulares. Lo que funciona en un lugar puede necesitar configurarse de manera muy diferente para otro lugar, incluso si el resultado deseado es muy similar. Y del mismo modo, lo que funciona en algún lugar en un momento dado, podría tener que ajustarse para otro momento a medida que cambien las situaciones locales, la política, etc.&#x20;
+
+Con suerte, dedicar tiempo a pensar en las preguntas a continuación le permitirá crear un proceso adaptado a sus necesidades y proyecto, y le dará la mejor oportunidad posible de éxito.&#x20;
+
+**Vamos a pensar en las siguientes preguntas:**&#x20;
+
+* [**¿Por qué recopilar información?**](why-what-is-the-project-goal.md) ¿Cuál es el objetivo de su proyecto de mapeo, monitoreo o recolección de datos, cuál es su objetivo o producto o resultado final deseado?&#x20;
+* ****[**¿Qué resultados quieres?**](what-outputs-do-you-want.md) Si ya sabe que desea crear un story map interactivo, producir un informe cuantitativo o presentar un caso legal, esto puede ayudarlo a dar forma al diseño de su proyecto.&#x20;
+* ****[**¿Qué información necesita recopilar para cumplir con este objetivo?** ](what-information-to-collect/)****
+* ****[**¿Quién debería estar involucrado?**](what-are-your-parameters.md) ¿Qué estructura de proyecto cumplirá mejor con sus objetivos, quiénes deben participar, qué roles necesita, quién toma las decisiones y ante quién es responsable?&#x20;
+* ****[**¿Cuáles son los parámetros o factores limitantes con los que está trabajando?**](who-is-involved.md) Esto se refiere a su contexto geográfico, infraestructura, accesibilidad a áreas, presupuestos y disponibilidad de equipos, limitaciones de tiempo, riesgos de seguridad, etc.&#x20;
+* ****[**¿Es Mapeo la herramienta adecuada para usted?**](../../../vision-general/is-mapeo-right-for-me.md) Creemos que Mapeo es genial :) pero sabemos que tiene límites y que no es la herramienta adecuada para cada trabajo. Queremos asegurarnos de que, si elige Mapeo, comprenda en qué destaca y también sus debilidades, para asegurarnos de que esté preparado de la mejor manera posible para el éxito de su proyecto.
+
+### Condiciones&#x20;
+
+Mapeo fue desarrollado conjuntamente con comunidades defensoras de la tierra en la Amazonia. Lo hemos probado, testeado y recibido comentarios de personas de todo el mundo que lo utilizan para una variedad de propósitos, y esperamos que pueda satisfacer una amplia gama de necesidades. Sin embargo, está construido teniendo en cuenta las necesidades de personas defensoras de la tierra y los derechos y, por lo tanto, esta guía y muchos de los materiales producidos para Mapeo también están construidos con estas necesidades en primer plano.&#x20;
+
+En parte debido a su proceso de diseño y a los socios con los que ha trabajado Digital Democracy, a menudo nos referimos a procesos **comunitarios** y **colaborativos**. Definitivamente, Mapeo también puede ser utilizado por individuos y una variedad de equipos diferentes, pero muchos de nuestros socios lo están utilizando en contextos comunitarios locales de primera línea, por lo que el lenguaje de esta guía se centra en esto. También entendemos que las comunidades no son homogéneas y significan diferentes cosas en diferentes lugares, y esperamos que pueda leer entre líneas cuando sea necesario para extraer las partes útiles de esta guía para lo que sea que signifique para usted.&#x20;
+
+Esta guía se basa en el trabajo de nuestro equipo durante las últimas dos décadas en derechos y defensa de tierras indígenas y comunitarias. Sin embargo, las comunidades indígenas y marginalizadas han estado defendiendo su tierra durante siglos. Hay muchos proyectos e iniciativas que han guiado e inspirado el desarrollo de Mapeo y las metodologías sugeridas aquí. Esta guía de referencia no pretende proporcionar una lista exhaustiva de tales proyectos, pero al final de la guía hay una sección de [additional-references.md](../../../additional-references.md "mention") que destaca algunos materiales de otras fuentes e iniciativas que pueden serle de ayuda en la planificación de su proyecto.&#x20;
+
+Todos los ejemplos incluidos en la guía son solo eso, ejemplos. Esperamos que sean útiles y proporcionen algo de contexto e ilustración de los procesos descritos, pero no están destinados a ser tomados y copiados como metodologías 'listas para usar'. Como esperamos que se describa en esta sección de planificación, el contexto lo es todo, y la metodología debe ser cuidadosamente considerada y adaptada para adaptarse mejor a las necesidades del proyecto y del contexto particular de la comunidad.
