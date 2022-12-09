@@ -46,7 +46,7 @@ Once you have enabled Action **Workflows** on your configuration repository, Git
 
 Once you have committed a change to your repository, and navigate to the **Actions** tab, you should see your commit message listed as a workflow.
 
-![](<../../../../../../.gitbook/assets/Github-Actions-2 (1).JPG>)
+![](../../../../../../.gitbook/assets/Github-Actions-2.JPG)
 
 * :white\_check\_mark: a circular check indicates that the build has completed successfully.
 * :yellow\_circle: a yellow circle indicates that the build is in process.

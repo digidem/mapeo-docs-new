@@ -4,8 +4,8 @@ Mientras que otras opciones permiten la sincronización entre celulares y comput
 
 En esta opción, se crea un archivo de sincronización en Mapeo Desktop en una computadora y luego lo usa otra computadora con Mapeo para intercambiar datos. Durante la sincronización, todos los datos contenidos en el archivo de sincronización se transfieren a la computadora que se está sincronizando con él, y todos los datos en la base de datos de Mapeo de la computadora también se transferirán al archivo de sincronización. Este proceso utiliza el mismo método bidireccional que la sincronización a través de Wi-Fi. Para obtener más información sobre cómo funciona la sincronización, consulte[peer-to-peer-and-mapeo-sync.md](../../../../vision-general/about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").
 
-* **Si los dispositivos están cerca** unos de otros, sincronizar con un archivo de sincronización es una buena opción cuando no puede crear una red Wi-Fi local. En su lugar, puede usar una <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB para copiar y pegar el archivo de sincronización entre diferentes dispositivos. Funciona <img src="../../../../.gitbook/assets/image (4).png" alt="" data-size="line">**sin conexión a internet**.&#x20;
-* **Si los dispositivos no están cerca** unos de otros, sincronizar con un archivo de sincronización también es una buena opción de sincronización. En este caso, deberá transportar una <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB a la ubicación del segundo dispositivo o tener acceso a una <img src="../../../../.gitbook/assets/Computer-no-internet-icon.png" alt="" data-size="line">conexión a Internet.&#x20;
+* **Si los dispositivos están cerca** unos de otros, sincronizar con un archivo de sincronización es una buena opción cuando no puede crear una red Wi-Fi local. En su lugar, puede usar una <img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB para copiar y pegar el archivo de sincronización entre diferentes dispositivos. Funciona <img src="../../../../.gitbook/assets/image (13).png" alt="" data-size="line">**sin conexión a internet**.&#x20;
+* **Si los dispositivos no están cerca** unos de otros, sincronizar con un archivo de sincronización también es una buena opción de sincronización. En este caso, deberá transportar una <img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB a la ubicación del segundo dispositivo o tener acceso a una <img src="../../../../.gitbook/assets/Computer-no-internet-icon.png" alt="" data-size="line">conexión a Internet.&#x20;
 
 Otros requerimientos:&#x20;
 
@@ -29,7 +29,7 @@ Hay dos opciones para compartir un archivo de sincronización:&#x20;
 * [**Enviar archivo de sincronización por correo electrónico o servicio de intercambio de archivos**](sincronizar-con-un-archivo.md#opcion-1.-enviar-archivo-de-sincronizacion-por-correo-electronico-o-a-traves-de-un-servicio-de-inter)\
   (Requiere una <img src="../../../../.gitbook/assets/Computer-no-internet-icon.png" alt="" data-size="line">conexión a Internet)&#x20;
 * [**Copie y pegue el archivo de sincronización usando una unidad USB**](sincronizar-con-un-archivo.md#option-2.-copy-and-paste-sync-file-using-a-usb-drive) \
-  (Funciona <img src="../../../../.gitbook/assets/image (4).png" alt="" data-size="line">sin conexión a Internet)&#x20;
+  (Funciona <img src="../../../../.gitbook/assets/image (13).png" alt="" data-size="line">sin conexión a Internet)&#x20;
 
 #### **Opción 1. Enviar archivo de sincronización por correo electrónico o a través de un servicio de intercambio de archivos**
 
@@ -47,11 +47,11 @@ Si el archivo de sincronización es demasiado pesado para enviarlo por correo el
 
 ![La computadora 1 (negra) genera un archivo de sincronización y lo transfiere mediante una unidad USB a la computadora 2 (azul). La computadora 2 luego se sincroniza con el archivo.](<../../../../.gitbook/assets/sync file via usb (1).jpg>)
 
-* Conecta una <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB a la <img src="../../../../.gitbook/assets/laptop-icon.png" alt="" data-size="line"> computadora 1, donde has generado el archivo de sincronización.&#x20;
+* Conecta una <img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB a la <img src="../../../../.gitbook/assets/laptop-icon.png" alt="" data-size="line"> computadora 1, donde has generado el archivo de sincronización.&#x20;
 * Localiza el archivo de sincronización generado en la <img src="../../../../.gitbook/assets/laptop-icon.png" alt="" data-size="line"> computadora 1 y haz click en él usando el botón derecho del ratón. Selecciona **Copiar**.&#x20;
-* Navega por la <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB en el sistema de archivos. Haga clic derecho en la ubicación y seleccione **Pegar** para pegar el archivo de sincronización en la unidad.
-* Desconecte la<img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB y contéctala a la computadora con la que quieres sincronizar (<img src="../../../../.gitbook/assets/laptop-blue-icon.png" alt="" data-size="line"> computadora 2).
-* Navegue en la carepta de la <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB carpeta de la unidad y localice el archivo de sincronización. Haga clic derecho en el archivo y seleccione **Copiar**. Navegue hasta donde le gustaría guardar el archivo de sincronización en la <img src="../../../../.gitbook/assets/laptop-blue-icon.png" alt="" data-size="line"> computadora 2. Haga clic derecho en la ubicación y seleccione **Pegar**. ****&#x20;
+* Navega por la <img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB en el sistema de archivos. Haga clic derecho en la ubicación y seleccione **Pegar** para pegar el archivo de sincronización en la unidad.
+* Desconecte la<img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB y contéctala a la computadora con la que quieres sincronizar (<img src="../../../../.gitbook/assets/laptop-blue-icon.png" alt="" data-size="line"> computadora 2).
+* Navegue en la carepta de la <img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB carpeta de la unidad y localice el archivo de sincronización. Haga clic derecho en el archivo y seleccione **Copiar**. Navegue hasta donde le gustaría guardar el archivo de sincronización en la <img src="../../../../.gitbook/assets/laptop-blue-icon.png" alt="" data-size="line"> computadora 2. Haga clic derecho en la ubicación y seleccione **Pegar**. ****&#x20;
 
 ## Comenzar sincronización
 

@@ -12,13 +12,13 @@ Actualmente estamos trabajando en una nueva interfaz de usuario para simplificar
 Agregar un mapa de fondo a Mapeo actualmente requiere navegar por el Administrador de Archivos en su celular y copiar y pegar elementos en el sistema de archivos interno. Un error en este proceso podría causar efectos no deseados irreversibles.
 {% endhint %}
 
-* ****[<img src="../../.gitbook/assets/laptop-icon.png" alt="" data-size="line">****<img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">****<img src="../../.gitbook/assets/image (29).png" alt="" data-size="line">****](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****[**Usando una computadora, un cable USB y su celular**](adding-custom-base-maps-to-mapeo-mobile.md#agregar-un-mapa-de-fondo-usando-una-computadora)****
+* ****[<img src="../../.gitbook/assets/laptop-icon.png" alt="" data-size="line">****<img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">****<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">****](adding-custom-base-maps-to-mapeo-mobile.md#a.-adding-the-base-map-using-a-computer)****[**Usando una computadora, un cable USB y su celular**](adding-custom-base-maps-to-mapeo-mobile.md#agregar-un-mapa-de-fondo-usando-una-computadora)****
 
 ## Agregar un mapa de fondo usando una computadora
 
 ### Conecta tu celular a una computadora
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 Desbloquee la pantalla del celular y conecte el dispositivo a una computadora mediante un cable USB. Haga clic en la notificación **Cargando este dispositivo a través de USB**. En "Usar USB para", selecciona **Transferencia de Archivos.**
 
@@ -36,7 +36,7 @@ Los mapas de fondo de Mapeo a menudo se comparten como un archivo comprimido (`.
 
 Un mapa de fondo de Mapeo consta de varias carpetas y archivos que deben copiarse en el sistema de archivos de Mapeo Mobile. Los mapas de fondo vectoriales estándar para Mapeo contendrán los elementos de archivo que se enumeran a continuación: 3 carpetas y 2 archivos.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 {% hint style="info" %}
 Los mapas de fondo ráster contendrán archivos y carpetas diferentes a los que se muestran arriba. Los mapas de fondo de mosaicos ráster para Mapeo constan de una carpeta `(mosaicos)` y un archivo `(style.json).`
@@ -61,5 +61,5 @@ The complete path of the default folder where you will paste the map elements is
 Restart the Mapeo Mobile app. The new background map will appear on the home **Map** screen.&#x20;
 
 {% hint style="info" %}
-Loading a new background map for the first time in Mapeo Mobile can take <img src="../../.gitbook/assets/image.png" alt="" data-size="line">several minutes.
+Loading a new background map for the first time in Mapeo Mobile can take <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">several minutes.
 {% endhint %}

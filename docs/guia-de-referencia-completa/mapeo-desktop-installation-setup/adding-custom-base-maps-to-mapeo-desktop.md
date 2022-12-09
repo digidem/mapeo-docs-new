@@ -21,7 +21,7 @@ Mapeo background maps will often be shared as a compressed file`(.zip)`. If your
 
 Standard vector background maps for Mapeo will contain the file elements listed below: 3 folders and 2 files.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 {% hint style="info" %}
 Raster background maps will contain different files and folders than those pictured above. Raster maps for Mapeo consist of one folder (`tiles`) and one file (`style.json`).
@@ -52,7 +52,7 @@ Mapeo background maps will often be shared as a compressed file`(.zip)`. If your
 
 A Mapeo background map consists of several folders and files that need to be copied into the file system of Mapeo Desktop. Standard vector background maps for Mapeo will contain the file elements listed below - 3 folders and 2 files.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 {% hint style="info" %}
 Raster background maps will contain different files and folders than those pictured above. Raster maps for Mapeo consist of one folder (`tiles`) and one file (`style.json`).

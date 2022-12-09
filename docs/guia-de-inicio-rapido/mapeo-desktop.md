@@ -78,7 +78,7 @@ Para ver un subconjunto de sus observaciones en la vista de **Mapa**, **Fotos** 
 
 ## **Editar observaciones**
 
-Desde la vista de **Mapa** o **Fotos**, haga clic en un punto o imagen para ver los detalles completos de la observación correspondiente. Desde la vista **Informe**, use el botón <img src="../.gitbook/assets/image (28).png" alt="" data-size="line"> **EDITAR** en la barra de herramientas gris para abrir los detalles de la observación que se muestra en la página actual del informe.&#x20;
+Desde la vista de **Mapa** o **Fotos**, haga clic en un punto o imagen para ver los detalles completos de la observación correspondiente. Desde la vista **Informe**, use el botón <img src="../.gitbook/assets/image (27).png" alt="" data-size="line"> **EDITAR** en la barra de herramientas gris para abrir los detalles de la observación que se muestra en la página actual del informe.&#x20;
 
 Con los detalles de la observación abiertos, haga clic en un campo para agregar o editar información. Haga clic en **GUARDAR** para guardar los cambios.
 
@@ -90,7 +90,7 @@ En Mapeo Desktop no puede modificar la fecha de creación, el tipo de categoría
 
 ## Borrar observaciones
 
-Para eliminar una observación, abra los detalles de la observación y haga clic en el menú <img src="../.gitbook/assets/Three dots menu.png" alt="" data-size="line">**Más opciones**. Seleccione **Eliminar observación** y confirme la eliminación en la ventana emergente.
+Para eliminar una observación, abra los detalles de la observación y haga clic en el menú <img src="../.gitbook/assets/Three dots menu (1).png" alt="" data-size="line">**Más opciones**. Seleccione **Eliminar observación** y confirme la eliminación en la ventana emergente.
 
 ![](../.gitbook/assets/Md\_edit\_observation\_more\_options.jpg)
 

@@ -2,12 +2,12 @@
 
 Esta sección cubre las opciones y formatos disponibles para exportar datos desde el modo **Observaciones** en Mapeo Desktop.
 
-* <img src="../../../.gitbook/assets/image (13).png" alt="" data-size="line"> [**Guardar informe PDF**](exporting-and-sharing-externally.md#guardar-informe-pdf): si desea descargar o imprimir un informe en PDF con las observaciones recogidas.&#x20;
-* <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> [**Exportar como GeoJSON**](exporting-and-sharing-externally.md#exportar-como-geojson): si desea continuar trabajando en sus datos en otro software de mapeo (como QGIS, ArcGIS y otros)&#x20;
-* <img src="../../../.gitbook/assets/image (25).png" alt="" data-size="line"> [**Exportar como CSV**](exporting-and-sharing-externally.md#exportar-como-csv): si desea ver y administrar sus datos usando una hoja de cálculo en Microsoft Excel, Hojas de cálculo de Google u otras herramientas de análisis de datos.&#x20;
-* <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> [**Exportar como mapa web**](exporting-and-sharing-externally.md#exportar-como-mapa-web): si desea publicar un mapa interactivo en línea con los datos de observación.
+* <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> [**Guardar informe PDF**](exporting-and-sharing-externally.md#guardar-informe-pdf): si desea descargar o imprimir un informe en PDF con las observaciones recogidas.&#x20;
+* <img src="../../../.gitbook/assets/image (34).png" alt="" data-size="line"> [**Exportar como GeoJSON**](exporting-and-sharing-externally.md#exportar-como-geojson): si desea continuar trabajando en sus datos en otro software de mapeo (como QGIS, ArcGIS y otros)&#x20;
+* <img src="../../../.gitbook/assets/image (33).png" alt="" data-size="line"> [**Exportar como CSV**](exporting-and-sharing-externally.md#exportar-como-csv): si desea ver y administrar sus datos usando una hoja de cálculo en Microsoft Excel, Hojas de cálculo de Google u otras herramientas de análisis de datos.&#x20;
+* <img src="../../../.gitbook/assets/image (18).png" alt="" data-size="line"> [**Exportar como mapa web**](exporting-and-sharing-externally.md#exportar-como-mapa-web): si desea publicar un mapa interactivo en línea con los datos de observación.
 
-## <img src="../../../.gitbook/assets/image (13).png" alt="" data-size="line"> Guardar informe PDF
+## <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> Guardar informe PDF
 
 En Mapeo Desktop puede ver sus datos como un informe. Cada página del informe contiene los detalles de una observación. Desde la vista **Informe**, puede:&#x20;
 
@@ -21,9 +21,9 @@ En Mapeo Desktop puede ver sus datos como un informe. Cada página del informe c
 
 ![](../../../.gitbook/assets/Md\_report\_save\_pdf.jpg)
 
-## <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> Exportar como GeoJSON
+## <img src="../../../.gitbook/assets/image (34).png" alt="" data-size="line"> Exportar como GeoJSON
 
-Esta es una opción de exportación útil si desea continuar trabajando en sus datos en otro software de mapeo (como <img src="../../../.gitbook/assets/image (27).png" alt="" data-size="line"> QGIS, <img src="../../../.gitbook/assets/image (22).png" alt="" data-size="line"> ArcGIS, u otros).&#x20;
+Esta es una opción de exportación útil si desea continuar trabajando en sus datos en otro software de mapeo (como <img src="../../../.gitbook/assets/image (31).png" alt="" data-size="line"> QGIS, <img src="../../../.gitbook/assets/image (35).png" alt="" data-size="line"> ArcGIS, u otros).&#x20;
 
 Para exportar sus datos de observación como `.GeoJSON`:&#x20;
 
@@ -46,13 +46,13 @@ Para exportar sus datos de observación como `.GeoJSON`:&#x20;
 
 Ahora puede cargar y utilizar este archivo en el software de mapas.
 
-## <img src="../../../.gitbook/assets/image (25).png" alt="" data-size="line"> Exportar como CSV
+## <img src="../../../.gitbook/assets/image (33).png" alt="" data-size="line"> Exportar como CSV
 
-Esta es una opción de exportación útil si desea ver y administrar sus datos usando una hoja de cálculo y haciendo <img src="../../../.gitbook/assets/image (42).png" alt="" data-size="line">gráficos y análisis estadísticos en software como Microsoft Excel, <img src="../../../.gitbook/assets/google sheets (1).jpg" alt="" data-size="line">Google Sheets y otros.&#x20;
+Esta es una opción de exportación útil si desea ver y administrar sus datos usando una hoja de cálculo y haciendo <img src="../../../.gitbook/assets/image (17).png" alt="" data-size="line">gráficos y análisis estadísticos en software como Microsoft Excel, <img src="../../../.gitbook/assets/google sheets (1).jpg" alt="" data-size="line">Google Sheets y otros.&#x20;
 
 Para exportar sus datos de observación como `.csv`:&#x20;
 
-1. En el modo **Observaciones** de Mapeo Desktop, haga clic en el menú <img src="../../../.gitbook/assets/Three dots menu (1).png" alt="" data-size="line">**Exportar datos de observación** en la esquina superior derecha de la pantalla.&#x20;
+1. En el modo **Observaciones** de Mapeo Desktop, haga clic en el menú <img src="../../../.gitbook/assets/Three dots menu.png" alt="" data-size="line">**Exportar datos de observación** en la esquina superior derecha de la pantalla.&#x20;
 2. Seleccione **Exportar observaciones...**
 
 ![](../../../.gitbook/assets/Md\_Export\_observations\_menu.jpg)
@@ -71,7 +71,7 @@ Para exportar sus datos de observación como `.csv`:&#x20;
 
 Ahora puede cargar y utilizar este archivo en otros softwares.
 
-## <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Exportar como mapa web
+## <img src="../../../.gitbook/assets/image (18).png" alt="" data-size="line"> Exportar como mapa web
 
 Esta es una opción de exportación útil si desea publicar un mapa interactivo en internet con los datos de observación. Para exportar datos de observación a un mapa web:&#x20;
 
@@ -100,8 +100,8 @@ Esta es una opción de exportación útil si desea publicar un mapa interactivo 
 
 Tú también puedes:&#x20;
 
-* Haga clic en <img src="../../../.gitbook/assets/image (28).png" alt="" data-size="line"> **Editar detalles del mapa** para editar el título, la descripción, los términos y limitaciones y el estilo del mapa de fondo.&#x20;
-* Haga clic en <img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">**Menú** para eliminar el mapa.
+* Haga clic en <img src="../../../.gitbook/assets/image (27).png" alt="" data-size="line"> **Editar detalles del mapa** para editar el título, la descripción, los términos y limitaciones y el estilo del mapa de fondo.&#x20;
+* Haga clic en <img src="../../../.gitbook/assets/image (15).png" alt="" data-size="line">**Menú** para eliminar el mapa.
 
 ![](../../../.gitbook/assets/Mapeo\_web\_maps\_buttons.jpg)
 

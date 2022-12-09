@@ -4,7 +4,7 @@ Todo el contenido de esta guía puede guardarse en formato PDF o imprimirse para
 
 ### Guardar como PDF
 
-Para guardar un PDF, haga clic en el menú![](<../../.gitbook/assets/Three dots menu.png>)**Acciones de página** a la derecha del título de una página y seleccione **Exportar como PDF**.
+Para guardar un PDF, haga clic en el menú![](<../../.gitbook/assets/Three dots menu (1).png>)**Acciones de página** a la derecha del título de una página y seleccione **Exportar como PDF**.
 
 ![](../../.gitbook/assets/GitBook\_page\_actions\_menu.jpg)
 

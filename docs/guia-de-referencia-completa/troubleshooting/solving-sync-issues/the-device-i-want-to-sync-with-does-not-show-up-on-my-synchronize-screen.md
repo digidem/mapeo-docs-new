@@ -77,7 +77,7 @@ Para obtener más información sobre cómo importar un nuevo archivo de configur
 
 Para confirmar qué configuración está utilizando actualmente Mapeo Mobile, consulte la barra blanca en la parte inferior de la pantalla **Sincronizar**.
 
-![](<../../../.gitbook/assets/Md\_sync\_project\_config\_info (1).jpg>)
+![](../../../.gitbook/assets/Md\_sync\_project\_config\_info.jpg)
 
 {% hint style="info" %}
 Para obtener más información sobre cómo importar un nuevo archivo de configuración a Mapeo Desktop, consulte[importing-configurations.md](../../mapeo-desktop-installation-setup/importing-configurations.md "mention").

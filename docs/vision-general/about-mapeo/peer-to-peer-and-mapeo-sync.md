@@ -14,12 +14,12 @@ Esta base de datos de pares permite a los usuarios transferir datos a otros usua
 * **Intercambio de datos entre pares**\
   Todos los dispositivos conectados a una red de pares pueden tener la misma posición jerárquica dentro de la red. La información se comparte directamente entre diferentes dispositivos mediante un proceso de sincronización en el que cada dispositivo recibe y comparte datos. Dos dispositivos Mapeo pueden sincronizarse entre sí a la vez, y los dispositivos deben ser parte del mismo proyecto (es decir, usar la misma configuración) para sincronizarse entre sí. Todos los dispositivos que se sincronizan terminan teniendo la misma información y los cambios realizados en un dispositivo se reflejarán en los otros dispositivos después de la sincronización.
 
-![](<../../.gitbook/assets/image (34).png>)\
+![](<../../.gitbook/assets/image (43).png>)\
 
 
 * **Sincronización sin conexión a Internet**\
   A través de la sincronización, los usuarios pueden transferir datos a una computadora o celular en el campo completamente fuera de línea, y varios usuarios con computadoras y teléfonos inteligentes pueden trabajar en el mismo conjunto de datos y compartir ediciones. La sincronización sin conexión entre celulares y computadoras actualmente se realiza a través de Wi-Fi. Puedes crear una red Wi-Fi en el campo utilizando un enrutador móvil económico ($ 25) o un tercer dispositivo capaz de servir como un punto de acceso fuera de línea. La red Wi-Fi no necesita tener una conexión a Internet. Las computadoras con Mapeo instalado también pueden sincronizarse sin conexión mediante un archivo de sincronización generado.\
-  ![](<../../.gitbook/assets/image (33).png>)
+  ![](<../../.gitbook/assets/image (39).png>)
 
 
 

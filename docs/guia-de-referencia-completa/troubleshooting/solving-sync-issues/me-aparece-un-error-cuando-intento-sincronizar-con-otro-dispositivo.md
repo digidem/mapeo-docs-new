@@ -5,7 +5,7 @@ Un mensaje de error durante la sincronización entre dos dispositivos Mapeo pued
 * Los errores con símbolo amarillo o rojo con el mensaje "Error sync terminated" o "Error: read ECONNRES...", ocurren cuando uno de los dispositivos ha perdido conexión Wi-Fi o ha abandonado la pantalla de **Sincronización** durante el proceso de sincronización y cuando la sincronización no ha sido exitosa.
 * La pantalla blanca con el texto `"Algo está pasando con la base de datos Mapeo"` indica también una sincronización fallida o interrumpida.
 
-<img src="../../../.gitbook/assets/Sync error yellow.jpeg" alt="" data-size="original">![](<../../../.gitbook/assets/Sync yellow error.jpeg>)![](<../../../.gitbook/assets/Sync error white screen (2).jpeg>)![](<../../../.gitbook/assets/Sync red error.jpeg>)
+<img src="../../../.gitbook/assets/Sync error yellow.jpeg" alt="" data-size="original">![](<../../../.gitbook/assets/Sync yellow error.jpeg>)![](<../../../.gitbook/assets/Sync error white screen (1).jpeg>)![](<../../../.gitbook/assets/Sync red error.jpeg>)
 
 
 

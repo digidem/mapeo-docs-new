@@ -2,7 +2,7 @@
 
 Consulte a continuación para obtener detalles sobre cómo conectarse a una red WiFi:
 
-* <img src="../../../.gitbook/assets/wifi-icon-01.png" alt="" data-size="line"><img src="../../../.gitbook/assets/image (29).png" alt="" data-size="line">****[**Conectarse al Wi-Fi en un celular**](connecting-to-wi-fi.md#conectarse-al-wi-fi-en-un-celular)****
+* <img src="../../../.gitbook/assets/wifi-icon-01.png" alt="" data-size="line"><img src="../../../.gitbook/assets/image (9).png" alt="" data-size="line">****[**Conectarse al Wi-Fi en un celular**](connecting-to-wi-fi.md#conectarse-al-wi-fi-en-un-celular)****
 * <img src="../../../.gitbook/assets/wifi-icon-01.png" alt="" data-size="line"><img src="../../../.gitbook/assets/laptop-icon.png" alt="" data-size="line"> **** [**Conectarse al Wi-Fi en una computadora**](connecting-to-wi-fi.md#conectarse-al-wi-fi-en-una-computadora)****
 
 ## Conectarse al Wi-Fi en un celular

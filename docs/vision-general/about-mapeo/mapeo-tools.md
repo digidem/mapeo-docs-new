@@ -7,7 +7,7 @@ Hay dos aplicaciones de Mapeo altamente personalizables que se pueden usar junta
 * ****[**Mapeo Mobile**](mapeo-tools.md#mapeo-mobile)****
 * ****[**Mapeo Desktop**](mapeo-tools.md#mapeo-desktop)****
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 Mapeo Mobile y Desktop se basan en [Mapeo Core](mapeo-tools.md#mapeo-core), una base de datos de pares (_peer-to-peer_) integrada que permite a los usuarios poseer sus propios datos directamente en sus dispositivos, sin necesidad de una conexión a Internet o de compartir información con un servidor centralizado.
 
@@ -17,7 +17,7 @@ Mapeo Mobile es una aplicación para celulares (actualmente solo para Android) q
 
 Mapeo Mobile puede traducirse a los idiomas locales, personalizarse para usar mapas sin conexión y adaptarse para recopilar tipos específicos de información.
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 ## Mapeo Desktop
 

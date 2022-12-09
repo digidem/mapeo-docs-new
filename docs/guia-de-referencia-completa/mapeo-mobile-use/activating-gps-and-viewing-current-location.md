@@ -27,7 +27,7 @@ Si no permitió que Mapeo Mobile acceda a la cámara y al GPS de su celular la p
 
 ## View GPS details in Mapeo Mobile
 
-Tap the <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">**GPS details** button to see more information on your current location.
+Tap the <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line">**GPS details** button to see more information on your current location.
 
 ![](<../../.gitbook/assets/Home screen - GPS button.jpg>)  ![](<../../.gitbook/assets/GPS details screen.jpg>)
 

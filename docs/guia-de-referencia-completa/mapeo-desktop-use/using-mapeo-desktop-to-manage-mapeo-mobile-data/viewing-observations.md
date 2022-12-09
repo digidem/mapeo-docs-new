@@ -59,7 +59,7 @@ Haga clic en <mark style="color:blue;">**TODO**</mark> para restablecer el filtr
 
 ### **Filtrar por categoría**
 
-Para filtrar las observaciones por categoría, haga clic en <img src="../../../.gitbook/assets/icon-down.png" alt="" data-size="line">**Expandir** junto a <img src="../../../.gitbook/assets/image (3).png" alt="" data-size="line"> **Categoría** para abrir la lista de categorías utilizadas en su proyecto.&#x20;
+Para filtrar las observaciones por categoría, haga clic en <img src="../../../.gitbook/assets/icon-down.png" alt="" data-size="line">**Expandir** junto a <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> **Categoría** para abrir la lista de categorías utilizadas en su proyecto.&#x20;
 
 * Utilice las casillas de verificación para seleccionar las categorías que desea hacer visibles.
 * Haga clic <mark style="color:blue;">**SOLO**</mark> para mostrar las observaciones de una sola categoría seleccionada.&#x20;

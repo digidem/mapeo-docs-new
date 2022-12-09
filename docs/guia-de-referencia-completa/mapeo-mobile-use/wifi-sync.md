@@ -6,7 +6,7 @@ Mapeo Mobile le permite sincronizar los datos que ha recopilado con otros usuari
 
 Para que los dispositivos se sincronicen, ambos deben estar en el mismo lugar y conectados a la misma <img src="../../.gitbook/assets/wifi-cropped-01.png" alt="" data-size="line"> red Wi-Fi. **Esta red wifi no necesita tener conexión a internet.** En entornos fuera de línea, se puede crear una red WiFi local mediante un <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line">router inalámbrico portable o mediante la creación de un <img src="../../.gitbook/assets/hotspot-icon.png" alt="" data-size="line">punto de acceso con un tercer teléfono inteligente.
 
-![En entornos fuera de línea, puede crear una red WiFi local (sin Internet) utilizando un router inalámbrico portable.](<../../.gitbook/assets/image (17).png>)
+![En entornos fuera de línea, puede crear una red WiFi local (sin Internet) utilizando un router inalámbrico portable.](<../../.gitbook/assets/image (36).png>)
 
 
 

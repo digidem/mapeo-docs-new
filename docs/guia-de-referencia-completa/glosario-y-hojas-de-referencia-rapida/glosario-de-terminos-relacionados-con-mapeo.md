@@ -100,13 +100,13 @@ It refers to the letters appearing at the end of a file's name, after the dot. I
 
 #### GPS
 
-The GPS acronym stands for "Global Positioning System", which is a satellite navigation system that allows determining the ground position (or [coordinates](glosario-de-terminos-relacionados-con-mapeo.md#coordinates)) of an object. When we here talk about a **GPS device,** we are referring to a portable tool that allows gathering information on the user's current position, allows saving specific locations as points as well as [tracks](glosario-de-terminos-relacionados-con-mapeo.md#tracks) of the paths traveled. Most smartphones have a **GPS feature** that gathers the user's current position. This feature normally appears under the names **GPS** or **Location**. This is what Mapeo Mobile uses to gather the coordinates of a point when creating a new [observation](glosario-de-terminos-relacionados-con-mapeo.md#observation). In Mapeo Mobile, the **accuracy of the GPS** signal received by our smartphone is shown with a _±number of meters_ (e.g.<img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">), and it refers to the margin of error of the given coordinates. The bigger the number, the less accurate the GPS signal is.&#x20;
+The GPS acronym stands for "Global Positioning System", which is a satellite navigation system that allows determining the ground position (or [coordinates](glosario-de-terminos-relacionados-con-mapeo.md#coordinates)) of an object. When we here talk about a **GPS device,** we are referring to a portable tool that allows gathering information on the user's current position, allows saving specific locations as points as well as [tracks](glosario-de-terminos-relacionados-con-mapeo.md#tracks) of the paths traveled. Most smartphones have a **GPS feature** that gathers the user's current position. This feature normally appears under the names **GPS** or **Location**. This is what Mapeo Mobile uses to gather the coordinates of a point when creating a new [observation](glosario-de-terminos-relacionados-con-mapeo.md#observation). In Mapeo Mobile, the **accuracy of the GPS** signal received by our smartphone is shown with a _±number of meters_ (e.g.<img src="../../.gitbook/assets/image (11).png" alt="" data-size="line">), and it refers to the margin of error of the given coordinates. The bigger the number, the less accurate the GPS signal is.&#x20;
 
 #### Keyboard
 
-![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (40).png>)
+![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (45).png>)
 
-![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (18).png>)
+![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (25).png>)
 
 #### **Observation**
 
@@ -150,7 +150,7 @@ It is a type of file created in Mapeo Desktop that allows the [synchronization ]
 
 #### **USB drive**
 
-Also called <img src="../../.gitbook/assets/image (16).png" alt="" data-size="line">**USB flash drive**, is a small [data ](glosario-de-terminos-relacionados-con-mapeo.md#data)storage device with an integrated USB interface. You can connect it easily to most computers, and many smartphones (you might need an adapter). It is rewritable and very useful to transfer files from one device to another or to create backups. For more information on how to transfer data using a USB stick, visit **Sharing files between devices** in [troubleshooting](../troubleshooting/ "mention").
+Also called <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">**USB flash drive**, is a small [data ](glosario-de-terminos-relacionados-con-mapeo.md#data)storage device with an integrated USB interface. You can connect it easily to most computers, and many smartphones (you might need an adapter). It is rewritable and very useful to transfer files from one device to another or to create backups. For more information on how to transfer data using a USB stick, visit **Sharing files between devices** in [troubleshooting](../troubleshooting/ "mention").
 
 #### **Virus**
 

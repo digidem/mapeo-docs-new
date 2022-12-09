@@ -17,7 +17,7 @@ Antes de comenzar, asegúrese de que:&#x20;
 Para instalar Mapeo Mobile en su celular desde Google Play Store:&#x20;
 
 1. Abra la aplicación <img src="../../.gitbook/assets/play-store-icon-2-300x300.jpg" alt="" data-size="line">**Play Store** en su celular.&#x20;
-2. En la barra de búsqueda en la parte superior de la ventana de Play Store, escriba **Mapeo** y haga clic en el icono de <img src="../../.gitbook/assets/image (39).png" alt="" data-size="line">**lupa** en la parte inferior derecha del teclado.&#x20;
+2. En la barra de búsqueda en la parte superior de la ventana de Play Store, escriba **Mapeo** y haga clic en el icono de <img src="../../.gitbook/assets/image (44).png" alt="" data-size="line">**lupa** en la parte inferior derecha del teclado.&#x20;
 3. Haga clic en <img src="../../.gitbook/assets/Mm-icon.png" alt="" data-size="line">**Mapeo** en la lista de aplicaciones.&#x20;
 4. En la pantalla de Mapeo Mobile en la aplicación Play Store, haga clic en **Instalar**.&#x20;
 5. Cuando se complete el proceso de instalación, haga clic en **Abrir.**&#x20;
@@ -26,7 +26,7 @@ Para instalar Mapeo Mobile en su celular desde Google Play Store:&#x20;
 ![](../../.gitbook/assets/Picture1.jpg) ![](<../../.gitbook/assets/Mapeo permit to take pics, audio, video.jpg>)
 
 {% hint style="info" %}
-El proceso de instalación puede llevar mucho tiempo (<img src="../../.gitbook/assets/image.png" alt="" data-size="line">más de 15 minutos), dependiendo de la calidad de tu conexión a Internet.
+El proceso de instalación puede llevar mucho tiempo (<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">más de 15 minutos), dependiendo de la calidad de tu conexión a Internet.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -49,7 +49,7 @@ Mientras haya una conexión a Internet disponible, [descargue el archivo de inst
 Una vez descargado, el archivo APK puede compartirse con otros dispositivos y usarse para instalar Mapeo sin conexión.&#x20;
 
 * Si tiene<img src="../../.gitbook/assets/internet-connection-icon.png" alt="" data-size="line">conexión a Internet, use cualquier aplicación de mensajería (como <img src="../../.gitbook/assets/Telegram-logo.png" alt="" data-size="line">Telegram o <img src="../../.gitbook/assets/whatsapp-icon.png" alt="" data-size="line">WhatsApp) para enviar archivos de instalación`(.apk)`entre celulares.
-* Si <img src="../../.gitbook/assets/no-internet-connection-icon.png" alt="" data-size="line">no tiene conexión a Internet, puede copiar el archivo desde una computadora usando un <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">cable USB o enviar el archivo de instalación usando <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line">Bluetooth. Lea más sobre cómo enviar un archivo usando estos métodos en[sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
+* Si <img src="../../.gitbook/assets/no-internet-connection-icon.png" alt="" data-size="line">no tiene conexión a Internet, puede copiar el archivo desde una computadora usando un <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">cable USB o enviar el archivo de instalación usando <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line">Bluetooth. Lea más sobre cómo enviar un archivo usando estos métodos en[sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
 {% endhint %}
 
 ### Instalar desde un archivo APK

@@ -83,10 +83,10 @@ Haga doble clic en el archivo `.AppImage`y Mapeo Desktop debería abrirse autom�
 
 ## Instalación offline <a href="#installing-offline" id="installing-offline"></a>
 
-Si [<mark style="color:blue;">descargó previamente</mark>](installing-mapeo-desktop.md#descargar-el-archivo-de-instalacion) o tiene acceso a un archivo de instalación, puede usarlo para instalar Mapeo Desktop en otras computadoras <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> sin conexión a Internet.
+Si [<mark style="color:blue;">descargó previamente</mark>](installing-mapeo-desktop.md#descargar-el-archivo-de-instalacion) o tiene acceso a un archivo de instalación, puede usarlo para instalar Mapeo Desktop en otras computadoras <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> sin conexión a Internet.
 
 {% hint style="info" %}
-Puede copiar el archivo de instalación a otra computadora usando una unidad <img src="../../.gitbook/assets/image (16).png" alt="" data-size="line">USB o enviarlo a través de <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line"> Bluetooth. Esto no requiere una conexión a Internet. Para obtener más información sobre estos métodos, consulte [sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
+Puede copiar el archivo de instalación a otra computadora usando una unidad <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">USB o enviarlo a través de <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line"> Bluetooth. Esto no requiere una conexión a Internet. Para obtener más información sobre estos métodos, consulte [sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
 {% endhint %}
 
 Ahora que ha pegado el archivo de instalación en otra computadora, siga estos pasos para instalar Mapeo:

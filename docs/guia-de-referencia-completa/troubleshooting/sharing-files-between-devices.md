@@ -12,14 +12,14 @@ Si tiene acceso a una <img src="../../.gitbook/assets/internet-connection-icon.p
 * [DESDE UN CELULAR](sharing-files-between-devices.md#desde-un-celular)
 * [DESDE LA COMPUTADORA](sharing-files-between-devices.md#desde-la-computadora)
 
-### <img src="../../.gitbook/assets/image (29).png" alt="" data-size="line"> DESDE UN CELULAR
+### <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> DESDE UN CELULAR
 
-Algunos archivos de Mapeo pueden ser complicados de compartir desde un celular con Mapeo Mobile debido a sus formatos especiales. Recomendamos usar la aplicación <img src="../../.gitbook/assets/Telegram-logo.png" alt="" data-size="line">**Telegram**, el<img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">**correo electrónico,** o <img src="../../.gitbook/assets/drive.png" alt="" data-size="line">**Google Drive** para compartir los siguientes archivos:
+Algunos archivos de Mapeo pueden ser complicados de compartir desde un celular con Mapeo Mobile debido a sus formatos especiales. Recomendamos usar la aplicación <img src="../../.gitbook/assets/Telegram-logo.png" alt="" data-size="line">**Telegram**, el<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">**correo electrónico,** o <img src="../../.gitbook/assets/drive.png" alt="" data-size="line">**Google Drive** para compartir los siguientes archivos:
 
 * Archivos de configuration (`.mapeosettings`)
 * Archivos de instalación para Mapeo Mobile (`.apk`)&#x20;
 * Mapas base (carpeta `.zip`) \
-  Para compartir y agregar mapas base a Mapeo Mobile, recomendamos usar una computadora y un  <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">cable USB, ya que requiere navegar dentro del sistema de archivos del celular y pegar los elementos del mapa base en una ubicación específica. Para obtener instrucciones sobre ese proceso, consulte [adding-custom-base-maps-to-mapeo-mobile.md](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")
+  Para compartir y agregar mapas base a Mapeo Mobile, recomendamos usar una computadora y un  <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">cable USB, ya que requiere navegar dentro del sistema de archivos del celular y pegar los elementos del mapa base en una ubicación específica. Para obtener instrucciones sobre ese proceso, consulte [adding-custom-base-maps-to-mapeo-mobile.md](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md "mention")
 
 También puede compartir archivos más grandes (hasta 2 GB) de forma gratuita a través de  <img src="../../.gitbook/assets/DROPBOX.jpg" alt="" data-size="line">Dropbox, <img src="../../.gitbook/assets/WE TRANSFER.png" alt="" data-size="line">WeTransfer u otras plataformas en línea.
 
@@ -45,14 +45,14 @@ Puede utilizar varias plataformas para compartir archivos.&#x20;
 
 Si no tienes![](../../.gitbook/assets/no-internet-connection-icon.png)acceso a una conexión de internet, hay varias formas de compartir archivos entre dispositivos.
 
-* [Copie y pegue archivos usando una  <img src="../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad o <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">cable USB (esto es más fácil de hacer si tiene una computadora)](sharing-files-between-devices.md#usando-un-cable-o-unidad-usb)
+* [Copie y pegue archivos usando una  <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad o <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">cable USB (esto es más fácil de hacer si tiene una computadora)](sharing-files-between-devices.md#usando-un-cable-o-unidad-usb)
 * [Enviar a través de <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line">Bluetooth, <img src="../../.gitbook/assets/shareit (1) (1) (1).jpg" alt="" data-size="line">SHAREit o otras aplicaciones](sharing-files-between-devices.md#usando-bluetooth)
 
-### <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line"><img src="../../.gitbook/assets/image (16).png" alt="" data-size="line">USANDO UN CABLE O UNIDAD USB
+### <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line"><img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">USANDO UN CABLE O UNIDAD USB
 
-Para transferir archivos entre computadoras sin conexión a Internet, recomendamos usar una <img src="../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB o un <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">cable. Si bien la mayoría de las computadoras también pueden compartir archivos a través de [ Bluetooth ](sharing-files-between-devices.md#using-bluetooth)con otros dispositivos que estén cerca, los archivos comúnmente compartidos para Mapeo Desktop pueden ser muy pesados ​​(por ejemplo, sincronizar archivos (.`mapeodata`) y Bluetooth podría demorar mucho más que usar un cable o una unidad USB.&#x20;
+Para transferir archivos entre computadoras sin conexión a Internet, recomendamos usar una <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB o un <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">cable. Si bien la mayoría de las computadoras también pueden compartir archivos a través de [ Bluetooth ](sharing-files-between-devices.md#using-bluetooth)con otros dispositivos que estén cerca, los archivos comúnmente compartidos para Mapeo Desktop pueden ser muy pesados ​​(por ejemplo, sincronizar archivos (.`mapeodata`) y Bluetooth podría demorar mucho más que usar un cable o una unidad USB.&#x20;
 
-**Ejemplo**: En este ejemplo, compartiremos un archivo de instalación de Mapeo de una computadora a otra completamente ![](../../.gitbook/assets/no-internet-connection-icon.png)fuera de línea, utilizando una <img src="../../.gitbook/assets/image (16).png" alt="" data-size="line">unidad USB.
+**Ejemplo**: En este ejemplo, compartiremos un archivo de instalación de Mapeo de una computadora a otra completamente ![](../../.gitbook/assets/no-internet-connection-icon.png)fuera de línea, utilizando una <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">unidad USB.
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYBEBKX0wx5\_bwmCf0q-887967055%2Fuploads%2FdsrQCyMk457U432NNS3o%2Fimage.png?alt=media\&token=4736876b-bd19-4d58-a049-ffd4bcb385ae)
 
@@ -89,7 +89,7 @@ Para transferir archivos mediante Bluetooth de Android:
 También puede usar aplicaciones de Android para compartir Bluetooth, incluidas <img src="../../.gitbook/assets/shareit (1) (1) (1).jpg" alt="" data-size="line">SHAREit u otras.
 
 {% hint style="warning" %}
-Para transferir archivos más grandes (más de 10 MB), como carpetas de mapas base, recomendamos conectarse a una computadora y transferir por <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">cable si es posible.
+Para transferir archivos más grandes (más de 10 MB), como carpetas de mapas base, recomendamos conectarse a una computadora y transferir por <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">cable si es posible.
 
 Para obtener más información sobre cómo agregar mapas base a Mapeo Mobile, consulte[#adding-a-base-map-using-a-computer](../mapeo-mobile-installation-setup/adding-custom-base-maps-to-mapeo-mobile.md#adding-a-base-map-using-a-computer "mention").
 {% endhint %}

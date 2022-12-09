@@ -17,7 +17,7 @@ Para comenzar a traducir, visite la página del proyecto para el área que le gu
 * [Configuración predeterminada de Mapeo](https://crowdin.com/project/mapeo-defaut-config)\
   Nombres de categorías de recopilación de datos y campos de detalles
 
-![Project page for Mapeo Mobile on Crowdin](<../../.gitbook/assets/Screen Shot 2021-12-08 at 10.22.02 AM.png>)
+![Project page for Mapeo Mobile on Crowdin](<../../.gitbook/assets/Screen Shot 2021-12-08 at 10.22.02 AM (1).png>)
 
 **Visualización de idiomas disponibles**&#x20;
 

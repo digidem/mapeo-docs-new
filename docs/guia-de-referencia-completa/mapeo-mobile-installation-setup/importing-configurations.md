@@ -11,7 +11,7 @@ Para enviar archivos de configuración`(.mapeosettings)`entre celulares con cone
 
 
 
-Si no tiene conexión a Internet, puede copiar el archivo desde una computadora usando un <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">**cable USB** o enviar el archivo usando <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line">**Bluetooth.** Obtenga más información sobre cómo enviar un archivo con estos métodos en [sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
+Si no tiene conexión a Internet, puede copiar el archivo desde una computadora usando un <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line">**cable USB** o enviar el archivo usando <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line">**Bluetooth.** Obtenga más información sobre cómo enviar un archivo con estos métodos en [sharing-files-between-devices.md](../troubleshooting/sharing-files-between-devices.md "mention").
 {% endhint %}
 
 ## Ir a configuración
