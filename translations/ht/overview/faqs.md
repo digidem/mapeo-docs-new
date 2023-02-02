@@ -51,7 +51,7 @@ Mapeo can be translated into additional languages on [Crowdin](https://crowdin.c
 
 ## Is Mapeo Mobile available for iOS?
 
-Mapeo Mobile is currently available for Android only. It is on our roadmap to release a version for iOS by the end of 2022.
+Mapeo Mobile is currently available for Android only. It is on our roadmap to release a version for iOS in the future.
 
 ## Do I need to customize Mapeo to use it?
 
