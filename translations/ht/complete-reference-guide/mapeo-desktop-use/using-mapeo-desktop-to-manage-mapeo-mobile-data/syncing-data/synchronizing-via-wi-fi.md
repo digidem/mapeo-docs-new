@@ -20,8 +20,8 @@ Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a
 
 {% hint style="info" %}
 For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
-[creating-local-wi-fi-networks.md](../../../troubleshooting/creating-local-wi-fi-networks.md "mention")\
-[connecting-to-wi-fi.md](../../../troubleshooting/connecting-to-wi-fi.md "mention")
+[creating-local-wi-fi-networks](../../../troubleshooting/solving-sync-issues/creating-local-wi-fi-networks/ "mention")\
+[connecting-to-wi-fi.md](../../../troubleshooting/solving-sync-issues/connecting-to-wi-fi.md "mention")
 {% endhint %}
 
 ## Enter Synchronize mode
