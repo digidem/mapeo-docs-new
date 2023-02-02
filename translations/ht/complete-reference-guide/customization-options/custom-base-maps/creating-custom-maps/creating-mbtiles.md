@@ -38,7 +38,7 @@ In what follows, we will be creating raster `mbtiles` using XYZ tiles (raster) f
 
 <figure>
 
-![](../../../../.gitbook/assets/image (4).png)<figcaption></figcaption></figure>
+![](../../../../.gitbook/assets/image (4) (3).png)<figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [This page](https://gis.stackexchange.com/questions/20191/adding-basemaps-from-google-or-bing-in-qgis/356668) has guidance on how to add a number of different XYZ tile sources to QGIS, including Bing maps, OpenStreetMaps, Google Terrain, and more.
@@ -57,7 +57,7 @@ Double click on **Generate XYZ Tiles** and enter the following values in the mod
 
 <figure>
 
-![](../../../../.gitbook/assets/image (6).png)<figcaption></figcaption></figure>
+![](../../../../.gitbook/assets/image (6) (1).png)<figcaption></figcaption></figure>
 
 * **Extent**: This is the extent at which your map tiles will be downloaded. At lower zoom levels, it will actually exceed this extent as it will download very large areas as one tile, which intersect with that extent; but as you get to higher zoom levels, only map tiles within that extent will be downloaded.\
   This field takes four coordinates, and the easiest way to set them is to either use the current map canvas extent, or to drawn them directory on the map. You could also use a vector geometry to set the coordinates.
