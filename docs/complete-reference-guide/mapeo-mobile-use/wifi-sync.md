@@ -23,11 +23,11 @@ Connect both devices to the same Wi-Fi network. **Wi-Fi** settings can generally
 ![](../../.gitbook/assets/WiFi\_phone\_activate.jpg)
 
 {% hint style="info" %}
-For more on how to connect to Wi-Fi, see [#connect-to-wi-fi-on-a-smartphone](../troubleshooting/connecting-to-wi-fi.md#connect-to-wi-fi-on-a-smartphone "mention").
+For more on how to connect to Wi-Fi, see [#connect-to-wi-fi-on-a-smartphone](../troubleshooting/solving-sync-issues/connecting-to-wi-fi.md#connect-to-wi-fi-on-a-smartphone "mention").
 {% endhint %}
 
 {% hint style="info" %}
-For more on how to create a local Wi-Fi network, see [creating-local-wi-fi-networks.md](../troubleshooting/creating-local-wi-fi-networks.md "mention")
+For more on how to create a local Wi-Fi network, see [creating-local-wi-fi-networks](../troubleshooting/solving-sync-issues/creating-local-wi-fi-networks/ "mention")
 {% endhint %}
 
 ## Enter Synchronize mode

@@ -104,7 +104,7 @@ The GPS acronym stands for "Global Positioning System", which is a satellite nav
 
 #### Keyboard
 
-![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (1) (1).png>)
+![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (2) (1).png>)
 

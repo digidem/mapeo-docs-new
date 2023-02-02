@@ -15,14 +15,14 @@ Mapeo may not be the right tool for all projects. When evaluating whether Mapeo 
 * **Equipment requirements**\
   Mapeo Mobile is currently available for **Android only**. (An iOS version is in development for 2022.) Mapeo Desktop works on Windows, Mac and Linux machines.\
   \
-  Mapeo Mobile uses Wi-Fi networks to synchronize data between devices. To synchronize data with Mapeo Mobile in offline areas, you will need a portable router (this does not require an internet connection) or a third device capable of creating a local network offline. \
+  Mapeo Mobile uses Wi-Fi networks to synchronize data between devices. To synchronize data with Mapeo Mobile in offline areas, you will need a portable router (this does not require an internet connection) or a third device capable of creating a local network offline or hotspot. \
 
 * **Peer-to-peer architecture**\
   The Mapeo tools are based on a peer-to-peer database, which means there is no centralized server aggregating information collected by users. Two devices that are participating in the same Mapeo project can synchronize or exchange data at a time.\
   \
   Synchronized devices have identical copies of the Mapeo database and can serve as backups if a device is lost or damaged. **Please note that data that has not been synchronized will not have a backup.**  For more details on peer-to-peer architecture and syncing, see [peer-to-peer-and-mapeo-sync.md](about-mapeo/peer-to-peer-and-mapeo-sync.md "mention").\
   \
-  It is important to think through in advance how the participating users or devices in  your project will share information, as there are a variety of possible synchronizing patterns. For more on this, see [creating-user-protocols.md](../complete-reference-guide/essentials-for-a-successful-mapeo-project/creating-user-protocols.md "mention").\
+  It is important to think through in advance how the participating users or devices in your project will share information, as there are a variety of possible synchronizing patterns. For more on this, see [creating-user-protocols.md](../complete-reference-guide/essentials-for-a-successful-mapeo-project/creating-user-protocols.md "mention").\
 
 * **Customization and required technical skills**\
   Mapeo comes with out-of-the box options that can be used right away, without any customization. To learn more about whether these default options will work for your project, see [will-mapeo-work-out-of-the-box-for-me](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/ "mention")****\

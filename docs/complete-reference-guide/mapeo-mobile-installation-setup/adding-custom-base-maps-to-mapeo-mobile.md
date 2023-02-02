@@ -20,7 +20,7 @@ Adding a background map to Mapeo currently requires navigating the File Manager 
 
 ### Connect your smartphone to a computer
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (12).png>)
 
 Unlock the screen of the smartphone and connect the device to a computer using a USB cable. Tap the **Charging this device via USB** notification. Under "Use USB for," select **File Transfer**.
 
