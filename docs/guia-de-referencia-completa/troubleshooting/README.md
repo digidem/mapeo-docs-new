@@ -26,5 +26,6 @@ Consulte información adicional y pasos de solución de problemas para algunos p
   * [the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md](solving-sync-issues/the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md "mention")
   * [me-aparece-un-error-cuando-intento-sincronizar-con-otro-dispositivo.md](solving-sync-issues/me-aparece-un-error-cuando-intento-sincronizar-con-otro-dispositivo.md "mention")
   * [no-puedo-sincronizar-con-el-archivo-de-sincronizacion.md](solving-sync-issues/no-puedo-sincronizar-con-el-archivo-de-sincronizacion.md "mention")
+  * [la-persona-con-la-que-quiero-sincronizar-ha-eliminado-datos-valiosos.md](solving-sync-issues/la-persona-con-la-que-quiero-sincronizar-ha-eliminado-datos-valiosos.md "mention")
 * [sharing-files-between-devices.md](sharing-files-between-devices.md "mention")
 * [saving-and-printing-mapeo-reference-materials.md](saving-and-printing-mapeo-reference-materials.md "mention")

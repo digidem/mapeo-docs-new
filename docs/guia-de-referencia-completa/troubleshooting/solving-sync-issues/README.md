@@ -9,3 +9,4 @@ Consulte las páginas a continuación para obtener sugerencias de resolución de
 * [the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md "mention")
 * [me-aparece-un-error-cuando-intento-sincronizar-con-otro-dispositivo.md](me-aparece-un-error-cuando-intento-sincronizar-con-otro-dispositivo.md "mention")
 * [no-puedo-sincronizar-con-el-archivo-de-sincronizacion.md](no-puedo-sincronizar-con-el-archivo-de-sincronizacion.md "mention")
+* [la-persona-con-la-que-quiero-sincronizar-ha-eliminado-datos-valiosos.md](la-persona-con-la-que-quiero-sincronizar-ha-eliminado-datos-valiosos.md "mention")

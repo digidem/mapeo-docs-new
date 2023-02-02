@@ -15,7 +15,7 @@ Mapeo may not be the right tool for all projects. When evaluating whether Mapeo 
 * **Equipment requirements**\
   Mapeo Mobile is currently available for **Android only**. (An iOS version is in development for 2022.) Mapeo Desktop works on Windows, Mac and Linux machines.\
   \
-  Mapeo Mobile uses Wi-Fi networks to synchronize data between devices. To synchronize data with Mapeo Mobile in offline areas, you will need a portable router (this does not require an internet connection) or a third device capable of creating a local network offline. \
+  Mapeo Mobile uses Wi-Fi networks to synchronize data between devices. To synchronize data with Mapeo Mobile in offline areas, you will need a portable router (this does not require an internet connection) or a third device capable of creating a local network offline or _hotspot_. \
 
 * **Peer-to-peer architecture**\
   The Mapeo tools are based on a peer-to-peer database, which means there is no centralized server aggregating information collected by users. Two devices that are participating in the same Mapeo project can synchronize or exchange data at a time.\

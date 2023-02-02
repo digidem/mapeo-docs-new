@@ -118,6 +118,7 @@
     * [El dispositivo con el que quiero sincronizar no aparece en mi pantalla Sincronizar](guia-de-referencia-completa/troubleshooting/solving-sync-issues/the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md)
     * [Me aparece un error cuando intento sincronizar con otro dispositivo](guia-de-referencia-completa/troubleshooting/solving-sync-issues/me-aparece-un-error-cuando-intento-sincronizar-con-otro-dispositivo.md)
     * [No puedo sincronizar con el archivo de sincronización](guia-de-referencia-completa/troubleshooting/solving-sync-issues/no-puedo-sincronizar-con-el-archivo-de-sincronizacion.md)
+    * [La persona con la que quiero sincronizar ha eliminado datos valiosos](guia-de-referencia-completa/troubleshooting/solving-sync-issues/la-persona-con-la-que-quiero-sincronizar-ha-eliminado-datos-valiosos.md)
   * [Quiero compartir archivos entre dispositivos](guia-de-referencia-completa/troubleshooting/sharing-files-between-devices.md)
   * [Quiero guardar e imprimir materiales de referencia de Mapeo](guia-de-referencia-completa/troubleshooting/saving-and-printing-mapeo-reference-materials.md)
 * [Glosario y hojas de referencia rápida](guia-de-referencia-completa/glosario-y-hojas-de-referencia-rapida/README.md)
