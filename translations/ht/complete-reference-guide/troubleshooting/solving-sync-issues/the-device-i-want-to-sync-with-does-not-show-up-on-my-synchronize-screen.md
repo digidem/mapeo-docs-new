@@ -11,7 +11,7 @@ If Mapeo is not displaying the device you are trying to sync with on the **Synch
 For two devices to sync via Wi-Fi, both need to be connected to the same Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**.
 
 {% hint style="info" %}
-For more info on how to connect to Wi-Fi, see [connecting-to-wi-fi.md](../connecting-to-wi-fi.md "mention").
+For more info on how to connect to Wi-Fi, see [connecting-to-wi-fi.md](connecting-to-wi-fi.md "mention").
 {% endhint %}
 
 * [View current Wi-Fi status in <img src="../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" /> **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile)
@@ -34,7 +34,7 @@ If you are currently connected, you may see the name of the Wi-Fi network and th
 
 {% hint style="warning" %}
 In some cases, Mapeo Desktop will not be able to access your computer's Wi-Fi information and no Wi-Fi details will be displayed on the **Synchronize** screen. This does not mean that your computer is not connected.\
-\ For more on confirming Wi-Fi status from your computer's operating system, see [connecting-to-wi-fi.md](../connecting-to-wi-fi.md "mention").
+\ For more on confirming Wi-Fi status from your computer's operating system, see [connecting-to-wi-fi.md](connecting-to-wi-fi.md "mention").
 {% endhint %}
 
 ## Both devices have the Synchronize screen open
