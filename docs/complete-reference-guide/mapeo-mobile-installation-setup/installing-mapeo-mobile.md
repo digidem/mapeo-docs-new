@@ -43,7 +43,7 @@ If you already have the installation file on your device, continue here: [#insta
 
 ### Download the installation file
 
-While an internet connection is available, [download the Mapeo installation file ](https://www.digital-democracy.org/mapeo/latest/android)(`.apk`).
+While an internet connection is available, [download the Mapeo installation file ](https://apk.mapeo.app/latest/)(`.apk`).
 
 {% hint style="info" %}
 Once downloaded, the APK file can be shared with other devices and used to install Mapeo offline.

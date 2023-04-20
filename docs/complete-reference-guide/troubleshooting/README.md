@@ -5,7 +5,7 @@ description: Common technical issues
 # 🔧 Troubleshooting
 
 {% hint style="warning" %}
-**Muy importante:** Si desinstalas Mapeo intentando solucionar problemas, vas a perder todos los datos si antes no has sincronizado con alguien o no has creado una copia de seguridad.
+**Very important:** If you uninstall Mapeo trying to solve problems, you will lose all data if you have not synchronized with someone before or you have not created a backup.
 {% endhint %}
 
 See additional information and troubleshooting steps for some common technical issues in the pages below:
