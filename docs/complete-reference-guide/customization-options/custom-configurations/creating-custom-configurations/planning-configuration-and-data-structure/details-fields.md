@@ -23,22 +23,22 @@ For each details field you would like to include, you'll need to define the foll
 * **Label**\
   The primary text to be displayed to users ("Name" in the above image).
 * **Placeholder**\
-  ****A **** hint or subtext that can clarify the field to users or provide guidance on how to use it  ("Common name of this place" in the above image).
+  A hint or subtext that can clarify the field to users or provide guidance on how to use it  ("Common name of this place" in the above image).
 * **Field type**\
-  ****How users will be able to enter information for the field or question.
+  How users will be able to enter information for the field or question.
   * `Text` or type in your own answer (Pictured in the image above)
   * `Select one` from a list of options
-  * `Select many` from a list of options\
+  * `Select multiple` from a list of options\
 
   * **Options**\
-    For `Select one` and `Select many` fields, you will need to define a list of possible answers to display.
+    For `Select one` and `Select multiple` fields, you will need to define a list of possible answers to display.
 
 ### **When defining details fields, keep in mind the following:**
 
 * It can be very challenging for users to type in detailed information when collecting data in the field. Users may be under significant stress, in risky situations, or interacting with the Mapeo screen in bright sun or rain. When creating `Text` fields, keep in mind the conditions users will be facing and have reasonable expectations for the amount of detail and work required to fill out your details fields. &#x20;
-* If there are a consistent set of answers you can anticipate for a field or question, it can be much faster or easier for users to select from a list as part of a `Select one` or `Select many` field. Please note that there is no automatic option for typing in information for "Other" or an option not included in the list.
+* If there are a consistent set of answers you can anticipate for a field or question, it can be much faster or easier for users to select from a list as part of a `Select one` or `Select multiple` field. Please note that there is no automatic option for typing in information for "Other" or an option not included in the list.
 * It may be very clear to you when authoring your configuration what each details field means or intends to communicate. Keep in mind, however, who will be collecting data as part of your project and how they might read or interpret each field. Very clear and explicit language can go a long way towards ensuring your configuration is used as intended.
-* Mapeo Desktop currently allows you to filter observations by options in `Select one` fields. To filter by options in `Select many` or `Text fields`, you will need to export your data and view it in another software tool.
+* Mapeo Desktop currently allows you to filter observations by options in `Select one` fields. To filter by options in `Select multiple` or `Text fields`, you will need to export your data and view it in another software tool.
 
 ## Generating details field files
 

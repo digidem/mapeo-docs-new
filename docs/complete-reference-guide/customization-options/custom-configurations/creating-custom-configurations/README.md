@@ -17,7 +17,7 @@ The pages that follow will walk you through the key steps for authoring a custom
 * [planning-configuration-and-data-structure](planning-configuration-and-data-structure/ "mention")\
   This section will outline the key customizable elements in a configuration and some considerations when mapping out each area.\
   \***No technical knowledge is required.**\
-  ****
+
 * [coding-configuration](coding-configuration/ "mention")\
   This section will guide you through translating the planned data structure into the required format and compiling the Mapeo configuration file. \
   \***Editing `JSON` files, generating `.svg` files and working with command line or GitHub is required.**

@@ -10,7 +10,7 @@ Each `.json` file in the **fields** directory needs a `key`, `type`, `label`, an
 
 `type` can be one of `select_multiple`, `select_one`, or `text`.
 
-For `select_one` __ and __ `select_many` fields, you will need to define an array of answer `options.`
+For `select_one` and `select_multiple` fields, you will need to define an array of answer `options.`
 
 #### Example fields file (`name.json`):
 
@@ -20,5 +20,25 @@ For `select_one` __ and __ `select_many` fields, you will need to define an arra
     "type": "text",
     "label": "Name",
     "placeholder": "Common name of this place"
+}
+```
+
+#### Example fields file (`sample-type.json`):
+
+```
+{
+    "key": "sample-type",
+    "type": "select_one",
+    "label": "Sample type",
+    "placeholder": "Select the type of testing",
+    "options": [
+    	"Meteorological",
+    	"Air",
+    	"Soil",
+    	"Water",
+    	"Mineral",
+        "Forestry/vegetation",
+    	"Other"
+	]
 }
 ```
