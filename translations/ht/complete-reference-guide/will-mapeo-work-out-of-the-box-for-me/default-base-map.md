@@ -14,7 +14,8 @@ If the device is not connected to the internet, the background map shown by defa
 
 ![](../../.gitbook/assets/Mm\_online\_base\_map.jpg)
 
-****\ **Offline base map example**:
+\
+**Offline background map example**:
 
 ![](../../.gitbook/assets/Mm\_offline\_base\_map.jpg)
 
