@@ -2,12 +2,12 @@
 
 See the sections below for different file sharing options:
 
-* [Sharing files between devices with an <img src="../../.gitbook/assets/Internet_connection.png" alt="" data-size="line" />**internet connection**](sharing-files-between-devices.md#sharing-files-between-devices-with-an-internet-connection)
-* [Sharing files between devices with <img src="../../.gitbook/assets/no_internet_connection.png" alt="" data-size="line" />**no internet connection**](sharing-files-between-devices.md#sharing-files-between-devices-with-no-internet-connection)
+* [Sharing files between devices with an <img src="../../.gitbook/assets/internet-connection-icon.png" alt="" data-size="line" />**internet connection**](sharing-files-between-devices.md#sharing-files-between-devices-with-an-internet-connection)
+* [Sharing files between devices with <img src="../../.gitbook/assets/no-internet-connection-icon.png" alt="" data-size="line" />**no internet connection**](sharing-files-between-devices.md#sharing-files-between-devices-with-no-internet-connection)
 
 ## **Sharing files between devices with an internet connection**
 
-If you have access to an <img src="../../.gitbook/assets/Internet_connection.png" alt="" data-size="line" />**internet connection**, you can share files in multiple ways. The optimal way depends on the size and type of the file. Below are our recommendations:
+If you have access to an <img src="../../.gitbook/assets/internet-connection-icon.png" alt="" data-size="line" />**internet connection**, you can share files in multiple ways. The optimal way depends on the size and type of the file. Below are our recommendations:
 
 * [From a smartphone](sharing-files-between-devices.md#from-a-smartphone)
 * [From a computer](sharing-files-between-devices.md#from-a-computer)
@@ -28,7 +28,7 @@ You can also share larger files (up to 2GB) for free via <img src="../../.gitboo
 Sending installation (`.apk`) and configuration (`.mapeosettings`) files with other apps encounter problems with the size and type of the files.
 {% endhint %}
 
-### ![](../../.gitbook/assets/laptop\_icon.png) FROM A COMPUTER
+### ![](../../.gitbook/assets/laptop-icon.png) FROM A COMPUTER
 
 These are the most common Mapeo files that you will want to share from a Mapeo Desktop computer:
 
@@ -44,7 +44,7 @@ You can use multiple platforms to share files.&#x20;
 
 ## **Sharing files between devices with no internet connection**
 
-If you do ![](../../.gitbook/assets/no\_internet\_connection.png)not have access to an internet connection, there are multiple ways to share files between devices.
+If you do ![](../../.gitbook/assets/no-internet-connection-icon.png)not have access to an internet connection, there are multiple ways to share files between devices.
 
 * [Copy and paste files using a <img src="../../.gitbook/assets/USB_stick_memory.png" alt="" data-size="line" />USB drive or <img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line" />cable (this is easier to do if you have a computer)](sharing-files-between-devices.md#using-a-usb-cable-drive)
 * [Send via <img src="../../.gitbook/assets/bluetooth.jpg" alt="" data-size="line" />Bluetooth, <img src="../../.gitbook/assets/shareit (1) (1) (1).jpg" alt="" data-size="line" />SHAREit or other apps](sharing-files-between-devices.md#using-bluetooth)
@@ -53,7 +53,7 @@ If you do ![](../../.gitbook/assets/no\_internet\_connection.png)not have access
 
 For transferring files between computers without an internet connection, we recommend using a <img src="../../.gitbook/assets/USB_stick_memory.png" alt="" data-size="line" />USB drive or a <img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line" />cable. Although most computers can also share files [via Bluetooth ](sharing-files-between-devices.md#using-bluetooth)with other devices that are nearby, commonly shared files for Mapeo Desktop can be very heavy (e.g. Sync files (`.mapeodata`)) and Bluetooth could take much longer than using a USB cable or drive.
 
-**Example**: In this example, we will share a Mapeo installation file from one computer to another one completely ![](../../.gitbook/assets/no\_internet\_connection.png)offline, using a <img src="../../.gitbook/assets/USB_stick_memory.png" alt="" data-size="line" />USB drive.
+**Example**: In this example, we will share a Mapeo installation file from one computer to another one completely ![](../../.gitbook/assets/no-internet-connection-icon.png)offline, using a <img src="../../.gitbook/assets/USB_stick_memory.png" alt="" data-size="line" />USB drive.
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYBEBKX0wx5\_bwmCf0q-887967055%2Fuploads%2FdsrQCyMk457U432NNS3o%2Fimage.png?alt=media\&token=4736876b-bd19-4d58-a049-ffd4bcb385ae)
 
