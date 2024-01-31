@@ -38,7 +38,7 @@ In what follows, we will be creating raster `mbtiles` using XYZ tiles (raster) f
 
 <figure>
 
-![](../../../../.gitbook/assets/image (4) (3).png)<figcaption></figcaption></figure>
+![](../../../../.gitbook/assets/image (3).png)<figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [This page](https://gis.stackexchange.com/questions/20191/adding-basemaps-from-google-or-bing-in-qgis/356668) has guidance on how to add a number of different XYZ tile sources to QGIS, including Bing maps, OpenStreetMaps, Google Terrain, and more.
@@ -48,7 +48,7 @@ Next, open the **Processing** menu and select **Toolbox**. Search for **mbtiles*
 
 <figure>
 
-![](../../../../.gitbook/assets/image (7).png)<figcaption></figcaption></figure>
+![](../../../../.gitbook/assets/image (4).png)<figcaption></figcaption></figure>
 
 In what follows, we are going to generate Raster `mbtiles`. However, the process is the same if you have Vector data to generate as `mbtiles`.
 
@@ -57,7 +57,7 @@ Double click on **Generate XYZ Tiles** and enter the following values in the mod
 
 <figure>
 
-![](../../../../.gitbook/assets/image (6) (1).png)<figcaption></figcaption></figure>
+![](../../../../.gitbook/assets/image.png)<figcaption></figcaption></figure>
 
 * **Extent**: This is the extent at which your map tiles will be downloaded. At lower zoom levels, it will actually exceed this extent as it will download very large areas as one tile, which intersect with that extent; but as you get to higher zoom levels, only map tiles within that extent will be downloaded.\
   This field takes four coordinates, and the easiest way to set them is to either use the current map canvas extent, or to drawn them directory on the map. You could also use a vector geometry to set the coordinates.
@@ -73,7 +73,7 @@ When the process is finished, you should see messaging that the "Algorithm 'Gene
 
 <figure>
 
-![](../../../../.gitbook/assets/image (5).png)<figcaption></figcaption></figure>
+![](../../../../.gitbook/assets/image (10).png)<figcaption></figcaption></figure>
 
 {% hint style="success" %}
 For generating vector mbtiles, the process is even more straightforward. The only thing you need to set in the Write Vector Tiles (MBTiles) are **minimum zoom level** and **maximum zoom level**; and, you need to select the vector **input layers** on your map canvas that you want to generate tiles from. For vector tiles, extent is optional.\
