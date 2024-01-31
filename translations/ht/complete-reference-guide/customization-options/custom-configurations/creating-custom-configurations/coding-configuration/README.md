@@ -4,7 +4,7 @@ Mapeo configuration files (`.mapeosettings`) are compiled from a set of files an
 
 ### Configuration folder structure
 
-To begin preparing your files, you can download or clone our **** [**default configuration repository**](https://github.com/digidem/mapeo-default-config) or this [**empty configuration repository**](https://github.com/digidem/empty-mapeo-config) from GitHub. These repositories contain the core files and folders you will need for editing.
+To begin preparing your files, you can download or clone our [**default configuration repository**](https://github.com/digidem/mapeo-default-config) or this [**empty configuration repository**](https://github.com/digidem/empty-mapeo-config) from GitHub. These repositories contain the core files and folders you will need for editing.
 
 When authoring custom configurations, you will edit files within the following configuration **folders**:
 
