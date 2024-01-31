@@ -11,7 +11,7 @@ Mapeo is open source software that benefits from continued feedback from our use
 ## Key features of Mapeo
 
 * **Simple to use and learn**\
-****Even if you have never used a smartphone phone before, you can learn to collect data, GPS points and photos with Mapeo Mobile in a few hours. Mapeo Desktop does require some computer skills, but has a simple interface with a limited number of features. For more complex analysis or mapping work you can export your data to other tools. The simplicity of the tools helps support wide community involvement and ownership of projects.\
+Even if you have never used a smartphone phone before, you can learn to collect data, GPS points and photos with Mapeo Mobile in a few hours. Mapeo Desktop does require some computer skills, but has a simple interface with a limited number of features. For more complex analysis or mapping work you can export your data to other tools. The simplicity of the tools helps support wide community involvement and ownership of projects.\
 
 * **Works in completely offline environments**\
 All data collected or created with Mapeo is stored directly on your device in Mapeo's embedded database, without the need for an internet connection or centralized server. Users of Mapeo Mobile and Desktop can synchronize or exchange data over a local Wi-Fi network. The data never leaves your local Wi-Fi network and does not require an internet connection. Mapeo Desktop can also exchange information via a file using a USB drive.\
