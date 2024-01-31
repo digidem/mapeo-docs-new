@@ -12,6 +12,6 @@ If your smartphone doesn’t have a compass, the Directional Arrow may still be 
 
 To activate the Directional Arrow feature:
 
-1. Click on <img src="../../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line" /> **Observations List,** then click on <img src="../../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line" /> **Settings** and select **Experiments.**
+1. Click on <img src="../../../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line" /> **Observations List,** then click on <img src="../../../.gitbook/assets/app icons_Settings.png" alt="" data-size="line" /> **Settings** and select **Experiments.**
 2. Select **Directional Arrow**, then click the checkbox to **Use Directional Arrow**.
-3. Click on <img src="../../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line" /> **Back** as many times as necessary to return to the home **Map** screen to view the arrow.
+3. Click on <img src="../../../.gitbook/assets/app icons_back arrow.png" alt="" data-size="line" /> **Back** as many times as necessary to return to the home **Map** screen to view the arrow.
