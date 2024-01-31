@@ -9,16 +9,16 @@ Please note that by synchronizing with another Mapeo user, **ALL DATA is shared 
 Any edits that have been made to the data will also be transferred to the other device during synchronization. For example, if a person deletes or edits an observation and then syncs with other devices, this observation will be deleted or edited on all synced devices.&#x20;
 
 \
-It is important to create project [<mark style="color:blue;">synchronization protocols</mark>](../essentials-for-a-successful-mapeo-project/creating-user-protocols.md) <mark style="color:red;"></mark> to ensure that all data becomes part of the project database.&#x20;
+It is important to create project [<mark style="color:blue;">synchronization protocols</mark>](../essentials-for-a-successful-mapeo-project/creating-user-protocols.md) to ensure that all data becomes part of the project database.&#x20;
 {% endhint %}
 
 There are 2 ways to synchronize with Mapeo Desktop:
 
-* ****[**Synchronization via Wi-Fi** ](using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/synchronizing-via-wi-fi.md) **** (<img src="../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" /><img src="../../.gitbook/assets/smartphone_with_Mapeo" alt="" data-size="line" />)\
-****_For syncing with another computer or smartphone_\
-****Can be used if both devices are in the same place and have access to a Wi-Fi network. **(An internet connection is not required.)**\
+* [**Synchronization via Wi-Fi** ](using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/synchronizing-via-wi-fi.md) (<img src="../../.gitbook/assets/laptop-Md-icon.png" alt="" data-size="line" /><img src="../../.gitbook/assets/phone-Mm-icon.png" alt="" data-size="line" />)\
+_For syncing with another computer or smartphone_\
+Can be used if both devices are in the same place and have access to a Wi-Fi network. **(An internet connection is not required.)**\
 
-* ****[**Synchronization with a file**](using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/synchronizing-with-a-file.md) **** (<img src="../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" /><img src="../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" />)\
+* [**Synchronization with a file**](using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/synchronizing-with-a-file.md) (<img src="../../.gitbook/assets/laptop-Md-icon.png" alt="" data-size="line" /><img src="../../.gitbook/assets/laptop-Md-icon.png" alt="" data-size="line" />)\
 _Only for syncing between computers_\
 Useful in these two contexts:&#x20;
   * If devices are in the same place, even without a Wi-Fi network.
