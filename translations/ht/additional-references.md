@@ -14,7 +14,7 @@ description: >-
 * :arrow\_forward: [The Story of Mapeo](https://www.youtube.com/watch?v=rLIkHRkTh7Q\&list=PLI10lL3Yr-k1\_PYaEDcAhmuCnnGfcwxXx\&index=4\&t=5s) (5-min video) \[EN]
 * :arrow\_forward: [Mapeo Preview - Desktop and Mobile](https://www.youtube.com/watch?v=oNFP-mcynNw\&list=PLI10lL3Yr-k1\_PYaEDcAhmuCnnGfcwxXx\&index=5\&t=96s) (8-min video) \[EN]
 * :book: [Mapeo: Monitor and document the world around you](https://www.earthdefenderstoolkit.com/toolkit/mapeo-monitor-and-document-the-world-around-you/) (text, GIFs and images) \[EN / ES / PT / FR / SW / KHM / TH]
-* **🔊** [Peer To Peer Mapping and Digital Democracy](https://mapscaping.com/podcast/peer-to-peer-mapping-and-digital-democracy/) (40-min podcast) **** \[EN]
+* **🔊** [Peer To Peer Mapping and Digital Democracy](https://mapscaping.com/podcast/peer-to-peer-mapping-and-digital-democracy/) (40-min podcast) \[EN]
 
 ### Using Mapeo
 
