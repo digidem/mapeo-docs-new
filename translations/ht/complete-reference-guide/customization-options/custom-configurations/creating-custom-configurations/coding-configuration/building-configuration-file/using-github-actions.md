@@ -46,7 +46,7 @@ Once you have enabled Action **Workflows** on your configuration repository, Git
 
 Once you have committed a change to your repository, and navigate to the **Actions** tab, you should see your commit message listed as a workflow.
 
-![](../../../../../../.gitbook/assets/Github-Actions-2 (1).JPG)
+![](../../../../../../.gitbook/assets/Github-Actions-2.JPG)
 
 * :white\_check\_mark: a circular check indicates that the build has completed successfully.
 * :yellow\_circle: a yellow circle indicates that the build is in process.
@@ -84,7 +84,7 @@ Once you are done making changes, have tested your configuration using a tempora
 * On the left sidebar, click on the **Build & Release** link.
 * You should now see a box with the text "This workflow has a `workflow_dispatch` event trigger" and a button **Run workflow**. Click the button, and then click **Run workflow** again in the popup that will appear.
 
-![](../../../../../../.gitbook/assets/Github-Actions-5 (1).JPG)
+![](../../../../../../.gitbook/assets/Github-Actions-5.JPG)
 
 * Doing so will trigger another **Workflow** titled "Build and Release."
 * When that finished with a :white\_check\_mark: green check mark, your versioned build release will be ready. On the top navigation bar, click on **Code** and your release should appear under the **Releases** panel in the right sidebar.
