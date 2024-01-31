@@ -21,11 +21,11 @@ It's worthwhile to thoroughly kick the tires of your new configuration prior to 
 #### A few things to look for when testing configurations:
 
 * **Icons**\
-  ****Do icons render clearly? **** Check how icons appear, especially in Mapeo Mobile on devices with smaller screens.
+  Do icons render clearly? Check how icons appear, especially in Mapeo Mobile on devices with smaller screens.
 * **Categories**\
-  ****Do categories appear in a logical order on the **Categories** screen of Mapeo Mobile? **** Changes can be made via the `sort` property in [creating-categories.md](coding-configuration/creating-categories.md "mention").&#x20;
+  Do categories appear in a logical order on the **Categories** screen of Mapeo Mobile? Changes can be made via the `sort` property in [creating-categories.md](coding-configuration/creating-categories.md "mention").&#x20;
 * **Details fields**\
-  ****Are text labels and placeholders easy to understand? Do details fields appear in a logical order? Fields will be displayed to users in the order they are listed in the `fields` array in [creating-categories.md](coding-configuration/creating-categories.md "mention").
+  Are text labels and placeholders easy to understand? Do details fields appear in a logical order? Fields will be displayed to users in the order they are listed in the `fields` array in [creating-categories.md](coding-configuration/creating-categories.md "mention").
 * **Colors**\
   If you added `color` to category map markers, are they distinguishable from one another and visible on your map background?
 * **Name and version**\
