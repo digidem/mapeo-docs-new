@@ -5,7 +5,7 @@
 * [installing-mapeo-mobile.md](../mapeo-mobile-installation-setup/installing-mapeo-mobile.md "mention")
 * [installing-mapeo-desktop.md](../mapeo-desktop-installation-setup/installing-mapeo-desktop.md "mention")
 
-Once installed, you have to click on the Mapeo icon on your cell phone (<img src="../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" />Mapeo Mobile) or on your computer (<img src="https://lh5.googleusercontent.com/bdNxQRS9mSJlaKfeYAUuqnhwjnkpXLYxjXEraIF2Y6JG7eyWI_grgr8HJ5PKGER8wB3xIgmLse9XuLQKxRlcLrYc1ZV8fzB6GwNRV22uGoWWcQ2dtQs2RKh1XN_v8PocFOMU24L6" alt="" data-size="line" />Mapeo Desktop). If despite this, it does not work, go to the next point.&#x20;
+Once installed, you have to click on the Mapeo icon on your cell phone (<img src="../../.gitbook/assets/Mm-icon.png" alt="" data-size="line" />Mapeo Mobile) or on your computer (<img src="https://lh5.googleusercontent.com/bdNxQRS9mSJlaKfeYAUuqnhwjnkpXLYxjXEraIF2Y6JG7eyWI_grgr8HJ5PKGER8wB3xIgmLse9XuLQKxRlcLrYc1ZV8fzB6GwNRV22uGoWWcQ2dtQs2RKh1XN_v8PocFOMU24L6" alt="" data-size="line" />Mapeo Desktop). If despite this, it does not work, go to the next point.&#x20;
 
 2\. **Reboot your device and try again.**&#x20;
 
