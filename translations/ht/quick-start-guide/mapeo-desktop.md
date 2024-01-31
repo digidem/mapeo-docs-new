@@ -18,20 +18,20 @@ To get started, synchronize collected data from a Mapeo Mobile device. To synchr
 
 ### Connect to Wi-Fi
 
-Make sure both the <img src="../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" /> **Mapeo Mobile** device and the <img src="../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" /> **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
+Make sure both the <img src="../.gitbook/assets/Mm-icon.png" alt="" data-size="line" /> **Mapeo Mobile** device and the <img src="../.gitbook/assets/Md-icon.png" alt="" data-size="line" /> **Mapeo Desktop** device are connected to the same Wi-Fi network. (An internet connection is not required.)
 
 ### Enter Synchronize mode
 
-In <img src="../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" /> **Mapeo Mobile**, tap the <img src="../.gitbook/assets/app_icons_Sync_35px.png" alt="" data-size="line" /> **Synchronize** button to enter the **Synchronize** screen.\
+In <img src="../.gitbook/assets/Mm-icon.png" alt="" data-size="line" /> **Mapeo Mobile**, tap the <img src="../.gitbook/assets/app_icons_Sync_35px.png" alt="" data-size="line" /> **Synchronize** button to enter the **Synchronize** screen.\
 \ ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)
 
-In <img src="../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" /> **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
+In <img src="../.gitbook/assets/Md-icon.png" alt="" data-size="line" /> **Mapeo Desktop**, click on **Synchronize** in the **Mapeo modes** panel.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
 ### Start synchronization
 
-On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** <img src="../.gitbook/assets/sync_icon_simple-.png" alt="" data-size="line" /> button below its name.
+On the Mapeo Desktop **Synchronize** screen, identify the mobile device you would like to synchronize with and click on the **Synchronize** <img src="../.gitbook/assets/mapeo-icon-sync-black-@3x.png" alt="" data-size="line" /> button below its name.
 
 ![](../.gitbook/assets/Md\_Synchronize\_mode\_sync\_with\_mobile.jpg)
 
@@ -42,7 +42,7 @@ On the Mapeo Desktop **Synchronize** screen, identify the mobile device you woul
 {% hint style="info" %}
 In order to synchronize, Mapeo devices must be connected to the **same Wi-Fi network**, and using the **same project configuration**.
 
-For more detailed instructions on synchronizing in Mapeo Desktop, see [syncing-data.md](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data.md "mention").
+For more detailed instructions on synchronizing in Mapeo Desktop, see [syncing-data](../complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/ "mention").
 {% endhint %}
 
 ## View observations
