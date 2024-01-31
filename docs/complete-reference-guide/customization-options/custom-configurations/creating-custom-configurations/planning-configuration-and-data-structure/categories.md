@@ -19,10 +19,10 @@ Categories list in the **Filters** panel of Mapeo Desktop (using the default con
 For each category you choose to include in your configuration, you'll need to determine the following:
 
 * **Name**\
-  ****The label users will see in Mapeo when viewing or selecting the category
+  The label users will see in Mapeo when viewing or selecting the category
 * **Geometry** \
-  ****Each element on the map will be marked as a\
-  ****`point`, `line` (eg. a path), or `area` (eg. a zone or lake). You will need to determine which of these geometries users will be able to use for each category.
+  Each element on the map will be marked as a\
+  `point`, `line` (eg. a path), or `area` (eg. a zone or lake). You will need to determine which of these geometries users will be able to use for each category.
   * All data collected with Mapeo Mobile will be points. If you are using Mapeo Mobile, you should include `point` as a geometry for every category.
   * If you are using [Mapeo Desktop **Territory** mode](../../../../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/) as part of your project, you can also include `line` or `area` for categories where relevant.
 * **Color** (optional)\

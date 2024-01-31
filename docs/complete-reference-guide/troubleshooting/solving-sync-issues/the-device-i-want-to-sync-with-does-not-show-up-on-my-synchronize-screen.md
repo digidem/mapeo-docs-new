@@ -14,10 +14,10 @@ For two devices to sync via Wi-Fi, both need to be connected to the same Wi-Fi n
 For more info on how to connect to Wi-Fi, see [connecting-to-wi-fi.md](connecting-to-wi-fi.md "mention").
 {% endhint %}
 
-* [View current Wi-Fi status in <img src="../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile)
-* [View current Wi-Fi status in <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-desktop)
+* [View current Wi-Fi status in <img src="../../../.gitbook/assets/Mm-icon.png" alt="" data-size="line"> **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile)
+* [View current Wi-Fi status in <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-desktop)
 
-### View current Wi-Fi status in <img src="../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile**:
+### View current Wi-Fi status in <img src="../../../.gitbook/assets/Mm-icon.png" alt="" data-size="line"> **Mapeo Mobile**:
 
 On the **Synchronize** screen you can view your device's current Wi-Fi status. If connected to Wi-Fi, the name of the network will appear on the left-hand side of the navy blue bar.\
 \
@@ -27,11 +27,11 @@ If your device is not connected to Wi-Fi, you will see a "No WiFi" message with 
 \
 ![](../../../.gitbook/assets/Mm\_sync\_screen\_no\_wifi.jpg)
 
-### View current Wi-Fi status in <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> Mapeo Desktop:
+### View current Wi-Fi status in <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> Mapeo Desktop:
 
 Wi-Fi status for your computer may be displayed at the top of the **Synchronize** screen, under the "**Available Devices"** header.
 
-If you are currently connected, you may see the name of the Wi-Fi network and the current strength of the signal. (Eg. <img src="../../../.gitbook/assets/Wifi.png" alt="" data-size="line">FIOS 7S5YS \*\*`QUALITY: 70%` \*\* ).
+If you are currently connected, you may see the name of the Wi-Fi network and the current strength of the signal. (Eg. <img src="../../../.gitbook/assets/wifi-icon-01.png" alt="" data-size="line">FIOS 7S5YS \*\*`QUALITY: 70%` \*\* ).
 
 ![](../../../.gitbook/assets/Md\_sync\_wifi\_status.jpg)
 
@@ -47,8 +47,8 @@ Mapeo devices will only appear as available to sync if both devices have the **S
 
 See below for instructions on how to open the Synchronize screen:
 
-* [Open the Synchronize screen in <img src="../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile**](../../mapeo-mobile-use/wifi-sync.md#enter-synchronize-mode)
-* [Open the Synchronize screen in <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop**](../../mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data.md#enter-synchronize-mode)
+* [Open the Synchronize screen in <img src="../../../.gitbook/assets/Mm-icon.png" alt="" data-size="line"> **Mapeo Mobile**](../../mapeo-mobile-use/wifi-sync.md#enter-synchronize-mode)
+* [Open the Synchronize screen in <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop**](../../mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/#enter-synchronize-mode)
 
 ## Both devices are using the same configuration
 
@@ -60,12 +60,12 @@ To learn more about configurations, see [custom-configurations](../../customizat
 
 See below for instructions on how to confirm which configuration is currently in use:
 
-* [View current configuration in <img src="../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile-1)
-* [View current configuration in <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-desktop-1)
+* [View current configuration in <img src="../../../.gitbook/assets/Mm-icon.png" alt="" data-size="line"> **Mapeo Mobile**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-mobile-1)
+* [View current configuration in <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop**](the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md#in-mapeo-desktop-1)
 
-### View current configuration in ![](../../../.gitbook/assets/Mapeo\_Mobile.png) **Mapeo Mobile**:
+### View current configuration in ![](../../../.gitbook/assets/Mm-icon.png) **Mapeo Mobile**:
 
-To confirm which configuration Mapeo Mobile is currently using, tap <img src="../../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line"> **Observations list** on the home screen, then tap <img src="../../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line"> **Settings**. On the Settings screen, select **Project configuration** to view the name and version of the configuration in use.\
+To confirm which configuration Mapeo Mobile is currently using, tap <img src="../../../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line"> **Observations list** on the home screen, then tap <img src="../../../.gitbook/assets/app icons_Settings.png" alt="" data-size="line"> **Settings**. On the Settings screen, select **Project configuration** to view the name and version of the configuration in use.\
 \
 ![](../../../.gitbook/assets/Mm\_Project\_config\_screen\_IMW-config.jpg)
 
@@ -73,11 +73,11 @@ To confirm which configuration Mapeo Mobile is currently using, tap <img src="..
 For more on how to import a new configuration file into Mapeo Mobile, see [importing-configurations.md](../../mapeo-mobile-installation-setup/importing-configurations.md "mention").
 {% endhint %}
 
-### View current configuration in <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop**:
+### View current configuration in <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop**:
 
 To confirm which configuration Mapeo Mobile is currently using, consult the white bar at the bottom of the **Synchronize** screen.
 
-![](<../../../.gitbook/assets/Md\_sync\_project\_config\_info (1).jpg>)
+![](../../../.gitbook/assets/Md\_sync\_project\_config\_info.jpg)
 
 {% hint style="info" %}
 For more on how to import a new configuration file into Mapeo Desktop, see [importing-configurations.md](../../mapeo-desktop-installation-setup/importing-configurations.md "mention").

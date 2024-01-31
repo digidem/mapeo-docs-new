@@ -10,5 +10,5 @@ This section will cover all the necessary steps to install and set up Mapeo Desk
 
 Before you start, make sure that:
 
-* Your computer <img src="../../.gitbook/assets/Battery_icon.png" alt="" data-size="line"> battery is fully charged or you have access to a charger and ![](../../.gitbook/assets/plug.png)electrical outlet.
-* Your computer is <img src="../../.gitbook/assets/virus_free_bug_free_icon.png" alt="" data-size="line"> virus-free.
+* Your computer <img src="../../.gitbook/assets/battery-icon.png" alt="" data-size="line"> battery is fully charged or you have access to a charger and ![](../../.gitbook/assets/plug-icon.png)electrical outlet.
+* Your computer is <img src="../../.gitbook/assets/virus-free-icon.png" alt="" data-size="line"> virus-free.

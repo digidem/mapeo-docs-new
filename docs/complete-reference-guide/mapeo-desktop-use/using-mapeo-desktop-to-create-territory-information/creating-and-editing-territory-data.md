@@ -110,7 +110,7 @@ It is possible to activate a box of measurement information for a feature, such 
 
 #### Deleting features&#x20;
 
-To delete a feature (point, line, or area), right-click on the point to select it and show the **Feature commands** menu, then use the <img src="../../../.gitbook/assets/app_icons_Delete-trash.png" alt="" data-size="line"> **Delete** command.&#x20;
+To delete a feature (point, line, or area), right-click on the point to select it and show the **Feature commands** menu, then use the <img src="../../../.gitbook/assets/app icons_Delete-trash.png" alt="" data-size="line"> **Delete** command.&#x20;
 
 ![](../../../.gitbook/assets/Md-territory\_creating-editing-13.jpg)
 

@@ -25,9 +25,9 @@ Mapeo may not be the right tool for all projects. When evaluating whether Mapeo 
   It is important to think through in advance how the participating users or devices in your project will share information, as there are a variety of possible synchronizing patterns. For more on this, see [creating-user-protocols.md](../complete-reference-guide/essentials-for-a-successful-mapeo-project/creating-user-protocols.md "mention").\
 
 * **Customization and required technical skills**\
-  Mapeo comes with out-of-the box options that can be used right away, without any customization. To learn more about whether these default options will work for your project, see [will-mapeo-work-out-of-the-box-for-me](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/ "mention")****\
-  ****\
-  ****Mapeo was also built to be highly customizable and allow users to adapt its interface to meet the needs of specific projects. Mapeo is currently available in many languages and can easily be translated into new ones.\
+  Mapeo comes with out-of-the box options that can be used right away, without any customization. To learn more about whether these default options will work for your project, see [will-mapeo-work-out-of-the-box-for-me](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/ "mention")\
+  \
+  Mapeo was also built to be highly customizable and allow users to adapt its interface to meet the needs of specific projects. Mapeo is currently available in many languages and can easily be translated into new ones.\
   \
   Adapting Mapeo to use custom categories, icons, questions and background maps currently requires significant technical knowledge and will not be accessible to all users. If you believe customization will be necessary for your project, please consult the section on [customization-options](../complete-reference-guide/customization-options/ "mention") to determine whether your team has the required technical skills.\
 

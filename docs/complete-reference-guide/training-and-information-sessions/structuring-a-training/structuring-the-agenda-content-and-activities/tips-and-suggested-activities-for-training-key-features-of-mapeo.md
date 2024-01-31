@@ -61,7 +61,7 @@ Different features and workflows of Mapeo differ in terms of complexity, difficu
 
 **Description:** Participants navigate to an area they know well and then practice drawing points, lines and areas (polygons) on the map and classifying them with information.
 
-**Support guide section:** [creating-and-editing-territory-data.md](../../../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/creating-and-editing-territory-data.md "mention")****
+**Support guide section:** [creating-and-editing-territory-data.md](../../../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/creating-and-editing-territory-data.md "mention")
 
 **Steps:**&#x20;
 
@@ -106,7 +106,7 @@ Part 2: 10-30 minutes&#x20;
 
 **Description:** Participants practice syncing with other teammates, and understand the behavior of synced data.
 
-**Support guide section:** [wifi-sync.md](../../../mapeo-mobile-use/wifi-sync.md "mention")****
+**Support guide section:** [wifi-sync.md](../../../mapeo-mobile-use/wifi-sync.md "mention")
 
 **Steps:**
 
@@ -144,7 +144,7 @@ Part 2: 10-30 minutes&#x20;
 
 **Description:** In subgroups, Wi-Fi sync and sync files will be explored. Discussions around syncing methods, naming conventions, and backup creation can take place.
 
-**Support guide section:** [synchronizing-data-with-mapeo-desktop.md](../../../mapeo-desktop-use/synchronizing-data-with-mapeo-desktop.md "mention")****
+**Support guide section:** [synchronizing-data-with-mapeo-desktop.md](../../../mapeo-desktop-use/synchronizing-data-with-mapeo-desktop.md "mention")
 
 **Steps:**
 
@@ -233,7 +233,7 @@ Check out the proposed 💡Activities for syncing edited/deleted data.
 
 **Description:** Each participant explores the different options to share selected observations from Mapeo Mobile with other people.
 
-**Support guide section:** [sharing-data-externally.md](../../../mapeo-mobile-use/sharing-data-externally.md "mention")****
+**Support guide section:** [sharing-data-externally.md](../../../mapeo-mobile-use/sharing-data-externally.md "mention")
 
 **Steps for each participant:**
 
