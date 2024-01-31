@@ -4,7 +4,7 @@
 
 Mapeo was built by [Digital Democracy](https://www.digital-democracy.org) with and for earth defenders to easily document environmental & human rights information and to collect data about their land. It was designed to work in entirely offline environments, is highly customizable, and built on a decentralized peer-to-peer database that allows communities to own their own data.
 
-![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines.](../.gitbook/assets/ac-siona2-1024x683.jpg)
+![Mapeo used to document illegal activities in Northern Ecuador, supported by Alianza Ceibo and Amazon Frontlines.](.gitbook/assets/AC-Siona2-1024x683.jpg)
 
 ## Sou gid sa a
 
