@@ -24,7 +24,7 @@ Go to the [mapeo.app](https://www.digital-democracy.org/mapeo/) website and clic
 
 Once you have the installation file downloaded, follow the detailed steps in the sections below to install Mapeo Desktop on the appropriate operating system for your computer:
 
-* <img src="../../.gitbook/assets/Windows-logo.png" alt="" data-size="line" /> **** [**Install on Windows**](installing-mapeo-desktop.md#install-on-windows)
+* <img src="../../.gitbook/assets/Windows-logo.png" alt="" data-size="line" /> [**Install on Windows**](installing-mapeo-desktop.md#install-on-windows)
 * <img src="../../.gitbook/assets/mac.png" alt="" data-size="line" /> [**Install on macOS**](installing-mapeo-desktop.md#installation-on-macos)
 * <img src="../../.gitbook/assets/linux.png" alt="" data-size="line" /> [**Install on Linux**](installing-mapeo-desktop.md#install-on-linux)
 
@@ -35,7 +35,7 @@ Once you have the installation file downloaded, follow the detailed steps in the
 
 ![](https://lh3.googleusercontent.com/Tsq5jLMWd1wSHKbDzVT\_WFc-bUSBtbn3gj-6ta8YqJzQzXqoHDQ5Jw6ehXNz\_1ZopSYMZMN0O5ZZ6L4gM5Vuva08ZwHe1mzo0zPZCyK5r10qXb26CtMb1Twbf-l2CA)
 
-Mapeo Desktop will open automatically when the installation process finishes. If not, go to your computer's desktop or **Apps** and click the <img src="../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" /> **Mapeo Desktop** icon to open the application.
+Mapeo Desktop will open automatically when the installation process finishes. If not, go to your computer's desktop or **Apps** and click the <img src="../../.gitbook/assets/Md-icon.png" alt="" data-size="line" /> **Mapeo Desktop** icon to open the application.
 
 ## Install on macOS ​
 
@@ -43,7 +43,7 @@ Mapeo Desktop will open automatically when the installation process finishes. If
 2. Find the Mapeo installation file (`.dmg`) on your computer and double click on it to open.
 3. Drag the Mapeo icon into your **Applications** folder.\ \ ![](../../.gitbook/assets/Md\_mac\_install\_drag\_app\_icon\_to\_applications.png)\
 ![](../../.gitbook/assets/Md\_mac\_install\_drag\_app\_icon\_to\_applications.png)
-4. Once the install is complete, find <img src="../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" /> **Mapeo** in your **Applications** folder and double click it to open.
+4. Once the install is complete, find <img src="../../.gitbook/assets/Md-icon.png" alt="" data-size="line" /> **Mapeo** in your **Applications** folder and double click it to open.
 
 {% hint style="warning" %}
 If you receive a security message that Mapeo cannot be opened, go to **System Preferences**, then select **Security & Privacy.** \ ****\ ****![](../../.gitbook/assets/Mac\_system\_settings\_security.png)\ \ ****On the bottom half of the window, you should see the message "Mapeo was blocked from use because it is not from an identified developer." Click on **Open anyway**, **** then on **Open** in the pop-up confirmation window. Mapeo Desktop will then open automatically.\ \
