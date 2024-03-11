@@ -2,7 +2,7 @@
 
 ## Synchronizing via Wi-Fi
 
-Mapeo Desktop can synchronize data via Wi-Fi with other <img src="../../../../.gitbook/assets/laptop-Md-icon.png" alt="" data-size="line" /> computers or <img src="../../../../.gitbook/assets/phone-Mm-icon.png" alt="" data-size="line" />smartphones that use Mapeo. This is a good sync option when devices are near each other and it works with **no internet connection**.&#x20;
+Mapeo Desktop can synchronize data via Wi-Fi with other <img src="../../../../.gitbook/assets/Laptop_with_Mapeo.png" alt="" data-size="line" /> computers or <img src="../../../../.gitbook/assets/smartphone_with_Mapeo" alt="" data-size="line" />smartphones that use Mapeo. This is a good sync option when devices are near each other and it works with **no internet connection**.&#x20;
 
 Requirements:
 
@@ -16,7 +16,7 @@ To synchronize, follow the steps below:
 
 ## Connect to Wi-Fi
 
-Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a <img src="../../../../.gitbook/assets/Router_icon.png" alt="" data-size="line" />mobile wireless router or a third device capable of serving as an offline <img src="../../../../.gitbook/assets/hotspot-icon.png" alt="" data-size="line" />hotspot.&#x20;
+Connect both Mapeo devices to the same Wi-Fi network. In offline environments, a local Wi-Fi network can be created using a <img src="../../../../.gitbook/assets/Router_icon.png" alt="" data-size="line" />mobile wireless router or a third device capable of serving as an offline <img src="../../../../.gitbook/assets/hotspot.png" alt="" data-size="line" />hotspot.&#x20;
 
 {% hint style="info" %}
 For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
@@ -28,11 +28,11 @@ For more on how to create a local Wi-Fi network or connect to Wi-Fi, see\
 
 In order to synchronize, both devices must have the **Synchronize** screen open.
 
-In <img src="../../../../.gitbook/assets/Md-icon.png" alt="" data-size="line" />Mapeo Desktop: Click on **Synchronize** in the **Mapeo modes** panel.
+In <img src="../../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop: Click on **Synchronize** in the **Mapeo modes** panel.
 
 ![](../../../../.gitbook/assets/Md\_Synchronize\_mode.jpg)
 
-In <img src="../../../../.gitbook/assets/Mm-icon.png" alt="" data-size="line" />Mapeo Mobile: Tap the <img src="../../../../.gitbook/assets/app_icons_Sync_35px.png" alt="" data-size="line" /> **Synchronize** button on the home screen.
+In <img src="../../../../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line" />Mapeo Mobile: Tap the <img src="../../../../.gitbook/assets/app_icons_Sync_35px.png" alt="" data-size="line" /> **Synchronize** button on the home screen.
 
 ![](../../../../.gitbook/assets/Homescreen-Sync\_button.jpg)&#x20;
 
@@ -59,7 +59,7 @@ To see the unique identification number of a Mapeo Mobile device, check the righ
 
 ![Matching the unique ID of a Mapeo Mobile device as it appears on Mapeo Desktop](../../../../.gitbook/assets/Md\_Synchronize\_confirm\_Mm\_deviceID.jpg)
 
-In Mapeo Desktop, click on the **SYNCHRONIZE** <img src="../../../../.gitbook/assets/mapeo-icon-sync-black-@3x.png" alt="" data-size="line" /> button below the device name to begin the exchange of data.&#x20;
+In Mapeo Desktop, click on the **SYNCHRONIZE** <img src="../../../../.gitbook/assets/sync_icon_simple-.png" alt="" data-size="line" /> button below the device name to begin the exchange of data.&#x20;
 
 {% hint style="warning" %}
 **Important**: Keep the **Synchronize** screen open on both devices until the synchronization process is complete.
