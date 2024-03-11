@@ -4,7 +4,7 @@
 
 Mapeo Mobile allows you to synchronize the data you have collected with other Mapeo users that are members of the same project. **Syncing data does not require an internet connection and can be done in entirely offline areas**.
 
-For devices to sync, both need to be in the same place and connected to the same<img src="../../.gitbook/assets/wifi-cropped-01.png" alt="" data-size="line" /> Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**. In offline environments, a local WiFi network can be created using a <img src="../../.gitbook/assets/Router_icon.png" alt="" data-size="line" />mobile wireless router, or by creating a <img src="../../.gitbook/assets/hotspot-icon.png" alt="" data-size="line" />hotspot using a third smartphone.
+For devices to sync, both need to be in the same place and connected to the same<img src="../../.gitbook/assets/wifi-cropped-01.png" alt="" data-size="line" /> Wi-Fi network. **This Wi-Fi network does not need to have an internet connection**. In offline environments, a local WiFi network can be created using a <img src="../../.gitbook/assets/Router_icon.png" alt="" data-size="line" />mobile wireless router, or by creating a <img src="../../.gitbook/assets/hotspot.png" alt="" data-size="line" />hotspot using a third smartphone.
 
 ![In offline environments, you can create a local WiFi network (without internet) using a mobile wireless router.](../../.gitbook/assets/Mm-Mm\_sync\_via\_WiFi.png)
 
@@ -60,7 +60,7 @@ You can view new observation data received in the synchronization by looking at 
 
 ## View synced observations
 
-You can view new observation data received in the synchronization by looking at the points on the home <img src="../../.gitbook/assets/app-icons_Map_view.png" alt="" data-size="line" /> **Map** screen or at the <img src="../../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line" /> **Observations list** screen.
+You can view new observation data received in the synchronization by looking at the points on the home <img src="../../.gitbook/assets/app-icons_Map_view.png" alt="" data-size="line" /> **Map** screen or at the <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line" /> **Observations list** screen.
 
 ![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)  ![](../../.gitbook/assets/Observations\_list\_screen\_with\_synced\_data.jpg)
 
