@@ -16,6 +16,10 @@ To create a projectKey, first open the Terminal.
 
 ### Using mapeo-settings-builder
 
+{% hint style="info" %}
+For instructions on how to install **mapeo-settings-builder**, see Building configuration file [preparing-computer.md](coding-configuration/building-configuration-file/preparing-computer.md "mention").
+{% endhint %}
+
 Copy and paste the following command into the terminal
 
 ```

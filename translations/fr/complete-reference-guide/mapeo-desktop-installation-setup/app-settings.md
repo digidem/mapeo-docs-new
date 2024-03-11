@@ -1,6 +1,6 @@
 # Choosing Mapeo Desktop language
 
-Mapeo Desktop is currently available in Spanish (es), English (en), Portuguese (pt) and French (fr), Thai (th), Vietnamese (vi) and Khmer (km), but it can be translated into any language using [Crowdin](https://crowdin.com). For more on translation, see: [translating.md](../customization-options/translating.md "mention").&#x20;
+Mapeo Desktop is currently available in Spanish (es), English (en), Portuguese (pt) and French (fr), Thai (th), Vietnamese (vi) and Khmer (km), but it can be translated into any language using [Crowdin](https://crowdin.com). For more on translation, see: [translating.md](../customization-options/translating.md "mention").
 
 Changing the language of Mapping Desktop is a simple step and does not affect the data collected or the categories used to create observations. Mapeo Desktop should open initially in the current language you have selected for your computer's operating system.\ \ To change the Mapeo Desktop language:
 
@@ -13,6 +13,3 @@ Changing the language of Mapping Desktop is a simple step and does not affect th
 {% hint style="warning" %}
 If the language does not change automatically, restart Mapeo Desktop.
 {% endhint %}
-
-
-

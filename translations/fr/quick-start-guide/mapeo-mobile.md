@@ -6,13 +6,11 @@ To install Mapeo Mobile on your Android device,[ download the latest version on 
 
 ## Collect data
 
-Users collect data with Mapeo Mobile in the form of _observations_. An observation is based on a geographic location (a point on the map) and can have associated photos, notes and details.&#x20;
+You collect data with Mapeo Mobile in the form of _observations_. An observation is based on a geographic location (a point on the map) and can have associated photos, notes and details.&#x20;
 
 To create a new observation, tap the ![](../.gitbook/assets/create\_observation.png) **Create observation** button, then select a category.
 
-![](../.gitbook/assets/Homescreen-Create\_observation\_button.jpg)     ![](../.gitbook/assets/Categories\_screen.jpg)
-
-
+![](../.gitbook/assets/Homescreen-Create\_observation\_button.jpg) ![](../.gitbook/assets/Categories\_screen.jpg)
 
 Add a description, photos and details, then tap the ![](../.gitbook/assets/app\_icons\_save\_35px.png) **Save** button.
 
@@ -22,13 +20,13 @@ Add a description, photos and details, then tap the ![](../.gitbook/assets/app\_
 
 Each observation will be marked on the map with a dot. Observations can also be viewed in list form by tapping the ![](../.gitbook/assets/app icons\_observation-list\_35px.png) **Observations list** button.
 
-![](../.gitbook/assets/Homescreen-Observations\_list\_button.jpg)     ![](../.gitbook/assets/Observations\_list\_screen.jpg)
+![](../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../.gitbook/assets/Observations\_list\_screen.jpg)
 
-Tap on an observation from the map or list to view its details.&#x20;
+Tap on an observation from the map or list to view its details.
 
 ## Edit an observation
 
-With the details of an observation open, tap the ![](../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit** button to make changes.&#x20;
+With the details of an observation open, tap the ![](../.gitbook/assets/app\_icons\_edit\_35px.png) **Edit** button to make changes.
 
 ![](../.gitbook/assets/Edit\_observation\_button.jpg)
 
@@ -59,11 +57,7 @@ To synchronize data between 2 Mapeo Mobile devices that are near each other:
 3. On the **Synchronize** screen, identify the device you wish to synchronize with in the list and tap the **Sync** button beside its name.
 4.  Keep the **Synchronize** screen open on both devices until the synchronization has completed.
 
-
-
-    ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)     ![](../.gitbook/assets/Sync\_screen\_mobile\_sync\_button.jpg)
-
-
+    ![](../.gitbook/assets/Homescreen-Sync\_button.jpg)![](../.gitbook/assets/Sync\_screen\_mobile\_sync\_button.jpg)
 
 {% hint style="info" %}
 For detailed instructions on how to use all features of Mapeo Mobile, see below sections in the Complete Reference Guide:
@@ -72,4 +66,3 @@ For detailed instructions on how to use all features of Mapeo Mobile, see below 
 
 [mapeo-mobile-use](../complete-reference-guide/mapeo-mobile-use/ "mention")
 {% endhint %}
-

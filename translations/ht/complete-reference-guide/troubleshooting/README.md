@@ -4,14 +4,28 @@ description: Common technical issues
 
 # 🔧 Troubleshooting
 
+{% hint style="warning" %}
+**Very important:** If you uninstall Mapeo trying to solve problems, you will lose all data if you have not synchronized with someone before or you have not created a backup.
+{% endhint %}
+
 See additional information and troubleshooting steps for some common technical issues in the pages below:
 
-* [creating-local-wi-fi-networks.md](creating-local-wi-fi-networks.md "mention")
-* [connecting-to-wi-fi.md](connecting-to-wi-fi.md "mention")
-* [sharing-files-between-devices](sharing-files-between-devices/ "mention")
-* [solving-sync-issues](solving-sync-issues/ "mention")
-  * [the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md](solving-sync-issues/the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md "mention")
-  * [an-error-is-displayed-when-trying-to-sync.md](solving-sync-issues/an-error-is-displayed-when-trying-to-sync.md "mention")
+* [i-cant-start-mapeo.md](i-cant-start-mapeo.md "mention")
+* [mapeo-closes-automatically.md](mapeo-closes-automatically.md "mention")
+* [i-have-problems-with-the-gps-in-mapeo](i-have-problems-with-the-gps-in-mapeo/ "mention")
+  * [gps-is-not-activated-in-mapeo.md](i-have-problems-with-the-gps-in-mapeo/gps-is-not-activated-in-mapeo.md "mention")
+  * [my-gps-signal-is-very-weak.md](i-have-problems-with-the-gps-in-mapeo/my-gps-signal-is-very-weak.md "mention")
+* [i-have-problems-with-the-camera-in-mapeo](i-have-problems-with-the-camera-in-mapeo/ "mention")
+  * [i-get-a-black-screen-when-using-the-camera.md](i-have-problems-with-the-camera-in-mapeo/i-get-a-black-screen-when-using-the-camera.md "mention")
 * [updating-mapeo-mobile-permissions.md](updating-mapeo-mobile-permissions.md "mention")
-* [Broken link](broken-reference "mention")
+* [solving-sync-issues](solving-sync-issues/ "mention")
+  * [connecting-to-wi-fi.md](solving-sync-issues/connecting-to-wi-fi.md "mention")
+  * [creating-local-wi-fi-networks](solving-sync-issues/creating-local-wi-fi-networks/ "mention")
+    * [with-a-portable-router.md](solving-sync-issues/creating-local-wi-fi-networks/with-a-portable-router.md "mention")
+    * [with-a-smartphone.md](solving-sync-issues/creating-local-wi-fi-networks/with-a-smartphone.md "mention")
+  * [the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md](solving-sync-issues/the-device-i-want-to-sync-with-does-not-show-up-on-my-synchronize-screen.md "mention")
+  * [i-get-an-error-when-i-try-to-sync-with-another-device.md](solving-sync-issues/i-get-an-error-when-i-try-to-sync-with-another-device.md "mention")
+  * [i-cant-sync-with-the-sync-file.md](solving-sync-issues/i-cant-sync-with-the-sync-file.md "mention")
+  * [the-person-i-want-to-sync-with-has-deleted-valuable-data.md](solving-sync-issues/the-person-i-want-to-sync-with-has-deleted-valuable-data.md "mention")
+* [sharing-files-between-devices.md](sharing-files-between-devices.md "mention")
 * [saving-and-printing-mapeo-reference-materials.md](saving-and-printing-mapeo-reference-materials.md "mention")
