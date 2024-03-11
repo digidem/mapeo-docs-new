@@ -6,7 +6,7 @@ Select the observation you would like to edit and open it. You can open the obse
 
 &#x20;![](../../.gitbook/assets/Homescreen-tap\_observation\_dot.jpg)
 
-or by tapping the observation on the <img src="../../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line" /> **Observations list** screen:
+or by tapping the observation on the <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line" /> **Observations list** screen:
 
 &#x20;![](../../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../../.gitbook/assets/Mm\_Observations\_list\_screen-select\_obs.jpg)
 
@@ -22,15 +22,15 @@ In Mapeo Mobile, you can only edit or delete observations that have been created
 
 ## Save changes
 
-Tap <img src="../../.gitbook/assets/app_icons_save_35px.png" alt="" data-size="line" /> **Save** to save the changes you have made. Tap <img src="../../.gitbook/assets/app icons_back arrow.png" alt="" data-size="line" /> **Back** to return the **Map** view.
+Tap <img src="../../.gitbook/assets/app_icons_save_35px.png" alt="" data-size="line" /> **Save** to save the changes you have made. Tap <img src="../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line" /> **Back** to return the **Map** view.
 
 ![](../../.gitbook/assets/Mm\_Save\_observation.jpg)
 
-To exit without saving your changes, tap <img src="../../.gitbook/assets/app icons_back arrow.png" alt="" data-size="line" /> **Back** and confirm you want to discard changes.
+To exit without saving your changes, tap <img src="../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line" /> **Back** and confirm you want to discard changes.
 
 ## Delete observations
 
-To delete an observation you have collected, scroll to the bottom of the **View observation** screen and tap <img src="../../.gitbook/assets/app icons_Delete-trash.png" alt="" data-size="line" /> **Delete**.
+To delete an observation you have collected, scroll to the bottom of the **View observation** screen and tap <img src="../../.gitbook/assets/app_icons_Delete-trash.png" alt="" data-size="line" /> **Delete**.
 
 ![](../../.gitbook/assets/Delete\_button.jpg)
 
