@@ -20,7 +20,7 @@
 ## Complete Reference guide
 
 * [Welcome – Introduction](complete-reference-guide/welcome.md)
-* [🗒 Essentials for a successful Mapeo project](complete-reference-guide/essentials-for-a-successful-mapeo-project/README.md)
+* [🗒️ Essentials for a successful Mapeo project](complete-reference-guide/essentials-for-a-successful-mapeo-project/README.md)
   * [Planning a Mapeo project](complete-reference-guide/essentials-for-a-successful-mapeo-project/planning/README.md)
     * [What is the project goal?](complete-reference-guide/essentials-for-a-successful-mapeo-project/planning/why-what-is-the-project-goal.md)
     * [What outputs do you want?](complete-reference-guide/essentials-for-a-successful-mapeo-project/planning/what-outputs-do-you-want.md)
@@ -30,10 +30,10 @@
     * [What are the parameters?](complete-reference-guide/essentials-for-a-successful-mapeo-project/planning/who-is-involved.md)
   * [Security & risk assessment](complete-reference-guide/essentials-for-a-successful-mapeo-project/security-and-risk-assessment.md)
   * [Creating user protocols](complete-reference-guide/essentials-for-a-successful-mapeo-project/creating-user-protocols.md)
-* [✔ Will Mapeo work out-of-the-box for me?](complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/README.md)
+* [✔️ Will Mapeo work out-of-the-box for me?](complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/README.md)
   * [Default configuration](complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/default-configuration.md)
   * [Default background map](complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/default-base-map.md)
-* [⚙ Customization options](complete-reference-guide/customization-options/README.md)
+* [⚙️ Customization options](complete-reference-guide/customization-options/README.md)
   * [Translating Mapeo & default configurations](complete-reference-guide/customization-options/translating.md)
   * [Custom configurations](complete-reference-guide/customization-options/custom-configurations/README.md)
     * [Creating custom configurations](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/README.md)
@@ -45,10 +45,10 @@
         * [Adding icon files](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-icon-files/README.md)
           * [Creating and exporting SVG files using Adobe Illustrator](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-icon-files/creating-and-exporting-svg-files-using-adobe-illustrator.md)
           * [Creating and exporting SVG files using Inkscape](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-icon-files/creating-and-exporting-svg-files-using-inkscape.md)
-        * [Creating details fields](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/creating-fields.md)
+        * [Creating details fields](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/creating-fields.md)
         * [Creating categories](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/creating-categories.md)
         * [Defining geometry defaults](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/defining-geometry-defaults.md)
-        * [Adding a project key](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-a-project-key.md)
+        * [Adding a project key](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/adding-a-project-key.md)
         * [Adding project name and version](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-project-name-and-version.md)
         * [Building configuration file](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/building-configuration-file/README.md)
           * [Via the command line](complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/building-configuration-file/preparing-computer.md)
@@ -85,7 +85,7 @@
   * [Updating Mapeo Desktop](complete-reference-guide/mapeo-desktop-installation-setup/updating-mapeo-desktop.md)
 * [💻 Mapeo Desktop use](complete-reference-guide/mapeo-desktop-use/README.md)
   * [Mapeo Desktop for managing Mapeo Mobile data (Observations mode)](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/README.md)
-    * [Synchronizing data](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/README.md)
+    * [Synchronizing data](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data.md)
       * [Synchronizing via Wi-Fi](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/synchronizing-via-wi-fi.md)
       * [Synchronizing with a file](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/syncing-data/synchronizing-with-a-file.md)
     * [Viewing observations](complete-reference-guide/mapeo-desktop-use/using-mapeo-desktop-to-manage-mapeo-mobile-data/viewing-observations.md)
@@ -129,6 +129,7 @@
     * [The person I want to sync with has deleted valuable data](complete-reference-guide/troubleshooting/solving-sync-issues/the-person-i-want-to-sync-with-has-deleted-valuable-data.md)
   * [Sharing files between devices](complete-reference-guide/troubleshooting/sharing-files-between-devices.md)
   * [Saving and printing Mapeo reference materials](complete-reference-guide/troubleshooting/saving-and-printing-mapeo-reference-materials.md)
+  * [How do I back up Mapeo Desktop data?](complete-reference-guide/troubleshooting/how-do-i-back-up-mapeo-desktop-data.md)
 * [Glossary & quick reference sheets](complete-reference-guide/glossary-and-quick-reference-sheets/README.md)
   * [Glossary of Mapeo related terms](complete-reference-guide/glossary-and-quick-reference-sheets/glossary-of-mapeo-related-terms.md)
   * [Overview of Mapeo Desktop Territory mode screen](complete-reference-guide/glossary-and-quick-reference-sheets/overview-of-mapeo-desktop-territory-mode-screen.md)
@@ -137,6 +138,7 @@
 
 * [Mapeo architecture overview](for-developers/mapeo-architecture-overview.md)
 * [Mapeo repositories](for-developers/mapeo-repositories.md)
+* [Localization](for-developers/localization.md)
 
 ***
 

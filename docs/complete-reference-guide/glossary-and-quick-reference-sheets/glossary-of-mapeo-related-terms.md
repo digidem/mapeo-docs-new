@@ -104,9 +104,9 @@ The GPS acronym stands for "Global Positioning System", which is a satellite nav
 
 #### Keyboard
 
-![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (26).png>)
+![Keyboard in Windows (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (1) (1) (1).png>)
 
-![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (15).png>)
+![Keyboard in Mac (credits: image from finallylearn.com modified by Digital Democracy)](<../../.gitbook/assets/image (2) (1).png>)
 
 #### **Observation**
 
@@ -130,7 +130,7 @@ Also called **Google Play**, or **Google Play Store**, it is the official app st
 
 #### **Portable battery**
 
-It is a form of portable power supply that provides charging for smartphones, tablets, and other devices. If you plan to use Mapeo and you won't have access to a charger and an <img src="../../.gitbook/assets/plug-icon.png" alt="" data-size="line">electrical outlet (e.g. if you are on a patrol or you are in the woods), it's good to take a fully-charged portable battery with you, so that you can recharge your device if needed.&#x20;
+It is a form of portable power supply that provides charging for smartphones, tablets, and other devices. If you plan to use Mapeo and you won't have access to a charger and an <img src="../../.gitbook/assets/plug.png" alt="" data-size="line">electrical outlet (e.g. if you are on a patrol or you are in the woods), it's good to take a fully-charged portable battery with you, so that you can recharge your device if needed.&#x20;
 
 #### **Project key**
 

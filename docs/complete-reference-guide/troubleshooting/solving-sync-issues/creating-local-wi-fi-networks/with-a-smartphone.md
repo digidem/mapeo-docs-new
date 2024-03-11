@@ -10,11 +10,11 @@ To create a hotspot, follow the steps below:&#x20;
 
 ### On the cell phone with which you want to create the hotspot&#x20;
 
-1. Turn off Mobile Data on your phone. Details will vary for each phone, but Mobile Data settings can usually be found in the Quick Settings menu, which can be accessed by swiping down from the top of the screen. Click the switch to disable **Mobile Data**.![](<../../../../.gitbook/assets/image (1).png>)![](<../../../../.gitbook/assets/image (9).png>)
+1. Turn off Mobile Data on your phone. Details will vary for each phone, but Mobile Data settings can usually be found in the Quick Settings menu, which can be accessed by swiping down from the top of the screen. Click the switch to disable **Mobile Data**.![](<../../../../.gitbook/assets/image (4).png>)![](<../../../../.gitbook/assets/image (3).png>)
 2. On the main screen of your mobile, click on **Settings**&#x20;
 3. Click **Portable Wi-Fi hotspo**t and turn it on using the toggle
-4. Click **Set up portable Wi-Fi hotspot** and edit or review the password and hotspot name (SSID). You can view the password by clicking <img src="../../../../.gitbook/assets/image (6).png" alt="" data-size="line">**View**.\
-   ![](<../../../../.gitbook/assets/image (7).png>)![](<../../../../.gitbook/assets/image (5).png>)
+4. Click **Set up portable Wi-Fi hotspot** and edit or review the password and hotspot name (SSID). You can view the password by clicking <img src="../../../../.gitbook/assets/image (11).png" alt="" data-size="line">**View**.\
+   ![](<../../../../.gitbook/assets/image (10).png>)![](<../../../../.gitbook/assets/image (1).png>)
 
 ### On the phone with which you want to connect to the hotspot
 

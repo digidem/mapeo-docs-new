@@ -34,9 +34,9 @@ Yes, all Mapeo tools and features are free to install and use.
 
 ## What kind of data can Mapeo collect?
 
-With <img src="../.gitbook/assets/Mm-icon.png" alt="" data-size="line"> **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
+With <img src="../.gitbook/assets/Mapeo_Mobile.png" alt="" data-size="line"> **Mapeo Mobile**, you can collect geographic points to mark your current location, and add associated photos, description, and details. Users assign each point collected to a category. Check out the [Mapeo Mobile Quick Start Guide](../quick-start-guide/mapeo-mobile.md) to see an overview of mobile data collection.
 
-With <img src="../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop** Territory mode, you can create points, lines and areas (polygons) on a map and add an associated category, description, and details.
+With <img src="../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop** Territory mode, you can create points, lines and areas (polygons) on a map and add an associated category, description, and details.
 
 For more on Mapeo's default categories and details fields, see [default-configuration.md](../complete-reference-guide/will-mapeo-work-out-of-the-box-for-me/default-configuration.md "mention"). To learn about customizing these options, see [custom-configurations](../complete-reference-guide/customization-options/custom-configurations/ "mention").
 

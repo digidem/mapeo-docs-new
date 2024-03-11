@@ -27,7 +27,7 @@ Mapeo Desktop also offers a simple interface for adding or creating territory in
 
 Like Mapeo Mobile, Mapeo Desktop can be translated into local languages, customized to use offline maps, and tailored to collect specific types of information.
 
-![Left: Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. Right: Mapeo Desktop is being used to create and export territory information.](../../.gitbook/assets/Md\_tool\_visual\_with\_titles.jpg)
+![Left: Mapeo Desktop is being used to view, manage and export data collected using Mapeo Mobile. Right: Mapeo Desktop is being used to create and export territory information.](<../../.gitbook/assets/Md tool visual with titles>)
 
 ## Mapeo Core
 

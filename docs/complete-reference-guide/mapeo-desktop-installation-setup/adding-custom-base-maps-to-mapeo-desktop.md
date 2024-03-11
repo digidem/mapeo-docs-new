@@ -38,7 +38,7 @@ Select and copy all of the elements found inside your background map folder.
 
 ### Reload **Mapeo Desktop**
 
-Use **Ctrl + R** on your keyboard to reload Mapeo or restart <img src="../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop** to begin using the custom background map.
+Use **Ctrl + R** on your keyboard to reload Mapeo or restart <img src="../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop** to begin using the custom background map.
 
 {% hint style="info" %}
 For more on loading custom background maps into **Territory** mode in Mapeo Desktop, see [changing-basemaps.md](../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/changing-basemaps.md "mention") in the [using-mapeo-desktop-to-create-territory-information](../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/ "mention") section.
@@ -74,7 +74,7 @@ Paste the background map elements you copied into the **default** folder.
 
 ### Restart **Mapeo Desktop**
 
-Use **Command (⌘)-R** on your keyboard to reload Mapeo or restart <img src="../../.gitbook/assets/Md-icon.png" alt="" data-size="line"> **Mapeo Desktop** to begin using the custom background map.
+Use **Command (⌘)-R** on your keyboard to reload Mapeo or restart <img src="../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line"> **Mapeo Desktop** to begin using the custom background map.
 
 {% hint style="info" %}
 For more on loading custom background maps into **Territory** mode in Mapeo Desktop, see [changing-basemaps.md](../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/changing-basemaps.md "mention") in the [using-mapeo-desktop-to-create-territory-information](../mapeo-desktop-use/using-mapeo-desktop-to-create-territory-information/ "mention") section.

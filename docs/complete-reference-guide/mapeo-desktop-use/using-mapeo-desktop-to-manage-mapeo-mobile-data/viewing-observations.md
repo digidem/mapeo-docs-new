@@ -32,7 +32,7 @@ To view observations as a gallery of images, click on **Media** in the **Toolbar
 
 To view observations in the form of a report, click on **Report** in the **Toolbar. Report** view displays one observation per page and includes the category, coordinates, date, a map of the location, and any images associated with the observation.
 
-Use the **Next** <img src="../../../.gitbook/assets/app_icons_next_arrow.png" alt="" data-size="line"> and <img src="../../../.gitbook/assets/app icons_back arrow.png" alt="" data-size="line"> **Previous** buttons at the bottom of the screen to step through each page of the report.
+Use the **Next** <img src="../../../.gitbook/assets/app_icons_next_arrow.png" alt="" data-size="line"> and <img src="../../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line"> **Previous** buttons at the bottom of the screen to step through each page of the report.
 
 ![](../../../.gitbook/assets/Md\_report\_view\_button.jpg)
 

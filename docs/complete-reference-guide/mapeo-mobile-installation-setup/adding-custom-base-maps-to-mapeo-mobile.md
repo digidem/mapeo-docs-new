@@ -14,13 +14,13 @@ For more on how to test this feature, see: [background-maps.md](experiments-turn
 Adding a background map to Mapeo currently requires navigating the File Manager on your smartphone and copy-pasting elements in the internal file system. A mistake in this process could cause irreversible undesired effects.
 {% endhint %}
 
-* <img src="../../.gitbook/assets/laptop-icon.png" alt="" data-size="line"><img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line"><img src="../../.gitbook/assets/Smartphone_icon.png" alt="" data-size="line">[**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#adding-a-background-map-using-a-computer)
+* <img src="../../.gitbook/assets/laptop_icon.png" alt="" data-size="line"><img src="../../.gitbook/assets/USB_cable.png" alt="" data-size="line"><img src="../../.gitbook/assets/Smartphone_icon.png" alt="" data-size="line">[**Using a computer, a USB cable, and your smartphone**](adding-custom-base-maps-to-mapeo-mobile.md#adding-a-background-map-using-a-computer)
 
 ## Adding a background map using a computer
 
 ### Connect your smartphone to a computer
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 Unlock the screen of the smartphone and connect the device to a computer using a USB cable. Tap the **Charging this device via USB** notification. Under "Use USB for," select **File Transfer**.
 

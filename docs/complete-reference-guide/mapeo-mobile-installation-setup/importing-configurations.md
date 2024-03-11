@@ -16,7 +16,7 @@ If you don't have an internet connection, you can copy the file from a computer 
 
 ## Go to Settings
 
-In the Mapeo Mobile app, tap the <img src="../../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line"> **Observations list** button, then the <img src="../../.gitbook/assets/app icons_Settings.png" alt="" data-size="line"> **Settings** button.
+In the Mapeo Mobile app, tap the <img src="../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line"> **Observations list** button, then the <img src="../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line"> **Settings** button.
 
 
 
@@ -42,7 +42,7 @@ Click **OK** on the import confirmation window and verify that the **Project con
 
 ![](../../.gitbook/assets/Mm\_config\_import\_confirmation.jpg) ![](../../.gitbook/assets/Mm\_Project\_config\_screen\_IMW-config.jpg)
 
-To start using the updated configuration, tap <img src="../../.gitbook/assets/app icons_back arrow.png" alt="" data-size="line"> **Back** as many times as needed to return to the home screen and tap <img src="../../.gitbook/assets/create_observation.png" alt="" data-size="line">**Create observation**. The **Categories** screen will now display the icons and category names of your custom configuration.
+To start using the updated configuration, tap <img src="../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line"> **Back** as many times as needed to return to the home screen and tap <img src="../../.gitbook/assets/create_observation.png" alt="" data-size="line">**Create observation**. The **Categories** screen will now display the icons and category names of your custom configuration.
 
 > ▶ Video available: [How to identify which configuration is Mapeo Mobile using](https://www.youtube.com/watch?v=SaSxCBGjZiM\&list=PLI10lL3Yr-k2MUMquVTaQxZoiQqfT\_eID\&index=6\&t=65s)
 >

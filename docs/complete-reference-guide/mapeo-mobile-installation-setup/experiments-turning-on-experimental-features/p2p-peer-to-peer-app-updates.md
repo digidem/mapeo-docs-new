@@ -12,7 +12,7 @@ To search for and share Mapeo app updates between Mapeo Mobile devices, both sma
 
 ### Turn on the P2P App Updates feature
 
-To use this feature, you will need to enable it within the **Experiments** menu. To do so, tap the <img src="../../../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line">**Observations list** button, then tap <img src="../../../.gitbook/assets/app icons_Settings.png" alt="" data-size="line">**Settings**, and select **Experiments**. Select **P2P App Updates,** then check the box to **Use P2P App Updater**.
+To use this feature, you will need to enable it within the **Experiments** menu. To do so, tap the <img src="../../../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line">**Observations list** button, then tap <img src="../../../.gitbook/assets/app_icons_Settings.png" alt="" data-size="line">**Settings**, and select **Experiments**. Select **P2P App Updates,** then check the box to **Use P2P App Updater**.
 
 ![](../../../.gitbook/assets/Mm\_Settings\_screen\_experiments.jpg)  ![](../../../.gitbook/assets/Mm\_Experiments\_screen\_P2P\_App\_Updates.jpg)![](../../../.gitbook/assets/Mm\_P2P\_App\_Updates\_screen\_on.jpg)
 
@@ -44,7 +44,7 @@ To enable Mapeo to install updates, tap **Settings** in the pop-up window and to
 
 &#x20;![](../../../.gitbook/assets/Mm\_P2P\_app\_update\_security\_window.jpg)![](../../../.gitbook/assets/Mm\_P2P\_app\_update\_Android\_settings\_allow\_install.jpg)
 
-Tap the <img src="../../../.gitbook/assets/app icons_back arrow.png" alt="" data-size="line"> **Back** button to return to Mapeo and confirm that you would like to install the update.
+Tap the <img src="../../../.gitbook/assets/app_icons_back_arrow.png" alt="" data-size="line"> **Back** button to return to Mapeo and confirm that you would like to install the update.
 
 ### Reopen Mapeo
 
