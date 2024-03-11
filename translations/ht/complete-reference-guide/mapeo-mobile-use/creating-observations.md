@@ -59,7 +59,7 @@ Images cannot be removed once an observation has been saved.
 
 ## Add details
 
-Depending on the category you have selected, you may see the option to <img src="../../.gitbook/assets/app icons_Details.png" alt="" data-size="line" /> **Add details** at the bottom of the screen. Observation details consist of specific questions for each observation category. Mapeo Mobile comes with basic questions for some categories. Adding details is not required when creating observations.
+Depending on the category you have selected, you may see the option to <img src="../../.gitbook/assets/app_icons_Details.png" alt="" data-size="line" /> **Add details** at the bottom of the screen. Observation details consist of specific questions for each observation category. Mapeo Mobile comes with basic questions for some categories. Adding details is not required when creating observations.
 
 Tap <mark style="color:blue;">**NEXT**</mark> to move to the next question and tap <mark style="color:blue;">**DONE**</mark> once you have answered the last one.
 
