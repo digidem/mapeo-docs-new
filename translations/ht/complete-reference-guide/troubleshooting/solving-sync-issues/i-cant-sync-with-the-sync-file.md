@@ -1,6 +1,6 @@
 # I can't sync with the sync file
 
-Currently, only computers with <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line" />Mapeo Desktop installed can sync with a sync file (`.mapeodata`). If you're having trouble syncing with a sync file, explore the various solutions, in this order:
+Currently, only computers with <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop installed can sync with a sync file (`.mapeodata`). If you're having trouble syncing with a sync file, explore the various solutions, in this order:
 
 1. [Check that both devices use the same configuration](i-cant-sync-with-the-sync-file.md#check-that-both-devices-use-the-same-configuration)
 2. [Check that they use the same version of Mapeo ](i-cant-sync-with-the-sync-file.md#check-that-they-use-the-same-version-of-mapeo)
@@ -14,7 +14,7 @@ First of all, check that this is the case. To do this, check what configuration 
 
 <figure>
 
-![](../../../.gitbook/assets/image (12).png)<figcaption></figcaption></figure>
+![](../../../.gitbook/assets/image (6).png)<figcaption></figcaption></figure>
 
 If the configuration is not the same, you have two possible options:&#x20;
 
@@ -22,9 +22,9 @@ If the configuration is not the same, you have two possible options:&#x20;
 
 On the computer where you want to sync the file, import the configuration used to create the sync file. For it:
 
-1. On <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line" />Mapeo Desktop, on the **Top menu** bar, click **File** and select **Import Configuration**.&#x20;
+1. On <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop, on the **Top menu** bar, click **File** and select **Import Configuration**.&#x20;
 2. In the popup window, navigate to the folder on the computer where you saved the configuration file (`.mapeosettings`) that you want to import. Click the file, then click **Open**. You may see a white screen for a few seconds while the configuration is changed.&#x20;
-3. Restart <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line" />Mapeo Desktop.&#x20;
+3. Restart <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop.&#x20;
 4. Try again to sync with the desired sync file.
 
 ![](https://lh6.googleusercontent.com/mIfll6BAJm8b6jCZ3gM5bmhv43GZAzsK07JAPAph1Qbqh\_DMBXtgXUXE4LZPp5zK9feUdth3X9AtdG83obxsHIRkNC6FvYNS-Gb4vHTNg6FDcjpEDchhIBTLpuKXFQ)
@@ -33,9 +33,9 @@ On the computer where you want to sync the file, import the configuration used t
 
 On the computer where the sync file was created, import the configuration you're using on the computer you want to sync with and recreate the sync file. To do so, follow the next steps:
 
-1. On <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line" />Mapeo Desktop, on the **Top menu** bar, click **File** and select **Import Configuration**.&#x20;
+1. On <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop, on the **Top menu** bar, click **File** and select **Import Configuration**.&#x20;
 2. In the popup window, navigate to the folder on the computer where you saved the configuration file (`.mapeosettings`) that you want to import. Click the file, then click **Open**. You may see a white screen for a few seconds while the configuration is changed.&#x20;
-3. Restart <img src="../../../.gitbook/assets/Md-icon.png" alt="" data-size="line" />Mapeo Desktop.&#x20;
+3. Restart <img src="../../../.gitbook/assets/Mapeo_Desktop.png" alt="" data-size="line" />Mapeo Desktop.&#x20;
 4. Re-create the sync file, from the **Synchronization** screen, by clicking the **Create Sync File** button. Do not close or exit the **Synchronization** screen until the process is complete. <mark style="color:red;">**Closing in the middle of the process could create a corrupt sync file.**</mark>
 5. Share the sync file with the computer you want to sync with. For more information on this point, see [sharing-files-between-devices.md](../sharing-files-between-devices.md "mention")&#x20;
 6. On the destination computer, on the **Synchronize** screen, click **Synchronize with synchronization file**.&#x20;
@@ -48,7 +48,7 @@ Normally, the use of different versions does not cause problems when synchronizi
 1.  Make sure the sync file was created using the same version of Mapeo that the computer you want to sync with is using. In Mapeo Desktop, you can see the version used at the bottom left of the **Mapeo modes** panel.\
 
 
-    <figure>![](../../../.gitbook/assets/image (2).png)<figcaption></figcaption></figure>
+    <figure>![](../../../.gitbook/assets/image.png)<figcaption></figcaption></figure>
 
 If they use the same version, skip to the next step.&#x20;
 
