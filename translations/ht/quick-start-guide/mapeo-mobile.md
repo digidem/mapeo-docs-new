@@ -18,7 +18,7 @@ Add a description, photos and details, then tap the <img src="../.gitbook/assets
 
 ## View observations
 
-Each observation will be marked on the map with a dot. Observations can also be viewed in list form by tapping the <img src="../.gitbook/assets/app_icons_observations-list_35px.png" alt="" data-size="line" /> **Observations list** button.
+Each observation will be marked on the map with a dot. Observations can also be viewed in list form by tapping the <img src="../.gitbook/assets/app icons_observation-list_35px.png" alt="" data-size="line" /> **Observations list** button.
 
 ![](../.gitbook/assets/Homescreen-Observations\_list\_button.jpg) ![](../.gitbook/assets/Observations\_list\_screen.jpg)
 
@@ -38,7 +38,7 @@ Tap on the <img src="../.gitbook/assets/app_icons_share_35px.png" alt="" data-si
 
 ## Delete an observation
 
-Tap the <img src="../.gitbook/assets/app icons_Delete-trash.png" alt="" data-size="line" /> **Delete** button to delete an observation and its associated media.
+Tap the <img src="../.gitbook/assets/app_icons_Delete-trash.png" alt="" data-size="line" /> **Delete** button to delete an observation and its associated media.
 
 ![](../.gitbook/assets/Delete\_button.jpg)
 
